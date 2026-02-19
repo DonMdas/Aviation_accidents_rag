@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG System Architecture</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-blue: #38bdf8;
+            --accent-green: #4ade80;
+            --accent-purple: #c084fc;
+            --border-color: #334155;
+            --arrow-color: #64748b;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(to right, var(--accent-blue), var(--accent-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        .diagram-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 40px;
+            max-width: 1400px;
+            width: 100%;
+            position: relative;
+        }
+
+        .section {
+            background-color: rgba(30, 41, 59, 0.5);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            text-align: center;
+            margin-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+
+        .block {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .block:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            border-color: var(--accent-blue);
+        }
+
+        .block-title {
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text-primary);
+        }
+
+        .block-desc {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        /* Connecting Lines (SVG) */
+        .connections {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* Specific Colors */
+        .ingestion .block { border-left: 4px solid var(--accent-blue); }
+        .retrieval .block { border-left: 4px solid var(--accent-green); }
+        .generation .block { border-left: 4px solid var(--accent-purple); }
+
+        .database {
+            grid-column: 2;
+            grid-row: 1 / span 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(145deg, #1e293b, #0f172a);
+            border: 2px solid var(--accent-blue);
+        }
+        
+        /* Layout adjustments */
+        .col-ingestion { grid-column: 1; display: flex; flex-direction: column; gap: 40px; }
+        .col-db { grid-column: 2; display: flex; flex-direction: column; justify-content: center; }
+        .col-inference { grid-column: 3; display: flex; flex-direction: column; gap: 20px; }
+
+        /* SVG Paths */
+        path {
+            fill: none;
+            stroke: var(--arrow-color);
+            stroke-width: 2;
+            stroke-dasharray: 8;
+            animation: dash 30s linear infinite;
+        }
+        
+        @keyframes dash {
+            to {
+                stroke-dashoffset: -1000;
+            }
+        }
+
+        #arrow-head {
+            fill: var(--arrow-color);
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>Retrieval Augmented Generation (RAG) Architecture</h1>
+
+    <div class="diagram-container">
+        <!-- Ingestion Pipeline -->
+        <div class="section col-ingestion">
+            <div class="section-title">Ingestion Pipeline</div>
+            
+            <div class="block ingestion" id="b-sources">
+                <div class="block-title">Data Sources</div>
+                <div class="block-desc">PDFs, HTML, Databases, APIs</div>
+            </div>
+
+            <div class="block ingestion" id="b-load">
+                <div class="block-title">Document Loading</div>
+                <div class="block-desc">Extract raw text from sources</div>
+            </div>
+
+            <div class="block ingestion" id="b-split">
+                <div class="block-title">Text Splitting / Chunking</div>
+                <div class="block-desc">Break text into manageable chunks</div>
+            </div>
+
+            <div class="block ingestion" id="b-embed-ingest">
+                <div class="block-title">Embedding Model</div>
+                <div class="block-desc">Convert chunks to vector representations</div>
+            </div>
+        </div>
+
+        <!-- Vector Database -->
+        <div class="col-db">
+            <div class="block database" id="b-vectordb" style="height: 300px; border-radius: 20px; flex-direction: column; justify-content: center;">
+                <div style="font-size: 4rem; margin-bottom: 10px;">🗄️</div>
+                <div class="block-title" style="font-size: 1.5rem;">Vector Database</div>
+                <div class="block-desc">Stores embeddings & metadata for similarity search</div>
+            </div>
+        </div>
+
+        <!-- Inference Pipeline -->
+        <div class="section col-inference">
+            <div class="section-title">Inference Pipeline</div>
+
+            <div class="block generation" id="b-user">
+                <div class="block-title">User Query</div>
+                <div class="block-desc">"How does X work?"</div>
+            </div>
+
+            <div class="block retrieval" id="b-embed-query">
+                <div class="block-title">Embedding Model</div>
+                <div class="block-desc">Convert query to vector</div>
+            </div>
+
+            <div class="block retrieval" id="b-retrieval">
+                <div class="block-title">Retrieval</div>
+                <div class="block-desc">Find top-k similar chunks from Vector DB</div>
+            </div>
+
+            <div class="block generation" id="b-prompt">
+                <div class="block-title">Prompt Augmentation</div>
+                <div class="block-desc">Combine Query + Retrieved Context</div>
+            </div>
+
+            <div class="block generation" id="b-llm">
+                <div class="block-title">LLM</div>
+                <div class="block-desc">Generate response based on context</div>
+            </div>
+
+            <div class="block generation" id="b-response">
+                <div class="block-title">Final Response</div>
+                <div class="block-desc">Answer delivered to user</div>
+            </div>
+        </div>
+
+        <!-- SVG Arrows -->
+        <svg class="connections" width="100%" height="100%">
+            <defs>
+                <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+                    <path d="M0,0 L0,6 L9,3 z" fill="#64748b" stroke="none" style="animation: none;" />
+                </marker>
+            </defs>
+            
+            <!-- Ingestion Flow -->
+            <!-- Sources -> Load -->
+            <path d="M 230 110 L 230 160" marker-end="url(#arrow)" />
+            <!-- Load -> Split -->
+            <path d="M 230 230 L 230 280" marker-end="url(#arrow)" />
+            <!-- Split -> Embed -->
+            <path d="M 230 350 L 230 400" marker-end="url(#arrow)" />
+            <!-- Embed -> DB -->
+            <path d="M 466 450 L 550 450" marker-end="url(#arrow)" />
+
+            <!-- Inference Flow -->
+            <!-- User -> Embed Query -->
+            <path d="M 1166 110 L 1166 160" marker-end="url(#arrow)" />
+            <!-- Embed Query -> Retrieval -->
+            <path d="M 1166 230 L 1166 280" marker-end="url(#arrow)" />
+            
+            <!-- Retrieval <-> DB Interaction -->
+            <!-- Embed Query -> DB (Search) -->
+            <path d="M 932 315 L 850 315" marker-end="url(#arrow)" />
+            <!-- DB -> Retrieval (Results) -->
+            <path d="M 850 335 L 932 335" marker-end="url(#arrow)" stroke-dasharray="0" style="stroke: var(--accent-green);" />
+
+            <!-- Retrieval -> Prompt -->
+            <path d="M 1166 360 L 1166 410" marker-end="url(#arrow)" />
+            <!-- Prompt -> LLM -->
+            <path d="M 1166 480 L 1166 530" marker-end="url(#arrow)" />
+            <!-- LLM -> Response -->
+            <path d="M 1166 600 L 1166 650" marker-end="url(#arrow)" />
+
+        </svg>
+    </div>
+
+    <script>
+        // Simple script to adjust lines if window resizes could go here, 
+        // but for a static block diagram, SVG coordinates approx matching the grid is okay for a quick visual tool.
+        // A real robust app would use leader-line or similar libraries.
+    </script>
+</body>
+</html>

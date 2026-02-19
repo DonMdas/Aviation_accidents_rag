@@ -1,0 +1,8680 @@
+» mat 4
+
+ea
+
+Seaizor™ )
+
+}
+
+ACCIDENT TO SAHARA INDIA AIRLINES
+B-737-22@ AIRCRAFT DURING THE TRAINING
+
+FLIGHT ON 8.3.1974 AT IGI AIRPORT , DELHI
+
+REPORT OF
+THE
+
+COURT OF INQUIRY
+
+HON BLE HR. JUSTICE Y.K.SABHARWAL
+JUDGE
+
+HIGH COL°T OF DELHI
+
+ASSESSORS
+1. Air Commodore R.P.S.Garcha 2. Nr R.D.Thake.
+Air Officer Commandina, . Deputy Dirercor
+Air Force Station,Palam, (Engineering),
+New Delhi Indian Airlines
+(now General
+Manager (Engin-
+eering), Incian
+Airlines,P- lam.
+SECRETARY
+fir.J.S.Wazire A
+
+Senior Air Safety Officer
+Office of the Director General
+of Civil Aviation
+New Delhi
+
+New Delhi
+
+22nd March 1995.
+
+a
+
+=” BROAD DETAILS OF THE ACCIDENT To SAHARA INDIA ATRL INES
+~ B-737-208 AIRCRAFT DURING THE TRAINING FLIGHT ON 8.3.94
+
+~ AT IGT AIRPORT, DELHI.
+
+€
+
+Bi A. Aircraft and Registration B-737-28@, VT-SIA
+
+4" RB, Owner & Lessee
+
+A
+
+4. . Mr. Stephan Grzimek
+. GAC USA ITE Inc
+
+Rg iW 44th Street
+| inger,New ¥
+
+(Bh) Lessee
+
+7th Floor,Ambadeenp,
+14 Kasturba Gandhi
+Marg, Connaueht
+Flace, New Delhi.
+
+a Airlines,
+73 - oo
+a
+E
+3
+z
+
+2 i c. Operator Sahara India Girlines
+
+~ Dd. Date & Time of Accident— 8.3.74 1454 hrs. Ist
+
+aa spt ee . . woe :
+
+‘dl moe Ee. Type ef Operation Training Flight
+
+SS ss . oan (Circuits and landings)
+
+53 F, Fhase of Flight During the initial Climb
+wd :
+
+~ G. Place of Accident Apron IT (International
+. : . : Terminal) Paiam Airport
+sa Near Bay No.4é.
+
+al
+
+_ H. Crew on Board 1. Capt. P.khurana, Instructor
+roo‘ S.Pilot Trainee P.Singh
+
+% 3.Pilot Trainee v.Mahaijan
+
+4.Pilot Trainee Anshu
+—~ - Ror =
+™ I No.of pers ed 2 4d crew
+
+Sahars India
+} 4 personnel of
+2 . : oflot and 1 Bhe:
+
+‘etroileunm Contract
+
+
+)
+
+15 md Bid
+
+LS
+
+Mi
+
+dhe
+
+be
+
+oe
+ad
+fe
+
+hoch
+
+INDEX
+
+Part Subject Page No.
+I. Introduction 1-12
+TI. Factual Information 13
+1. History of Flight 13-15
+2, Injury to Persons 15-14
+3. Damage to aircraft 16
+4. Other damage 16-18
+S. Personnel Information 18-38
+é. Aircraft Information 38-44
+7. Aids to Navigation 4s
+8. Communications 45-46
+9. AERODROME information 46-50
+19. Cockpit Voice Recorder 598-51
+11. Universal Flight Data Recorder 51-5a
+(UFDR) ,
+12. Wreckage and Impact Information 59-66
+13. Medical and Pathological 66
+information
+14.. FIRE 66-78
+15. Survival aspect 78-72
+16. Test and Research - 72-79
+17. Engines 79-87
+18. Additional information 87-90
+Tit. ISSUES INVOLVED 91
+1. Sabotage 91-93
+2. Weather conditions 93-94
+IV. VITAL ISSUES 94
+1. Factual aspects 94-98
+
+Sq
+
+my
+
+
+Jt)
+
+Ss.
+Vv.
+
+1.
+2.
+3.
+VI.
+VII
+Vii
+
+IX.
+
+xX.
+
+XI.
+
+XII
+
+Systems Failure
+CVR
+UFDR
+
+Time co-relation of CVR,
+UFDR and ATG..Timing.
+
+CRASH POINT
+
+EPR
+FCU
+Rudder Control Unit
+
+DISINTEGRATION
+
+- WAKE VORTEX
+I.CREW ERROR
+Experience and Training of
+
+three trainee pilots.
+
+Regulatory & Control functions
+of DGCA, NAA & IAAI.
+
+Approval of Capt.Khurana as
+Instructor.
+
+Conduct of Sahara
+Role of DGCA
+Fire Fighting Operations
+
+A- Why the Crash —
+Findings & conclusions.
+
+B -— Other findings and
+Conclusions.
+
+» Recommendations
+
+XITII.Acknowledgements
+
+A.
+
+B.
+
+XIV. Annexures
+
+CYR Transcript
+
+UFDR Data
+
+98-99
+79-169
+180
+
+191-102
+
+183
+
+183-104
+105-119
+118-111
+
+111-112
+
+Wis
+
+113-122
+
+122-129
+
+138
+
+131-144
+
+144-151
+151-154
+154-158
+
+158
+
+159-163
+
+164-167
+
+168
+
+168-187
+
+188-199
+
+FARA mantener
+
+FREI Sree TT oe
+
+
+200
+
+Co —- Relation Chart
+
+281
+
+Co ~- Relation Chart
+
+D.
+
+FES?
+
+wa
+
+
+}
+
+3
+
+AR.
+
+8
+
+rE
+
+it
+aa
+tet
+
+Jin ¥
+
+a
+
+ae
+
+Vy
+
+VGH yh
+
+a)
+
+INTRODUCTION
+
+This unfortunate crash is different than most
+
+of -the earlier ones simce here it happened during «a
+
+training flight and not during a reoetlar reventte earn—
+
+ing flight.
+
+Sahera India Hirlines trenceforth referred as
+Sahara’) Boeing 737-2@0 Aircraft (VT-SIA) on s local
+training flight at Deihi Airport on 8th March, 1994
+Crashed at about 2.54 PM when it was in the process of
+executing the sixth circuit after uneventfully complet—
+ing the fifth teuch and go exercise. The crash result—
+ed in death of ? persons of which 3 were trainees Pilots
+Viz. Framod Singh, Vidul Mahajan and Ms.Anshuo Khurana
+who lost their lives at the Prime of their youth at the
+very threshoid of entering the professional career as
+Pilots. Capt.Parveen Khurana the Instructor on the
+
+iilfated fiight also lost his iife,
+
+It wae the first training flight of
+
+for 3 young trainee Pilots on Bosing Aircraft, Tt wes
+also the first flight of Capt. Khurana as an anstructar,
+Tt was also the first such crash during treinina flight
+
+organised by a Air Taxi operator ain Indias.
+
+Apart from the aforesaid four persons, four
+
+Aeroflot personnel also lost their lives as a result of
+
+
+a
+
+this creeh on account of the wreckage
+
+of the ahara
+
+vu
+ty
+te
+
+aircraft ploughing through the Aeroflot IL~a6 Aireraft
+
+Parked nearby.
+
+of Bharat Petroleum aiso
+
+The impact of the ®ircraft resulted ina fire
+
+which completely destroyed both the Aircra
+
+“tH
+
+t. There
+
+m
+
+Was also extensive damage te at least tuo ferobridges
+
+other items on ground which were in the Witainity
+
+also suffered extensive damage,
+
+¢
+
+Soon after the accident, Mr.V.K,Chandna,
+
+Director of Air Safety, was appointed to act as Inspec—
+tor of Accidents under Rule 71 of the Aircraft Rules
+1937 (the Rules). The Government of India also direct—
+ed that a formal investigation of the accident be held
+
+85 stipulated by F
+
+fh
+
+and appointed me te function
+as the Court in terms of Notificetion dated &th
+
+1994,
+
+General Manager,
+
+ring), Indian Airlines, Falam, were appointed to
+ect as 4ssessors for the investigation, Mr. J.S.Wazir,
+Senier 4ir Safety Officer, Office of the
+
+Director 7
+
+General af Civil Aviation, was appointed to function as
+
+ta
+
+
+~Secretary te the Court,
+
+In the report not only the finding
+
+ct
+o
+ad
+a7
+it
+
+causes of the accident and Circumstances theren¢
+
+in
+
+required to be stated but any observations and recom-
+mendations which the Court may think fit are also
+required to be made for preservation of life and avaid—
+
+ance of similar acciaents in future.
+
+On 13th May 1994, Mr.H.S.Ehola, Director
+General, DGCA, along with Mr.Satinder Singh, Deputy
+Director General, Mr. V.k.Chandna and Mr.d.S.Wazir met
+me and briefed me about the accident and the investiga-
+tion that had been carried out upto that time. During
+this briefing I was aise informed that Cockpit Voice
+Recerder (CVR) and Universal Flight Data Recorder
+“(UFDR) had been retrieved and preserved for the invee-—
+
+tigation purposes,
+
+On 18th Mav, 1994 the first meeting with the
+Assessors was held which was also attended by Mr.Ehola,
+Mr.Satinder Singh and NMr.Chandna. A general discussion
+
+on aircraft details, flying training syllabus, Filot
+
+training dete s @xPperience, profile etc. took place
+
+and it was decided that the crash site and wreckage
+
+would be inspected on 2@th May, i994,
+
+F
+H
+
+
+i994, I along with the Asse...
+
+~ - and aforesaid rs and Mr.Harbans Fumar, Airport
+- pos irecter, the crash site and inspected the
+~ 3 wreckage at Indira Gandhi International Barpart. at
+— a crash site the impact marks and other ground marks
+7 — indicating the direction ef the + ht at the time af
+7 . impact were shown and explained to us by Mr.Chandgna.
+~
+a He also told us froad facts about the spread of the
+. : — disintegrated parts of the Sahara Aircraft and how the
+ae . : said parts had hit the parked Aerefiat Bircraft and
+caused the destruction and the subsequent fire. We
+7 | also visited Sub Fire Station tI and it was explained
+ces L. . , that the fire fighting and rescue staff from the said
+7 iow. Fire Station was the first to respond te the crash.
+LO . : The wreckage of the two aircraft placed near Interna
+~ i
+a ; “FE tional Cargo Complex was alse inspected.
+co * On 2rd May, 1994, I again visited the Air-
+— : ; pert along with the Assessors ta observe the functioen~
+Ba j ing of Various BO7E7-2O@ aircraft systems relevant for
+a the purposes of further investigation of the atcident
+- i im question. The functioning of the various aircraft
+= baa systems and controls of Boeing aircraft were explained
+ae a ; . to me. The Air Traffic Control was also visited where
+: a Director of Aerodrome, Nad explained the duties and,
+, various personnel working in the Air
+
+functions of
+Traffic Control units including the facilities and
+
+
+Be ms
+
+equipments for recording the Air Traffic Conversations. °°"
+
+Qn 25th May, 1974, accompanied with Assessors a . :
+I visited the Office o¢ BBCA for hearing conversation
+on CVR. Regerdina the horn Bound in CVR Mr .Satinder
+Singh explained that the same can De subjected to
+
+spectrum analysis and compared with the known spectrum
+
+tot
+
+of various warning sound/horns for identification,
+
+)
+
+ed
+
+i
+3
+
+also inspected the UFDF and found it ta be in 4 dam
+
+cendition. It was Partly burnt. i
+
+T- was informed that Director Seneral had , , i
+constituted a group comprising of Mr .N.M.Moorti, As-~
+sistant irector from National Aeronautic Laboratory, . aa *
+Group Captain Mr.C.Chandrasekharan, VSM (Retd.> of USM
+Aerospace, Mr.P.Mm. Ramachandra, Officiating Engineering
+Manager, Air India and Mr.V.K, chandna to study various
+alternatives for recovery of data from the damaged UFDR
+retrieved from the accident site. On considering the
+recommendations of the said Group as contained in their
+report dated i3th March, 1994 and after discussion
+with Assessors, I directed that the condition oF the
+tape shall be seen at the Laboratory of Air India at
+Bombay and depending upon the condition of the tape it
+will be decided, whether it was possibie or worthwhile
+to retrieve the data in India or the UFDR was required
+
+menufac—
+
+to be sent abroad. I further
+
+
+)
+
+=r)
+
+‘EL OB
+
+kad
+
+=~
+
+yea
+
+~
+2
+i
+
+¥
+
+turer of UFDR should be informed about Gur intentions to
+
+open the Unit in Irdia so th
+
+fli
+
+t they may send a repre-
+sentative in whose presence the Unit may be opened and
+data retrieved, if possible, The manufacturer, honey—
+Gr, did not ept to seng & representative. Yj the four
+persons constituting the Group that had Given the
+report dated 12th March, 1994 were directed ty be
+Present at the Laboratory of ir India, Bombay, Tt was
+decided that in the Laboratory of Air India at Bombay,
+first the cover will be removed from the casing of UFDR
+and if the tape inside show any sign of damage, a
+decision will be taken on the Spot for taking the Unit
+
+abroad.
+
+The UFDF was Opened at the Laboratory of Air
+India at Bombay with the assistance of experts from Air
+India and vsm Aerospace, Bangalore. Gn opening the
+
+UFDR it was observed that electronics of the Unit haa
+
+been damaged apsuls containing
+the UF DR tape apmesred to be undamaged. On the opening
+Of the Capsules it was found that the Griving motor was
+Jammmed and it wes. therefoere, replaced with a Service—
+able metor. The data from the tape was dumped on a
+casettee. I directed Nr.Chandna to take the ‘Ccasettes
+to VS Aerospace, Sengalore, for getting the Print out,
+
+Air Coammoce
+
+Mr.Chandna,. The decision to transfer the data was
+
+taken after ebserving the satistfactor.. condition of the
+
+6
+
+
+capsule assembly, Tt was B“Pplsined to me that some of
+
+Pu
+
+the d
+
+tt
+
+ta, in the Print cut taken = VSM Laboratary,
+Bangalore, was erratic and needed careful study. After
+discussion with the Assessors and DCCA Officers I
+
+Girected that to Clarify the erratic data, first oan
+
+attempt should be im National Aeronautical Labora-
+
+tory, Bangalore, and it is only thereafter
+
+Can be taken whether it ais
+
+the as-
+Sistance for the analysis of the data from National
+Transport Safety Board, Washington or not,
+
+IO directed that Public notice should be
+issued in the main Newspapers, one of which should also
+be in a vernacular language latest by 18th June, i994
+requiring any person having direct or relevant
+
+knowledge or information about the ace
+
+be
+a
+0
+3
+rt
+in
+7%
+rt
+a
+m
+
+Causes or circumstances leading to the Said szccicdent
+Or who may or is likely to be affected by the finding
+
+of the Court of Inguiry toa fu
+
+along _ sith
+
+Te study
+
+Groups were directed
+
+1. Control Group.
+
+ae Engine Group. hae
+ay Exp -
+4, Fire Fighting Group.
+
+Reference to the reports of these groups has
+
+been made in the report of Inspecter of Accidents.
+
+For taking out the UFDR data print,
+
+Bangalore was visited en 25th June, i994. Before
+
+the
+
+op the work I directed the Officers to ensure that
+
+tape does not suffer any damage while canducting the
+
+replay. It was duly adhered to. The print out showed
+
+that some of the data was still erratic. Mr .Satinder
+
+Singh and Mr.Chandna were asked to carry out the UFDR
+
+data study.
+
+In oa meeting held on end duly, 12974, which
+
+by the Assessors as also by Mr.Ehola,
+
+was attended
+
+Mr.Satinder Singh and Mr.Chandna, it was explained that
+
+some of the data was erratic and since we heve
+
+the dead end of our capabilities and, thereto:
+
+advisable toa approach NTSB. USA
+
+UFDR data. The matter was taken up by Mr. Chandna
+
+Mr.Wezir with NTSB and they agreed ae-
+sistance.
+
+The first ore-conference hearing on
+T2th July. 1994 which was attended by counse for
+
+iT)
+
+
+Om.) im)
+
+¥
+
+ITY
+
+Sahara, D6CA and Naa, THE repert as the Inepector oF
+Accidents was not ready. The report was likely to be
+delayed as Mr.Chandna, it was explained, was also
+
+as Inspector of Accidents cof 4 recent
+
+Aircraft in which the Bovernor of Punjab
+and his family members had died. The counsel were
+
+informed that after the submission of the report
+
+= “3
+
+‘
+
+could file supplementary affidavits and tiso that hey
+
+fue
+
+tr
+
+will be informed about the date of nex pre-hearing
+
+conference.
+
+On 15th duly, 1994 during Giscussion at CTe,
+Hyderabad, Capt. Shamsher Singh an Instructor o¢ Indian
+Airlines at the said Training Centre ~ @xplained that
+
+when a Check Pilot is firstly SPproved as Instructor,
+
+oH
+
+he has to train two batches cf treinees SUCCESS fully on
+simulator under supervision of an Examiner / Senior
+Instructor and then he will take instructions on simu-~
+
+ator alone, if / Senior instructar
+
+per
+
+Hl
+pt
+a
+be
+ul
+oh
+be
+i
+o
+
+the trainees on actual aircraft under observation of 3
+Senior Instructor / Examiner. @fter the ahove and only
+iS performance has been ad judaed satisfactorily
+
+after h
+
+then alone the instructor will be Sllowed te take the
+
+studente independentiy en instructional Flight on
+&ircraft and all thi AS per the Training at
+Indian Airlines, Some Sxercises on Simulator gt Hyg
+
+Wal
+
+
+LS BL) Um).
+
+ie:
+
+wat
+
+0.4
+
+Tm
+
+erabad
+
+Fpert Auith
+
+India Airlines,
+
+4. Aeroflot,
+Se Boeing.
+4. Director General of Civil Aviation.
+
+Copies of the report af the Inspector gs
+
+Accidents dated Sth August, i
+
+ar
+
+counsel]
+for the Partries who had been given the Participant
+status. They were directed to file detailed Submis—
+
+sions alongwith (i3 Affidavit
+
+aw
+
+: Cia} Bocuments on
+
+which they want to rely: (iii) List of witnesses they
+
+want te
+
+ings with affidavits a¢ Witnesses, With
+
+chief.
+
+schedule including the Commenceancden t
+
+i+
+n
+as
+
+Public hearing
+
+and recerdina of oral evidence, i¢ anys Will be fivadg,
+
+In the pre-hearing conferences held on 1@th September,
+
+
+ee)
+
+ey
+
+3
+i
+4
+
+1994 Mrs.@nita Khuranay-wife of Cac
+
+on consideration of her application was granted
+
+4
+iy
+i
+Q
+
+oh
+
+s erence
+
+n
+
+on
+
+ne
+
+ipant status. In
+
+i
+
+a
+
+fiance of AD issued
+
+gq
+ie
+
+Sahara to submit the status cf come
+by FAA and Boeing service letter dated i3th July t
+
+in respect of Fower Control Units. The DGCA was also
+
+directed to file statement of tra being imparted
+
+by Indian Airlines for the
+permitting them to fly regular flights including the
+requirements to be met before an instructor starts
+imparting flying training and also state whether before
+exercising privileges an instructer is checked by DGCA
+
+or not. The next prechearing conference was fixed for
+
+i7th October, 1994. I along with Mr.V.K.Chandna and
+Mr.d.S.Wazir for the purpose of further analysis of
+
+UDFR data and get first hand information of training
+
+etc., visited USA, UE and Frankfurt,
+
+2ard Geptember, 1794 and 8th October. 1994. The UFDR
+
+data was further analysed at NTSB, Washington, USA.
+
+The Eritish Calidonian at Gatwich, Landon, ULE.
+
+training pilots had simulator training was
+
+edee of fire fighting cperations.
+
+Lufthansa Centre for Training where
+
+part of training as ruchor, we
+
+the Frankfurt Air
+
+3
+wn
+
+fire fighting operatio
+
+
+eo
+
+mB
+
+a
+
+woe ae pees
+
+re
+
+fee
+
+anguary were determined
+
+tii) Crew error: and/or (iii? Regulatory and Centrel
+functions of DGCA, NAA and IGA. The list of witnesses
+
+istance of counsel for the
+
+Parties. Tt was directed that recording of ora
+
+f=
+a
+
+dence will commence fram 7th November , 1954 and it Will
+centinue from day to day. The order in WRICK the
+witnesses will be examined was decided in pre~
+conference hearing on 2nd November, i994, The oral
+evidence of 15 witnesses was recorded between 7th
+
+November, 1994 tiil 24th Nevember, 1994 and thereafter
+
+My
+
+written submissions filed hy counsel for the
+
+Parties and the oral arguments were heard, The partic—
+
+ipants were represented by lawyers as under:-
+
+Robin Mitra with Mri oe
+
+4. MrJR.E. Anand with Mr.Munish Malhotra for DGCA.
+=. Mr. B.S. Sura with Mir. T.Topaay
+
+6. Mr.Glok Mahaian for Mrs.
+
+7. Mr. Malbetra with Mr. yore
+
+
+s
+
+\
+
+i. FACTUAL INFORMATION
+isd HISTORY OF FLIGHT
+
+Dn 8.3.94, Sahara India Birlines Operated the
+
+98S / ea ‘Delhi-Bangalore—Delhiy on
+
+=88 YT-s14 Sircraft, The aircraft had departed Delhi
+at O655 Ars (IST) end returned back at (IST)
+
+After this flight the aircraft was to carry out  traine
+ing) flight, Three pilot trainees (Mr. Pramod Singh,
+
+Mr.Vidul Mahajan and Miss Anshu Khurana, all Commercial
+
+Filot Licence Holders) who had undergone Boeing 727
+
+training on aircraft, which broadly consisted a¢t Cir
+
+cuits and landing involving = take offs ang 3 landings
+
+for each trainee. This training was being fonducted sa
+that pilot trainees could be Prepared far the Skill
+
+test (CA 4@i4) Check?) for the endorsement o¢ rating in
+
+a
+
++ F.Ehurana a DGCA =Pproved instructor Wee te
+impart the training. This was the first 8SSignment oF
+
+Instructor, The flight Plan was
+
+out local training flight which
+
+q 5 two
+hours, Frior ts training flight, the crew had under
+
+GOne pre-flight M@Gical check, The aircraft took
+at 14:12 hrs. IST and carried out 5 let hand circuits
+
+uneventfully From. tinway 2e which included touch and
+
+1z
+
+
+q . Atter Ene aire: : c
+
+-
+
+os
+a
+
+7 . .
+: SO tuffered
+
+in a bio fire,
+
+
+fered fire injuries. Also one IAAI contractor, who was
+working in the area, suffered fire injuries, The in-
+
+jJured were taken to hospital and duly attended to, The
+
+accident occurred at 14:54 hrs. IST in the day-light
+
+“tonditions.
+
+1.2 INJURIES TO PERSONS
+
+a. Fatal
+
+Sahara India Indian
+Airlines
+
+1. Capt.F.Khurana
+
+Sahara India Indian
+Airlines
+
+2. Sh.Vidul Mahajan
+
+Sahara India Indian
+Airlines
+
+3. Sh.P.Singh
+
+4. Ms.A.Khurana Sahara India Indian
+Sirlines
+Se Sh.B.P.Mashi Bharat Indian DBised in
+Fetroleum Safdarjang
+Hespital.
+é. Sh. Ivonov Aeroflot — Russian
+?. Sh.Gorbachov Seroflot Russian
+8. Sh.Analdi Nikolai Hereflot Died in
+Safdarijang
+Hospital.
+2. Sh.Damodran Aeroflot Russian Died in
+
+Satfdarjang
+Hespital.
+
+b. Injured
+
+1. Sh. Gautam Chatterjee Oberoi Flight Indian
+Kitchen
+
+ti
+
+. Sh. Ravinder Oberoi Flight Indian
+- Eitchen
+
+tat
+
+Oberoi Flight Indian
+Kitchen
+
+. Sh. Ikrar
+
+ui
+
+
+4. Sh.Chagan Lal U/O.- Lint.
+
+1.5 DAMAGE _TO ATRCRAFT
+
+Sahara India Airlines aircraft disintegrated
+
+on impact into a number of pieces and subjected to
+
+extensive fire and was completely destroyed.
+
+1.4 OTHER DAMAGE
+
+Aeroflot aircraft was destroyed due to impact
+
+damage and fire. As the aircraft crashed in the Apron
+
+area, the ground equipments and number of aero-bridges
+
+were damaged. The details are as follows:
+
+EROFLOT IL-86 AIRCRAFT
+
+- ae A
+
+Aeroflot IL-B6 aircraft, registration No.RA
+
+. .
+B6li9, was operating the flight under call sign AFL-558
+
+on route Singapore Delhi-Moscow. This aircraft had
+
+reached Delhi on 7.3.94 at 2310 brs.IST. All the
+
+passengers (273) were off-loaded and were in the Termi-
+
+‘nal Building while the aircraft was prepared for the
+
+Later on when the flight was further
+
+further flight-
+
+delayed due to oil leakage in third engine, the passen—
+
+vere accommodated ina hotel. The necessary
+
+repairs were carried out and the, aircraft was refuelled
+at 1330 hrs. IST ahd
+
+(around 35 tonnes in the wings)
+
+was parked in bay no.45. The aircraft was to depart at
+
+
+gy 1,
+
+g
+
+DBR
+
+(CG
+
+Be
+ea
+
+ae
+
+1830 hrs. IST, The enaineers inside the aircraft were
+preparing the report when the accident took place, The
+baggage and hand baggage of transit Passengers and the
+
+cargo were totally destroyed during the accident.
+
+b. SEROBRIDGES AND APRON AREA OF IAAT.
+eR ERE AIRED OF IAAT.
+
+Two Aerobridges 44 end 45 were damaged,
+Aerobridge no.45 was extensively damaged as a result of
+fire and debris strike. Approx.25,09@ Sq.mtrl of apron
+ares opposite to bay no.41-46 was affected and approx,
+
+5,806 sq.mtr. of the surface was badly damaged,
+
+c. SROUND EQUIPMENT
+
+Number of ground equipment of Air India and
+Indian Airlines and Oberoi Flight Services which were
+Parked on the apron area suffered fire damages. Foi-
+
+lowing sare the details of damaged ground equipment
+
+OBEROI FLIGHT SERVICES
+SSeS ERI ONT SERVICES
+Sne Tempo traveller No.DDL 7a@z1 — catering van,
+
+AIR INDIA
+
+i. Aircraft Tow Tractor
+di. Ground Flower Unit
+
+iii. Toilet Cart
+
+17
+
+
+Water Cart
+
+INDIAN AIRLINES
+i. Ground Fower Unit
+di. Bulk Freight Loader (BFL?
+
+iii. Ambassador Car
+
+iv. One Coach and GPU partly damaged.
+
+1.5 PERSONNEL INFORMATION
+
+PY
+
+re 1.5.1 Instructor :
+~ Name :Capt.FP Ehurana ;
+
+a Date of Birth/Ace 112.5.1951/43 years
+
+7 Licences Held :
+
+_ S.No. Licence No. Date of Currently Valid
+. Initial Issue
+
+- ‘ke SPL 4098 15.7.69 -
+
+~ “2, PPL 1658 23.6.70 -
+
+- 3. CPL ié AL 11.35.74 -
+
+- 4. SCFL. 5528 23.11.82 od
+
+- 3. ALTP 12245 14.4.85 18.55.94
+7 . é. COF/RTR 2744 iB.1.7E 17.1.9
+- 7. FRTO i7@2 Sil.1.73 18.5.94
+_ Oe Ratings tInstrument Rating No.624
+
+ve Issued on 6.11.79 on 42
+
++
+
+Ss
+aircraft & 26.35.83 on B-?S7.
+Date of last IRC/LR/RO
+
+carried out: IRC(CInstrument
+Rating Check) 3.6.93 LR
+
+is
+
+
+le
+
+WAR
+
+ye gu
+
+. Total Flying Experience
+
+(Licence Renewal Check" ote
+31.12.93.
+
+RC (Route Check) 8.1@.9%.
+
+Type of Aircraft Fiown, :DHC-1, Fushpak.HS-748 and
+
+B-73?.
+
+rAircraft FIG Co-pilot
+
+Date of Endorsement
+
+as Pilot-in-Command(PIC}/ sDHC-1 11.35.74
+
+Co-Filot . Fushpak 15.3375 .-... 0.
+HS~748 3.7.54 6.11.79
+B-737 29.6.88 21.4.63
+
+Flying Experience
+:7262,.28 Hrs.
+:454@,20 Hrs.
+
+Total Experience as PIC
+:2821.2@ Hrs.
+
+Total Experience as PIC
+
+on Type
+In last 2@ Days 2108.19 Hrs.
+In last 7 Days 726.2@ Hrs.
+
+: Tetal Hours
+
+Date
+
+1.3.94 @4.1@ Hrs.
+2.3.94 @=.S@ Hrs.
+3.3.94 @5.2@ Hrs.
+4.3.94 @3.5@ Hrs.
+5.3.94 @5.20 Hrs.
+7.52940 @2.5@ Hrs.
+
+In last 24 Hrs.
+
+CHECK PILOT / INSTRUCTOR APPROVALS.
+
+a} Approved as Check Pilot on 8-737 aircraft for Indian
+
+Airlines in 1992, vide DGCA jetter No.8.1.92.-L¢1) dated
+
+7.4.92, However, Capt.Khurana did mot undergo Check
+
+Pilot’s Assessment’ Training and as such was never
+
+utilised as a Check Pilot on 8-737 aircraft while in
+
+service with Indian Airlines.
+
+
+}
+
+rE
+
+ey
+
+3
+ga
+
+ae en
+
+bd
+
+b)
+
+ct)
+
+Details of Capt. khurana experience in M/s.East West
+
+Airlines was as follows:
+
+Date of Joining 2 July 1992
+Date of Leaving oo May 1993
+Total Flying Experience : 556.55 Hrs. (Approx, }
+
+in Eas. West
+
+M/s.East West vide their letter dated 9.11.92 had
+requested DGCA for appointment Capt.P.Khurana as Check
+Filot along with their other pilots. However, DGCA had
+not approved Capt.kKhurana as Check Pilot probably
+keeping in view the number of Check Filots to be
+
+approved in the organisation.
+
+/
+Details of Capt.Khurana’s experience in M/s.Modiluft
+
+was as follows:
+
+May 1993
+
+Date of Joining
+
+Date of Leaving 22.11.1993
+
+Total Flying Experience 166 Hrs. (Approx. )
+
+in Modiluft
+
+Modiluft had requested to DECA vide their letter dated
+19.8.1993 for approval of Capt.P.khurana as instructor
+and it was certified that he is meeting various
+
+clauses/requirements of AIC 7 of 1990, DGCA, however,
+
+
+¥
+
+a.)
+i
+
+ya
+
+E
+
+i
+
+as
+
+3
+
+sy)
+
+i
+
+approved Capt.p.Khurana as Check Filot on B 727 for
+
+Madiluft vide DGCA letter WNo.g-4a7
+
+L¢Ir) dated
+
+Capt.F.Kling, Director Flight Crew Training, Lufthansa
+German Airlines in his Filot’s Proficiency Report
+(Transition Training) in respect of Capt.F.khurana made
+
+the following observatians:
+
+Capt.Khurana‘’s knowledge and understanding of technical
+
+systems and procedures is excellent,
+
+Phase 1 (acting as Pilot Fiying?>
+
+His) aircraft handling in all given situations (nermal
+and abnormal) is good. Crew coordination and crew
+
+resource management is timely and adequate,
+
+Phase 2 (acting as Pilot-not-Flying/Instructor):
+
+’
+
+Capt.Khurana’s corrective
+
+the extent that he takes ever
+
+Principles of fiight crew training. f the
+
+training flight is at no Limes
+
+Due to his performance, I recommend that Capt.Khurana
+
+is trained as Instructor pilot.
+
+According to Modiluft regulations, this training is as.
+
+24
+
+
+RRS
+
+follows: ~
+
+a) Simulator student training under supervision,
+b) Route check on right hand seat, and
+
+c) Line student training under supervision.
+
+Mediluft vide ‘their ietter dated 29.10.1993 had re-
+quested DGCA for approval of Capt.Khurana as Instructor
+on 8-737 aircraft on the basis of following training
+
+which. he underwent in India and at Lufthansa Flight
+
+crew training centre:
+
+IN_ INDIA:
+
+i) Flying training with Lufthansa Examiner at Nagpur
+on 23.9.1993 which included 7 touch and go with three
+
+overshoots covering abnormal simulated fauits and
+
+circuits/landings.
+
+ii?) Route check during day from right hand side with
+
+Lufthansa Examiner on B.10.1993.
+
+Zii) Route check by night from right hand side with
+
+Lufthansa Examiner on 25.9. 1993.
+
+
+~ IN FRANKEURT, GERMANY ( AT LUFTHANSA FLIGHT CREW TRAIN—
+
+ING CENTRE):
+
+Capt. Khurana underwent the following training for
+
+Pilot/iInstructor. He was not cleared-as pute. Check...
+
+B Instructorship. at _ Lufthansa from 18.10.1992 to
+ad
+~ 21.10.1993;
+t
+a
+7 id A total of three hours training Gof normal and
+4
+oy
+B : abnormal procedures in right hand seat of their H-7a7-
+4
+7 . 290 simulator (six axis),
+Ey
+“a ii) A subsequent cross—check in the simulator while
+occupying the right hand seat.
+Ba
+kel .
+~ iii) A total of eight hours of instruction under
+od , . :
+Bi . supervision in the simulator. : |
+~ iz
+However, Modiluft vide their letter dated 1@.5.1994 had :
+be o intimated that Capt.Ehurana left their organisation et
+without completing the training for acting “-as Check i
+- me, F
+ps £
+ia
+
+yer
+
+Pitot or instructer on Modilutt fleet since he did not i
+
+complete line student training under Supervision,
+
+es
+‘
+
+dg) Details of Capt.khurana experience in M/s.Sahara. India :
+
+Airlines is as follows:
+
+$2
+tal
+
+
+LE )
+
+=
+
+EW
+
+row
+
+]
+
+Sea
+
+ra
+
+3
+te
+a
+
+ta
+ob
+
+He WAS approved as
+
+India Airlines vide DECA letter
+
+dated 4.13.97,
+
+down in
+
+d done 46
+
+route check
+
+at
+
+t the time
+
+u
+
+Row
+
+oF
+
+rs
+
+Rar
+
+
+i7ad A total of eight-hours of instruction under
+
+supervision in the simulator.
+
+iv) Flying training with DGCA Examiner at WNagpur-7
+{ouch and go with three avershoots covering abnormal
+
+simulated faults and circuits/landings.
+sd Route check (day) by right hand side with DGCA
+
+cdvaminer.
+
+vid Route check (night) by right hand side with DGCA
+
+xaminer.
+apt.Khurana was approved as Instructor on B-737-2008
+
+for Sahara India Airlines vide DGCA letter No.1.569/69-
+
+(1) dated 8th March 1994.
+
+:Undergone last medical at Air
+force CME, New Delhi on 8th Nov.,
+1993. He was declared medically
+fit for renewal af his Airlines
+Transport FPilet’s Licence.
+
+: Medical
+
+Capt.Khurana was’ declared tempo-
+rarily medically unfit fer all
+flying licences for a period of @
+months w.e.f. 16.35.72 due to de-
+flected Nasal septum (Left) inade-
+quate airways. He wes advised to
+consult ENT specialist for treat-—
+ment of his nasal condition. He
+was subsequently declared fit on
+
+14.4.72.-
+
+-i.ent/Accident rCapt.Khurana was earlier involved
+in an incident on 16.2.1989 where-
+in while operating Indian Airlines
+flight IC-49@ (imphal—-Guwahati),
+
+
+7 + a he made an approach for landing at
+Ft 7 Barapani and subsequently aevershot
+
+after reaching about 2@@ feet
+above the runway at Barapani. He
+
+m=
+a was severely warned to be more
+if careful in future and adhere to
+. laid down procedures vide PGCA
+& letter No.1-Sé9/69/L (i) dated
+ae . Sth April,1¢989. He had undergone
+~ - refresher course and subjected to
+two route check His performance
+a wes also monitored for a period of
+oe one year.
+, 1.5.2 PILOT TRAINEES
+eg 3 A. P/T PRAMOD SINGH
+Date of Birth 11.35.1969
+oon . Licence Details tHe was issued Commercial Filot
+Licence vide Certificate No.
+2486149 by Federal Aviation
+~ Administration—Department of
+. Transportation—-USA on 25.7.89.
+by i
+~ Commercial Pilot Licence (CPL) "s
+B No.2@37 was initially issued by ~
+ey , : DGCA in 7.11.89. The Licence * was *
+= valid upto 1.11.95. Fa
+fg so mo, Flight Radio Telephone @perator’s
+: Licence No.4@25 valid upto 1.11.95. =
+Instrument Rating No.1424 valid ‘”
+aor upto 18.97.1994 (on Cessna 152 A). ™
+a Types of Aircraft Flown:Aircraft flown during training:- 2
+Pel FA 36 (Fiper Tomahawk),FA .28. (Piper vt be
+Cherokee), PA 28 R (Piper Arrow),Be nO
+m 76 (Beechcraft Duchess) and Cessna. :
+% isa A.
+i 1
+
+Total Flying Experience
+Filot-in-command
+
+Dual Hours
+
+Tetal Multi-engine Time
+Total Instrument Time 165 Hrs.
+
+216 Hrs.
+
+ark
+ie:
+
+}
+
+In addition, he had supernumerary experience of 148 heurs. on. ;
+
+pan
+
+
+B-727 aircraft including 90 hours with East West
+
+and 5@ hours with Sahara
+
+Gliding Experience
+
+Last Medical
+
+P/T_ANSHU KHURANA
+
+Date of Birth & Age
+
+Licence Details
+
+Types of Aircraft Flown
+
+Technical Qualification
+
+Airlines
+
+India Airlines.
+
+2157 winch to launches
+
+Attended DGCA Approved Course from
+
+Delhi Flying Club and passed DGELA
+B-737-208 Technical & Performance
+Examination in Aug. /Sept., 199%.
+He underwent Simulator Training at
+British Caledonia from 14.12.93 to
+1.1.94 and completed 54 hours
+(Pilot Flying + Pilot Not Flying).
+He had completed 3% circuits
+landing practice on the ai
+during the training sortie
+which crash took place.
+
+5
+
+:Undergone last medical at Air
+Force CME on 1@.1.94, He was
+found fit medically.
+
+22@.6.1971/23 years
+
+‘She was issued Commercial Filot LO
+Licence vide Certificete
+WNo.245@82375 by Federal Aviation
+Administration - Bepartment af
+Transportation—-USA on i5.3.92.
+
+:Commercial Filot Licence
+(CPL INO.2429 was initially issued
+or =.t Licence
+
+was valid upte
+
+fFlight Radio T
+Licence Ne.
+LE.4.i9S8,
+
+phone Op
+1 valid
+
+sInstrument
+upto 10.9.1994 (on Cessna 152A),
+
+Aircraft flown during training:
+
+5
+Cessna i152, Ce
+158, Cessna 13
+Cessna @ I,
+AAS,
+
+
+Total Flying Experience :280 Hrs.
+~—Filot-in-Command 2172 Hrs,.
+
+In addition, she had supernumerary experience of 50 hours on
+
+3 B-737 aircraft with Sahara India Airlines,
+
+a wee
+
+_ Technical Qualification 'Attendsed DGCA Approved Course from
+
+aie . Delhi Flying Club and Passed DbDeECA
+B-727~-200 Technical and Fer form—
+
+4
+
+‘amination in Jan.i994, She
+“ underwent Simulatear Training at
+Caledonia in Feb, 1994
+1°94 to 22,.2.1994) and cam
+
+a . Pleted S2 hours (Filot Flying +
+. : Pilot Not Flying).
+
+~ “x .
+
+4 . She was authorised Py DGCA to
+
+undergo training with Capt. Pp,
+Ehurana vide DGCA letter No.1-
+a 476/92—-L (1) on 8.3.1994, Bs
+
+‘She was on the aircraft for earry— .
+ing out circuits and landings when 5
+4 the crash took Place,
+
+5 Last Medical mndergone last medical at Air
+
+. Force CME on 22.12.93, She was
+
+“ found fit medically.
+
+iL
+
+: C. P/T VIDUL MAHAJAN.
+
+- .
+~ et Date of Birth & Age 125.1.1967/237 Years
+# .
+Licence Details issued Commercial- Prise tes
+Vide Certificate No.
+
+a ~ by Federal Aviation Admin<*
+
+4 fon — Department cf Trans-
+
+o n~USA on 13.11.1991,
+
+1 Pilot Licence | CCR y
+
+- was initially i=sued = in
+
+a 5. 7 by DBCA. The Licence
+was valid upto 15.4.1995. = -
+
+Fy Flight Radio Telephone Operator’s
+
+. : : Licence No. 4535 valid ~ -upto
+
+2 15.4.1995, .
+
+ra - Instrument Rating Novis Valid.
+
+a upte 10.9.1994 ton Cessna. iSPay.
+
+&
+
+3
+
+j- -
+
+
+Types of~Aircraft Flown rAircraft flawn during training:
+
+ye)
+
+sna
+
+4 AAS,
+
+i citabria 7ECA.
+
+5 Tetal Fiying Experience
+
+~ Pilot-in-Command
+
+X
+
+4
+
+- In addition, he had supernumerary experience of 15@ hours on
+ce R~-737 aircraft with Sahara India Airlines.
+
+a *. Technical Qualification ?Attended DGCA Approved Course
+a from Delhi Flying Club and passed
+
+DECA B-727-2Q0 Technical & Fer-
+formance Examination in Deec.1993,.
+He underwent Simulator Training at
+British Caledonia in Feb, i994
+(3.2.1994 to 22.2.1994) and com-
+pleted S2 hours (Filot Fiying +
+
+4 Filot Not Fiying).
+sHe was authorised by DGCA to
+a undergo training with Capt.P.
+3 Khurana vide DGCA letter No.1-
+~ 476/92-L41) on 9.5.1994.,
+4 .
+Bh : tHe was on the aircraft for carry—
+os ing out circuits and iandinas when
+=~ : tthe crash took place.
+Last Medical rUndergone last medical at - Air:
+7 - Force CME on 18.12.93. He owas
+2 found fit medically. He. was :-:
+eas advised tc wear corrective bifo-- ~
+
+cal/fiook over glasses.
+e
+
+Delhi Flying Club has given the following phases of
+
+training which the Filots undergo for type endorsement:
+
+‘
+
+Fhase-Ii: This phase of endorsement training
+
+involves ground training covering systems and. aircraft..-
+
+
+~ performante. Faculty of Fiight Safety Services Delhi
+
+a Flying Club is approved by
+
+mn training as per a Prescribed syllabus,
+ut
+
+a
+
+ful completion of the course, trainees sre put up for
+
+the exam. -conducted by the CEO, DGCA.
+
+g .
+ca Qn attaining IN THE CEQ,
+- the trainee pilot is eligible to go through
+a ,
+2 phase 2 of the endorsement Process. During this phase
+7 —_ he has to carry out simulator training as approved by
+the DGCA. The Faculty of Flight Safety Services had
+'- ‘approached the DGCA and got the following approved = for
+sf :
+ih.
+the benefit of trainee pilots whe successfully complete
+2 their ground traiing at this faculty:
+a ‘
+‘a 1. Fhe 737-282 simulator caledsnian Flight
+4 . training.
+Be
+P we Capt-.R.N.Rao as Simulator ineteuctor (RB? Bae 2
+= Capt.V.E.Sharma as Examiner (B7E7-200). °° : :
+a
+
+training  “Snd-
+
+there after passing a simulator check by: the - psce
+
+approved examiner, the students pass on to .phase
+
+Simulator training/checks are recorded ih triplicate in
+
+& bound booklet ‘“Simuiator training Report: for each
+
+trainee pilet. At the and of a simulator training this
+
+
+-
+3
+
+an
+
+a
+
+i
+
+q-
+ea
+
+booklet is handed Over to the trainee for Presenting it
+
+to the agency conducting his flying training and checks.
+
+Frase-IIt: Trainee Filots who successfully complete
+
+Phase I & II as stated above, join an Airlines, who
+
+then conducts their flying training. On completion of
+flying training and checks, one copy of the ‘Simulator
+training report’ and the flying training report are
+
+submitted to the DGCA for obtaining type endorsement.
+AS reported by Sahara India Airlines, the records of
+the trainess were witn them on board the aircraft and
+
+have been destroyed during the crash.
+
+BENERAL COMMENTS BY CAPT.R.N.RAQ ABOUT PERFORMANCE OF
+—_— EE LT ee Ne RE BUT PERFORMANCE OF
+
+TRAINEES AS PER HIS PERSONAL DIARY DURING SIMULATOR
+
+TRAINING:
+
+TRAINEE PILOT P.SINGH
+
+14.12.93 - @280@ Hours
+
+Performance standard as per his existing experience.
+15.12.93 — @2300 Hours Es
+
+Carried out briefing and simulated C.F.T. in the room |
+
+for four hours.
+
+
+Needs practice ta handfe and scanning.
+
+lots of home works for three
+
+l
+o
++
+oh
+
+!
+
+29.12.93 - 8286 Hours
+
+Showed) slight improvement in the performance. Still
+
+needs lots of hard work.
+
+21.12.93 - @2@2 Hours.
+
+Briefing and simulated CET done for approx.four hours.
+
+Improved both on handling and scanning- However, must
+
+work hard for anticipation while on let down.
+
+Briefing in the room on single engine. Simulated CFT
+
+for approx. four hours. : . re
+
+Needs more practice for Rudder and Stab Trim.
+
+After this Trainee Filot F.Singh & fFiying with Pilot
+
+“NF
+
+on simulator.
+
+a
+0
+5
+iy
+D
+&
+D
+LS
+n
+J
+i
+
+of circuits and landings
+
+Lots of briefing on all
+
+
+BS}
+
+,& ig
+
+J
+
+i
+
+r€
+
+” What
+
+”
+
+W
+
+Vee
+
+E
+
++ aspen!
+Yea
+
+bs
+a
+
+-
+3
+a
+
+and simulated CFT carried out at Guest House.
+
+29.12.93 -
+
+Both the pilots successfully completed C4S4@(4) checks
+with Capt.V.K.Sharma.
+
+22.12.92 - @208@ Hours
+
+Circuits and landings two engine normal and bad weather
+
+circuits and over shoot. Standard.
+
+1.1.94 @200 Hours
+Circuits and landings
+All types of circuits and landings, over shoot, let
+
+down carried out satisfactory.
+
+Trainee Filot V.Mahaian & Miss A.Khurana
+
+4.2.94 -
+
+Miss.A-Khurana requested on phone to postpone the
+training for next day as they were feeling very tired.
+Accepted their request and accordingly informed:
+
+Mr.Martin at British Caledonia.
+
+5.2.94 - ; : f
+T/F VJ Manajan 84@8 Hours ;
+T/P Miss A.Khurana @48@ Hours °
+
+Ferformance
+
+experience,
+
+General Flying, Air works and stall seriés carried on.
+
+6.2.94 —- P4808 Hours
+
+Briefing and simulated CFT carried cut at the
+
+House for approx. 4 hours. Both require lots of
+
+
+7.2.94 -— 0482 Hours
+
+)
+et
+ty
+rt
+iv
+Q
+pal
+4
+
+rate on handiing, =
+
+t
+
+Must concen amning, Fower
+
+with IVSI.
+
+Briefed let dawn at
+
+ed CPT fer 4 hours.
+
+Miss urana must work hard to remember the procedure.
+8.2.74 — OFF
+
+- L : =
+Lots of briefing and simutsted CFT at Suest House.
+
+procedure nicely. Gn CPT
+
+actual simulator Mahajan performance was reasonably G
+However. Miss Fhurana requires prompting while doing
+
+the orocedures
+
+the
+
+Improved on handling. Needs to improve
+
+Heading, Height and speed within limits.
+
+let down requires promoting though they nave under—
+
+it
+
+engine and simulated
+
+Introduced and = demar Needs
+
+
+y
+
+Practice to keep a/c straight and altitude. Must
+
+improve Rudder trimming accurately. Needs more prac—
+
+tice for trimming.
+
+11.2.94 - 8400 Hours
+
+Ferformance on both engines flying is” standard.
+
+Scanning and handling improved. Heading, Heights and
+
+“speeds within limits, (Miss Ehurana must work hard to
+
+improve still) On Single engine hesitates Rudder Trim—
+
+ming. Forgets stab Trim on single engine, gets panicky
+
+on single engine, as such scanning goes out.
+
+Needs
+more practice,
+12.2.94 -— OFF
+Kept them busy whole day by giving them home work, In
+the evening briefing, simulated CPT Carried on, Single
+
+&
+
+engine VOR/ILS tet dawn carried On simulated CFT
+
+Guest House. Seems to have picked up the procedure.
+
+2.94 - S40 Hours L
+improved on Scanning on single engine. Rudder and
+Stabilizer trimming improved, showed hands off flying
+(Miss Khurana at times forgets te trim whenever change
+of power is there, on Prompting remembers) Single
+
+engines VOR/ILS let down within limits.
+
+at -
+
+
+~ 14.2.94 - OFF wan pei
+
+~ Eept busy with briefing and simulated. CFT practically
+
+whole day.
+
+~ *  45,2.94 - B25 Hours
+
+Performance standard. Simulator motion u/s, could not
+
+complete the training as per schedule (Miss Khurana). ane
+
+16.2.974 — Y.Mahajan -@280 Hours
+
+; , Standard. Miss Khurana could not do as the metion was
+
+u/S.
+
+17.2.94 - Off
+
+18.2.94 -@235 Hours
+
+Training completed. per formance attain standard.
+
+Cleared for ce4aca)} Checks on Simulator.
+
+19.2.94 —-
+
+Both completed Ca4aiA) ‘checks successfully with
+
+Capt.V.K.Sharma.
+
+ircuits and landings,
+
+briefing done on all types of ¢
+
+different power settings. Frocedures for circuits and
+
+Simulated CFT carried on at Guest
+
+landings explained.
+
+House.
+
+20.2.94 -@408 Hours
+
+Both . engines normal/bad weather circuits and landings
+
+and over shoot carried on.
+
+At times forgets the appropriate check list otherwise
+
+per formance OF.
+
+
+i ~Briefing and CPT at Guest House carried on.
+
+| 21.2.94 -@4@8 Hours
+Single engine normal/bad weather circuits and landings
+
+: : carried cut. Performance standard.
+
+22.28.94 —- O4@2 Hours
+'
+ie All types of circuits and landings carried out satis—
+
+- factorily. Finish the training Standard.
+
+a, ~--, CERTIFICATE ISSUED IN_ RESPECT OF TRAINEES BY.
+- CAPT.V.K.SHARMA,. DGCA APPROVED BOEING 737-200 EXAMINER
+I TO FLIGHT SAFETY SERVICES OF DELHI FLYING CLUB ON
+
+- . 19.2.19794
+
+~ This ais for your information and record that after
+7 a completion ef the required simulator exercises success—
+7 filly under Capt.R.N.Rao (DGCA approved B 737-7aa
+ee Bimulator Instructor), the following Trainee Filots who
+
+had undergone ground training at the Faculty of Flight
+‘ Safety Services, have been given eae Simulator Check ride
+
+by me today. Their proficiency has been asseesed as
+
+‘Standard’ and they are found fit to undergo CA 4@ A on
+
+7 B 737-200 aircraft.
+
+i. Trainee Filot VIDUL MAHAJAN.
+
+re
+
+
+2. Trainee Pilot ANSHU EHURANA
+
+A similar certificate was issued by Capt.V.e. Sharma
+
+in
+respect of trainee pilot Framod Singh on 29.12.1952,
+1.6. AIRCRAFT INFORMATION
+Boeing 737-289 model =R4C (Combi) bearing aircraft
+
+Si.no. 21763 was manufactured by Boeing Company in Dec.
+‘79. This aircraft was purchased by M/s.Air Executive
+Norway Busy Bee A/S and was @perating under the Regis-
+tration No.LN-NPEB. The aircraft was maintained by
+M/s.Braathens SAFE, Norway upto May, ‘91. After that
+it was purchased by Leasing Company of United States
+
+M/s. GAC, USA IICIne) New York. It Was given the
+
+American Registration No. N4Q1MG on 8.6.92, In USA the
+aircraft was maintained by M/s.PEMCO Aeroplex, Dothan
+
+ALABAMA.
+
+Before delivery to Sahara India Airlines, the aircraft
+had undergone major checks 7c, Corrosion Frevention &
+Control Frogramme (CECF) and structural inspection,
+
+The aircraft was taken by Sahara India Airlines under
+
+lease agreement in Nov., ‘92 between GAC USA II as
+Lessor and Sahara India Airlines Ltd. as Lesses.
+
+Export Certificate of Airworthiness (NO.E 286
+
+7) was
+
+issued by FAA of USM for this aircraft on 18.11.93,
+
+The aircraft was deregistered from American Register on
+
+i
+38
+
+
+}
+
+612.95 and it was registeréd in India on 6.12.75. The
+
+et
+
+- Certificate of Registration No. 245@ with registration
+. marking of VT - SIA was issued to M/s.Sahara India
+. Airlines. When the aircraft landed ‘in India, it had
+7 — logged ~ total time/total cycles as 25552 hrs. /21555
+. cycles. The aircraft was equipped with two Fratt and
+: Whitney JTBD-17 engines bearing SI.No. 782 and
+: 6981988. When the aircraft landed in India, Engine
+* S1.No.702652 had done 22127 brs./i¢7Sl cycles since new
+
+and 12587 hrs/1a@974 cycles since overhaul and the
+
+yune
+
+S1.No. 688188 had done 23983 hrs./18375 cycles
+
+-pngine
+1 since new and 2576 hrs./1239 cycle since overhaul.
+*
+i The aircraft was issued with, Indian Certificate of
+1 Airworthiness on 9.12.92 initially for a period of
+three months. Subsequently, it was revalidated for a
+a period: of three months upto 7.6.94 on 7.2.94. The
+~ Flight release Certificate which was issued on 6.3.94
+i was valid upte 5.5.94/26283 aircraft flying hrs. The
+_ aircraft category is normal with passenger /mail/goods
+i. aircraft. The minimum crew necessary is two and maxi--
+_ mum weight authorised at- Brake release is kgs.
+i This aircraft is 125 passenger configuration. Flight
+2 Release Inspection Schedule (35a flying hrs/é8 days)
+- was carried out on this aircraft on 6.23.94 for the
+i purpose of Certificate af Airworthiness revalidation. .
+
+= Qs on date of accident, following was the aircraft
+
+
+After arrival of the aircraft in India, the aircraft
+
+H had undergone ist check ‘°C’ (35@ hrs./&@ days/flight
+
+release inspection) on 2@.1.94. After renewal of C of
+
+fi & on 7.83.94, the aircraft had flown S-@5 hrs./2 cycles
+
+Delhi-Bangalore-Delhi flight on &. 74 and was released
+
+a Ser training flight when it met with the accident.
+
+Check ‘B’ and pre-flight inspection on the aircraft was
+carried out by Sh.A.K.Chonna, AME, on 8.2.94.
+
+‘With the Previous operators before arrival in india,
+
+"4 the aircraft was involved in three incidents, the
+
+‘details-of which are as follows:
+
+1. Aircraft was hit by lightening strike at Hasel
+Switzerland. The graphite rudders trailing
+edge was splitted over a length of @.5 mtr. -
+
+Necessary permanent repairs were carried cut.
+
+Skin scratches/dents aft cf external power door.
+On skin between frames 2235.8/251.6 and Stringers
+
+R external repairs were carried out.
+
+BIR/
+
+Gircraft hit runway with teil on take off at
+
+40
+
+
+damaged.
+During the oaperation with
+17.02.94 the aircraft was i
+
+at Bangalore when the airer
+
+while going to the parking bay. The
+
+was damaged.
+
+No mandatory Modifications/i
+at the time of accident.
+Life limited components of
+
+were within the prescribed/a
+
+SUMMARY OF AIRCRAFT DETAILS
+
+Aircraft Type/Model
+Aircraft Registration No.
+Aircraft SL.No.
+Manufacturing Date
+
+Time Since New
+
+Cycles
+
+Time Since Ist € of A as on
+tt
+
+Time Since Last C of A as on
+
+SUMMARY OF ENGINE DETAILS
+
+i. Fort Engine
+S1.No.
+
+Date of Manufacture
+
+4
+
+Sahara India Girlines, on
+nvolved in taxing incident
+
+aft port wing hit ai coach
+
+ce
+
+irecreft sl
+
+i
+
+£ Noe
+
+uu
+
+nspection were outstanding
+
+the aircraft and engines
+
+Pproved limit.
+
+RB-737-200
+VI-SIA
+21763
+12.12.1979
+
+S594? hes.
+
+286i
+%.2.94- 5971 hrs
+8.3.94- S hres,
+686188 ca
+Jan..°80
+
+1
+
+
+Time/Cycles since new 24576 hrs. /1@7Q1 cycles.
+
+| Hrs./cycles since last 1465 hrs. /1545 cycles.
+
+Overhaul.
+
+Starboard Engine
+
+Sl.No. f@2652
+
+Date of Manufacture
+
+n
+<
+n
+be
+ft
+il
+
+Hrs./cycles since new—
+Hrs./cycles since last- 13182 hrs./1128@ cycles
+
+Dverhaul
+
+DETAILS OF REPORTED DEFECTS
+
+There were no repetitive defects from the date of
+issuing of Ist C of @ tili the date of accident except
+
+that of defect on right airconditioning pack which
+
+~
+
+eecurred on 5.@1.94 and repeated on 7.01.74. .
+
+Further, during the scrutiny of records, following
+defect of engines and aircraft pccurring during the
+
+preceding seven days were observed.
+
+Reocorted Snag
+From 1.35.94 to 3.4.94 Nil
+
+4.3.974/Madras—Delhi 1.FDCS is U/S.
+2.Fi1 side overhead speaker
+gives lot of whistling noise
+when on Ne.1 ASF Toggle
+switch is selected ta "INT"
+position.
+
+3.During climb throttle stag-
+
+ger is observed No.2 © thrust
+
+
+lever
+
+wer
+
+Parameter cbserved as?
+
+ENG. EPR Ni ERT N= Fuel Flow
+No.i 2.1 Siset 83% 27m
+No.2 2.81 82% S3@o0C 2h 2680
+4.Taxi light U/S.
+=. 5.3.94/BLR-DLH Capt.side frequency selec—
+tor (VHF USS.
+4. 4.5.94 Check ‘C’ (FRC Check carried
+: out by the operator)
+Nil.
+
+3 7.3.94 To 8.5.74
+
+oe
+
+During the training flight, pilot did not make any report
+
+of emergency on board.
+
+AIRCRAFT WEIGHT SCHEDULE
+
+Empty weight 29555 kgs.
+: (Index 17.92 and MACK SQ.62%)
+118.8 kas.portable water and
+
+Variable load
+270 kas.ship library
+
+Weight of Fuel (Full tanks? 16806 kas.
+Dperating empty weight 2184 kgs.
+{Index 14.36)
+
+Maximum Zzera fuel weight 430971 kgs.
+
+Maximum permissible landing 46728 kgs.
+
+weight
+Maximum authorised weight 53780 kgs.
+at Brake release
+Maximum sitting capacity 131 which includes two pilots,
+a two observers and four cabin
+43
+
+
+pas
+
+J
+
+iS
+
+mis
+
+2
+
+crew,
+
+LOAD AND TRIM SHEET DETAILS DURING THE TRAINING FLIGHT
+
+For the training flight air¢raft was loaded
+
+15 tonnes of fuel and there were four crew members
+
+pi
+
+Ch
+
+f
+
+nees.
+
+BM
+
+ot tra
+
+a
+a
+
+which included ene instructer a
+
+y
+
+At take off aircraft weight was 44722 kg
+
+uw
+
+Ba
+
+iA
+
+£
+
+te
+
+weight of 1959 kgs. was placed in the carge held= with
+
+1359 kgs. in the forward cargo hold and 4608 kgs. in
+the aft hold. At the take off centre of Gravity was at
+17.02% MAC which indicated trim setting of 5 3/4, 4
+
+1/4,
+
+Taking an average fuel consumption of &
+
+rt
++
+
+tonnes per hour, it is estimated that for the flight
+time of 45 minutes prior to crash, the fuel consumed
+
+would be around 230@ tas. and the remaining fuel would
+
+be around (14888 —
+
+fa
+e
+
+position comes to around 19.4% MAC which will give trim
+setting as 3 1/2, 6. The CG positien and the aircraft
+
+weight are within the envelope. The fuel used onthe
+
+aircraft is Aviation Turbine Fuel.
+
+44
+
+
+2 ~ 1.8 AIDS TO NAVIGATION
+
+The aircraft was fiving lorcai VFR circuits.
+
+The runway in use was 28. The aircraft had carried out
+
+five “touch and 90’ before the accident. Nothing was
+
+reported against the functioning of the Nav Aids at Belhi
+
+airport.
+
+1.9 COMMUNICATIONS
+
+The aircraft was fitted with Very High Fre-
+
+quency (VHF) and High Frequency (HF) communication equip—
+f ments. The aircraft was in two way communication with
+a
+
+4
+
+: Tower. It ais evident from the Air Traffic Contreal {ATO?
+
+tape transcript that the aircraft had no problem on communi—-
+
+ee ee a oe
+
+cation during all the cirevits. Frior to sixth circuit the
+
+aircraft was advised that the runway in use would be 37 so
+
+Climb on runway heading to SOO ft. and further climb with
+
+ey
+
+a Delhi Radar. tranemis—
+os sion by Tower at M842
+5 ie sio y Wer. 2 Ra42
+A UTC (1412 1573 and the last was out
+
+on 8723 UTC (1452 IST).
+
+Es
+
+
+_ FOLLOWING CHANNELS OF COMMUNICATIONS ARE AVAILABLE AT
+> PALAM AIRPORT:
+: Service Call Sign Freouency
+
+Surface Movement Contrel Delhi 6round 121.9 MHZ
+_ Aerodrome Tower Contrel Delhi Tower 118.1 MHz
+_ Approach Control Belhi Approach 127.9 MHz
+. Area Control Centre(East) Delhi Contrel 128.9 PiHe
+_ Area Control CentretWest} Delhi Control 124.55 MHe=
+_ Area Control CentretStandby?) Delhi fentrol 124.2 MH=
+_ Aerodrome Surveillance Radar Delhi Radar 119.3 MH=
+_ fir Route Surveillance Radar Deihi Radar 120.97 MHz
+
+ty on these channels were reported.
+
+ee
+
+No unserviceabil
+
+_ ‘ ATC tape transcript of the Surface Movement Control (131.9
+
+- , “MHz) and Tower Control (118.1 Mhz) and ATCO unit telephones
+
+~ are enclosed at Annexures ‘BRB’, °C & ‘'D
+
+we
+
+- 1.10 AERODROME INFORMATION
+~ IGi Airport is about 15 Kms awey from Delhi. The adminis-—
+
+- trative autherity af the airport is vested with Internation—
+
+~ al Airport Authority of India, New Delhi and Gir Navigation
+
+- Services is provided by Nationel Airport Authority, The
+
+7 aerodrome is operational for full 24 hours. :
+
+
+The elevation of IGI Airport is 227 metres AMSL.
+
+The geagraphical coordinates of the airport reference point
+
+are :283407 N; 77@646 E.
+
+There are two take-off and landing runways: runway 28710 and
+27/09. Runway 28 (true bearing 284 degrees) is the main
+Instrument Runway. The elevation of threshold runway 26 is
+775 ft. (239 metres) AMSL. The deciared distances of
+
+’
+
+runway 2B are as follows:
+
+Landing Distance Available (LDA) 3381@ metres
+Take-off Distance Available <~FopAr—————_-3816 metres
+Width of Runway mes 46 metres
+Length of Clearway 274 metres
+Type of Surface Asphalt
+FCN i)
+
+There are two aprons ~— domestic and international.
+
+INTERNATIONAL AFRON (APRON-IT) =
+
+International Apron is accessible by taxiways L.M,N,P,.&,R.
+The international aircraft after landing on runway 28 clear
+the runway on any one of the high speed taxiways i.e. LM,
+er at the end of runway on taxi track N to proceed to the
+international parking area normally known as Apron II, whici
+
+is on the sauthern side of runway 26/14.
+
+47
+
+
+}
+
+ae) _
+
+¥
+
+ae
+
+yee
+
+yee
+
+Es
+4
+Pi
+
+There is the provision of parking aA maximum of 16 aircraft
+
+if. These parking stands are numbered serially.
+
+Db
+a
+5
+in)
+>
+x
+a.
+12
+0
+ob
+wu
+n
+bn
+ro
++
+“
+if
+3
+Q
+a
+fu
+bs
+the
+
+Bay Nos.G@i to 85.
+
+remete apron.
+
+Cargo aircraft are parked in Cargo Apron which if acce
+by taxiway. ‘Q’. There are four parking stands in this
+
+apron. They are numbered from 79 to 1@2,.
+
+DOMESTIC APRON (APRON-T) =:
+The domestic. terminal of IGI Airport 18 on the northern
+side. The taxiways leading to this terminal are #4,F,C,0D,E.
+
+The domestic and Indian Air Force aircraft, after landing on
+
+runway =8 normally clear tre runway on
+
+on runway =7 for coming to domestic park
+to Gir Force Technical area on the northern side cf runway
+
+CONTROL TOWER:
+
+The ATC Control Tower building which is at a height.
+metres above ground tevel, contains ether offices of sir
+Traffic Control and Aerenautical Communication Stations like
+
+Aree Control Centre, Air Route Surveillance Radar, Approach
+
+
+a
+Bt
+Be.
+
+4
+4.
+
+Terminal
+
+and unoh
+
+incivding the Approach Arse of
+
+had from the ATE Control Tower in clear visibility.
+
+FIRE STATIONS:
+
+Delhi Airport is equipped with C
+
+ices. There is one Main Fire Fairs
+Main Fire Station
+Fire Tenders : Two
+Ambu nce : Two
+Sub Fire Station fT:
+Sub Fire Station TT is located at the domestic apron.
+Crask Fire Tenders : Twa
+bh Fire
+Fire Ii. The
+apron Control forwer li is the Fire
+
+Il wherefrom an unobstructed view of Apron Ti and
+
+adjoining taxi tracks can be obtained.
+
+Fire Tend
+
+iY
+
+oS :
+
+Ambulance : One
+
+METEROLOGICAL INFORMATION:
+
+Terminal Information Service
+
+
+Sa”)
+
+ma
+ig
+
+1.41.
+
+is recorded by the Tower Contrceller after the receipt of
+
+each METAR or SFECI and it is broadcea Tentinuously on
+
+FLIGHT RECORDERS
+
+Sircraft was fitted with Cockpit Voice Recorder and
+
+d
+
+er.
+
+Universal Flight Data Rec
+
+i COCKPIT VOICE RECORDER (CVR)
+
+Fairchild Cockpit Voice Recorder (CVR)}, Model No.A-1@@
+bearing Serial no.3298 was fitted on airtraft. This record-
+er has magnetic tape recording on four channels. The chan-
+nel recording is done for pilot, co-pilot, observer and area
+
+mike. Channel 1 ois for Observer, Channel 2 if for First
+
+Officer, Channel 2 for Captain an
+
+Mike. The recerded information for last
+
+is
+retained.
+The CVR unit had suffered impact and >, The ounat
+
+was opened at CVR Laboratory of DGCA. CVF outer cover was
+
+damaged and was cut te open the CVA.
+
+tu
+
+mad tape assembly were found
+
+found to be proper. Initially reference time was aiven
+
+
+~ " 1.11.2
+
+_ during the preparation of tape transcript and then with
+
+the
+
+L. herp of. ATC. transcript, reference ‘timing was converted into
+Universal Coordinated Time (UTC). A
+UNIVERSAL FLIGHT DATA RECORDER (UFDR) ”
+
+See Gr DATA RECORDER (UFDR)
+
+The aircraft VT-SIA was fitted with Sundstrand UFDR,
+
+Model No.98@-410@-G6x-uUs, Serial No.6543. The data is
+
+stored for last 25 hours of flight. The UFDR records
+
+11 parameters. The Parameters recorded in the UFDR are
+
+‘as follows:
+
+12.
+
+11.
+
+The
+
+VHF Keying
+unit was externally damaged. The front panel
+“along with the ULB and front socket had ripped open.
+
+The unit was exposed to fire and smoke could be seen on
+the side walls and aiso inside.
+
+taining
+
+“ Roli-Attitude
+
+Altitude.
+
+Airspeed
+
+Magnetic Heading
+
+Pitch Attitude
+
+Control Column Position
+Vertical Acceleration
+Longitudinal Acceleration
+Engine Pressure Ratio (1 & 2 engine)
+
+Elapsed Time
+
+The steel body con
+
+the tape transport mechanism appeared to be
+
+
+EO
+
+Foi
+
+pk OW or &
+
+ceed
+
+“4
+
+ee
+
+“intact.
+
+The unit was taken to Air India facilities at Hombay
+for opening and copying the data from the tape. Fol-
+
+lowing observations were made:
+
+The frame structure for mounting the electronic boards
+and the transport/snvironmental enclosure was bent on
+front side due to impact. The transport/environmental
+enclosure had detached from the mountings but appeared
+to be intact except for smoke deposit on casing. The
+top frame cover was removed by opening cut the attach-
+ment phillips screws to take out the enclosure. There
+was no apparent damage to stepper motor, connector = and
+
+‘the wiring appeared to be intact. The motor cover had
+
+detached during the impact and there was some stiction
+
+_ in the motor rotation, although the belt appeared to be
+
+intact. The condition inside the enclosure was good
+
+and tape appeared to be intact.
+
+The enclosure of UFDR of the crashed aircraft was then
+installed in” a serviceable UFDR of M/s.Sahara ‘India
+Airlines. As the stepper motor of the crashed aircraft
+UFDR was jammed, the stepper motor of the serviceable
+
+unit was “installed on the transport/environmental
+
+enclosure.
+
+The data was then extracted at M/s.VSM GSerospace facil-—
+
+WOT EE
+
+APR CON wae EL
+
+
+ka ‘
+ties of Bangalore, who are an approved -organisatioi
+
+SB working on This model of UFDR.
+
+The data however, y
+
+not come out completely.
+
+. ESE
+
+PACE LABORATORY
+
+RIEVAL OF DATA AT NATIONAL AEROS!
+Bangalore
+
+ae
+o the NAL facilities at
+
+ass
+
+The unit was taken t
+ar recovery of data as at M
+
+be recovered.
+
+/s.V¥VSM facilities full data
+
+At NAL, data of one more
+
+could not
+fbcond just prior
+
+that most of data reco
+
+to crash was recovered. It was
+served vered needed refining.
+PR values) were
+
+ingine’s power parameter recordings ‘E
+
+ound normal.
+
+the necessary CVR tape speed corrections, CO7
+
+CVR and UFDR data (Engine Fower Parameter)
+
+relation of
+
+t 4 minutes before the crash was
+
+or ..the- last abou
+
+nd is given below:
+
+53
+
+
+ae
+
+jee
+
+por
+
+)
+
+vam
+
+a
+
+ye
+
+pd
+
+a
+
+TIME
+OP119:29
+Q9319:37
+
+@9:19139
+
+O9:19:44
+09219345
+@92i9:47
+@9:19:48
+@9:19:52
+O9:19:54
+Q9:20:04
+@9:26:09
+OP:2er11
+OF: 20:15
+
+@9:20:19
+
+g
+a
+bi
+=<]
+tl
+ee
+
+@9:2@:42
+
+O97: 28:45
+
+CORRELATION OF COCKPIT VOICE RECORDER TRANSCRIPT AND
+
+UNIVERSAL FLIGHT DATA RECORDER DATA (EPR VALUES ONLY)
+
+EPRI
+
+EPR2
+
+TEXT
+
+1.62
+
+1.82
+
+1,4
+
+1.54
+
+1.26
+
+1.26
+
+1.26
+
+Maintain 2500.
+
+Speed
+
+Yah.
+
+172 knots.
+
+Turn aon heading 32
+
+vector for you.
+
+Turning Sir.
+
+DE now
+
+Ha ha.
+
+Late ho gaya.
+
+Continue.
+
+(ATC transmission with
+
+Come on a heading of 240.
+
+(Altitude alert horn}.
+
+Vidhul
+
+on the ioca
+
+alo. You ar
+
+liser now.
+
+Landing gear down.
+
+Gear
+
+down.
+
+OF heading is coming up.
+
+=
+
+why are you descending.
+
+localiser alive.Continue
+
+
+Oe 09:20:44 1.417
+
+| os 89:20:44
+
+09:26:45
+
+69:20:49 1.41
+
+; 9:20:52 1.37
+Te 09:20:54 1.37
+
+9:28:56. 1.37
+
+OF221315— 1.37
+
+9:21:34 1.14
+
+1.36
+
+‘-~-Flap two five Sir. Altitude
+
+Flap
+
+Fifteen.
+
+Check list.
+
+(Outer marker crossing sound
+starts). —
+
+Localiser pakar lein pehle,
+Pick up your localiser,
+
+GE start switches.
+
+Recall
+
+Altimeter.
+
++1914,
+
+Speed brakes...
+Victor India Alpha Delhi Tower.
+Go ahead.
+
+Roger after this touch and go"
+runway in use will be 27. After
+touch and go on runway heading
+Climb 3580 feet further climb
+with Delhi radar.
+
+Copied Sir. After take off
+250@, runway heading and will
+call you down wind for 27
+Victor India Alpha.
+
+.Runway- heading 3500
+
+Copied 2508 and we call you
+Gown wind for 27@.
+
+Han ji.
+
+—7~. (ATC transmission with
+
+other aircraft).
+
+Save:
+
+ba
+
+Ee. IN RE AO Be aa
+
+ay
+“,
+
+
++
+
+99:21:25 L214 - 1.12 ° Getting too high isn’t it.
+
+O9:21:37 1.89 1.05 So you do something.
+- 09:21:48 1.08 1.02 What do we do. :
+
+fscch Sate pha . i
+1.81 Undercarriage down.
+1.01 "you have to take flap otherwise.
+1.@1 Sir fiap 25.
+1.92 Or.
+1.82 Still we are very high.
+
+Flaps 20-4@ Sir.
+1.82 Thirty forty aaye ga he nahi mere
+pas 178 knots pe.
+“£202 . But any way get the speed first.
+“1.02 ~~» OK glidesiape. Picking up: the.
+, glideslope. it is going up.
+(ATC transmission with VRE).
+’ Add power now onwards otherwise
+You will be low.
+Speed it up.
+Trim trim trim trim nose down.
+Nose down?
+Ya because the pressure is
+coming in na.
+
+Speed speed... Look, at your speed.
+We are on visual naw.
+Visual to hai speed bhi to laae.
+
+Going below bug na-
+
+
+09:22:44 ~ 1.423 1.37 " Ya ya YT. am going dewn down down
+nothing happens.
+09:22:48 | .
+
+oe A+28. 02. ..Han just stuck.to it.
+1.28 Nothing happens to Boeings.”
+1.28 Just stuck to it yaar.
+1.98 Ya.
+
+Nothing happens.
+
+(Touchdown sound). ea
+
+Ke gal hai yaar.
+
+“Chal straight. Runway seeda
+
+-lagana
+
+rotate.
+Rotate.
+
+; 7 : ee | ~ *
+a mer ese tt 2.07. 2.06 ;
+oe 7 @9123:12 5 2.02 , 2:07- “Nothing is happening. °
+~ @7:23:14 1.86 2.88 Let’s see what to do now.
+
+OF:25216— , 2.89 Positive climb.
+~ - . 09:23:18 1.85 2.18 Gear up. , .
+-_ 09:23:25 1.45 . 2.11
+~ B9:23:26 - 1.10 , 2.1it CHorn sound).
+
+“Rudder rudder rudder. °°”
+Na na leave leave.
+Leave leave.
+
+i
+Leave leave leave leave.
+
+“Ya aa... ,
+“i
+
+he. _ 57
+
+
+~ 09:23:32 1.03 ~~ 2,12
+
+L. O9223:353 41.03 211 Stick shaker sound (continues
+- : . , till crash)
+1.93 2.10 ;
+POS bese 2. OB: ee : E
+1.14 2.88 :
+11s Aah. (Crash Sound). ,
+
+a ee ey
+
+
+raft first impacted the ground at International
+
+minal apron near Bay. No.46 at a distance of approx
+
+y centre line on its left side.
+
+ss
+
+is at ‘a distance of ‘about 10,808 feet
+
+com
+
+4The crash location -
+
+inning of runway 23. The aircraft disintegrated
+
+“from the beg
+
+at the impact point and caught fire. The ground marks
+
+indicate that the aircraft path was at a heading of about 140
+Photographs showing the wreckage at the
+
+a Ae:
+
+Wreckage diagram and flight
+
+ash site are at: Annexure Ale
+
+is. enclosed at ‘annexure “EF” and ‘G’ Wreckage
+
+sft-revealed the following.
+
+At the’ unitial impact. points aluminium metal rub marks
+
+rved at a heading of about 460 degrees from
+
+wid be abse
+
+‘North. Fuel spillage and . “fire marks on the apron could
+be seen immediately after the impact point. OHfter initial
+
+rub of ‘about 7@.feet, the ground marks could be seen
+
+branching of in two directions with one towards the Aeroflot
+
+ad aircraft and other towards the road adjoining the terminal
+
+. building serving the var ious bays. The wreckage pieces
+
+these twe. trails. Ground marks on the road could
+
+i Pa tiare
+‘be seen upto the ‘Bay Ni
+
+raft “parked at Bay No.45 was 4
+
+: emoved oO
+
+4L where Fight engine was. found.
+
+< The* Aeroflot aire 4 a distance
+
+“oF “about ‘450 “feet fromthe initial impact point. The
+
+o be seen an the Serobridge
+
+wreckage impact marks could als
+
+Ss?
+
+
+a 45. arm. under which road for serving: the bays passes. At
+
+number of places deep digging marks could be observed.
+
+1.12.2 BREAK-UP PATTERN
+
+From the scatter of wreckage, it could be seen that the
+
+ae port wing, cockpit and the fuselage, leaving the tail
+
+portion, and the portion of starboard wing got fragmented
+
+““heavily indicating a very severe impact of the aircraft
+
+With the’ground in left bank condition. The fire had
+
+started immediately at the impact. The aircraft wreckage
+
+ovyed:in<«two trails one towards Aeroflot aircraft parked
+
+_ On: Bay No.45 and the other towards road adjoining the
+
+*"terminal building serving various bays. The wreckage of
+
+left wing, cockpit and the front fuselage alongwith left *
+
+engine moved towards the Aeroflot aircraft and impacted it.’
+
+As"a result Of which, the Aeroflot aircraft suffered damage
+and caught fire. The wreckage was scattered over the appron
+
+3 area in front of Bay Ne.46 to 41. Most of the wreckage
+
+pieces suffered fire damage. Fort engine which had passed
+
+across the Aeroflot aircraft suffered severe impact forces
+
+3. and was lying near the Aeroflot aircraft close to Aerobridge
+
+a . 45 pillar and was exposed to extensive fire. Cockpit portions
++ s ware’ found ‘close to Aeroflot aircraft. Some .
+
+Me ' of the wreckage got mixed up with the Aeroflot wreckage. The
+
+‘tail portion and the right engine were found on the road
+
+adjoining the terminal building serving the various bays.
+
+6@
+
+
+tm pe yo
+
+i)
+
+eee
+
+Pew er id Pee 7
+} } )
+
+Peres]
+
+woes
+
+}
+
+weaitecn
+)
+
+However the starboard wing portion was found thrown away near
+
+Bay
+
+c)
+
+d)
+
+2
+4{ on the apron and had suffered extensive fire damage.
+
+OBSERVATIONS FROM THE WRECKAGE
+
+/
+
+rupted immediately at the impact point and
+
+vt
+i
+7
+th
+w
+a
+it
+
+fire marks could be seen on most of the wreckage
+
+» Examinatien of the wreckage has revealed
+
+nv
+
+that the extent of fire damage is more prominent on
+the starboard side cumpared to port side. Further
+
+ire damage is extensive in front portien of the
+
++
+-
+
+The feroflot was hit
+which it was damaged and caught fire.
+
+The cockpit of the aircraft was completely shattered
+and proken into email pieces. No observation of any
+use could be made.
+
+Number of buckles on the fuselage portion identified
+to the poertien on left side near carge door indicated
+an impact angle of the fuselage with the ground of
+
+approx. 34 degrees pitch down.
+
+Station No. @67 was found ripped
+
+re fire damage,whereas
+
+a
+a]
+iD
+3
+7
+oO
+5
+=
+te
+5
+a
+se]
+Q
+5.
+ae
+a
+o
+a
+a
+wy
+ia
+ui
+iD
+n
+
+-ear porticn had soot deposit. Interior of the
+
+
+#)
+
+g)
+
+cabin was completely destroyed due to fire and impact.
+Only fuselage skin covering alongwith deformed structural
+
+members with grazing marks at few places could be recovered
+
+Fuselage rear portion from 867 to 12317, with aft service
+door, was found in shape though damaged along with
+
+empennage.. Port stabilizer along with corresponding
+
+elevator was destroyed and broke away from the main fuselage
+‘structure. Tip portion of starboard stabilizer broke away...
+Vertical fin was damaged at leading edge on tip due to
+crushing. Rudder portion from approximately its centre to
+bottom end ripped open and damaged due to fire. The aft
+
+air stair assembly was found largely intact. Main deck
+
+and cargo doors were located in this portion.
+
+A large piece of the right wing, from about the normal
+location of No.2(right) engine to the aileron and outboard -
+
+flat, was in shape but severely burnt. | Leading edge slats
+
+and a portion of the training edge flaps were present, but
+
+severely damaged by fire. The left wing was found in many
+
+pieces with the largest portion found being a piece of
+
+= the length of the left wing. | Th
+
+upper wing skin about <
+
+piece showed no evidence of fire. The wing centre section
+
+was also completely “destroyed. However, a large number of &S
+
+centre wing pieces were identified, some with and without
+fire damage. & number of other pieces of wing and leading>
+
+edge structure were found but their exact location on the
+
+62
+
+
+wing could nqgt be easily determined. Other components
+suéh as spoilers, portions of ailerons and wing tank
+components, such as fuel boost pump, hydraulic system heat
+
+exchanger and tubing, were aiso found heavily damaged by
+
+impact and usually also by fire.
+
+h) Fort engine was lying near Bay No.45 and found damaged
+due to severe impact and fire. Most of the blades were
+
+. found broken from the root end. Rotor discs were also
+
+found. shattered. Starboard engine was ying” near - Bay
+
+Ne and also sustained damage due impact. It did net
+show, signs of fire damage. In this case too, number of
+des ‘were found broken rom near blade root. “Engine
+¢éessories of both the engines were found detached,
+the: engine rear portions alongwith thrust reversers
+weresfound damaged. Condition of thrust reversers. .
+
+= 7 ; : ar
+
+ted stowed position. .
+
+~ . i) Nose landing gear attachment was found detached from
+
+main structure. Upper and lower drag brace links were
+
+7 . . found damaged and came out from the main structural
+
+ah! . : : fitting. -Both the nose steering actuators were found
+
+7 _in damaged condition. Nose landing gear locking mechanism
+
+was. found in broken. gondi
+gees
+
+CaS,
+
+assembly, one of the tyres had detached and the corres—
+
+-ponding brake assembly found stripped open, while other
+was found damaged due to fire. Walking beam was found
+
+attached with the landing gear,however, it came out from
+
+
+— the main structures Oleo strut and locking mechanism were
+damaged. Side strut found collapsed. Starboard landing
+gear system disintegrated. OQOleo pison broke into two
+
+. parts. — One. of the tyre -was found burst. Side strut was
+
+partially collapsed and the drag brace was intact.
+
+sed and tl Walking
+beam was found separated both from main structure and
+landing gear. Hoth the main and nose landing gear actuator:
+were found in fully extended position indicating that all
+
+‘the three gears were in fully retracted condition at the
+
+“time of accident.
+
+n
+
+ego... The cargo door which is: located on the left side of
+
+vba wes ctetet: the fuselage just aft.of the forward entry door, was
+severely buckled and exhibited extensive scrapping in
+
+ithe aft direction.
+
+“FLIGHT. CONTROLS. -
+
+As the aircraft structure had dis-integrated into
+
+pieces upto the rear portion, on the flight control
+
+_ linkage pieces, no useful observation could be made.
+wrsamae eS ee Ee . However, in the tail portion, the cables actuating
+
+~ the rudder PCU were found connected and functioning.
+
+TRAILING EDGE FLAPS
+
+~ Cut of eight flap screw jacks, seven were located(No.1,
+2,4,5,;4,7 and 8). No.2 flat screw jack could not be
+
+located as it probably mixed with the Geroflot wreckage.
+
+64
+
+
+e
+
+~ ‘LEADING EDGE FLAPS
+
+~ All the four L.E.flap actuators have been identified.
+
+_ oo LEADING EDGE SLATS
+
+~ — Out of six actuators, only five could be retrieved.
+
+Actuator No.4 ® 5 are intact while another three are in
+~ aa . broken condition and could not be identified as for their
+
+~ position due to peeling off of it
+
+i}
+
+name plates during the
+~ : _ erash. The untraced actuator is probably mixed up with
+
+th Aeroflot wreckage.
+
+0" Ugpdilérs Noi(s) 6,7 & 8 were attached to starboard wing
+
+? afd found flush with the surface. Leaving one inboard
+
+ground spoiler actuator, all other spoiler actuators were
+
+. recovered. . Piston extension measurements indicated that
+
+spoilers:were.in fully retracted condition.
+AILERONS
+
+Both the aileron FCU'’s were recovered and were found to
+
+be detached and in damaged condition due to impact and
+
+fire.
+
+HORIZONTAL STABILIZER -
+
+ales The serew jack was found intact and its ball nut was
+
+found jammed in position.
+
+ELEVATOR
+
+Both of the elevator FCU’s were found in damaged
+condition in fully retracted position. The feel and
+
+centring springs and feel actuators moved smoothly and
+
+-. normally.
+
+
+ae an RUDDER
+Rudder was found intact and attached to the vertical fin.
+The cables were found connected to the quadrant and further
+
+linkage was intact in the tail portion. Both, main and
+
+standby. rudder PCU‘'s were found intact. No abnormality was
+observed. By cable movement, linkage could be operated
+upto power control units.
+
+MEDICAL AND PATHOLOGICAL INFORMATION
+
+“post mortem of the dead bodies was carried out at Safdar—
+
+jung Hospital. Bodies of all the four crew members were
+
+found .in disfigured, mutilated and in burnt condition.
+
+The major portion of the body of the Captain was found the
+“next day with the Aeroflot wreckage in extensively burnt
+condition. Two Aeroflot personnel had suffered fatal
+
+burn injuries. While other two personnel of Aeroflot who
+had also suffered burn injuries, died later at Safdarjung
+Hospital, New Delhi. The Bharat Petroleum contractor, who
+
+suffered burn injuries also died at Safdarjung Hospital.
+
+In addition, feur persons received the burn injuries for
+
+which they were attended te.
+: wrap San cod> BEERE ore
+IGI Airport is managed by International Airport Authority
+
+of India. This airport is equipped with category IX fire
+
+“sighting services, which cover heavier aircraft like Boeing-
+
+747 category. There are three fire stations i.e.Main
+= Station located near ‘°D’ Taxi Track, Sub Fire Station—I
+
+close to domestic apron and Sub Fire Station-I!l close ta
+
+Pala aaa
+
+66
+
+
+the International Apron. There are & Crash Fire Ten-—
+
+ders, two water tenders, one highlight platform and 3
+
+Ambulances. There are 15 static tanks of different
+
+capacities at different locations at the airport.
+Static tank No.9? and Static Tank No.il are located near
+
+the accident site.
+
+A Group was Constituted by DGCA to examine the fire
+
+fighting aspects and a detailed report in this regard
+
+“was prepared. Following are the salient observations
+
+from the reports
+
+1. Aircraft accident took place at 1454 hrs IST at the
+International Terminal Apron (Apron-It) of Delhi
+Airport.--
+
+2. The aircraft disintegrated during the crash and
+wreckage hit the Aeroflot aircraft parked on Bay
+
+No.45. The wreckage of aircraft was spread over
+
+2 co the. apron--area..: There was fire all over the. apron
+
+on the Stattered pieces of wreckage and intense
+fire on the Aeroflot aircraft.
+
+3. The Cantrol Tower had sounded the siren imme—-
+diately.
+
+4, IAAI Apron T-II Assistant Airport Manager had
+transmitted on R/T that Sahara India Airlines
+
+Aircraft has crashed at Terminal II ren.
+
+67
+
+i
+"
+
+
+5. Some Main tire Station personnel had seen the
+aircraft coming down and they immediately swung
+
+into action.
+
+6. Initially, the Crash Fire Tenders from Sub Fire
+Station-tl which is located ne2~- Apron T~II
+reached the crash site followed by Main Fire
+Station and Sub Fire Station-I. The fire fighting
+vehicles from the IAAI Fire Fighting Training
+_ school located adjacent to Airport also reached the
+. site of crash. Fire fighting action began in about
+
+three minutes after the crash time.
+
+Pe fir Force Station Palam Domestic Fire Tenders and
+
+~ a water-tender also reached .the site of crash at
+
+i519 hrs and assisted IAAI fire fighting services.
+
+Water was also supplied to Airport Crash Fire
+
+Tenders.
+
+Zi
+
+’
+
+-. 8. The Delhi. Fire Services received the information
+
+at £505 brs IST and the fire fighting vehicles
+
+Ka
+
+reached around 152@ hrs IST. Nineteen water
+
+P
+
+tenders and 2 ambulances along with other equip-
+
+nents participated in the fire fighting. About
+125 Officers and men of Delhi Fire Services with
+
+units participated in this operation.
+
+CB
+
+
+~ --
+
+_ 9, The IAAI Airport fire fighting vehicles were
+_ supported by Delhi Fire Services, Air Force
+~ : Station Palam for water supply from their water
+
+tenders, - The continuity of water supply was
+
+- maintained through the static water tanks at
+
+- a the airport.
+
+- , i@. The total time taken to control the fire was
+
+about 43 minutes (1457 hrs IST to 154@ hrs IST)
+
+as per IAAI log books. However, as per Delhi
+Fire Services, the fire was under control at
+
+a oe 1615 firs.
+
+di. Though fuselage of the Aeroflot was completely
+- charred, “the spread of fire on to the wings was
+
+checked which contained about 5@ tonnes of fuel.
+
+Ss ; 12. Number of vehicles and ground equipment were
+aN
+destroyed in this fire. Also, apron area and
+three aerobridges suffered damage. There were
+
+nine casualities and 4 persons suffered injuries.
+
+a
+i
+.
+
+On the date of accident, the Airport Authority Fire
+Services had 35,886 ltrs of water, 400 Kgs of DCF
+and 5@@ Kgs.of BCF. Total of 42 Fire Fighting
+
+Personnel were on duty.
+
+
+14. There was no mobile water replenishment arrange-
+
+ment for the CFTs positioned for the fire tighting
+
+resulting in dislocation of CFTs from ideal posi—
+
+tion to collect water from Static Tank No.9? & 11.
+
+“Thus the fire fighting operation was carried out
+
+in stages.
+
+i5. The quality of the produced foam through the CFTs
+of IAAI was not standard and the fire extinguish
+ing media was not creating required actions at
+the fire to combat, as stated by their fire
+
+officer.
+
+16. On two frash Fire Tenders of IAAI, the monitor
+
+controls was unserviceable and on other two Crash
+Fire Tenders, these monitors became unserviceable
+
+“during fire fighting operation. Side channels for
+fire fighting were used on these crash fire
+
+tenders. The jet throw through the monitor did
+
+not cover the specified distance and CFTs were r
+repositioned to the close vicinity of fire in
+
+the danger zone.
+
+_1.15 --- —. SURVIVAL, ASPECT: -e ors
+
+The log © book of Sub Fire Station II and that of the
+
+ores Fire Officer indicates that six dead bodies were recev-
+
+Ee
+k .
+
+a
+
+
+ered from, the wreckage. The bodies of Sahara India
+
+j , Airlines crew had disintegrated and exposed to fire and
+" were lying stattered near Bay 45.
+
+Around. 1515 hrs. two injured persons Shri Ravinder and
+
+Shri Ikrar Gli of Oberoi Flight. Eitchen were rescued
+
+i fram the site and were sent to casualty centre at
+= terminal-i. From there they were sent to Ram Manohar
+i
+
+a ; . Lohia Hospital.
+
+Five more injured persons by name S/Shri B.P.Mashi of
+Bharat Petroleum Corporation, Damodaran of Aeroflot,
+®.Nikolai of Aeroflot with severe burns, Chagan Lal of
+IAAI and Gautam Chatterjee of Oberoi Flight Kitchen
+with multiple injuries were sent to Safdarjung Hospi-
+-tal. Out. of these persons Shri D.P.Mashi, Shri Damoda-
+ran and Shri Nikolai succumbed to their injuries in the
+hospital. Following are the extracts from Log Book '§ of
+
+MI Room, Terminal II, as recorded by Dr.Mahajan:
+
+over the body.
+
+. : Mr.Damodran, Aeroflot-aimost 60% burns ali over the
+_ . ‘body.
+
+" : Mr.@naidi Nikolai, Aeraflot - almost €@% burns all over
+_ the body.
+
+All the above three patients were given a wet saline
+
+71
+
+Mr.B.P.Mashi,.. Bharat. petroleum — aimost 64% burns all...
+
+mT
+
+
+cleaning, “then wrapped in blankets and given injec-
+tions, stabilised and sent for Safdarjung Hospital at
+
+~ i515 hours.
+
+The other two casualities brought to Terminal II MI
+Room were Shri Chagan Lal of IAAI who had received. a
+Clean laceration wound on forehead and Shri Gautam
+Chatterjee of Oberoi flight service were also sent to
+
+Safdarjung Hospital.
+
+‘TEST AND_ RESEARCH
+
+1» ELIGHT CONTROLS
+a) GENERAL
+The Boeing 737 aircraft features a powered flight
+
+control system which has ailerom and flight spoilers
+
+for lateral control(roll), elevators and movable hori-
+
+th
+
+—~ zontal stabiliser for longitudinal contral(pitch),
+
+rudder and yaw damper for directional controltyaw),
+
+and high lift devices to provide lift at the lower
+
+a, speeds for take-off and landing.
+
+Frimary flight controls(ailerons, elevators, rudder)
+; are powered by hydraulic systems “A’ and.‘B’. Either
+oe ; of hydraulic system, alone, can power any primary
+
+speed brakes for flight and ground aeradynamic braking
+
+
+j
+
+control- surface. In the event that both hydraulic
+systems ‘A’ and ‘B' become unavailable, the aileron and
+elevator controls revert to a mechanical manual
+reversion backup system and the rudder is powered by
+the standby hydraulic system.
+
+b) EXAMINATION
+
+A group was constituted by DGCA to examine into flight
+. -
+
+coantrois. Following are the salient observations from
+
+the report.
+
+i) TRAILING EDGE FLAPS
+
+The system consists of four flaps, two on each wing
+which are Operated hydraulically through mechanical
+transmission. Each flap has two flap screw jacks.
+
+Thus there are a total of eight flap screw jacks.
+
+Three flap screw jacks(No.6,7 and @) on the starboard
+wing were found intact. No.5 fiap screw jack, which
+was not intact, was identifiec from the part number.
+Three screw jacks(No.1,3 and 4) were identified from
+their orientation and attachment. No.2 flap. screw jack
+could not be located. The measurement of various
+recovered screw jacks of accident aircraft, as record-—
+
+ed, are given below;—
+
+
+Screw : “
+
+Jack No. i 2 3 4 & Fond ra 8
+nsion- = X2-X1 «85.25 25.258
+. ¢inch)
+XB w - 6 7 6.25 4.6
+-(inch)d
+
+The flap screw jack measurements on the accident
+aircraft are quite close to the Fiap 15 configuration
+when compared with the dimensions provided in Boeing
+
+737 Control Position Data Document No. D&-1i95i2-1 Rev.
+
+'D’.
+
+(ii. LEADING EDGE FLAPS -
+
+There are four L.E.flaps, two each on starboard = and
+port wings. All the four L.E.flap actuators have been
+identified. Actuator No. i & 2 are intact while No.2 $
+
+4 are in broken condition. During leading edge flap
+
+extension, the actuator extension is about 7.95 inches.
+
+In the accident aircraft case, the extension of No.1 &
+
+% actuators was also found to be about 7.797 inches.
+
+-Thus the leading edge flaps were fully extended at the
+
+time of accident.
+
+74
+
+
+iii. LEADING EDGE SLATS
+i There are six leading edge slats three on each side
+which are actuated hydraulically by six actuators. Out
+
+I . wee
+
+j ef six actuators, only five could be retrieved. Actua—
+
+tor No.4 & 5S are intact while another three are in
+i broken cendition and could net be identified as for
+j their position due to breaking away of the name plates.
+
+From the physical observations of the retrieved
+
+actuators, it may be concluded that the same were fully
+
+extended.
+
+iv. SPOILERS ++ -
+There are eight spoilers, four on each wing. No.1,4,5 &
+i 8 “are ground spoilers while No.2,3, 6&7 are flight
+3 ; oo * spoilers. Ground spoilers No. 4 & 5 have two actuators
+each while other spoilers has only one actuator.
+
+Spoilers Nowts) 6,7.&% 8 are attached to starboard wing
+
+and found flush with the surface. They are badly
+
+burnt. Fiston extension measurements of the rest of
+the spoiler actuators also indicated that the spoilers
+
+were retracted at the time of crash.
+
+v. AILERONS _:
+a . There is one aileron on each wing operated by two power
+
+-_ control units (System ‘A’ and System ‘B’). Both the
+
+~ os . - aileron PCU‘'s were recovered and were found to be
+
+
+detached and in damaged condition due to impact
+
+_ and
+g ~~ fire. The aileron trim gearbox was found in jammed
+
+condition in near neutral position. One of the aileron
+a PCU’s(lower) actuator extension is 1.125 inch corre-
+Lea . ___=ponding to port aileron deflection about 9 degrees
+é down. Another PCU(upper) actuater extension is @.25
+B inch corresponding to starboard aileron deflection of
+3
+
+about 16 degrees up. Hoth the left and right aileron
+G drive quadrants were found badly damaged. Drive cables
+
+oe _. were found separated and curled up. The left aileron
+
+a wks . quadrant was found jammed in counter clockwise direc—
+a a tion with the push rod to aileron broken. No positive
+
+conclusion could be drawn from the above observations.
+
+vi. HORIZONTAL STABILIZER
+
+The horizontal stablizer can be moved by motor operated
+screw jack. The screw jack was found intact and its
+bail-nut was found jammed in position. The measured
+position of the ball nut corresponds to about 7 units
+3 up (within green band of take-off configuration) _ as
+
+confirmed on the serviceable aircraft.
+vii. ELEVATOR
+
+Both the elevator FCU’S were found intact and in fully
+retracted position. The feel and centring springs and
+
+feel actuators moved smoothly and normally. The fully
+
+7O
+
+
+A a
+retracted position of both the FCU'’s indicate elevator
+‘up’ position. However, in view of impact forces
+
+cannot be said that this was the elevator position
+
+Prior to impact.
+
+viii. RUDDER
+
+Rudder was found intact and attached to the vertical
+
+7 fin. Both, main and standby rudder PCU’s were found
+7 we intact. When the main FCU is in operation the standby
+. idles. The actuator extension of main FCU was 3.25
+_ inches while that of standby actuator was 2.8 inches.
+_ As checked from the Document No.Dé-i95i2-1 Rev ’D’ of
+_ Boeing Ce. regarding ‘737 aircraft control position
+_ data’, .the above measured actuator lengths indicate
+_ that the rudder was deflected towards right about three
+_ , and. @ quarter degrees. ‘However, in view of impact
+_ damage to the aircraft and its controls, the exact
+~ position of the rudder prisor toe crash could met be
+
+a positively concluded.
+
+~ Functiona
+
+check of main rudder FLL and
+were carried out. ALI the tests on mein rudder PCU
+
+a“ were carried out satisfactorily except the transducer
+
+_
+
+~ null voltage test wherein the nm
+
+ri
+
+woltecs otserved
+
+Pd
+
+_ te be 185 mV as against a maximum limit of 158 mV.
+
+Tests on auxiliary rudder FCU were also satisfactory
+
+77
+
+
+except servo valve neutral position test which was
+“found to be marginally out of limits. With this varia-
+
+tion the units will still remain functional.
+EXAMINATION OF UNDERCARRIAGE
+
+Nese landing gear attachment was found det.ched from
+main structure. Upper and lower drag brace links were
+found damaged and came out from the main structural
+fitting. Both the nose steering actuators were found
+in damaged condition. In the port main gear assembly,
+one of the tyres was found missing and the correspond—-
+ing brake assembly found stripped open. While other
+was found damaged due to fire. Walking beam was found
+attached with the landing gear, however, it came out
+from the main structure. Oleo strut and locking mecha—
+nism were damaged. Side strut found collapsed. Star—
+board landing gear system disintegrated. ODleo piston
+broke into two parts. One of the tyre was found burst.
+Side strut was partially collapsed and the drag brace
+was intact. Walking beam was found een both
+from main structure and landing gear. Both the main
+and nose landing gears had sxtensive fire damage. Both
+the main and nose landing gear actuators were found in
+fully extended position indicating that all the three
+gears. were in fully retracted condition at the time of
+
+accident.
+
+78
+
+x
+
+
+i)
+
+ESL)
+
+}
+
+SUMMARY :
+i. Trailing edge flaps were selected to 15 degrees
+
+position.
+
+ii. tLeading edge flaps were fully extended.
+
+iii. Leading edge slats were in extended position.
+
+iv. Horizontal stabiliser was at about 7 units of
+trim.
+ve * Ground spoilers and flight spoilers were fully
+
+retracted.
+
+vi. Rudder main and standby FCUs were fourid function—
+
+ally satisfactory during the bench check.
+
+<
+we
+tw.
+be]
+&
+rt
+in
+re
+a
+Lt}
+aH
+rt
+40
+3
+in
+e
+2
+ft]
+a
+at
+3
+tw
+ud
+is)
+ct
+Q
+faa
++
+iy
+u
+be
+fii}
+
+ron and
+
+10
+bet
+Bb
+<
+ny
+tr
+oO
+A]
+TE
+ie]
+ivan
+in
+3
+g
+fi
+ga
+3
+fal
+an
+C
+if
+Pa
+Q
+a
+ial
+Q
+c
+~
+1
+
+be drawn.
+
+viii. Landing gears were fully retracted.
+
+ENGINES
+
+SENERAL
+
+Engines fitted on this aircraft are Fratt # Whitney
+
+JT@D-1i7. JT8D engine is an axial flow fromt turbofan
+
+Ny
+
+
+EE OB ) SE) BRD I)
+
+,E
+
+jar 9)
+
+jt y
+
+ee)
+
+ey
+
+oa
+
+engine having 17 stage spilt compressor, a mine -
+a t 5 can
+
+anmalar combustian chamber, and a enlit \ ¥our stage
+
+ine, the engi is with
+a null discharge duct. The low
+
+rotor and the #first stage turbine rotor. The
+
+> The
+
+from two point
+
+it
+
+eat the fan sischarge intermedia
+
+basically physi girtterences de-
+pending wren incorporation of the change. The dry
+weight of the is tbe.
+
+off thrust of
+
+EXAMINATION OF THE ENGINES
+
+r
+
+a) Group was constituted by DG eno
+gines. Following are the observ ork:
+
+oe
+
+
+i . Cycles Since New 10701
+Time Since Overhaul (Hours) 3165
+~ Cycles Since Overhaul 1545
+
+The strip examination was Carried out at M/s. Indian ——- —
+
+Airlines Jet Shop.
+
+ES
+
+F
+
+a FINDINGS
+
+2 ——————
+
+: i. Appreciable damage -was observed at engine
+inlet ara No.1 bearing housing was found missing. The
+
+LPT shaft was bowed at about 6 O'clock positicen “with
+
+front end up. In the low pressure compressor region
+
+most of the rotor blades were found sheared from the
+
+3 root. Those attached were broked at the root end = and
+bent in a direction opposite to the direction cf rota—
+
+tion. The 3rd, 8th and. 9th stage rotor “disks were
+
+. : -* found sheared - circumferentially near the rim. LPC
+
+stator vanes were found in pieces. 8th and 9th stage
+} . stators and seal spacers were also found badly damaged.
+Condition of i3th stage disk were found satisfactory
+and most ef the blades were damaged and bent opposite
+
+to direction of rotation. 2rd stage turbine blades
+
+were found bent opposite to the direction of rotation.
+
+2. All the fuel nozzles were found in position.
+There. was no sign of burning on the fuel manifold and
+
+na cocking was observed on any of fuel nozzle. Condi-
+
+Bs
+
+
+y tion of all the combustion chambers from inside was
+~ ; . found Satisfactory. -.There.was no sign of oil streaking
+g er burning or metal spattering. First stage NGVs were
+
+found in satisfactory condition. No symptoms of fire
+
+were observed in _the hot section area... No fused metal
+
+was observed in the turbine stages.
+
+CONCLUSION
+1. Condition of the fan rotors, low pressure
+
+“compresser and. bend in the low pressure turbine shaft
+
+‘indicates. that a severe impact suffered by the engine.
+
+_There is no. indication of any engine fire.
+
+awn Bae .Na. evidence of foreign object which could
+
+affect the performance of the engine was .observed in
+
+The physical condition of the engine parts
+
+investigated confirmed that the engine retors were
+
+rotating ata higher speed at the time of impact.
+
+5. : The three engine mount provisions appeared to
+
+be intact before the engine impacted at. the crash site.
+
+a.
+
+- ba No hot section distress was observed.
+
+3.) G
+
+- Te . Determination of Engine Pressure Ratio (EPR)
+
+
+L ~is not possible from the physital examination of engine
+
+hardware.
+
+!
+
+STARBOARD ENGINE OUT
+
+od
+
+Type of Engine - FP ® W JTBD-17
+
+L
+
+a Serial No. . 702652
+
+L Constructor’s Name ®& Address FRATT & WHITNEY
+Time Since New (Hours) ; . . 23722
+
+Cycles Since New 20837
+
+Time Since Overhaul. (Hours) 12182
+
+Cyéles Since Overhaul . ty 11280
+
+-)). FINDINGS
+
+Appreciable.damage ws. observed at, engine inlet area.
+
+Bolt holes of visible compressor rotor disks were
+Blongated. Most of the compressor rotor blades were
+
+--found sheared and those available were bent opposite to
+
+a- . : . ; : :
+iS ek : the direction of rotation. Compressor stator vanes
+Ohi tre ; ow. were observed to be bent in the direction of rotation.
+A So . In 3rd stage about 58% of rotor disk was found broken
+
+with circumferential crack of 6@ degree. The 4th stage
+
+dove tail shroud was found damaged/pressed all round
+
+,periphery- ‘In the turbine 4th stage available blade
+portions were found bent in anti clockwise direction
+
+and had rub marks at their convex area. Also in the
+
+23. 3rd stage NGV’s rub marks were observed at the trailing
+
+}
+- f
+i
+
+83
+
+
+edge. However, no symptom of fire or fused metal
+
+~~ deposit was observed.
+
+~ ; * CONCLUSION
+
+- 2 ie. : There is no indication of any fire on the
+- : . *” engine. | . .
+~ “2, The condition of the rotating parts indicated
+
+~ . that the engine rotors were running at a higher speed
+
+7 mos sons ce. at the time of impact.
+
+oe All the damages/breakages on the engine
+
+-~; “Poet on external. parts were purely due to external impact on
+
+the engine.
+
+4: All the three engine mounts provisions ap-
+
+: peared -to-be intact until the engine impacted at the
+
+crash site.
+
+©. . hee 5. No hot section distress was observed as
+
+viewed with the help of boroscope to the extent “possi-
+
+.ble. - - - ia
+
+&- . ‘Determination of Engine Pressure Ratio (EFR)
+
+is not possible from the engine hardware.
+
+1.16.5 SPECTRUM ANALYSIS OF THE ALTITUDE ALERT AND UNSAFE
+
+LANDING CONFIGURATION HORN AS RECORDED IN CYR.
+
+
+During the reply of the CVR tape, it was observed that
+a horn of unsafe landing configuration had sounded at
+
+reference time 74.44 and aititude alert hern at refer-
+
+ence time 17:42. To confirm that these horns were
+
+truly ‘the unsafe landing configuration horn and alti-
+tude alert horn respectively, comparative spectrum
+analysis of the horn seunds, as recorded in the CVR and
+Laboratory recerded true horn sound, was carried out at
+i , DGCA Laboratory and then at the facilities of National
+
+Aerospace Laboratory, Hangalore and Bhabha Atomic
+
+Research Centre, Bombay.
+
+The. details of the frequencies of altitude alert horn
+
+and unsafe landing configuration horn were obtained
+
+from Boeing Co. The details of the frequencies are as
+
+yey
+
+follows:
+
+i
+
+id - ALTITUDE ALERT HORN
+
+{ A, The altitude alert warning sounds one to two
+
+seconds when the airplace approaches a selected alti-
+tude either in ascent or descent. The warning horn is
+
+a ‘C’ chord and has three frequencies of 512 Hz, 64@ Hz
+
+, on .
+i. and 768 Hz with a tolerance of + 5%.
+
+a iid UNSAFE LANDING CONFIGURATION HORN
+
+The unsafe landing configuration warning horn
+
+sounds continuously until the condition is clear. Tt
+
+a
+ie
+
+
+>
+
+=
+
+has a singte frequency of 25@ Hz with a tolerance of +
+
+iS”.
+
+The extract of the reports are as follows:
+
+de - BHABHA ATOMIC RESEARCH CENTRE RESULT
+
+id The horn sound at 17:42 and the Lab
+altitude alert hern sound are close to
+each other with a 8.5% decrease in the
+
+CVR signal frequency spectrum shift.
+
+ii) The horn sound at 34:44 and the Lab
+unsafe landing configuration horn sound
+are close to each other with a 3%
+increase in the CVR signal ‘frequency
+
+spectrum shift.
+
+iid NATIONAL AEROSPACE LABORATORY
+
+Spectrum of Lab recorded altitude alert horn
+
+17 He, 647 He and 77? Hz and
+
+tA
+
+showed prominent peaks at
+Spectrum of harn recorded in CYR at reference time
+17:42 showed prominent peaks at 478 Hz, S99 Hz and 728
+
+Hz. A constant ratio of 1.96 between corresponding
+
+Spectral peak locations was observed.
+
+Spectrum of Lab recorded unsafe landing
+configuration hern showed prominent peaks at 292 He,
+
+585 Hz and 877 He and spectrum of horn recorded in CVR
+
+86
+
+AS PEE S.
+
+
+prays
+
+bon
+ron
+
+L.i7.i
+
+oa
+if
+
+ADDITIONAL INFORMATION
+
+LOGICS FOR AURAL INDICATIONS IN CASE OF UNSAFE LANDING
+
+CONFIGURATION
+
+
+yy
+
+ane
+
+=
+
+oo
+
+pore
+
+yo
+
+pet pe
+
+jr me
+
+—
+
+Jom
+
+i
+
+AURAL INDICATIONS
+
+ADVANCED AIRPLANES
+
+in a landing configur
+
+The is BF ta
+time is
+gear is not down. . The warning hern is
+
+f
+
+ding gear not down
+
+provides a steady
+
+hern
+
+ans and low engine EF
+
+tion and
+
+activated
+
+w
+oO
+
+the
+
+by
+
+
+aw OS 9.47.2. STALL WARNING SYSTEM
+
+Following is the extract from Boeing 737 Operations
+
+Manual regarding the Stall Warning System:
+
+t
+
+Pe “STALL. WARNING SYSTEM ~-
+Warning of an impending stall is required to otcur a
+minimum .of seven percent above actual stall speed.
+
+Natural stall warning (buffet) usually occurs at a
+
+.$peed -prior to stall. In some configurations the
+
+EWeen” Stall ahd" stall warning (buffet) is less
+than the required seven percent. Therefore, an artifi-
+
+tial stall.warning device, a stitk shaker. is utilized
+
+/* provide “the required: warning.
+
+Fhe stall. warning system or "stick shaker" is designed
+to alert the pilots before a stall develops. The
+}-- - : warning - is given by vibrating both control columns.
+~ The... system is energized in flight at all times. The
+[~ o a sytem is deactivated en the ground by the = airground
+
+7 safety sensor.
+
+- oo The stall warning system consists of a control column
+7 shaker. (eccentric weighted motor}, a heated angle of
+~ . “airflow sensor, a flap position sensor, a stall warning
+a , _ amplifier, the air-ground safety sensor and a stall
+
+i- : , warning panel on the aft overhead panel.
+i
+
+stern
+
+a9
+
+
+Following ‘is the extract from Boeing 737 Operations
+perative Familiarizaq |
+
+he topic "Engine Ino
+
+Manual under t
+
+he airplane?
+
+regarding handling u
+
+Establish or maintain control of flight path
+"tly the: airplce"-
+
+and airspeed, in other words,
+
+RUDDER AND - LATERAL ‘CONTROL,
+
+ounte sehe thrust | casymmetry due to an
+
+Ae
+
+rudder » Rudder
+
+engine, failures, col Pp
+
+pptication should “always be emooth and at the «same
+
+“pate as” “ehrust: changes
+under “instrument conditions. the instrument
+: round -the attitude ‘Gndicator. - Roll
+nadin
+
+ndjication: of: at) asymmetric co
+
+“ROLL: ‘eontrel:(aiteron®) should ‘be used to: “hold
+
+red bank angle.
+
+“the wings ° level (or maintain the desi
+
+r should be applied to
+
+approximately center
+
+2 The rudde
+
+_ the wheel-
+“hold
+
+Make turns at a constant airspeed and
+isplacement constant. Do not attempt to
+
+the rudder a
+Rudder
+
+ate: rudder and lateral controt in turns.
+
+axcite roll due te ¥
+oscillations with
+
+coordin
+aw and induce the
+
+fae ea a
+
+pedal inputs ‘wilh &
+
+)
+
+his own rudder
+
+pilot to counter
+
+oem ny
+
+opposite control wheel.
+
+
+ISSUES FNVOLVED
+
+Before dealing with the vital issues/aspects
+to be examined in the enquiry, the issues/aspects in
+respect of which there can neither be any controversy
+nor there is one, namely sabotage and weather
+
+conditions may first be dealt with.
+
+SABOTAGE
+
+During investigation the wreckage was
+
+7
+
+ccexamined --by a group. constituted for the purpose (of
+
+finding out the explosion/sabotage being the cause . of
+the accident. The disintegrated parts of the aircraft
+were examined with a view to find out whether the crash
+
+was: due to any explosive device or not, The sailent
+
+_ pbservations of the group report ares~
+
+1. The fragments/debris materials may have
+
+curling/ringlet effects and spike toothed fractures on
+
+metal surface. These characteristics have net been
+
+observed in any part ‘ot the wreckage.
+
+2. The incident of an explosion, the fragment
+will strike the surface at a glancing angle and produce
+gouge marks in the surface. No such gouge marks were
+
+noticed on the recovered main wreckage.
+
+91
+
+
+3 Due .to the hot detonation gases, melting
+
+and
+
+@rosion on the surface of the metal is Possible which
+
+is termed as ‘gaswash’. The debris/wreckage found in
+
+heavily melted condition is not due to detonation
+
+gases, but may be due to excessive heat generated
+
+during the fire,
+
+4, Cupping and dishing in the near vicinity
+metal surface isa very common phenomenon with high
+
+explosive detonation, which is not observed
+
+on
+examination of the wreckage.
+5. There is possibility of embedding the high
+velocity fragments in rubber foams/cushions during an
+explosion. The recovered cushion seats were examined
+
+to find out penetration holes of fragments/embedded
+
+fragments, No such sign of Penetration have been
+
+neticed. : -
+
+&. No part of bomb such as battery, wire,
+
+Portion of detonators etc were recovered,
+
+7. On detailed inspection and investigation of
+the wreckage debris: of the = crached aircraft, na
+charatteristic evidence of an explosion such as
+fragmentation, curling/ringlet effects, spike toothed
+
+structure Of metals, gas washing, pitting and rolled
+
+edges have been noticed, No sian of cupping/‘dishing of
+
+92 -
+
+
+7 =
+
+- metal surface is seen. No positive characteristics of
+
+= a mid air explosion were observed from the
+
+~ wreckage/debris examined.
+In view of above, itis conciudéd that crash
+in question did not occur-- due to sabotage or explo-
+
+sion.
+
+* WEATHER CONDITIONS.
+
+ai!
+
+«
+~ : The metrological information/reports supplied
+- by the Met Office of Delhi (Palam) indicate that there
+_. was no significant weather at Palam around the time of
+~ the accident. The aircraft was on visual circuit and
+~ landing.;. The following weather ehisted at Palam around
+~ the time of the accident:-
+7 14@0 brs IST 1420 hrs IST 1580 hrs IST
+7 # Surface wind SIO/1i2 2H@/12 298/18
+- Visibility & Km 8 Km 8 Km °
+/ Cloud Scattered Scattered Scattered
+- 20,000 ft. 28,080 ft 20,080 ft
+
+Weather No Sig. No sig. No Sig.
+Temperature/ 27/87 28/84 27/06
+Dew Foint
+
+(deg Od oe
+
+. QNH . 1914 : 1913 iM13
+
+
+It is evident from the above that during the
+period of training flight the visibility was around @ kms
+
+and the weather was very fine and it did. net contribute
+
+“directly ‘or -indirectly to* the accident. The weather
+
+condition in Delhi was, therefore, not the cause of the
+accident.
+VITAL ISSUES
+
+The vital issues/aspects to be examined in the
+
+inquiry, as also agreed to by the participants, were formu-
+
+lated as: under:-
+
+: oe , System failures: and/sor
+
+De ; Crew errors and/or
+
+Regulatory and control functions of
+
+LDGCA, NBA and IAAT. « ‘
+
+- FACTUAL ASPECTS
+
+aspects let me.first notice, the factual aspects in respect
+Of which either there is no dispute or which have been fully
+
+established, as follows:-
+
+“Le a - Sahara an Air Tari ‘Operator started its
+
+“operations (in India in December 1992 with two Boeing 27
+
+“0@ Aircrafts and one of it was VT-SIA Serial No.21763.
+
+This aircraft’ was airworthy as per Certificate of
+
+With a view to understand the aforesaid
+
+é
+
+
+Airworthiness.
+
+2, The aircraft operated the flight Delhi-
+Bangalore-Delhi on &th March 1994 uneventfully and landed at
+
+Delhi Indira Gandhi International Airport at 13.28 IST.
+
+rr)
+
+>
+
+uy
+
+2
+:
+
+my
+
+3. Bn 7th March 1994 Capt.V.N.Arora, Chief
+Operations Manager of Sahara arranged for a training flight
+for -8th March 1994, Capt.Parveen Khurana was to be the
+
+Instructor. for the said training flight and Wr.F. Singh,
+
+Mires Vidal. Mahajan and Ms. Anshu Khurana were the trainee
+“pilots. The training flight was planned for 13.32 hours on
+
+“Sth March, 1994,
+
+5
+
+4, As per flight plan the duration of the local
+
+training flight was 2 hours and it included Circuits and
+landings. Before start of the flight Pilot-in-Command told _
+Ain, Traffic Control of the intention to carry out 9 circuits
+
+and. landings.
+
+5. All the 4 crew members had undergone Fre-
+Flight Medical Check Up and nothing adverse had bean
+noticed.
+
+&. The aircraft had 15 tons of ATF on commence—
+
+ment of -thes fight s« The take off weight was 467290 Kgs: which
+
+was also the maximum permissible fanding weight.
+
+7. There was no significant weather at Falam
+
+
+either” before commencement of the flight or at any time
+
+wee -
+
+L thereafter till the accident.
+
+Le
+
+Coe 8. The. aircraft was on visual circuit and
+sors. Landing. The runway in use was 268. The navigation 9 and
+
+communication aids at the Airport were serviceable and
+
+functional during the flight.
+
+Fane : . The aircraft got airborne for the first time
+ate.e42 UTC with Capt.P.Khurana as PIC/Instructor and the 3
+
+rainee pilots. This take off was executed by the PIC.
+
+10. The aircraft then carried out 5 touch and go
+
+landings at 9851, 0857, 0787, @714 and @923 UTC. The first
+
+“three touch and go landings were with trainee pilot F.Singh
+
+‘and. the next two with trainee pilot Vidul Mahajan. The
+. “oaircraft.was in continuous two way contact with ATE from the |
+I : ” time of “start at @832 UTC till about @921 UTC i.e. upto
+about 2 seconds prior to the accident. During this period
+of the flight or even upto the time of the accident, there
+
+.was. no transmission to the ATC of any observed abnormality
+
+or of any anticipated/real emergency.
+
+~—
+
+“ga . . Fhe aircraft was observed to be in’ normal
+
+pease
+
+flight after Sth teuch and go upto about 4@@ feet height.
+
+} 7 . Then it suddenly started turning left with port-side bank.
+
+which was increasing. The aircraft lost height and = plunged
+
+
+oo Ente en, batceine, tebe oe
+
+to the ground. The accident occurred within I.G.I.A. °‘Air-—
+' field, Delhi and near Apron II at about @924 UTC. The crash--——--—
+siren was sounded promptly by ATC, even as Aircraft was
+
+impacting the ground.
+
+iz. The CVR transcript does not indicate of any
+
+prior caution to the trainee pilot any time before the
+accident that the port engine was being retarded to idle
+
+after the Sth touch down to simulate single engine condi-
+
+& “
+
+~ tions.
+
+13. UFDR data indicates EPR-I value coming down to
+
+‘idle’ valine after the Sth touch-down and before accident.
+
+14, All 4 crew members of Sahara aircraft and also
+4 other working in the Aeroflot aircraft in addition to one
+Bharat Petroleum employee died as a result of the accident.
+
+Three employees “of the Oberoi Flight Kitchen and an IAAI
+
+_ > Contractor also suffered some injuries. As a result of the
+
+_ ~ accident both the aircraft were totally damaged due to
+
+~ impact and_ fire.
+
+= iS. The three trainee pilots had underarne simula-
+
+- tor training in Boeing 737-200 simulator in British :
+_ Caledonian in December 1993, January 1gs94 _ under
+
+- Capt.R.N.Rao. They had been given CA4@(A) Check by Capt.
+
+- V.K.Sharma and were declared successful.
+
+97
+
+
+ié.
+
+1992.
+
+7
+
+—-2@@ while in service in
+
+did net ever exercise the privileges of a Check Pilot before
+
+being employed by Sahara.
+
+i?. Capt.ERurana was
+
+24
+
+a.
+
+DGCA vide their letter date
+
+tor vide letter dated @&th March i994,
+
+is. The fateful flight of @th March i994 involved
+
+first
+
+ever
+first 72? Boeing Flight flown by the three pilots in actual
+
+Aircraft,
+
+19. The accident took place during third and final
+Vidul Mahajan. According to
+e@ircraft for a final take
+
+SYSTEMS FAILURE
+
+
+manufecterer of aircra
+
+oh
+
+t
+
+regulatory body er any other organisation/system. Rll these
+aspects of failure of systems other than that of failure of
+
+‘aircraft or its
+
+S part would be examined and dealt with, for
+the reason and sake of in the later Hark of
+this report, with the third issue namely oF
+
+gulatory and Control
+
+Before dealing with the aspect of failure oF
+
+part(s) at aircraft, let me notice the type of CVR & UFDR
+
+and aiso certain matters rel
+
+a
+
+The fare child Cockpit Voice Recorder (CVR)
+
+Model No.A-189
+
+was fitted on the
+
+nroraft,. recor
+
+a
+Q
+a
+pe
+
+Channel We.2) for
+
+pra
+
+Found satisdac
+
+
+then with the fRelp of ATC transcript, reference time was
+converted into universal coordinated time (UTC). The reie—
+vant CVR tape transcript is Annexure "A" to this report.
+
+The UtC time in Annexure "A" were achieved by cerelating
+
+full 3@ minute-detailed-record an CYR,
+
+UNIVERSAL FLIGHT DATA RECORDER (UFDR)
+
+The parameters recorded in the UFDR fitted in
+the aircraft have already been noticed in earlier part of
+this report as also the facts about external damage suffered
+by the outer casing of this unit and also facts about the
+data retrieved at M/s.VSM Aerospace Facility at Bangalore
+and at National Aerospace Laboratory, Bangalore. On perusal
+of the data decoded at the said two laboratories it was
+
+Considered necessary to get the data further refined at’ the
+
+laboratory of National Transport Service Hoard, Washington
+
+who had long experience in the field. The Unit was
+accordingly taken to Washington, USA and Mr.Dannis R.Grosy
+and WMr.Elfard W.Dickenson participated in the meetings fer
+analysis of the data and for read out from the tape of the
+UFDR Unit in question. Mr.Dennis worked on the UFDR Unit
+and transferred the data from the tape ta the Computer and
+then -protcessed it. The report of NTSR is E&x.é, The
+reference inthis report to UFDR data, as was also done by
+learned counsel for participants during arguments, is to the
+
+data prepared by N.T.S.B., Washington, USA (Ex.6),. The
+
+1a@
+
+
+?
+in.
+ry
+i
+
+}
+
+relevant UFDR data is Annexure "RB" to this report.
+
+TIME -CO-RELATION OF CVRUFDR AND’ ATC TIMING
+
+Time is not recorded on CVR. On UFDR frame
+
+counter readings are recorded every second. These counter
+
+readings ‘are used as time counter. To achieve co-relation.
+between CYR and UFDR, some specific Points are required:
+which can be identified on both CVR and UFDR. One of¢ the
+
+standard methods used for co-relation 2s through the:
+
+recording of VHF Keying parameter of UFDR. A transmission:
+
+“from aircraft to ATC requires the use of Press—to-Talk (PTT)
+
+switch. The UFDR records the use of PTT switch and this.
+
+Parameter is known as VHF Keying. With the identification®
+
+of the transmissions to ATC récorded on the CVR, it ish.
+
+possible te tco-relate CVR transmissions with UFDR
+
+recordings. With the same method, the CVR recordings and
+ATC recordings can be corelated. The ATC recordings have a
+time channel which records time in UTC. The time of ATC is
+normally co-related to CVR and UFDR as it is a real time
+
+clock.
+
+As noticed above, the corelation of time as’
+
+given in CVR Transcript (Ann.’A') and as given in the earli-
+
+er part of this report in relation to EPR values only was o
+the .basis of a full 38 minute Period recorded oan the EVR
+Tt was,showever, felt essential to obtain more acturate
+corelation which was possible if the UFDR data and CVE
+
+transcript is required to be co-related for a Crucial time
+
+1@1
+
+
+Of one minute or s9, inssead of relying
+
+upon co-relation
+
+done for 2@ minutes. Accordingly, the cCo-relation of CYR
+transcript and UFDR data has been prepared as follows:~
+
+A touch down sound of the Sth landing has been
+
+recorded on CVR which is at 09:22:55 UTC. This touch down
+
+can also be nermally identified on the “vertical eccelerag—
+
+tion’ parameter recorded on UFDR. The vertical acceleration
+
+is recorded 8 times ina second. UFDR read out shows that
+
+‘touch down Was between frame No. 2888 and 28a9 during which
+
+the vertical acceleration has a maximum peak of 1.35 6.
+
+/This touch down point in the fe-relation = chart has been
+taken as 8 second and all other timings (in seconds) are
+from this touch down Point. This co-relation Chart is
+
+Annexure ‘C' to this report. For better understanding the
+
+frame number of UFDR read out have + been incorporated in
+
+another co-relation Chart which is Annexure ’D’ to this
+
+report.
+
+To get more accurate time on CVR transcript in
+
+aforesaid charts for CVR recordings of about 58 seconds vere
+stored in 5 frames of i@
+
+seconds each in Spectrum an
+
+ww
+
+lyser
+and the tauch dawn was Used to determine the exact timings
+of the CVR call outs
+
+1G=
+
+
+sy
+
+CRASH POINT
+
+In CVR the last touch down point after the Sth
+
+circuit and the crash point is clearly recorded. The
+time differences between thre two events from the exact
+timings obtained by above method is 43.5 seconde. On
+UFDR touch dewn point is identitied by the Sth record—
+ing of vertical acceleration peak of 1.3.5 Gin frame
+No.2868 i.e. half frame. ‘The last recording of UFDR is
+till end of frame No.2931 which contains all good
+recordings of vertical acceleration. Therefore, as per
+UFDR the time differences between touch down and last
+recording is (2932 minus 2866.5) 43.5 seconds. Instead
+of taking 2931, the figure 2922 has been taken Since,
+as stated above, the recording till the end of 2971
+‘contains all good recording of vertical acceleration.
+It stands clearly established that the time differences
+
+from touch down to crash point is 43.5 seconds,
+
+ENGINE PRESSURE RATIO (CEPR)
+
+The fall in the value of EFR of the left
+engine also stands fully established from the material
+and data on record. . None of the participants including
+
+counsel for Mrs.fhurana disputed the facts relating to
+
+192
+
+
+yen tre,
+
+the fall of EPR value of th® left engine. The decline!’
+
+in the left engine EFR started from UFDR Time 2989 and
+
+it continued for 5 seconds i.e. upto time frame 2914,
+
+In just 3 seconds (UFDR time trame 2719 to 2912)
+
+there
+
+has been about 28% drop in EFR value. During 5 seconds
+
+from 2909 to 2914 the aircraft developed &@ positive
+
+rate of climb and at UFDR time 2
+
+Capt.Khurana  an-
+
+nounced that he was putting the ‘gear up". The EPR
+value of left engine is almost constant from UFDR time
+2914 to 2917. The EPR value again started a drop) from
+
+UFDR time 27917 and reached almost idle position at UFDR
+
+time 2921. At UFDR time 2919 the unsafe landing confi-
+
+Qration horn sounded. At UFDR time 2922 Capt.Khurana
+
+called "Rudder, Rudder, Rudder". The aircraft rolled
+severely to the left reaching an extreme of 101.9
+degrees left wing down at FDR time 2925, Within
+
+about
+
+less than 2 seconds Capt.Khurana shouted "Na Na leave
+
+leave”.
+
+According to Mr. Mahajan, counsel for
+Mrs.Khurana, the drop in EPR was not on account of,
+retarding the left eigine thrust lever by Capt. Khurana
+but if was an account of fuel starvation as a result of
+malo functioning of Fuel Control Unit. According to
+other participants the drop in EPR value ef left engine
+was on account of retarding of left engine thrust lever
+
+by Capt.Khturana. .
+
+194
+
+
+_ F.C.U. -
+
+Mr.Mahajan suggests that the Fuel Control Unit
+
+of the lett engine (Port engine) was not fully  func—
+
+tional and the blockage of the fuel nozzles could have
+
+led to the drop of EPR value.
+
+. The aircraft had been subjected to 70 Checr in
+“tS : ‘
+
+USA -in.1993 before it was flown to India. Further, the
+
+aircraft. had been subjected to: "C” check on &th March
+
+1994 and it is in evidence that at that time the fuel
+
+hozz2s. were cleaned. The Symptoms of Fuel starvation
+in an aircraft specially on take off stage, when full
+Power is applied, are typical. No attempt has been
+
+made “in evidence to bring out the typical symptoms of
+
+. fuel o starvation - or of blocked nozzles. Neither the
+° ' . pilot nor the engineer witnesses have been asked spe-
+~ sy cific and pointed questions on this aspect of symptoms
+7 of fuel starvation. If FCU was not functioning or was
+
+Roetos - mal functioning, as suggested by Mr.Mahajan during
+
+submission, certainly there would have been some
+
+indi-
+cations in the Cockpit, It if not so, The FOU is a
+condition monitored compenent,. According, to
+
+Me.S.Krishnan the Quality Control Manager of Sahara,
+whO appeared as a witness, the FOU is a condition
+monitored component and had had done FEEQ hours
+
+since
+
+installation. Mr.Erishnan also stated that fuel nozzle
+
+105
+
+
+scleaning was done on 6th March, i994 at the time of c
+
+Check. Tt is stated that it took about more than sae
+
+man power to carry cut the C check in which more than
+
+4@ persons were involved. According to Witness No.7
+
+Mr. PK. Chhatopadhaya also the Fuel Nozzle Cleaning was
+
+Carried out on &th March, 1994 and that the
+
+POssessed the Necessary nozzle c
+
+rt
+
+he very inception of the Organisation, The adr
+
+EPR has been Gradual. Had there been total Sudden
+
+stoppage of fuel, it would result in abrupt drop of EPR
+
+value. On the other hand, if totai stoppage of fuel
+
+inflow is not there but there
+
+s
+
+3
+
+i
+
+miy a leakage of
+fuel, it would not result in the EFR value dropping to
+
+idle, In such an eventuality the drop in EPR can be
+
+set off. by use of the throttle, The EPR has not
+
+dropped abruptly but gradually. r+ may also be noticed
+
+that while setting the take off Power of an engine, the
+
+Crew is required to Open the throttle to the extent
+
+that gives the required take off EPR SS per the atmos—
+
+pheric condition. There is no evidence to shaw that
+
+the engine did not develop the required power, If the
+
+Compressor Delivery Frocess(CDF) line wes loose it
+
+would have created & leak which would have required the
+
+throttle to move further than that of Engine No.2?
+
+and
+there would certainly been a mention of it during the Us
+training flight. No such mention has heen made,
+
+this view of the matter the condition of 18 FSI¢ Pounds
+
+106
+
+
+.
+
+~ Fer. Square Inch) of Engine No.1 and 11 FSI of Engine
+
+~ No.2 is of mo cansequence and is not indicative of
+looseness of CDF line causing drop in the performance.
+Regarding suggested mal functioning of F & D value by
+not tightening the input or sutput lines of the same by
+oversight, it has to be noticed that these lines handle
+fuel under a very high pressure and any looseness will
+cause a very high fuel leak which cannot be missed and
+in absence of any indication of it the mal functioning
+
+od of fF & D value is ruled out. Further, such mal func—
+
+tioning...would also,affect the starting of the engine
+
+and there is no evidence to show that the starting of
+the engine.was effected in any manner. There is.also no
+evidence that there was any loud compressor’ soiled
+noise since the sudden blockage of CDF line would have
+resulted in such.a noise Which cannot be missed. No cas
+
+such.sound has been recorded by CVR. The blockage . and
+
+shearing of CDP line is ruled out.
+
+The FCU was inspected by a Team of Experts at
+
+Calcutta. The “FCU inspection report is Ex.3. The
+
+inspection had taken place nearly 4 months after the
+
+accident. The basis of submissicn af FCU malfunction—
+
+U
+
+ing is this report. lt se However « clear that
+
+the FOU having been exposed to weathering a& part of
+wreckage for aver four months must have got somewhat
+further damaged. Even grass was formed inside it. It
+
+cannot be that FCU was in such a condition on 6th Merch
+
+107
+
+
+my
+
+ry
+
+nao’ os!
+J
+
+y
+
+4
+
+ar
+
+wa) se ig
+
+Caray
+¥
+
+a en a
+
+1994 during the flight. The FOU. mal
+
+functioning on
+
+account of = D Cam wear/rusting during the. course of
+
+Shop Test/Strip examination report (Ex.3) 8S nmeticed
+
+above, would have been on account of exposure for about
+
+4 months. If the condition of FCU, when it
+
+stalled in the Aircraft, had been as mentioned in Ex
+
+it weuld have certainly reflected in the performance of
+
+the engine and the behaviour of the engine would have
+
+been reported by the Filots of the Previous sectors.
+
+Nothing of the kind was done. The consistent Operation
+of the engine prior to the crash suggests that there
+
+Was no mal functioning of FCU attributable to = D.Cam,
+Toomay, however, mention that FCU being one of vital
+component should net have been left on site and ought
+to have preserved by the Inspector of Accidents to
+avoid its exposure to weather conditions.
+
+Mr.Mahajan submitted. that as per ‘OC check
+schedule the removal and installation of Pap valves
+requires that serial number of the Port and = starboard
+valves should be inserted on the sheet.at the time of
+
+removal as well as installation to ensure that there is
+
+no intermixing af vaive
+
+ut
+
+of the port. and starboard
+engine, Learned counsel also Pointed out that
+
+neither the. “off. number’ nor ‘on
+
+entered during the ‘ check, Tt
+
+148
+
+was iIn= 7
+
+
+samples of engine 011 and sending the same for chemical
+
+analysis and in -this case na such finding with regard
+to result of such analysis has been recorded in the
+"C’ Check schedule which would be essential to monitor
+the possibility of a Power failure of the engine. It is
+
+further pointed eut that there is a requirement of 5
+
+seals for the purpose of carrying out © Check. Tt is
+submitted that nowhere in the ‘°C check schedule it has
+been stated whether the seals were actually procured
+and changed. Tt is submitted that at the time of
+installation of P & D valve in ‘&’ check seals have to
+be. changed since the Seals cannot be reused omce the P
+& D valve is removed. Tt has been inferred that use of
+the old seals could certainly result in fuel leak/power
+
+joss.
+
+Though there may be substance in the
+submission in regard to the maintenance of record as
+pointed out by Mr.Mahajan, but this enly shows that
+the record as is expected to be maintained by the
+Operator at the time of carrying out °C’ check schedule
+was not properly maintained. Nothing more than this
+can be. inferred particularly keeping in view the obser—
+vations made hereinbefore that assuming there was
+leakage it would have affected the starting of the
+engine and there is no evidence to show that the engine
+was affected in any manner and also that the Impose FO &
+
+D valve would have been noticed since these lines
+
+1@9
+
+
+handle £fui@l under a very heavy pressure and looseness
+
+will cause a very high fuel leak which cannet be
+
+missed. Therefore, the non maintenance of the record
+Properly during ‘C’ check schedule is certainly an
+irregularity ....but the same cannot be attributed as a
+
+cause of the accident.
+RUDDER CONTROL UNIT.
+
+Mr.Mahajan then contended that it is possible
+that rudder actuated piston in the aircraft may have
+gone in a direction opposite to. the intended direction
+resulting in reduced controlability of the Airtraft
+which may have caused the accident. If that was so
+there would certainly have been indication in the CYR
+about the mal functioning of rudder, The call "rudder,
+rudder, rudder" was made at UFDR time frame 2922 and
+
+the crash occurred at the end of UFDR time frame
+
+In this phase of 9 seconds or during about @ seconds
+from the call ‘leave, leave’ to the time of erash there
+is nothing . in CVR to suggest the mal functioning of
+rudder whith is difficult to accept in case the rudder
+was mal functioning and going in a direction Opposite
+
+to intended sne.
+
+Further the rudder FCU was examined in Indian
+
+Airlines facilities and the test was found Setietacto—
+
+118
+
+
+ry. In the said test, however, the dual servo valve
+manufactured by ‘M/e.Farkar Henifin could nat be
+checked. The unit was also sent to M/s.FParkar Henifen.
+The report of the said organisations establishes
+beyond doubt that there had been no reversal of rudder
+
+control. The report rules out any jam. In view of the
+
+fact that there was no jam and also bearing in mind
+
+ft
+
+other aspects noticed above, the fact that dual serve
+
+t
+
+valve may have been changed by someone other than the
+manufacturer, (a fact which could not be ascertained on
+account of absence of the complete maintenance record
+of the rudder unit) in any case, does not show the mal
+functioning of rudder FCU. Tt (is, therefore,conciuded
+that the mal functioning of rudder PCU has not been
+
+established as a cause of the accident.
+
+Two other aspects which were vaguely suggested
+by learned counsel Mr.Mahajan may be also’ dealt with
+here.
+
+DISINTEGRATION
+
+The first relates te disintegration of the
+tail portion and/or port wing from the aircraft in air
+bout 464 feet above
+
+at round level. In that regard
+
+Tm)
+
+4
+
+oO
+
+it was also suggested that this disintegration woul
+
+also explain the disruption ef power sunmply to UFBR/C
+at the said sititude. Firstly, learned counsel is
+
+assuming the disruption of power supply to UFDR/SCOVA
+
+bo
+ay
+
+
+when the afrcraft was at about 464 feet above ground
+level. ‘There is nothing to suggest that there was any
+such disruption, The theory of disintegration of the
+tail portion and/or port wing in air also dees not Find
+any support from the material on record. [t may be
+noticed that G loads had not exceeded 1.7 G, which is
+well within the “G@° envelope of + 2 to - 1. The forces
+created on the ill fated aircraft will not be strong
+enough to cause disintegration. The speed was about
+
+15@ knots only. It is well below the maximum speed of
+
+35 knots. Aileron reversal will take place at the
+
+maximum speed of about 250 knetes where the wing will
+
+twist because of maximum deflection. Further, the
+structural disintegration alse does not suggest ‘that
+disintegration took place in the air. The accident
+tdok place .during the day light. The aircraft was
+noticed by the Staff at the Airport while it was in
+air. No eye witness has come forth to state that the
+aircraft disintegrated in air. The Portions of the
+aircraft aforesaid were also found in the tarmac area
+of the Airport. If the aircratt had disintegrated in
+air these portions would have been found in a larger
+area and would not have been localised in the tarmac
+area. From all these accounts the disintegration of
+
+the aircraft in air is completely ruled out.
+
+
+WAKE VORTEX
+
+The phenomenon of Wake Vortex which affects
+the flow over the wings aor control surfaces when one
+
+aircraft follows another aircraft has also no applica—
+
+bility to the Present case. It has come in evidence
+
+that the Wake Vortex effects are more lethal when the
+
+aly
+
+ircraft is landing because of the low. speed and this
+Phenomenon ordinarily does not affect when the aircraft
+is taking off because the aircraft is at full Power and
+its speed is rapidly increasing and aircraft is gaining
+height. The Sahara aircraft, being a medium aircraft,
+did not land behind any heavy aircraft. The only
+related air traffic was the take off by a medium air-
+craft i.e, Avro, which preceded the take off of the
+fateful aircraft by over 3 minutes. In the light of
+the provisions contained in ICAO DOC 4444 the time is
+
+longer than what
+
+where the preced—
+
+arer
+
+Tin
+“ty
+rt
+
+ing
+
+nn
+
+Wee Ss heavy aircraft, The applicability
+Of the phenomenon of Wake Vortex as vaguely suggested
+
+by counsel for Mes.Ehurana is also ruled put.
+
+CREW ERROR
+
+The co-relation charts Annexure ‘C: and “D’
+
+which are actcura
+
+Liz
+
+'.
+
+
+7 1) Immediately after the rotate call the pitch of |. i
+
+the aircraft had started increasina:
+
+2) Immediately after the call outs “Nothing is
+
+happening’ and ‘Let us see what to do now’, EPR of
+
+engine No.i had started decreasing; 0 ss
+
+3) The positive climb call out shows that at that
+~ time the aircraft had attained the positive rate oF
+~ climb;
+~ 4) When the ’Gear Up’ call out is given the EPR
+ne of Engine No.1 stopped reducing further;
+~ 5) The horn sound has been recorded around 30.5
+~ seconds from the touch down (Frame No.2919) when the
+7 aircraft was 359 feet above ground level; (1111.9 minus
+- 7&8);
+
+- &) Prior to the ‘Rudder, Rudder, Rudder’ cali the
+- @ireraft was rolling to the left Gradually and after.
+- the .call ‘Na, Nay Leave, Leave’, the rate of roll has
+increased sharply;
+& 7) The maximum rell wee about 19% degreas( Minus
+
+101.7% degrees at frame No.2928) which subsequently
+reduced. to about 46 degrees( Minus 59.38 degrees at
+frame No.2936);
+
+B) The aircraft attained the maximum height of
+498 feet above ground level in about 37.5 seconds. from
+
+the teuch dewn (Fre
+
+and started descending
+
+thereafter:
+
+_ 9) The stick shaker warning started at about 39,5
+
+ws , 144
+
+
+seconds from touch down (Frame No.2928) and remained
+till the crash. At the time of initiation. of stick
+shaker warning, roll angle of the aircraft was at its
+maximum of 1@1.9 degrees to the left and the pitch
+attitude was about 8 degrees nose downs...
+
+id) At the time of crash the speed of the aircraft
+was increasing and was uround i5@ knots. The attitude
+of the aircraft was about 19 degrees nose down and
+
+about 76 degrees to the left bank. The EFR of Engine
+
+No.1 shows slight increase in value.
+
+In order to understand the crew action the '
+aforesaid aspects would have to be kept in mind. I may
+also notice that the altitude reading on the UFDR shows
+that the aircraft was about more than 489 feet above
+
+ground level at Frame No. 2931. The altitude reading
+
+after Frame No. 2926 cannot be accepted as valid.
+Beside the reasons already noticed earlier, it has to
+be borne in mind that the values of the corrected roli
+angle recorded in the Frame No. 2926 have shown the
+increase in the left bank from 58.97 gegrees to 81.12
+Gegrees; the values of corrected roll angles in Frame
+
+No. 2927 shows a left bank ef more than 9@ degrees and
+
+these values show abnormal attitude and have probably
+affected the altitude value. The velue of the altitude
+recorded in Frame No. 2926 is 1257.7 feet which is
+about 498 feet above ground level and is the maximum
+
+height gained by the aircraft. “ne crash is about 6&6
+
+
+rare
+
+seconds later.-- The height of 498 feet was lost in six
+seconds. The average rate of decend during the period
+works out to be (498 « 60/46) equal to 498@ feet per
+minute. Further, the corrected roll readings recorded
+
+on the UFDR show that the aircraft has remained in that
+
+altitude of more than 9@ degrees for 2 seconds i.e.
+
+during the Frame Ne. and ‘Boand thereafter at
+has started recovering in the next two frames. rt
+is,therefore, appropriate that the altitude curve
+
+should have a higher rate of decend in the first two
+seconds anda little less rate of decend thereafter.
+The altitude curve obtained in Run 22 of Boeing simula—
+tor shows similar features as incorporated in the
+Charts € and D and shown as dotted Line. The rate of
+decend during the first two seconds is about 5168 feet
+per minute and thereafter reduced to about 40880 feet
+per minute and the average, as notice earlier, works
+out to be 4980 feet per minute. For this purpose the
+average rate of decend of 7508 feet per minute given-by
+the Boeing is not being accepted as the same was worked
+out on the basis of simulated data as opposed toe UFDR
+
+data.
+
+The pitch and the bank altitudes in a ‘stalled
+
+condition of the aircraft also suggest that the air-
+
+craft must have been falling freely under gravity. Tt
+would be like a stone falling. If a stone
+!
+
+116
+
+
+falls under gravity from a height of 498 feet, it would
+take about 5.6 seconds and its average rate of decend
+would be about 5236 feet per minute. The free fall of
+stone assumes that a stone is falling in vaccum i.e.
+without. air... The presence of air would slightiy in-
+crease the timings. The tall of the aircraft in the
+last few seconds, therefore, can be compared with a
+free fall. Having regard to all these facts and, in
+particular, the fact of left bank of more than FO
+degrees with nose down and side slip, it is not possi-~
+-ble to accept that the aircraft after time frame 2926
+was gaining height. In this view the altitude reading
+
+after time frame 2926, as given in UFDR data, deserves
+
+to be ignored.
+
+In the first 5 teuch and go exercises there is
+no abnormality. The aircraft had gone to Bangalore and
+flew back from Bangalore ta Delhi and the CVF does not
+
++ . suggest of any problem. Now let us consider why cer-
+tain calls other than normal and routine calls, as
+reftected in CVR, were made and what we can derive
+
+therefrom.
+
+The first call out after feuch down and hefore
+Rotate call is "Ke gal ae yaar chal straight runway
+~ seeda lagana’ on UTC time @9:22:58. These call outs
+~ are by Capt.khurana. The reasons for these call outs
+
+~ are not far to seek. Before touch down time ©9:19:29
+
+117
+
+
+till touch down at time frame 09:72:55, it appears that
+the flight has been very unsteady as is evident from
+
+the following:—
+
+1) Late on the final turn to capture localiser.
+=) Unsteady in height keeping.
+3} Unsteady on localiser and glide siope.
+4) Trimming poor.
+=) Flaps 28-48 units at the high speed of 178
+knots.
+6) Speed going below Bug speed.
+The call ‘Ke gal ae yaar, chal straight,
+
+rm
+
+runway seeda lagana’ can be on accoun of aforesaid
+factors coupled.with the fact that the landing was not
+straight on the centre of the runways though it may be,
+
+within the permissible limits.
+
+rotate call is ‘Neth-
+
+The next call out
+ing is happening’ followed by the call ‘let us see what
+
+to do now’. It seems that Capt. Khurana had something
+
+calls were made
+
+im his mind when
+the EFR of Engine No.1 immediately after these calls
+throws considerable light as te the state of mind of
+Capt. Khurana at that time. When aforesaid calls are
+evaluated with the drog in EPR of left Engine, it would
+
+appear that probably fCapt. Khurana, at that time, was
+
+
+thinking “of giving single engine failure simulation.
+“The static value of EPR of left Engine after the call
+‘Gear up’ for about 4 seconds only shows that for
+putting the gear up, Capt.Ehurana lifted his hand from
+throttle lever to the landing gear lever to move it to
+“up position’ and thereafter again started retarding
+the throttie. These calis cannot be attributed aS
+suggested by Mr.Mahajan te something being wrong with
+the aircraft. Had it been so it would have been
+clearly spelt out in CVR, Further, if Capt.Khurana had
+found something amiss in the aircraft, he would not
+have, looking to his long flying experience, thought of
+
+giving emergency exercise to Capt.Vidul Mahajan.
+
+The horn sound was recorded around 30.5 sec-—
+onds from the touch down. It is evident that the
+trainee pilot had net used the rudder. The horn sound
+was on account of unsafe landing configration when Flap
+position was 15 and the gear was not down and one
+threttie had been retarded. Immediately after the horn
+sound, within = seconds Capt.Khurana shouts “Rudder,
+
+Rudder, Rudder". He does mat tell the
+
+pilot to
+apply which rudder. The aircraft was already rolling
+ta the left gradually and after the call “Na, Na,
+Leave, Leave’, the rate of roil had increased sharply
+as neticed above. The maximum roil was about 102
+degrees. In this state of affairs it appears that the
+
+trainee pilotf instead of applying the right rudder,
+
+119
+
+
+sapolied the left rudder with the result that the- rate
+of roll sharply increased inviting the call from Ehura—
+na ‘’Na, Na, Leave, Leave’ between time frame 2924 and
+
+2929 and stick shaker warning at time frame 2926. The
+
+roll showed an improvement and was reduced to about 48
+degrees on frame No. 2930. This shows that an attempt
+
+fO recov
+
+et
+
+was made ro the airer
+
+TW
+1
+qh
+
+FE but an account of the
+
+ny
+
+height, abnormal altitude of the aircraft, and rate of
+decend, the recovery was not possible and ultimately
+
+the unfrotunate crash tock place.
+
+The slight increase in the EPR of Engine No.l
+towards the end only indicates that with a view to
+aveid crash threttle may have been moved forward about
+
+2 to 3 seconds earlier.
+
+Now let us consider the effect of absence of
+
+certain calls in CVR at the relevant phase of the
+
+bet
+
+flight. Assumin
+
+wo
+
+; the drop in EPR vaiue of Engine No.l
+was an account of Fuel starvation and not on account of
+
+threttle retardation, then it is inconceivable that
+
+would not notice the fall in EFR value and
+
+its effects. He would have. in that eventuality,
+immediately noticed the yaw and the left bank when the
+
+EPR si
+
+tr
+
+arted falling in the first four seconds. The
+
+natural reaction of Capt.Khurana would be to immediate—
+
+ly react and utter words to the effect which would show
+
+
+the failure of the engine on account of some defect in
+
+von -
+
+the. functioning of the Fuel Control Unit er any ather
+part of the aircrart. In that event Capt.Ehuranea would
+have immediately taken control and would net have left
+it to the trainee pilot. It is not possible to accept
+
+that till horn sound which was at Frame No.2719 i.e.
+
+after about 11 seconds after the EPR of
+
+m
+
+ngin
+
+0
+z
+ia)
+
+[ws
+
+sterted drcopina, Capt.Ehurane would net’ netics the
+
+failure ef the engine. Further, assuming that
+_— Capt.Ehurana noticed only on the hern sound that on
+account of defect of some part of the aircraft, EFR of
+Engine No.1 is dropping and that engine had failed, he
+would have immediately taken control and it would have
+been reflected in calls recorded on CVR. Capt.Ehurana
+would not have left it to the trainee to take the
+_ corrective measures. All these factors show. that it
+~ -was not a case of engine failure or defect of any part
+
+&, knowingly and conscious
+
+rer
+
+- , or fuel starvation 6 Ys
+
+~ Capt.Ehurana gave single engine failure simulation to
+
+oe
+
+et
+
+}
+fas
+"y
+thi
+Fe
+a
+tt
+D
+asi
+ia
+to
+
+oh
+
+ef canfusion, applied wreng rudder
+
+situation and the aircraft was placed
+
+tL
+
+fu
+
+that it was mot possible to avoid the
+
+a The Run Ne.i2 of Ex.4 which shows the flying
+
+exercise on Engineering simulator of Boeing, matches
+
+ere
+}
+
+ke
+
+ho
+
+ne
+
+
+very closely to the parameters of the accident in
+
+» question. As noticed above, the aircraft attained the
+
+maximum height of 478 feet above ground level. There
+cannot be any dispute about this fact. Apart from the
+
+exercises reflected in Ex
+
+carried out
+
+on Simulators at British Calidenian as also at Indian
+Airlines facilities at Hyderabad, with their instructor
+
+an the conmtrois, shaw that
+
+il
+
+Rrang
+rudder is fatal at the height of S@M@ feet above ground
+y : level with the given rell and pitch angle. These
+exercise have shown that recovery in such situation is
+not possible. With given parameters of roll angle and
+pitch value, these exercises have shown, that recovery
+on engine failure at the height of even about 1@4@ feet
+above ground level, on the application of the wrong
+rudder, is mostly not possible, The application of the
+
+left rudder by the trainee pilot was,therefore, fatal.
+
+The next aspect to be considered is whether, -.
+in the given facts and circumstances, it was advisable ~*
+to give single engine failure exercise
+
+2 For this
+
+purpose, let us see the experience of training pilots.
+
+_ EXPERIENCE AND TRAINING OF THREE TRAINEE PILOTS.
+
+_ As to what training ths three training
+
+~ had in simulator before gain
+
+wl
+wh
+q
+
+training, could have been approeoriately
+
+i
+an |
+~ i
+|
+|
+i
+> i
+= i
+training record are prepared but all these copies are f
+
+_ etated to have been contai im one and the
+
+~
+
+~ regulatory body. None has been made available. In
+- : absence of that record necessarily this court had to
+_ fall back upon the recera at training kept an mneFfFtic
+~ cial diary who had imparted
+
+simulators were hired and the
+
+
+engine exercise. Capt.Raco has tried te explain that
+
+after vigerous training, they learnt procedure and art
+
+satisfac~
+
+of trimming on the rudder and
+tory with their existing experience and were released
+
+for the check. The cockpit procedure training was not
+
+given to the trainees since xpensive
+
+and was alse not required as the trainees were helding
+
+ence with instrument rati
+
+Commercial Filot Li
+
+T: may mention one related aspect and that is about
+
+a
+
+ad
+
+oO.
+rT
+if
+2
+|
+
+Mr.Rae’s rating 45 instructor. Capt.Rao
+permitted by DGCA to act as an instructor on simulator.
+
+That was,however, subject to Capt.Rae gaing through
+
+training and as mentioned in the lette dated
+9th December after go the
+refresher course, Mr.Rao states that be underwent
+
+simulator training, as stipulated in Ex
+
+approved instructor on i4th December 1993 and on the
+
+same date the relea
+
+was alsa conducted on him.
+
+by oan approved instructor
+
+imparted
+
+December Capt.Rae stat
+
+finished his awn training and check
+
+was unwilling to undertake traini
+
+Slot was already allotted
+
+Mr.Singh would have lost the the money,
+
+& pilots
+
+;
+; / ; .
+he carried, the general first
+
+124
+
+
+with his past experience as instructor. Capt.Reae says
+
+wthat he had expressed his unmwiliingness to the boys but
+upon their insistence, he decided to commence the
+training. Capt.F.Singh and Capt.Tripathi were the
+
+first batch of trainee pilots under instructions of
+Capt.Rao after he left Indian @irlines which was about
+
+two years earlier. Undoubtedly the training on Simula-—
+
+2M
+
+huge expense, the ear
+
+better for the
+
+has not only to make
+British Calidonian but f
+
+the instructor. In
+
+have taken th
+
+an henorary
+taining any personal log book except making entries in
+the personal diary 4s noticed hereinbefore. One can
+
+understand the huge expense invelved in
+
+ing) frainee pi:
+
+has to tbe borne by
+
+ny thas and
+
+thing more.
+
+f
+i
+
+126
+
+
+ney
+
+trainina ete undergone by the three pilote
+
+r
+
+i
+
+before going in far their simulator training at British
+
+Calidonian has already been set cut ain the farlier part
+
+of this report. Even the contents of the personal
+
+Capt.Rac show that the performance of the
+
+trainee pilots was not ef a very high
+
+for the unfortunate
+
+ho during which ail
+
+trainee pilots lost their lives, they would hav after
+completion of the said flight, gone for test fli
+with a DGC& approved examiner and on satisfactory
+
+performance in the said check (C° 4@8 Check) their
+
+papers would have been sent for endorsement to DGCA for
+
+ra
+
+their acting as ce-pilet on Boeing
+
+t
+
+rorarft. On abe
+
+taining endorsement. they could have been
+
+eligible to be released as co-pilots. Let vu
+
+see the
+training imparted before one is released to act as cao-
+pilot 6y Indian Airlines. The training imparted for
+
+fabiniti
+
+on Boeing
+
+G
+
+co-pilot, in
+
+Indian Airlines Central Training Establishment, Guide-
+
+lines on Training and Licensing Frocedure requires the
+
+ing training:-
+
+i TYPE ENDORSEMENT ON B 737(ABINITIO) .
+
+ffrrives €.7,.E.a¢
+
+experience 258 to 388 hours invariably on Single En-
+
+'
+!
+i
+I.
+
+
+¢
+
+~ gine).
+
+Or Basic Technical/Performance —- ‘2 weeks -
+> b) B 737 Technical Endorsement - 6 weeks
+
+~ . (Including Specific Performance)
+
+i! c) B 737 Examination
+(Technical & Performance conducted by Deca)
+d) Supernumerary Flying (Minimum 4@ hours)
+
+@) Training in Navigation Subjects - 6 weeks
+
+KE # FN F
+ye: ;
+
+_f) Simulator Training 20 : 8a : 20: @@ hrs
+~ 'g) Progress Check 81:38 "12300 brs
+~ AD. Simulator. Training 20:00 20:08 hrs
+~ °. (Endorsement)
+~ i> Simulator Check with )
+~ ; DGCA approved . od B12 30
+~ Examiner. | )
+~ i) " Bupernunerary Flying (Minimu 48 hours)
+
+7 tPF = Pilot Flying
+-_ # P NF - Pilot-not-flying
+
+- k) Circuits/Landings
+on & 737 Simulator -
+_~ prior te commencement @6:02 46:00 hrs
+of flying training or
+7 , -interspersed with
+flying training
+a PF Observer
+. : 1) Flying Training on
+i . aircraft 19:88 19:08 hrs
+
+7 m) CA4@A Day & Night /-
+. Checks/IR-LR Checks ' 02:88
+~ with DGCA approved
+
+
+‘Examiner _.
+
+n)+Supernumerary Flying (Minimum 4@ hours)
+
+0) Obtains Type Endorsement Rating and IR
+Issue/Renewal from DGC A
+
+Pp) Release as Second Officer — = Satisfactory
+
+» Route Check with an Examiner. After release
+as First Officer he/she is posted to one of
+the four Regions depending on operational
+requirements.
+
+r) Undergoes Supernumerary Flying as First
+Officer on all the routes of the Region.
+LOFT - Minimum 15 flights or 58 hours
+whichever is more with one Check Pilot/
+Instructor as far as possible. During
+LOFT as many non-pretision approaches as
+Possible are to be carried out subject to
+a minimum of Five." ,
+
+The afvuresaid guidelines show that before a
+trainee is subjected to CA-40A check, he has to have
+
+after simulator training, flying training on aircraft
+
+“for 1@ hours as pilot flying and 1@ hours as Observer.
+
+In the “present case, the trainees were on the very
+first day, put on aircraft, with an instructor who had
+not himself. imparted simulator training to,.the train—
+ees, and then a single engine failure exercise was
+given and that too when the performance of trainees on
+simulator was not of very high standard. The giving of
+such exercise was certainly not advisable and a prudent
+act. But for this exercise, the crash was avoidable.
+Capt.Tripathi says that by way of abundant caution he
+
+had briefed Capt.Khurana not to undertake any emergency
+
+exercises ‘in the training flight. How much can
+
+Capt.Tripathi be relied upon on /this particular aspect
+
+
+is another matter which would be dealt with at
+appropriate stage in later part of this report but his
+statement that if Capt.Khurana was Planning to do
+Single engine failure, it should have been done on the
+down wind so that in case of an error the same could
+have been sately rectified, deserves due weightage, not
+only because the statement is coming from a highly
+experienced person but also for the reason that this
+seems to be even otherwise generally accepted position
+which emerges: from Opinion. of most of the pilots, and
+there is hardly any contrary opinion. Capt.Tripathi
+
+also says that looking at the level of the experience
+of the trainee, Capt. Khurana should have guarded the
+control lest it is interfered with inadvertently by the
+trainee pilot. ‘There cannot be any doubt that while
+
+giving single ‘engine -failure; on the given facts,
+
+Capt.Ehurana showld have blocked the rudder control so
+
+that the trainee Pilot does not apply the wrong rudder.
+
+I,therefore, conclude that, in the present
+
+case, in the first instance, the Single engine failure
+exercise should not have been given. In any case, ait
+should have been given on down wind in nermal circuit,
+Further, even’ when it’ was given on take off, at the
+altitude at which it was given, Capt. fhurana ehouid
+
+have jrocked the rudder so as to rule out the possibil-
+
+ity of application of wrong rudder by the trainee.
+
+its.
+
+
+found in the corporate management- commercial pressures
+
+the Conference of Directors General of Civil Aviation,
+
+Sahara and. DGCA in this respect.
+
+The moderi aircraft systems and
+
+operating
+
+Procedures are generally failure tolerent and exhibit
+sufficient redundency and safeguards to Cope adequately
+with ‘engine failure-be it human or mechanical. The
+
+greater risk is the organisational failure. The seri
+
+ous incident or accident is more often than “not a
+symptom of the failure somewhere in the system. The
+failures may take place by mistake- indeed most hazard—
+Sous errors will involve the violation of..some opera-
+
+tional rule or instructions. But violations can also
+
+be deliberate and in this case the reason can surely be
+
+on flight crew and lack of tare and supervision being
+
+obvious motivator( See paper presented by Hong Kong in
+
+Asia and Pacific Region held at Pinang, Malaysia from
+8th to 14th September 1994).
+
+As stated earlier, the aspects including that
+
+of failure of management and regulatory body would be
+
+examined and dealtiwith under this head. I would first
+examine and deal with the matter of grant of approval
+
+for Capt.Khurana to act as instructor and the role of
+
+'
+
+f .
+APPROVAL OF KHURANA AS INSTRUCTOR
+
+Capt.P.Khurana was said to have been granted
+
+approval to act as instructor vide letter of DGCA dated
+
+8th March 1994. -The Original letter dated 8th March
+
+: : : 1994 alleged to have been sent by DBCA to Sahara:‘has not
+
+seen the light of the day. The evidence of Witness
+
+No.2 Capt.V.N.Arora in this regard is contradictory and
+
+_ unconvincing. The DGCA has also net been’ able to
+
+ms explain and clarify as to when that letter was in fact
+
+“ despatched by their office to Sahara. In any case, it
+
+TEAR. <Syetness is. clear and rather admitted that the said letter did
+
+~ “ not leave office of DGCA before crash.
+
+~ The approval of DGCA was sought for
+
+~ Capt.Khurana as an instructor vide letter of Sahara
+
+re dated 28th February 1994(Ex.8). This ‘letter was sent
+
+- 7.0 by Capt.Arora. -Capt.Arora states that he had telephon—
+
+st : ic conversation with Mr.J.K.Sardana, Director of Train-
+= ing and Licensing in the office of DGCA on 7th March
+
+1
+” A994 and Mr.Sardana told him that approval for i
+
+MNr.Khurana to act as an instructor is being Granted and
+he can 99 ahead with the training flight. Capt.Khurana
+joined the services of Sahara on 3rd November 1993,
+Before that he was in employment’ with M/s.Modiluft.
+Capt.Ehurana was not cleared as an instructor when he
+
+left Modiluft. Sahara had not conducted any test and
+
+o
+fal
+bn
+
+SAT a bere nt cr ENT een orn e nneerrtenpanenge neta ee ee einen
+
+te
+ar
+
+training fer Capt.Khurana as an instructor.
+
+~. Capt.Khurana.was. approved as Check Pilot vide letter of
+a DGCA dated 24th December 1993 and was cleared to per-
+~ form the duties of check pilots vide DGCA’s letter
+~ _ dated 18th January 1994. He had not been cleared as
+- ' check” pilot “prior to teth January 1994 in any other
+Airlines. Capt.Arora states that experience of.
+Capt.Khurana as check pilot can be counted only from
+i8th January 1994, Capt.Arora also agrees that
+
+“ Capt.Khurana did not fulfill condition of sub clause
+
+Civ) of Clause 2.2 of Ex.%, namely, Criteria for Ap-—
+
+«proval of Examiners/Instructors/Check, Pilots for A@ir-—
+
+line Operations on fixed wing Aircraft. He admitted
+. that Capt.Khurana neither had the experience of one
+year as approved check Pilot on the type nor the expe-—
+
+rience of 3@ hours as approved instructor en another
+
+Sitype of aircraft. Admittedly, it was in the knowledge
+of Capt.Arora that Capt. Khurana did not fulfill the
+conditions necessary when he sent letter dated 28th
+February 1994 seeking approval for Capt.Khurana to act
+a= an instructor. Inspite of this knowledge Capt.@rora
+Stated in his letter that Capt.Khurana had completed
+all the formalities. Since the letter dated 28th
+February 1994 was written knowing that Capt.Khurana was
+not eligible to act as an instructor a pointed question
+was asked to Capt.Arora that, did he write that letter
+
+* en his own account or he wrote it because his employer
+
+wanted him to write such a letter. The demeanour of
+
+wy
+id
+th
+
+
+had completed all the formalities since there was a
+
+the’ witness while answering this question deserves to
+be noticed. Capt.Arora after taking considerable time
+in answering this question and even thereafter, with
+lot of hesitation, took the burden of. writing the
+letter onto himself and absolved his employer,
+Capt.Arora is still in the employment of Sahara. The
+
+reasons for his aforesaid answer are not far to seek,
+
+Capt.Arora said that although he knew that Capt.k
+
+WIP Sana
+lacked the experience as per criteria but he wrote the
+
+said letter and stated in that letter that Capt.Khurana
+
+requirement of atleast one instructor fer Sahara and
+
+‘the Airline had no instructor. When asked as to wheth-
+er. he had reported about what he had stated in letter
+dated 28th February 1994 to his senior executive in the
+company, namely, Mr.Uttam Kumar Bose, firstly with
+hesitation Capt.Arora stated that he had reported that
+
+to Mr.Bose but again changed stating that he hed not
+
+reported it to Mr.Bose and it was purely his own deci-—-
+
+sion.
+
+AIC 13/93(Ex.9) sets out the following re-
+
+quirement of flying experience for grant of approval of
+
+Filot as instructor in Clause 2.2. Tt reads:
+INSTRUCTOR
+i? Total Flying experience : 38@Q/ hours
+
+
+: 15@@ hours
+
+pi)Total comirans experience
+
+iii)Total command experience on
+
+type. . : 1080 hours
+
+iv) Experience as approved
+
+Une year
+
+Check pilot on the type-
+OR
+
+Experierce 45 approved
+
+instructor on another
+
+type of aircraft. : S@ hours.
+
+Capt.Khurana though was approved as check
+
+‘pilot for the first time on 7th April i992 while he was
+
+working in Indian Airlines, he did not undergo training
+or test with Indian Qirlines as Check pilot. after
+dated 7th April 1992. He proceeded on leave
+
+approval
+
+from 16th May 19792 to &th June 1992 and was available :
+
+after «th June 1992 and was subsequently taken up for
+Aircraft A 32@ Course on 8th dune 1992 and discontinued
+it on-7th duly 1992. Capt.Khurana left the services of
+Indian Airlines thereafter and admittedly he was nei-.
+ther appointed/released nor acted as check pilot prior
+to iSth January, 1994. He was also not appointed as
+check pilot while working with Modiluft. For the first
+
+time he was appointed as a check pilot was after grant
+
+n
+
+of approval by DGCA vide ite letter dated 24th December
+
+by Sahara as | check
+
+i?7os. Capt.khurana was rele
+
+ot on issue of letter dated i6th January
+
+#
+ree
+
+a
+
+F as referred to above. Aas already
+
+mo Dv
+
+134
+
+&
+
+a oe . . :
+_Capt.Khurana, according to Capt.Arora did mot fulfill
+
+the aforesaid condition-of- experience-of-one year as
+check pilot witness No.S Mr.J.K.Sardana who is the
+Director of Training and Licensing in DGCA, says that
+
+Capt.Khurana fulfilled condition No.4 of clause 2.2 of
+
+approved check pilot of
+
+Ex.9 and had experience as
+one year. This he says because Capt.Khurana was ap-
+proved as check pilot for the first time on 7th April
+1992 while he was in Indian Airlines. According to the
+testimony of Mr.Sardana, the period. of one year would
+start from 7th April 1992. Mr.Sardana also states that
+in case of grant of approval to Capt.Khurana to act as
+an -instructor, power. of relaxation was not exercised.
+According to Mr.Sardana the experience of one ‘year
+
+after approval as check pilot is sufficient even though
+
+the’ concerned pilot may not have acted as check pilot |
+
+“at aY2e-°Mr.Sardana further states..that period of . one
+year could be counted even if a pilot is not. eligible
+to act asa check pilot. Capt.Arora has not talked
+about relaxation. The letter dated 28th February’ 1994
+
+also does not state that approval in case of
+
+“* papt.kRurana was sought in relaxation of rules with
+
+regard to experience as check pilot. Capt. Tripathi
+also admits that he was aware ‘that Capt.Khurana’s
+experience as a route check pilot was not of one year
+and as such he was not fulfilling the regirement of
+
+244) of Ex... Capt.Tripathi, however, says that
+
+
+be Fave a BR
+
+4
+Department of Civil Aviation can waive this condition.
+
+Except for Capt.Tripathi no one has
+
+talked about waiver
+or relaxation of condition regarding experience of one
+year as check pilot. It has also come on record that
+upto 28th February 1994 when the letter seeking approv—
+al was sent, Capt.Khurana had conducted only two checks
+though the DGCA was informed that he had conducted 6
+checks. Later, after the accident Sahara said that he
+had conducted 4 checks. Even out of these four checks,
+admittedly two checks were conductred after 28th Febru-
+ary 1994, DGCA.could not be aware about these two
+checks when it granted approval on file on 4th March
+
+“1994, One check was on 4th March 1994 and another on
+zo
+
+5th March 1994. After his release as check Pilot the
+
+‘only two checks conducted by Capt.Khurana befor
+
+ing letter dated 28th February 1994 were twa,
+
+on 25th January 1994 i.e. of Capt.S.C.Tripathi, and on
+28th January 1994 of Capt.a.K.Chadha. It is strange
+that Sahara informed DSCA that Capt.Khurana had con-
+
+ducted six checks. The DGCA should have also cross
+
+checked.
+
+According to Mr.Sardana it is immaterial
+whether during the period of one year, the check pilot
+exercises the privileges of Check pilot or not and on
+the same analogy it would also be immaterial if after
+grant of _approval for one year or for a substantial
+
+part thereef the pilot remains sick or does not fly at
+
+136
+
+
+al) for any other reason and still as Per the under—
+““standing of the Department, he would fulfill the condi
+tion of one year experience of check pilet as contem—
+Plated by clause 7.2(4) of Ex.9. This understanding of
+
+Mr.Sardana and of the Department, to say the least, is
+
+} )
+I
+
+absolutely against not only the plain language of the
+
+clause requiring experience but is a
+
+SO against the
+
+ebject and purpose of the clause. In the hier
+
+chy of
+fliers the position of instructor is very vital and
+e important. The instructor has to teach flying. I : :
+7 " suppose with a@ purpose it must have been stipulated
+
+that a check pilot with experience as check pilot of
+
+one year, would be eligible to be considered for grant
+
+of approval as instructor. It implies that one has to
+
+exercise privileges of a check pilet before being
+
+_ ' " considered = for approval as instructor. According to
+~ “- the understanding . of the Department as discloead by
+_ , Mr.Sardana a pilot. would be said to be fulfilling
+~ Clause 2.2(4) after approval of DSCA even though he is
+_ not released/appointed as check Pilot by the Airline
+~ : and even though he is not flying at all for one reason
+ret oe “or the other. Such an understanding did not ev find
+
+- favour with the fliers as is evident ¢rom the testimony
+
+~ of Capt.Arora and Capt:Tripathi.
+
+a ~ During the pendency gt these proceedings by
+
+issue of AIC dated Sth December 1994 requiremest et
+
+
+"Sahara. It was all done with Modiluft. Regarding
+
+clause 2.2 has been changed in regard to the experience
+as. check pilot. The existing clause of experience of
+one year as check pilot has been withdrawn and in its
+place the requirement of 1@ checks has been provided
+for. The AIC now issued doés not now - etipulate any
+experience as check pilot before one can be considered
+
+for approval as instructor. This has its own fallouts.
+
+It is appropriate thet now it has been provided that a
+
+FH
+
+check pilot should have conducted 1@ checks before he
+is considered eligible for approval as instructor. In
+view of the fact that in a given circumstance, i@
+checks can be completed in short span of even 2-3 days, -
+it may not be proper to completely do away with experi-
+ence. It would be desirable to combine both the period
+of experience and requisite number of checks. Keeping
+
+in view the safety required in aviation matters doing
+
+away. with one year experience does not appear to be
+
+appropriate.
+
+\
+
+There is also another aspect of approval of
+Capt.Khurana as instructor. Admittediy, . Cant.Khurana
+
+did not receive any training for instructorship with
+
+period of one year experience of check pilot af
+
+Mr.Khurana, Mr.Sardana says thati-
+
+f
+
+“Tt ais true that any approval as Gxaminer
+instructor / check Pilot is valid only till
+such time the officer remains with the
+
+138
+
+
+spe] ia BAS) ate is’ correct
+
+_ approval oranted to Capt.Khurana to act ea
+
+. check pilot on 7th April, 1992 ceased to ob
+valid after he left the said airline
+Capt.Khurana wae net approved c
+while working wiih East West Air
+would be correct to state that Bx pe
+Capt.Ehurana as a flier
+
+in
+
+i
+
+While he was
+
+employment with East WestGirlines, would
+
+be counted as check Pilot, since he Was not a
+
+Check pilot while working with the said
+
+airlines, Capt.Khurana was ePproved as check
+
+Pilot, vide letter dated 9.9.93, while he was
+
+working with Modiluft. Counting the period
+
+, after 7th April, 1992 till Capt.Ehurana left
+
+the empleyment with Indian Airlines and
+
+adding te it his »» i 85 a flisr after
+
+7th September, 1992 till 8th March, i994,
+
+would not make Upto one year experience as
+check pilot."
+
+The training of Modiluft requires the Jline-
+student training under supervision before the release
+Of an officer as an instructor. Mr.Sardana admits that
+on the file there is nething ta show that Prier to
+approval dated 6th March 1994. Capt. Khurana had done
+line-student training under supervision but Says that
+Khurana had orally teld him about it, Mr.Sardana
+Sayt:—-,1lsi
+
+"On the file there is nothing to show that
+Prior to approval dated 8th March 1994
+Capt.Khurana had done dine student train—
+
+G under supe on. Mr ane had,
+
+however,orally told me about it.”
+
+I fail te understand how approval could be accorded by
+DBCA on the basis of what Ehurana toid Me. Sardana
+Orally and the same not having been placed on
+
+tire. Sardana
+
+not know as to what was the syllabus for necessary
+
+
+training and satisfactory tests of Sahara,
+
+~ Further, Witness No.o Capt.F.
+
+“Ling who is a
+
+Senior Vice-President (Gperations) in Modiluft has
+
+explained that in their Airline before an instructor is
+‘permitted to exercise the Privileges as instructor, he
+
+is required to undergo line-student training under
+
+supervision. In line-sudent training Crew Resource
+Management/Crew Coordination Captain
+iS requireed to be done. The number of such - line—
+
+student training checks varies depending aeOnN the
+performance: of the concerned Pilot. (On an average
+trainee instructor is required to undergo 1M such
+checks, Capt. Khurana had not undergone line-student
+training checks under supervision and had he been in
+employment of Mediluft he would not have been released
+as instructor “without the completion of the said
+
+checks.
+
+Shurana was cleared to Perform the duties
+
+Capt.
+as Check Filot for Boeing 737-208 fircraft for Sahara
+
+b
+
+a
+
+Witness No.1f Cant. Vinod Mahajan who is an Inspector
+
+ef Flying with pera. Mr.Sardana has stated that such a
+
+Clearance was not Necessary.
+
+under the signatures of Capt .Ma
+
+18th January 1994 of DGCA. GQ
+
+sO, it remains unexplained, as to why letter Gated 18th
+
+Sanuary 1994 was issued by Capt. Mahajan on behalf of
+
+146
+
+'
+
+“ . DGCA. “ . .
+
+Further according to Mr.Sardana the necessary
+
+~ training and satisfactory test under ‘clause 1.6 in
+~ regard to an instructor can either be before grant ‘pF
+~ approval of DGCA or after grant of such approval. In
+~ . case the necessary training and satisfactory tests are
+_ conducted after such approval, according to the under—
+_ standing . of Mr.Sardana, it is net necessary for the
+“~ ' Operator to report to the DGCA that the concerned
+~ officer had completed the necessary training and Passed
+A
+
+the tests satisfactorily. These matters have heen left
+~ to the good sense of the operator to comply with, Tt
+is nota happy state of affairs. The regulatory body
+should ensure that the concerned officer has undergone
+the necessary training and pass the tests satisfactori-
+ly. The regulatory body should also lay down minimum
+training requirement which factor is absent in the AIC
+IS of 1993. AIC 15 of 199% has since been amended on
+Sth December 1994 now stipulating that the pilot has to
+
+& satisfac—
+
+rr
+
+~ undergo necessary training and pass the tes
+torily before approval of DGCA for a Pilot to act as an
+
+instructor is sought. This is a welcome Change in the
+
+AIC but more is required to be done by Providing mini-
+
+mum training programme.
+
+Mr.Sardana is not a Pilot. He is not aSsoci-
+
+ated with flying. He is a Telecommunication Engineer,
+
+_ ’
+
+141
+
+
+when papers are submitted for seeking approval a¢ Pilot
+either as a check Pilot or instructor er examiner to
+DGCA , Pormally the same are not required to be
+checked/scrutinised by any pilot. The Bame is the case
+of endorsement as co-pilot, Eeeping in view that
+flying is a Spécisiised subject/art, it is necessary
+that ordinarily’ a person with good Flying experience
+
+arant oF
+
+such approvals,
+
+‘In letter dated 8th February 1994 addressed to
+Indian Airlines. it was Stated that Newly inducted
+instructor had to be Checked by DGCA Flight Inspector
+before they are assigned to impart instructions,
+Mr.Sardana states that it was erroneously stated but
+that letter was not withdrawn because regulations are a
+dynamic process and Department keeps on adding or
+deleting from it from time to time and Department - may
+be contemplating a similar procedure and that is why
+
+thdrawn.
+
+letter dated 8th Fetruary 1994 was not
+
+io may state that in India till the recent
+chengeover Primarily there were only two Airlines,
+namely, Indian Airlines and Air Ind .
+ernment controlled Organisations. Wi
+
+change = and “open skies’ policy various
+
+tors have come into the Field. In view
+
+142
+
+r
+}
+i
+4
+
+
+condition, the responsibility on the shoulders of ‘“DErA
+
+is greater. Mr.Sardana states that the Operators are
+not required to obtain approval of DECA for their
+
+Training Manual. Tt is only required to be submitted
+to DGCA. Toam informed that during the Bendency of
+these proceedings necessary circular requiring approval
+of DGCA for Training Manual has been issued. It ig re
+
+guired to be noticed that though DGCA granted approval
+on 4th March/8th March 1994 it did not knew as to what
+was the syllabus for necessary training and satisfacto—
+
+ry test of Sahara for their instructor. It was not ia
+
+happy state of affair but nothing more is required to
+
+be said now since after the accident Sahara submitted
+their Training Manual sometime in May 1994 which: has
+
+since been approved.
+
+Capt.Khurana had moved on from one Airlines to
+
+lines in i992,
+
+East West Airlines and joined Modiluft and finally
+
+Sahara on 3rd November i993. Though DGCA had granted
+
+approval for. Capt. Khurana to act as a Check Pilot in
+Indian Airlines but before he could be given necessary
+
+training and perform the functions of Check Filet, he
+
+rlines. Admittedly,
+V
+
+Capt.Ehurana did not act as a check pilot either in
+
+left the services of the said
+
+He was
+
+Indian Airlines or in East West or in Modiiy
+
+145
+
+|
+i
+
+
+/r@ieased as" a2 chect:
+
+on 18th January 1994,
+
+Capt.Ehurana did not fulfill tne Condition of ¢
+
+2-20iv) of one year
+
+for grant ef approval to act .as instructor,
+Capt.Ehurana was
+
+not eligible
+
+CONDUCT OF SAHARA
+=e I SAHARA
+
+As stated Parlier, now there is greater re-
+
+. Bponsibility on the shoulders of pera, At the same
+
+time there is also great responsibility on the opera—
+
+have not acted with responsibility, The facts which
+have came to light in these Proceedings show that the
+conduct of Sahara has been deplorable before the Crash
+in the matter of planning training flight in question
+
+and Beeking approval of DECA for Nr.Eherana as instruc-—
+
+tor. Tt has aiso be + Geplorsbie immediately after
+
+crash and also during
+
+Sahara should have thoreughiy Strutinised the
+training papers of the trainee pilots and Preserved the
+Pecord before
+
+three copies of
+
+/
+Calidenian should net have been haAded ever te
+
+concerned trainees. This action /has deprived
+
+
+“court the advantage of the
+
+Said recerd,
+
+is concerned as Lt evident
+
+fram and Capt. Tripa-
+
+thi, SpProval = ak-
+
+instructor since he la
+
+ma
+
+ens year as a
+Check pilot, Therefore,
+whatsoever to state thet Capt.Ehurana fulfiiled all the
+conditions when admittedly it was not so. ft is not
+very material whether Capt.@rora wrote that Capt. khura—
+na fulfilled- ail the conditions en his awn in his
+letter dated 26th February 1994 or on the asking of his
+employer. Assuming that he wrote on his own then toe
+Sahara cannot be absolved of the responsibility since
+Capt.Arora was their agent and representative. Tt
+
+is, however, difficult to comprehend and believe that
+
+Capt.Arora wrote th
+Capt.Arora has taken the burden on himself with a
+tO save the embarrasement to his
+
+employer, The DGCS may have power
+
+was nobody's case that approy
+
+relaxation, The power oa¢ Freianati
+
+Dlanket power, In Case one seeks the exercise of Power
+
+Of relaxation it is te be
+
+in whet respect
+
+and [per which ps
+
+The Feguietary
+
+sought,
+
+Place on record the
+
+
+showing applic
+
+r Wand for Grant of Such
+relaxation, hr, Sardana has deposed that Capt. Khurana
+
+Was not granted approval in
+
+of any require—
+
+ment.
+
+Further,
+
+dertaben any
+
+training or test necessa,r
+
+for Perv’orming the Privi-
+leges of instructor while he was with Sahara, He is
+stated to have given certain documents @bout such
+
+training when he was in Modiluft, Sahara should have
+
+checked up with M/s.Modil had
+
+undertaken ful] training
+
+wes
+
+& note at the bottom of office note Gated 7th March,
+
+1994 DTL telephonica}—
+iy 37-208 as instruc—
+ter f= in the hand of
+one Mr .G.kLuthra ang has been initialled by
+
+Capt.Arora, Tt is
+
+a
+a
+ao
+fa
+fad
+if
+
+Ar iuthra had
+
+Lalkt with Mr. Gardana,
+
+be appended on
+be hplained by Sshars, f£i8 a curious note. There
+WES NO OfCasion for Nr luthra to Make that nate, There
+
+was mo occasion for Capt. Arora ty
+
+146
+
+
+It seems that it was made after .the crash. Who could
+be interested in creating such a evidence except the
+
+employer.
+
+Even after -the- accident ang alse during the
+course af the inguiry the conduct of the Airlines has
+
+not been straight forward. 1+ is evident thet
+
+wy
+
+ahara
+made up its mind that it was a case of simulated engine
+failure as early as on 9th March 1994 when an insertion
+in newspaper Ex.15 was given Justifying that such an
+
+exercise was necessary. The point is not whether such
+
+van xercise -was necessary or not. For the Present,
+
+the point is, that having taken that Position Sahara
+should have been straight forward in its stand. In-
+
+stead of doing that, they took absolute converse stand
+
+in these proceedings to the effect that Capt.Ehurana
+
+was briefed by Capt.Tripathi in the Presence of
+Capt.Arora that no emergency e@xercise should be given
+during the course of the training flight. This stand
+SSSumes such an exercise was not necessary. To Justify
+that stand = further and having been contronted with
+Ex.iS, Gahara came forward with escape route in the
+form of evidence of witness Mr.A.K.Ohri. His testimony
+
+ie utterly unconvincing and not at ali reliable. -it is
+
+inconceiveable that Ex.iS would have been Given without
+
+consulting Officer
+
+in
+
+lite Capt. Srora and Capt. Tripathi
+
+t
+
+her senior officers and in fact on the instruc—
+
+and oo
+
+147
+
+
+mr
+
+‘
+
+tions of such Officers. In view of the totality o¢
+these circumstances it is also not conceivable that
+Capt.ehurana was briefed not to Give any emergency
+
+exercise in the
+
+training flight,
+
+In this CAS@s 48 15 apparent from afore
+
+te
+
+the lack of Proper corporate management seems evident
+when one bears in mind the manner in which the approval
+of D6cA for Capt.Khurana to act as instructor was
+sought and the manner in which the training flight was
+“planned and executed before even receipt of formal
+approval from DECA. Commercial Pressure also is evi-
+dent from the testimony of Capt.Arora when he says that
+the Airline was in the need of an instructor and that
+is the reason that he made application ¢or his approval
+knowing well that Capt.Ehurana was not eligible. It is
+not possible to accept though he has taken the burden
+on himself to believe that he did it without the knowl—
+
+edge, consent or at the instance o¢ his superiors
+
+In the Newspapers of 1Bth March 1994 the ~
+
+advertisement Ex.iS issued by Sahara Was published
+which suggests that an engine failure Exercise was given
+in the training flight in question with a view to Give
+
+eut that such type of typic
+
+ty
+
+tly dynamic training exer—
+cises were mandatory requirement by the stetutory
+
+authorities, This advertisement came to light only
+
+148
+
+
+whem evidence was being recorded.* The advertisement
+was brought on record during the croes examination of
+Mr.S.Erishnan on 15th November 1994, Mr. krishnan,
+however, stated that he could not gay who geve the
+insertion Ex.15 in the newspaper. The witness was
+directed on 15th November 1794 to place an record the
+Basis on which Ex.i5 was Qiven in the newspaper, This
+led to filing of affidavit dated 22nd November 1694 by
+Witness No.i2 Mr.Ashok Kumar Ohri who is Incharge for
+
+all media releases on behalf of the Company. He is not
+
+an. expert in flying. In fact, he does not know any—
+
+thing about flying and also much about the requirement
+of DGCA. He has taken upon himself the entire Durden
+ef issue of Ex.iS. This document, inter-alia, gives an
+impression that power of one engine had been reduced to
+
+zero in the ill-fated flight and Sahara knew about it
+
+on 6th March, 1994 and alse that such an exercise was
+necessary. When asked as to how he reached the said
+fenclusion, an utterly LACORVINcine and unsatisfactory
+reply was given that when he had gone to Airport on Sth
+
+March 1994, he overheard certain people saying that the
+
+HT]
+
+Power of one engine had heen reduced to rero and that
+is how he stated about reduction of power in the Press
+release and he did not discuss about it with either
+Capt.Arora or Capt.Tripathi or any other persan in
+Sahara about the
+
+gines. He is sai
+
+th
+
+149
+
+
+Power. Tt ais
+
+an insertion in the Newspaper
+about the power of one engine having been reduced to
+zero would be given without the Enowledge of the Senior
+
+Fa
+
+itis
+
+B
+4
+Ww
+ou
+7
+a
+7
+wy
+bet
+
+ots and
+
+ket
+
+heing a vite
+
+have been collected by Inspector of Accidents and
+placed on record and mentioned in his report instead of
+the same being brought on record by Mir.Mehajan appear—
+ing for Mrs.Khurana. Be that as it may, this insertion
+shows that Sahara had made up the mind soon after the
+
+accident that it was a case of simulation ef engine
+
+dlure by the instructor and that it was necessary
+requirement of training stipulated by the statutory
+
+authorities.and as such there was nothing wrong in the
+
+said exercise. If it ;uld have
+
+taken that stand. It
+
+fl
+
+trainee® pilots ie
+
+ck
+is)
+i
+
+the position Sahara
+
+urana moat to
+
+stand does not seem to be correct,
+
+said that Capt.Tripathi may nave told
+
+it he considers necessary he can give ta the traines
+
+
+poo
+
+on"
+
+'
+t
+
+BR
+
+4
+
+ge
+
+a
+EI
+
+Se,it
+
+on Ris own,
+
+& contrary ta his
+
+briefing, m
+
+on record that
+
+had earlier never violated the specific
+
+Given to him by his feniors. [It is, howey—
+
+nee
+
+Pilots or not keeping in record
+
+Of performance of trainees on simulator and other
+
+a
+
+ti
+
+pects which have earlier noticed or if at all it
+should not have been given on take off and should have
+
+been given, in any Case, on down wind in normal circuit
+
+and further, in the
+
+Even po
+
+a
+Io
+
+have anticipated that trainee may apply a Wrong rudder
+and bearing in mind its lethal effect, he should have
+Blocked the right rudder so that the trainee could only
+apnly right rudder and the instructor should have also
+
+net waited for long + apply the
+
+rudder and shauld hav
+
+ii)
+
+ROLE OF DGCA
+
+Skies
+
+regulatory body
+
+Present policy, Brimarily there were only ten operators”
+
+,
+
+ist
+
+
+‘
+zoe
+
+in the field Cf Civil Avia
+
+ree
+
+tion, namely, Indian Airlines
+
+Jan Gir India, both sovernment conttolie
+
+and oan tue very nature of things, the commercial
+
+con-
+
+siderations were net as dominating aS may be Prevelant
+in private Operators, The compromise with the safety
+standards cannot be allowed because of commercial
+fcontiderations, The regulatory body can, hewever,
+
+no complusion whatsoever Tor
+
+anting such &pproy—
+
+al. In this cas
+
+D
+on
+
+understanding Of DGCA af criteria
+aee(ivi regarding the Gligibility conditions fer ap-
+Proval as instructor is contrary to the Plain language
+of the criteria. I am Surprised at the understanding
+of the said requirement of Criteria at DBCA when it
+takes the stand that experience Of one year as check
+
+pi
+
+oO
+rt
+b
+
+i
+
+%
+
+1g
+a
+
+Q
+
+bh
+
+Fi
+
+o
+ct
+Q
+
+into Consideration from
+the date DGCA arants SPProval in case of @ Pilot as
+check pilet and it is immaterial whether he performs
+
+the function of eheck pilot or not. Even if ¢
+
+to he considered for approval as instructor after j
+Of one year, When
+Pre-supposes that
+
+rforined the funec-
+
+tions, during
+
+pilot. Anything,
+
+ticularly whe;: that may J®0pardise
+
+S
+
+ty
+
+fety., cannot be left to the 9-oGMI 1) of the Operdtor
+
+oniy. Further,
+
+18 required to
+Provide light ts the Operators Dy Providing some mini-
+
+mum uniform standards, If the pera had @Ppropriately
+
+
+winiderste
+
+oS ~ oe ;
+Approval if the case of The Indian
+Airlines Guidelines, referred to above, the
+a following Criteria for a Pilot before he
+
+Instructor:-
+
+“ye
+
+4.2 INSTRUCTORS
+
+Under Study Training on Simulator
+
+= dorsement Training. During und
+F Ringe Instructor will be
+Le training and Ge-brieting being g
+
+- of the training time, He will ¢ ths same
+_ during the rest of the training time under the observa—
+i : tion of the Training Instructor/Examiner,
+
+A certificate as suitability will be issued by the
+J~ Training Instructor/Examiner after Completion of the
+i Training.
+
+|
+i , iid To carryout Simulator Training independently oF
+, atleast cone batch for Pype Endorseme fPIC, ,
+~ iii} Gne Simulator {RH S) with a approved
+Examiner,
+iv) Three Route Checks (.F With | atleast two
+~ Examiners.
+~ v} On satisfactory Completion of the aDove, he ais
+released to Carryout IR/LR Renewal .
+wi} Under Study Ty ning an
+Fiying Training is done only on B c
+released ta Carryout flying training. Tras
+tor himself “ill demonstra Carryout
+_ training ESESSiCnN of . Bo cer
+. Suitability will be issued by the
+- instructor/Examiner after completion of the
+_ “Letter of release as Instructor,”
+
+i
+i
+
+q¢
+
+\
+
+
+shoula have
+
+training manual eo that regulatory
+
+body had an Opportunity te know
+
+or not. DGCA should have also
+
+bay
+
+a]
+
+fore grant of
+
+FIRE FIGHTING OPERATIONS
+
+Preliminary finding was recorded ain the Report
+ef Inspector of Accident, on the basis of Group report,
+that there was no mobile water replenishment arranges
+
+ment for the crash fire tenders positioned for fire
+
+it
+
++n
+
+ighting, resulting in dislocation of CFTe from ideal
+position to collect water from static tank No. 9 and 1i
+and ‘thus #ire fighting operation was Carried out in
+
+stages and also that the quali
+
+was nat standard and the fire extinguishing media
+
+not creating
+
+on two CFTs, the monitor es
+
+and on the other tuo manitors, controle became unsery—
+
+iceable during fire #i
+
+that sides channels for fire fighting were used on these
+
+crash fire tenders.
+
+Firstly ait may be noticed
+
+involved in the Group to study and analyse wheth
+
+
+.
+ba ia] nay
+L £ u
+rn % a
+ch £5
+x g
+in a
+. Me C
+G
+w
+rat
+»
+a ,
+
+vk u
+i? a
+4
+fad
+ia
+“4
+U
+£ bo
+u ™
+i
+L a
+G 41 \
+ae ia .
+. . 3
+a
+is}
+0
+a Le
+oy o
+ML Fx]
+tf wu Ff on
+rr ns i
+rn Tr u a
+Mn ooo} &
+a eon i
+ta "i x cr uw i
+OE J z 5
+z am
+
+
+felt, this potential WAS also used
+
+
+© day ain the Evening Lal a
+
+fire tender
+
+become
+
+te
+
+trolled by
+
+th
+n
+o
+3
+ual
+g
+i
+3
+t+
+n
+ie
+fa
+ra
+iB
+ine
+
+Portionator installed
+
+on the fire tenders
+
+that the desired guantity is
+
+prefixed and Froportionator dose mot require any ad-
+
+Y
+
+be complimented for their grand
+
+the fire and, in particud
+
+
+‘
+7 “saving the wings af fiot aircraft WHICH con
+y tained 58 tonnes Of fuel. Had it not been Sontrolled
+_ and the said fuer had caught fire it would have been a
+3} . bigger Gisaster,
+
+=r
+=
+=
+“<
+ry
+ri
+In
+Fy
+(te
+x
+!
+in
+iz
+is
+lon
+Fa
+eo
+pe
+8
+rd
+eG.
+lang
+(aa
+3
+F4
+5
+
+2 SXPErience of Vaidul
+a .
+~ should not hay been
+ie
+~~ a. Capt. Ehurana Should have guarded + Piocked
+4
+i . the Rudder central and Given clear commands as Instruc—
+- ter so as to obviate the application of wrong Rudder
+i control by the trainee Pilot,
+_ 3. The crash Secured due to the apfelicatian of
+~ wrong) rudder by trainee Pilot Vidui Mahajan during
+L : 4. :
+engine failure SxGrcise,
+i q
+~ . B. OTHER FINDINGS AND CONCLUSIONS
+|. i. Sahara should not have planned the
+~ fiight Without retaining the Fecords of Simulat
+N
+as instructor,
+The Dé Should not have Granted the @pproval
+for Capt, Khurana to eet as instructor since he lacked
+
+the evperience of Check Pilot for one y
+
+far
+
+af 4Ic
+
+Civ of Clause 2
+
+ing
+
+
+\-
+
+“RECOMMENDATIONS
+SELONMENDAT IONS
+
+)* a
+
+rast
+
+SaPProvali of Sahara
+
+weer india
+Uperator for &@ Period oF¢ one
+
+yes
+
+=
+
+the regulatory Body, trainee ana the 4irline
+
+er
+
+
+_
+
+ducted
+
+
+y
+he
+
+fo
+end
+mer
+eG
+
+
+4A. ofl
+Or oe
+wu ay
+c 4
+aay ui
+cH w
+"i =
+Le
+g 44 ‘
+yi Pd wi
+Y rm
+uu B
+c a c
+w :
+ul ww
+tel net
+et 5
+uh
+w ul
+a
+al fies
+ch any
++H
+e il
+fa) y
+ty
+oT
+ny
+w
+ai
+4.
+TT
+C
+"i
+in
+ind
+
+bom! dk gf ate id { weal dk oe | wal gt { _d oe a rs we Ft yt | ‘yf
+
+
+13. During investigation of air accident,
+alongwith Inspector of Accidents, expert(s) in the
+field of Flying on particular type of aircraft
+should be associated. Likewise experts from other
+fields like Fire operation and/or other experts,
+depending upon the circumstances of each case,
+
+should be associated.
+
+14. : Expeditious grant of clearances for
+import of fire fighting equipments and/or parts
+
+thereof.
+
+is. Simulator of CTE, Hyderabad should be
+given on hire to trainees of other operators.
+Yr [Chere A
+(Y.K.SABHARWAL )
+JUDGE
+HIGH COURT OF DELHI
+NEW DELHI
+
+22ND MARCH, 1995
+
+We Agree
+
+(AIR-CO DORE R.P.S.GARCHA)
+
+ASSESSOR ASSESSOR
+
+
+yor pa) ww
+
+pe)
+
+cary
+
+ACKNOWLEDGEMENTS
+
+I did not know much about field of
+~Flying—when-—I--gave consent for performing the
+functions of Court of Inguiry. In fact, let me
+concede that I had no knowledge about the techni-
+Cal aspects of flying or other technical aspects
+of civil aviation. It would not have been possi-
+ble’ to make this report but for the able assist-—
+ance, guidance and help received from various
+persons. This report would be incomplete without
+
+my expressing gratitude to thea.
+
+Air Commodore R.P.S.Garcha, one of the
+Assessors is not only a senior and experienced
+Flier/Pilot but is also highly knowledgeable in
+the field of flying and hard working. Likewise,
+the ether assessor Mr.R.D. Thakur, General Manager
+(Engineering) in Indian Airlines, with his deep
+knowledge, devotion and hard work was able to
+explain to me the technical engineering aspects in
+a simple manner sa that I wes able to understand
+these aspects without much cifficuity. Tt has
+been a great pleasure ta be associated with Air
+
+Commodore Garcha and Mr.Thakur.
+
+164
+
+
+im ee aa eae eee i ale Ee ee _~ Rite Ret el dite
+
+In Mr .H.S.Ehola, Director General of
+
+Civil Aviation, I found deep knowledge and under—
+
+. standing of various aspects of Civil Aviation. An
+“° —SFFECTSRE” Gf ticer, who has been source of great
+help in the investigation, What I have stated
+
+about Mr.Khola is equally true about Mr.Satinder
+
+Singh. Mr .Satinder Singh was found to be a very
+
+od hardworking and knowledgeable officer, Tt thank
+
+both of them for the able assistance rendered to
+
+ne.
+
+The Inspector of Accidents is the back—
+bone of such investigations, Mr .V¥.K.Chandna,
+Inspector of Accidents provided necessary assist-
+
+with ability. My thanks to him.
+
+, Mr.d.8.Wazir acted as Secretary to the
+Commission. But for his help and assistance it
+would mot. have been Possible to conclude the
+proceedings. It is unfortunate that he developed
+
+some health problem soon after the conclusion of
+
+the proceedings but inspite of that Mr Wazir
+continued rendering the necessary assistance, for
+_ which I am greatful to him. I also wish him good
+
+_ health, . /
+
+
+.
+
+Tam also thankful te various other
+officers/officials cf DGCA whe have alwavs been
+ready and willing to render such help as was
+required and with the smiling face. In this
+respect special mention may be made of Mr .k. Go-
+hain, Directer of Air Safety of DGCA at Bombay.
+
+The efficsrs of tional
+
+rk
+
+ransport
+Service Board, Washington, British Calidonian, UE,
+Fire Department at Heathrow Airport, London, the
+Fire Department at Frankfurt Airport, officers of
+Lufthansa Training Centre, Frankfurt, CTE, Hydera-
+bad, Air India, Indian Airlines and NAL, Bangalore
+deserve to be thanked for rendering able assist-
+ance, help and guidance which has been very useful
+
+in the inguiry.
+
+Mr. Alok Mahajan, MreeCalit Bhasin,
+Nr. R.k Anand, Mr.R.S.Suri, Mr.Robin Mitra and
+Mr. N.A.E. Sarma, advecates who appeared in the
+Proceeding rendered useful assistance for which I
+
+am thankful to them. °. My special thanks to
+
+Bs.
+
+Mr.Sarma who brought aut in his cross exam nation
+Gf the witnesses certsin important aspects with
+which N.ALA. may not have been directly concerned,
+Dut without the said aspects the report would have
+
+been incomplete in the real sense, I may aiso
+
+record my sincere appreciation for the services
+
+1464
+
+
+rendered and work done by my personal staf#.
+
+including Mr.V.E.Kochhar, Mrs.
+
+Bansal and
+
+Mr.Sunilt Koushai,
+
+assistance the
+
+report could net have been made ready.
+
+To conciude by recording my deep conda-
+
+fences to the members of the breaved families.
+
+CY... SABHARWAL )
+
+JUDGE
+
+HIGH COURT OF DELHI
+
+

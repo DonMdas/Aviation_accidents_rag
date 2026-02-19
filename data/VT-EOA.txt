@@ -1,0 +1,4658 @@
+CoN FILDENTIAL
+LON PARE eae
+
+=|
+
+REPORT
+OF THE
+COMMITTEE OF INQUIRY
+ON THE
+ACCIDENT TO SUPER KING AIR AIRCRAFT
+
+VT-EOA ON 27.08.92 NEAR IGI AIRPORT
+NEW-DELHI
+
+Air Cmde. R.P.S. Garcha
+Air II, Eastern Air Command, Shillong.
+CHAIRMAN, COMMITTEE OF INQUIRY
+
+MEMBERS
+
+A.K. Gupta, V.K. Chandna
+Dy. Director, LB. Director Air Safety
+Delhi Region
+
+INDEX
+
+CONTENTS PAGE
+1.1. BRIEF NARATION OF THE ACCIDENT 2
+12 INJURIES TO PERSONS 4
+13. DAMAGE TO AIRCRAFT 4
+14 OTHER DAMAGE 5
+15 CREW INFORMATION 5
+15.1 Pilot-in-Command 5
+1.5.2 Capt. A.K. Jha 6
+1.5.3 Wg. Cdr. S. Beri 7
+1.5.4 Sh. M. Nair 7
+16 AIRCRAFT INFORMATION 7
+1.6.1 History of Aircraft 7
+1.6.3: maintenance Work/Inspection on Aircraft v]
+in 1992
+1.6.4 Brief History of Defects 11
+1.6.5 Replacements and Major Repairs 12
+1.6.6 Weight and Balance 13
+17 METEOROLOGICAL INFORMATION 13
+1.8 AIDS TO NAVIGATION . 14
+1.9 COMMUNICATION 14
+1.10 AERODROME INFORMATION 15
+111 FLIGHT RECORDERS 16
+1.12) WRECKAGE AND IMPACT INFORMATION 16
+1.13) MEDICAL AND PATHOLOGICAL INFORMATION 24
+1.14 FIRE 26
+1.15 SEARCH, RESCUE AND EVACUATION 26
+116 TEST AND RESEARCH 27
+1.16.1 - Pathological Examination at IAM, Bangalore 27
+of Heart
+1.16.2 Central Forensic Science Laboratory Report 28
+1.16.3 Mentat Tablets Examination 29
+1.16.4 Engines and Propeller Examination 30
+
+{i)
+‘ne te er
+
+2A ema Mh er
+
+1.17
+
+1.16.5
+1.16.6
+
+1.16.7
+
+Explosive Examination by Bomb Detection
+and Disposable Squad, BCAS
+
+Metallurgical Examination Report on Failed
+Flight Control Cables and Propeller
+Attachments
+
+Spectrum Analysis Report of NAL of Words
+"Go Ahead Sir’ in the ATC Tape Transcript
+of Accident Flight
+
+ADDITIONAL INFORMATION
+
+1.17.1 Salient Observations Made by Doctors
+1.17.2 Training and Checks for the BSF Pilots
+1.17.3 Crew Requirement for Twin Engined Aircraft
+1.17.4 Training and Refresher for Airport Medical
+Officer/Ambulance Attendants
+1.17.5 Annual Medical Checks of BSF Officials,
+Pre-flight Examination of the Crew and
+Flight Duty Time Limitation for the Crew
+1.17.6 Aircraft Maintenance Presonnel of BSF
+1.17.7 BSF Air Wing Security Arrangements
+ANALYSIS
+2.1 Was the Aircraft Fully Serviceable Prior to Impact?
+2.1.1 Maintenance Records
+2.1.2 Wreckage Examination
+2.2 Was it a Sabotage?
+2.3 Human Failure Aspects
+2.3.1 Was It a Case of Suicide?
+2.3.2 Was it a Case of Pilot's Incapacitation?
+24 Post Crash Actions
+2.4.1 Photography of Dead Body at Site
+2.4.2 Post Mortem and Preservation of Viscera
+CONCLUSIONS
+3.1 Findings
+3.2 Cause of Accident
+RECOMMENDATIONS
+
+35
+
+36
+
+37
+
+re REPORT ON ACCIDENT TO BORDER SECURITY FORCE
+
+BEECH SUPE
+
+1.
+
+10.
+
+“
+
+R_ KING AIR B-200_C
+
+AIRCRAET_VT-EOA ON
+
+27.8.92 NEAR IGI_AIRPORT, NEW_DELHI.
+
+AIRCRAFT :
+TYPE
+MODEL
+NATIONALITY
+REGISTRATION
+
+DATE & TIME OF
+ACCIDENT
+
+OWNER/ OPERATOR
+
+POINT OF DEPARTURE :
+
+INTENDED POINT OF
+LANDING
+
+TYPE OF OPERATION
+
+PHASE OF OPERATION :
+
+PLACE OF ACCIDENT
+
+CREW
+
+INJURIES
+
+BEECH SUPER KING AIR
+B200 C
+
+INDIAN
+
+VT-EOA
+
+278.92 1159 hrs, IST (APPROX.)
+
+DIRECTOR GENERAL-BORDER
+SECURITY FORCE, F BLOCK,
+NIRMAN BHAWAN, NEW DELHI
+
+DELHI AIRPORT
+
+DELHI AIRPORT
+
+CIRCUITS & LANDINGS
+
+DOWN WIND LEG OF RUNWAY 28.
+
+ABOUT 2.75 KMS. SOUTH OF
+AIRFIELD CLOSE TO NATIONAL
+SECURITY GUARD (NSG) UNIT/
+GURGAON ROAD.
+
+SOLE OCCUPANT PILOT-IN-COMMAND
+CAPT. T.S. DHALIWAL.
+
+FATAL
+
+( All Timings are in IST }
+
+1.1. BRIEF NARRATION OF THE ACCIDENT
+
+\ 1.1.1 On 27.08.92 VT-EOA operated flight Delhi-Leh-Delhi to pick up D.G. ITBP from
+: Leh to Delhi with Capt. A. K. Jha as Pilot-in-Command, Wg. Cdr. S. Beri as
+Navigator and Mr. M. Nair as Radio officer. The aircraft had departed from
+IGI Airport, New Delhi at 0700 hrs. and had landed at Leh at 0900 hrs. After
+a halt of 15 minutes, the aircraft took off from Jeh at 0915 hrs. and landed
+back at IGI Airport at 1100 hrs. No abnormality was reported by the crew with
+
+the aircraft.
+
+1.1.2 In the meantime at 1030 hrs. IST, late Capt. Dhaliwal had filed a flight plan
+t with ATC Palam for local flying circuits & landings to be carried out at 1130
+hrs on this aircraft. On arrival of the aircraft from Leh the aircraft was
+accepted by Late Capt. Dhaliwal and Co-pilot Capt. A.K. Jha for circuits.
+Aircraft taxied out from the BSF apron and at 1133 hrs., reported its position
+on ‘Echo’, when the Tower asked the aircraft to line up and hold. At 1136
+hrs., the aircraft was cleared for take-off from Runway 28, turn left and climb
+to 2500 ft. and report down wind on QNIT 1006 HIPA. The wind reported was
+260/03 knots. At 1138 hrs. the aircraft reported down wind on Runway 28. At
+
+1140 hrs. the pilot reported finals with landing gear lights ‘Three Green’, On
+a query from tower to confirm making a ‘Full Stop Landing’ or ’ Touch and
+
+Go’, the aircraft reported to be carrying out ’ Touch & Go’.
+
+1.1.3 The aircraft touched down at 1141 hrs. After touch down, it requested
+| permission for Short Circuit/ Bad Weather Circuit. The tower cleared the
+aircraft for the same and told to report down wind on runway 28. At 1143
+hrs., after the second circuit when the aircraft reported for the finals, the
+
+aircraft was cleared for’ touch & go’ but the pilot informed the tower that he
+
+will be doing a ‘full stop landing’ and the aircraft was cleared for the same.
+
+Tower cleared the aircraft to back track and asked for vacating the runway on
+
+‘B ’. The pilot informed the tower that he will go to the B.S.F Hanger.
+
+1.1.4 After landing, the pilot again requested the ATC at 1145 hrs.that he will like
+to go for one more circuit if the traffic permits. The Tower gave a consent for
+the third circuit and asked to line up on Runway 28. At 1146 hrs., the aircraft
+informed the tower for lining up on runway 28. The tower cleared the aircraft
+
+for take-of giving winds 260/03 knots. At 1147 hys., the tower was informed
+
+: 2
+
+a
+
+by the aircraft that it is rolling. Immediately after the above transmission , the
+pilot reported to the tower that it was vacating the runway for two minutes.
+The pilot asked the Tower about the duration of the delay. The tower
+informed that there were ‘two departures and one arrival’. The Tower asked
+the pilot to confirm about duration of delay on their part, The aireratt reported
+back that they are checking up because something has gone wrong with the
+door and it will take just about 2 to 3 minutes. At this stage Capt. A.K. Jha
+Co-pilot on board the aircraft was disembarked on I taxi tack. At L151 hrs.,
+the aircraft requested to the tower for lining up, to which the Tower reported
+to hold pusition. At 1152‘hrs., the aircraft asked the tower for the duration of
+delay. The tower informed the delay is expected to be of 15 mts. At 1153 hrs.,
+another aircraft VVF (Air Force Aircraft) called the tower. .The tower asked
+VVF aircraft to line up on runway 27 and hold. At 1155 hrs., tower advised
+the BSF aircraft to line up on runway 28 and hold which was confirmed by
+the aircraft. The Air Force VVF Aircraft which was lining up on runway 27
+
+was given ATC clearance for Chandigarh.
+
+At 1156 hys., VVF aircraft was cleared by the tower for take off. At this
+juncture the BSF aircraft was also seen rolling and was instructed by the
+tower to hold position. The tower made repeated calls to BSF aircraft to cancel
+take off as VVF aircraft was rolling. At 1157 hrs., VVF aircraft abandoned take
+off and averted a dangerous situation as the directions of runway 27 and 28
+
+converge.
+
+At 1158 hrs. after the repeated calls by Delhi Tower, the BSF aircraft responded
+by saying ‘Go Ahead Sir’, which was the last transmission from the BSF
+aircraft. The tower informed the aircraft that it was not cleared for take off and
+asked how the take off was done without the ATC permission. The take off
+clearance was given to VVF aircraft from runway 27. After this there were
+repeated calls from the tower to the BSF aircraft for the confirmation but there
+was no response from the aircraft. The aircraft was seen going down after it
+had turned for down wind leg. At 1159 hrs. another Air Force aircraft VVR
+coming to Delhi from Hindon Airport informed tower that probably the BSF
+
+aircraft has crashed.
+
+1.1.6
+
+1.2
+
+1.3
+
+The NSG personnel have their training camp close to the accident site and
+were undergoing their routine training schedule at the time of accident. As per
+eye witness statements, the aircraft approached from the airport side and took
+a turn and after that appeared to be going, down ina pitch down altitude.
+The engine sound was there and the aircraft propellers were reported turning.
+There was no fire to the aircraft . A loud thud sound was reported to have
+been heard during impact with ground. The fire emerged immediately after
+
+the aircraft impacted the ground.
+
+NSG personnel were the first to reach the site of accident, They cordoned
+off the area and put out the fire with the help of fire extinguishers and buckets
+of water before airport fire tenders could reach the site of accident.The airport
+fire services reached the site Of accident in about ten minutes. The aircraft
+impacted the ground in a pitch down attitude, caught fire and somersaulted
+in a pond at the site of accident which was filled with water. Capt.
+T.S.Dhaliwal who was the sole occupant on board the aircraft got killed due
+
+to post impact forces,
+
+Dead body of late Capt. Dhaliwal got deshaped and was lying on the slope of
+the water pond. It was removed by airport fire services and was carried in the
+airport fire Ambulance to the airport M.I. Room. The body was later removed
+
+to the Safdarjung hospital where postmortem examination was carried ort.
+
+INJURIES TO PERSONS
+
+Capt. T.S.Dhaliwal who was the sole occupant on board the aircraft received
+fatal injuries and died instantly:The general pattern of injuries is that of
+
+decelerative type crush injuries as expected in a fairly high velocity impact.
+
+The face was split into two portions. There were lacerations through the skin
+of the lower lip. These injuries could be due to hitting sharp object in the
+
+cockpit structure. There were multiple fractures to the bones.
+
+DAMAGE TO AIRCRAFT
+SAMAUE 10 AIRCRAFT
+
+The aircraft was totally destroyed due to impact forces and subsequent fire.
+
+14
+
+15
+1.5.1
+
+OTHER DAMAGE
+
+There was no other daniage.
+
+CREW_INFORMATION
+PILOT IN COMMAND
+
+Name : Sh. Trilok Singh Dhaliwal
+Date of Birth , ae 1.5.1940
+Licence No. : ALTP No. 773
+Valid upto : 12.11.92 ( Initially
+issued on 17.6.75)
+Category : Single/multi engine land
+aircraft.
+
+Type of aircraft
+endorsed : DC-3, HT-2, Harvard,
+Queen Air-80.
+
+Open rating was issued for all conventional types of airplanes having an all
+up weight not exceeding 2500 kgs. on 12.5.7. In continuation open rating was
+
+issued for all types of airplane having all up weight not exceeding 5700 kgs.
+
+He was DGCA approved Examiner on Super King Air B-200 and HS-748
+aircraft.
+
+Endorsed on Super King Air B-200 and HS-748 aircraft. FRTO NO. 2112 Valid
+up to 12.5.93,
+
+His Instrument ratings on HS-748 aircraft was last renewed on 6.8.91 and was
+valid upto 5.8.92. Instrument rating on Super King Air B-200 aircraft was last
+renewed on 3.9.91 and was valid upto 6.9.92.
+
+His last route check and local check on HS-748 aircraft was carried out on
+
+12.2.92 and is valid for six months with a grace period of one month.
+
+Total flying experience
+as on date of accident : 13519 hrs. 46 mts.
+
+Flying Experience on
+Super King Air B-200
+from March 1988 till
+date of accident : 1099 hrs. 51 mts.
+
+Flying experience on
+
+Super King Air B-200
+
+aircraft during last
+
+30 days > 2 hrs. 45 mls.
+
+Prior to the date of accident he had flown HS-748 aircraft to Amritsar on
+23.08.92.
+
+His last medical for renewal of ALTP licence was done on 28.4.92 at Air Force
+CME New Delhi. He was found fit subject to wearing of corrective  bi-
+
+focal/look over glasses while exercising privileges of his licence.
+
+Capt. Dhaliwal was involved in an incident prior to subject accident on 21.7.84
+on Super King Air aircraft at Safdarjung airport. The aircraft had abandoned
+takeoff and during the process it over shot the runway and went into kutcha
+for nearly 90 ft. before coming to rest. Investigation has revealed that the
+
+aircraft was overloaded.
+
+Late Capt. T. 5. Dhaliwal had joined BSF (Air Wing) on deputation from Indian
+Air Force on 7.2.72 as a pilot and was later absorbed in BSF on 19.1.78. He
+was given acting yank of Deputy Director (Air Ops.) with effect from 16.52.78
+and was confirmed in that rank from 11.11.80. He was placed in the acting
+rank of 1G (Air Wing) w.ef 21.6..88 and was subsequently confirmed in this
+yank from 8.11.89, with designation Director, BSF(Air Wing), which he was last
+
+holding at the time of accident.
+
+Capt. A. K. Jha holder of CPL No. 1205 had flown with Capt. Dhaliwal during
+the first two circuits and landings at IGT airport on 27,8.92 prior to the eventtul
+third sortie. Earlier on the eventful day Capt. Jha had flown VI-EOA aircraft
+Delhi-Leh-Delhi to bring DG ITBP from Leh to Delhi. Capt. Jha had got CPL
+licence on 22.9.78. He had joined BSF (Air Wing) as Trainee pilot on 21.11.85.
+After passing, the technical examinations conducted by DGCA on DC-3 and HS-
+748 aircraft, he was appointed as a Co-pilot of BSF (Air Wing) wef, 11.12.88.
+
+6
+
+1.5.3
+
+1.5.4
+
+1.6
+1.6.1
+
+As a holder of CPL licence, Capt Jha is authorised to act as pilot in command
+in the airplanes having all up weight up to 5700 kgs. He had pilot in
+command endorsement on Super King Air aircraft. He had flown as pilot in
+command for 550 hrs. (Approx.) on Super King Air aircraft during past two
+
+years.
+
+Wg. Cdr. S. Beri had gone as Navigator in Super King Air aircraft during its
+flight from Deihi to Leh and back on 27.8.92. He is in possession of Ist class
+Navigation licence issued by DGCA and holder of Cat. A in the Indian Air
+Force on HS-748 aircraft. ,
+
+Sh. M. Nair had gone in the aircraft to Leh and back as Radio Officer on
+27.8.92. He is qualified Aeronautical Radio Maintenance Engineer on Super
+King Air aircraft. There is also an endorsement in his licence for Avro aircraft
+
+to act as Radio Maintenance Engineer.
+
+AIRCRAFT INFORMATION
+HISTORY OF AIRCRAFT:
+Beechcraft Super King Air Aircraft B-200C bearing manufacturers S.No.BL-129,
+
+was manufactured by beech Aircraft Corporation, Wichita, Kansas, U.S.A. on
+19th May,1987. The aircraft was fitted with two Pratt and Whitney PT6A-42
+turboprop engines bearing S.NO.PCE 94102 on Port side and S.NO.PCE 94100
+on starboard side, driving 3 blades Hartzell variable pitch Propellers, Type HC- —
+B3TN-3N bearing hub S.NO.BV17132 at Port side and BU-17182 at starboard
+side.
+
+A certificate of compliance, indicating that all the FAA mandatory modifications
+and Beech aircraft Corporation Class I Service Instructions applicable to the
+
+aircraft were complied with, as issued by the manufacturers,
+
+The aircraft was bought by Director General Border Security Force through
+M/s Indamer (P) Ltd., Juhu Bombay, from the manutacturer’s plant at Wichita,
+U.S.A. After the aircraft was issued with FAA Export Certificate of
+Airworthiness No.E16437 on 22nd June; 87, it was ferry flown to Bombay on
+22nd July,87 with American Registration No.N72401 issued by FAA. The aircraft
+was cleared by Air Customs, Bombay on 24th July, 1987,
+
+7
+
+After arrival of the aircraft in India, the aircraft was issued with the Indian
+Certificate of Registration $.No.2387 on 7th August,87. The first Indian
+Certificate of Airworthiness No.1891 was issued on 7th Aug.,87 by the Director
+General of Civil Aviation under the category ‘Normal’, sub-division ‘Private
+aircraft’. The maximum all up weight was 5669.90 Kgs. or 12500 Ibs. The said
+certificate was valid upto 2ist June, 88. The C of A certificate specifies
+
+minimum crew necessary for the aireraft as one.
+
+Before issue of Indian Certificate of Airworthiness, the aircraft was subjected
+to schedules approved by the D.G.C.A. at the maintenance facilities of M/s
+
+Indamer (P) Ltd., Bombay, which is an approved organisation,
+
+The aircraft and engine hours as on the date of accident are as follows :
+
+AIRFRAME :
+
+Hours since New 1347 hrs 24 mts
+
+tl
+
+Hours since last C of A
+
+0
+
+157 hrs 29 mts
+
+Number of landings Since New = 981
+Number of landings Since Last = 95
+CofA
+
+ENGINES :
+
+The aircraft is fitted with two Pratt & Whitney Turboprop PT6A-42 engines.
+
+Port Engine Stbd_ Engine
+(S.NO. PCE 94102) (S.NO. PCH 94 [00)
+Hrs since New 1347 hrs 24 mts 1347 hrs 24 mts
+Hrs since last 157 hrs 29 mts 157 hrs 29 mts
+CofA
+PROPELLERS :
+
+Hartzell variable pitch propeller type HC-B 3TN-3N are installed. The
+propellers were overhauled by M/s Cama Aviation at their facilities at Juhu
+
+aerodrome, Bombay on completion of 1189:55 hrs. on 21.1.92,
+
+1.6.2
+
+1.6.3
+
+Port Eng.Prop. Stbd Eng.Prop.
+
+SI. No. BU 17132 BU 17182
+Hrs. Since New 1347:24 Hours 1347:24 Hours
+Hrs Since Last 157:29 Hours 157:29 Hours
+CofA
+
+The aircraft was maintained by BSF (Air Wing) & m/s Indamer Bombay in
+accordance with the programme drawn up on the recommendations of the
+
+manufacturers and approved by DGCA as follow :-
+
+i) Pre-flight
+
+ii) DI.
+
+iii) 15 days / 25 hrs
+iv) 30 days / 50 hrs
+v) 90 days / 100 hrs
+vi) 180 days / 200 hrs
+vii) 270 days / 300 hrs
+viii) 360 days / 400 his
+ix) C of A inspection
+
+MAINTENANCE WORK/INSPECTION ON AIRCRAFT IN 1992 -
+
+The 1000 hrs./ 4 year maintenance schedule on the aircraft auto pilot system
+and its components was done on 11.2.92 by M/s Indamer. The Inspection
+schedule on fuel manifold adopter and nozzle which is required to be done at
+every 400 hrs. of operation was accomplished on 9.4.92 by M/s Indamer when
+both the engines had done 1189.55 hrs, since new. Prior to the accident, the
+last renewal of C of A on the aircraft was accomplished on 9,4,99 by M/s ©
+Indamer when both the engines had done 1189.55 hrs. since new.The aircraft
+was also subjected to Check IV (400 hrs./360 days) and the lower inspection
+
+schedules in addition to the following major maintenance works;
+
+1. All landing §ear assemblies and associated hydraulic components were
+overhauled.
+
+9
+
+Electrical accessories were bench checked/ overhauled as per the
+
+requirements.
+
+Flaps and Flight Control surfaces including tabs were inspected for
+
+condition, cracks, damages and corrosion.
+
+All pulleys, bell cranks and push pull rods of aircraft flight controls were
+
+inspected for condition and security.
+
+Rudder torque shaft was inspected as per Beech mandatory SB NO,2422
+
+and was found Satisfactory,
+
+Flight control surface trim tab free play inspection was carried out as per
+
+Beech mandatory SB No.2211 Rev 1 and were found satisfactory.
+
+Movement of flight control surface and cable tension were checked and
+
+recorded.
+
+Both propellers were overhauled on 22.1.92 on their completion of
+1189.55 hys. since new.
+
+Apart from the major inspections which are carried out by M/s Indamer and
+
+the following inspection schedules were carried out by BSF Air Wing since
+
+issue of last C of A
+
+i)
+
+ii)
+
+iii)
+
+v)
+
+25 hrs/15 days : ON 23.04.92 by AME NO. 2367
+50 hrs/30 days : ON 06.05.92 by AME NO. 2367
+25 hrs/15 days : ON 21.05.92 by AME NO. 2367
+50 hrs/30 days : ON 05.06.92 by AME NO. 2367
+
+25 his/15 days : ON 13.06.92 by AME NO, 2367
+
+10
+
+1.6.4
+
+vi) 100 hrs/90 days : ON 24.06.92 by AME NO. 2367
+vii) 25 hrs/15 days : ON 14.07.92 by AME NO. 3093
+viii) 50 hrs/30 days : ON 30.07.92 by AME NO. 2367
+ix) 25 hrs/15 days : ON 14.08.92 by AME NO. 2367
+The Certificate of Flight Release was valid til] 28.8.92.
+
+All the applicable modifications on the aircraft were complied with.
+
+BRIEF_ HISTORY OF DEFECTS ON AIRCRAFT, ENGINES AND THE
+PROPELLERS DURING THE YEAR 1991 & 1992:
+SE SIE YEAR 1991 & 1992:
+
+The following are the reported defects during the period 1991 & 1992 and the
+
+rectification action taken -
+
+18.6.9] PDR
+Weather radar intermittent,
+
+RECTIFICATION
+
+Reracking and cleaning of connectors carried out, checked and found
+satisfactory on ground. To check the proper functioning of the radar in terms
+of correct weather presentation and endurance,a text Hight of long duration is
+required. Checked on test flight, operation O.K,
+
+14.7.91 PDR
+Omega navigation unit data base is outdated. System unserv-
+iceable.
+
+RECTIFICATION
+
+KNS660, Omega system is updated in Indamer Co. Bombay. The system is
+
+serviceable.
+
+26.10.91 PDR
+Pilot side storm window leaking.
+
+RECTIFICATION
+Seal found detached. Re-done with adhesive. Window closing O.K.
+
+22.4.92 PDR
+1. No transmission from co-pilot side on VHF/ HE.
+
+1
+
+2. No smoking and cabin light coming ON when 02 system
+is put to system ready position.
+RECTIFICATION
+1. Normal/oxygen S/W connection found loose and disconnected. Same
+
+reconnected and system checked on ground, found satisfactory.
+
+2. Removed Pt. No.101-384034-1 pressure switch and reinstalled new switch.
+System checked for operation. Found satisfactory.
+
+No snag was reported on the aircraft during the flight Delhi-Leh-Dethi_ prior
+
+to accident and in the first two,circuits and landing before the fateful circuit.
+
+1.6.5 REPLACEMENT AND MAJOR REPAIR CARRIED OUT DURING LAST ONE
+YEAR FROM THE DATE OF ACCIDENT :
+
+1. 24.7.91
+Volt/load meter was replaced due its becoming unserviceable (not
+reading)
+2. 1.8.91
+1. Wind shield temperature controller (RI) was replaced as it became
+unserviceable.
+2. Digital clock was replaced as it became unserviceable.
+3. 5.8.91
+ITT indicator (LH) was replaced as it became unserviceable.
+4. 9.8.91
+LH out board tyre was replaced due it becoming worn out.
+5. 22.8.91
+Artificial Horizon was replaced due erratic with new after bench check.
+6 26.8.91
+
+TSI was replaced as it become unserviceable.
+
+7. 6.9.91
+Right hand out board flap switch was replaced due it malfunctioning,
+
+8. 16.12.91
+Compass check. Swing check was carried out.
+
+9. 3.4.91
+Pressure switch was replaced as it was malfunctioning.
+
+10. 13.4.92
+Cabin air temperature gauge was replaced due not reading.
+
+12
+
+1.6.6
+
+1.7
+
+11. 14.8.92 ;
+Out board (No.1 LH Side) pane assembly was replaced as it was found
+cracked.
+
+WEIGHT & BALANCE :
+
+Empty weight of the aircraft = 3642 Kg
+Radio Equipment Weight = 127 Kg
+Oil wt. oe 10 Kg
+Weight of Crew _ = 75 Kg
+Weight of Fuel at Take-off = 730 Kg (*)
+
+(* Full tank fuel = 3900 Ibs minus fuel used for Leh flight i.e. 2300 Ibs = 1600
+Ibs = 730 Kg approx.)
+
+Total weight at the time of take-off thus works out to be 4585 Kg. The CG
+limits for all up weight 5116 Kg or less in forward is 459.74 cm and in aft is
+498.86 cm. Since the total weight of the aircraft at the time of take-off was less
+than 5116 Kg, the CG was within limits,
+
+METEOROLOGICAL INFORMATION :
+
+The relevant meteorological data was made available to the aircraft by the
+tower before take-off. The weather conditions over IGI Airport were above
+muniina for take off and landing. The weather prevailing at IGI airport as per
+METARS issued by meteorological Department at Palam at 0600 UT.C & at
+0630 UTC were as follows :
+
+At 0600 U.T.C
+
+Surface Wind 280/06 Knots
+
+Visibility 4500 mm.
+
+Clouds base 5/8 750 m. (2500 ft.)
+1/8 1200 m. (4000 ft.)
+5/8 3000 m. (10,000 ft.)
+
+Temperature 31°C
+
+Dew Point 27 C
+
+QNH 1010 HPA =. 29.69inch
+
+QFE 978 TIPA  28.89inch
+
+Tempo. TS,
+13
+
+
+18
+
+1.9
+
+At 0630 U.T.C
+
+Surface Wind 260/03 Knots
+Visibility 4500 m.
+Cloud base 5/8 750 M (2500 ft.)
+
+1/8 CB 1200 m (4000 ft.)
+5/8 3000 M (10000 ft.)
+
+Temperature “31°C
+Tempo. T.S.
+QNH 1005 HPA 29.68 INCHES
+QFE 978 HPA 28.89 inches
+Tempo T.S.
+27.8.92
+
+The accident had occurred at 1159 hrs. IST (0629 UTC). The weather was not
+
+a factor to the accident.
+
+AIDS TO NAVIGATION :
+
+Bist NAVIGATION
+
+Delhi Airport and the Super King aircraft are equipped with the required
+navaids/instruments. As the aircraft was doing local VFR circuits, aids to
+
+navigation are not relevant.
+
+COMMUNICATION :
+Super King Air B-200 aireraft is equipped with 2 VHF sets. In the event of
+failure of one set, the communication can be continued with the second set.
+
+If both these sets fails, communication can still be continued on HE.
+
+From ATC tape transcript of the accident flight, it is observed that after the
+aircraft took off without ATC clearance and it was approximately 40. secs,
+before the crash that late Capt. Dhaliwal replied "go ahead Sir" on repeated
+calls from the Tower. Since the aircraft had no reported snag and radio
+equipment were serviceable during Delhi-Leh-Dethi flight as well as during the
+first two circuits and upto the commencement of the last circuit, the probability
+
+that there was a total communication failure can be safely ruled out.
+
+14
+
+
+a
+
+1.10
+140.1
+
+1.10.2
+
+1.10.3
+
+1.10.4
+
+AERODROME INFORMATION :
+IGI Airport is located approx. [5 kms from Delhi at a bearing of 228. The
+
+administrative authority of the airport is vested with International Airports
+Authority of India, New Delhi and Air Navigation Services is provided by
+National Airports Authority. The aerodrome is Operational for full 24 hours
+and serviceable during all seasons. The airport has Category IX Fire Protection
+facility provided by the IAAL
+
+The IGI airports has two runways available for operation for which runway
+10/28 is declared as the main instrument runway. The physical characteristics
+
+of this runway is as follows :
+
+Runway True Dimension Runway Surface
+
+Designation Bearing PCN
+
+10/28 104°/284° = 12500 ft 55/F/B/W/T Concrete
+150 ft
+
+The Runway 28 which the aircraft was using is provided: with runway edge,
+threshold and centreline high intensity lights. ‘The approach lighting on
+runway 28 consists of CAT II lighting system extending upto 3051 feet from
+displaced threshold. It is provided with 3 Bar PAPI. Runway 28 is equipped
+with ILS CAT Il and VOR/DME approach,
+
+The visual ground marking aids available are runway designation, centreline,
+threshold and touchdown zone.
+
+On the northern side of runway 28,there are two fire stations of IAAL The
+main fire station is located on the eastern edge of Delta taxi track and the sub
+fire station I is located on the eastern edge of runway 15/33 adjacent to B taxi
+track. The watch tower on main fire station has a clear view of all aircraft
+touching down on runway 28. For any aircraft emergency on runway 10/28,
+the fire safety vehicles from the two fire stations can enter runway 10/28 from
+their stands by means of connecting taxiways i.e. fire vehicles from main
+stations can use D taxiway to enter on runway 10 side and fire vehicle from
+
+sub station I can enter tunway from 28 side via E taxiway.
+
+15
+
+
+1.10.5 In the instant case the fire was extinguished by National Security Guards fire
+
+extinguishers who have their training camp near to the accident site. The
+airport fire services had reached the accident site in about 10 minutes after the
+
+accident and carried out the salvage for the aircraft wreckage.
+
+FLIGHT RECORDERS -
+
+No flight recorders are installed on ‘this aircraft nor it is required under the
+rules. As per CAR series T part II aircraft with all up weight of 5700 kgs and
+above are required to be fitted with CVR and FDR. Beechcraft Super King Air
+aircraft's maximum all up weight is 5669 kgs, which is marginally lower than
+the cut figure of 5700 kgs. Keeping in view that VIPs are flown by this aircraft,
+provision of at least a CVR is necessary.
+
+WRECKAGE AND IMPACT INFORMATION :
+The layout of the main wreckage and position of main components at the crash,
+
+site is indicate in wreckage plot at Annexure ‘C’ and in the photographs.
+
+The main wreckage was found lying in a ditch, having water, approx. 350 feet
+from the initial point of impact of the aircraft. The main Structure of the
+aircraft was totally crushed except the tail portion. The aircraft main wreckage
+was found in inverted Position indicating that it had over turned while falling
+into the ditch,
+
+a) IMPACT INFORMATION :
+EA EORMATION
+
+Aircraft first impacted the Sround in disused area close to Gurgaon road
+(approx. 2.7 Km. south of Tunway 28/10) in pitch down and more or
+less wing level attitude. Fire had initiated immediately after the impact
+and its signs could be Seen on the scattered wreckage pieces along the
+flight path after bounce. Some bushes also caught fire. General pattern
+of the fire damage indicated that fire was more intense on the port side.
+Tall bushes were found trimmed by the Moving aircraft just Prior to the
+impact which gave indications about the aircraft attitude at the time of
+impact. Initially nose undercarriage hit the ground closely followed by
+main undercarriage and the engines. Initial impact was very severe
+
+which led to crushing and disintegration of the aircraft. The crashed
+
+16
+
+b)
+
+¢)
+
+a)
+
+aircraft bounced and moved ahead for about 350 ft. before falling into
+
+a water pond wherein it over turned.
+
+WRECKAGE EXAMINATION AT SITE -
+
+After the bounce the broken structure pieces kepton falling down in the
+path till it fell into the ditch. Some of the detached portions had flown
+ahead of main wreckage with the forward momentum. Nose
+undercarriage, the detached propeller blades and servo control units
+
+were found in the initial impact area.
+
+Both the engines had detached and were lying along with the main
+wreckage. The needle of one of the air speed indicators was found stuck
+at 210 knots, indicating the probable aircraft speed at impact.
+
+The needle of the starboard engine torque indicator was found stuck at
+
+reading 1800 ft. Ibs. which is close to full power,
+
+Undercarriage was down and locked and flaps were at 40% Positions at
+the time of impact. Flap position was indicated by the flap actuator
+extension and the selection lever position. This is the take off/ approach
+
+flap position.
+
+No aircraft part was located before the first hnpact point indicating that
+
+there was no inflight disintegration of the aircraft.
+
+RETRIEVAL OF WRECKAGE :
+
+Though tail portion of the aircraft was found separated from rest of the
+wreckage, yet the control cables Tun was continuous. Therefore, it was
+not possible to retrieve the complete wreckage in single stretch and it
+necessitated cutting of control cables, wires etc. After cutting the control
+
+cables, these were properly identified and masked.
+
+BUILT-UP OF WRECKAGE IN HANGAR :
+SE AERRAGE IN HANGAR
+
+The aircraft wreckage was spread, as per plan view of the aircraft, in
+
+the BSF hangar. Following salient observations were made in general.
+
+i) The empennage portion of aircraft was almost intact. The
+starboard elevator was found bent and twisted, however, there
+was no damage either to port side elevator or to rudder including
+
+trim tabs.
+ii) Bottom portion of the fuselage was completely crushed.
+
+iii) | Most of the windows were intact. Inner pane of few of them was
+
+found cracked and some were having fire damage.
+
+iv) | Cockpit was completely crushed along with the crew windows and
+storm windows. Wind screen was detached from the main
+
+structure and shattered.
+
+v) All the seats were found liberated from the fittings. No seat fitting
+was found intact. Seats and seat rests were also found separated.
+Two seats had little fire damage. Seat belts were also found
+
+damaged and separated from their fittings.
+
+vi) Both the port and starboard wings were broken in number of
+
+pieces and had extensive fire damage.
+
+After the wreckage built-up and placing of the — structural
+parts /components, engines, landing gears etc., it was found that by and
+
+large wreckage was complete.
+
+EXAMINATION OF AIRCRAFT SYSTEMS/COMPONENTS :
+
+i)
+
+EXAMINATION OF FLIGHT CONTROLS :
+a) ELEVATOR :
+
+Following were the salient observations :
+
+i) Starboard elevator was bent and broken. However, it was secured
+properly with the hinges. Minor damage was observed on the
+
+hinges,
+
+18
+
+iii)
+
+iv)
+
+v)
+
+vi)
+
+iii)
+
+iv)
+
+v)
+
+vi)
+
+Port elevator had small damage near the tip. No other damage
+was observed on the port elevator. All the hinges were also
+intact.
+
+Elevators movenient was found to be in order.
+Both the starboard and port tabs were moving properly.
+Elevator servo cables were found attached to the main cables.
+
+Both the attachment joints of the bell crank with the cable were
+found intact with stop bolts properly locked. Link red was
+properly secured with the column weld assembly, however, it was
+
+found detached from the bell crank side.
+
+RUDDER :
+
+No apparent damage was noticed on the rudder.
+
+On application of input from the control cable in the tail cone,
+
+rudder movement was in the correct sense.
+
+Rudder tab was intact and was responding, positively on
+application of input from the cable.
+
+Rudder servo cables were found attached with the main cables.
+
+Attachment of the rudder cable to the bell crank was intact,
+however, the circular portion of the bell crank was found broken
+into three pieces.
+
+Both the support assemblies along with the rudder arms were
+intact. Out of four rudder arms, three were found damaged by
+impact.
+
+RUDDER BOOST SYSTEM : ;
+
+Both the pneumatic rudder servos were intact and found attached
+to the primary rudder cable. With manual input, operation of
+rudder boost system was found to be satisfactory.
+
+19
+
+ii)
+
+iii)
+
+iv)
+
+v)
+
+i)
+
+iii)
+
+PORT AILERON :
+at AILERON
+
+All the components of the aileron control system in the cockpit
+namely weld assembly, universal joint, control column were found
+badly damaged and separated from each other. However, chain
+was attached at both the ends and chain safety mechanism was
+
+fully secured at three places.
+
+Cable joints to the central control quadrant were fully secured,
+however, the cable was heavily damaged with many strands of
+wire coming out. The central control quadrant was found attached
+
+to the main Structure and was free to rotate,
+
+The port side control cables in the wing from the quadrant were
+
+attached to the quadrant though it was broken into pieces,
+
+The bell crank in the wing was found bent from the middle,
+
+however, the cable joint was secured,
+
+The aileron was found broken in two Pieces near actuator, The
+outer hinge bracket was also found twisted. Inner broken part of
+
+aileron containing trim tab was badly crushed,
+
+STARBOARD AILERON -
+
+The joints of the cable with the quadrant servo and the turn
+buckles was fully secured, However all of these were badly
+damaged and broken into pieces,
+
+It was possible to move the link rod by Operating the two cables.
+The link rod was attached to the aileron and its operation was in
+
+correct sense.
+
+The aileron was found broken in two pieces at actuator attachment
+point. Mid and outboard mounting brackets of the aileron were
+
+found damaged.
+
+20
+
+ii)
+
+vy
+i)
+
+ii)
+
+1!)
+
+ii)
+
+FLAPS :
+
+Flap lever was found along with the broken piece of the central
+console. Micro switches attached to the flap lever were found
+damaged and the electrical connections to the motor were found
+
+disconnected.
+
+PORT FLAP :
+
+The inboard and outboard flaps were badly damaged and broken.
+Flexible drive shaft from gear box to inboard actuator was intact,
+however, it was found detached at the gearbox end. The flap
+tracks were not:found damaged.
+
+The inboard and outboard flaps actuator position in-situ condition
+
+was measured and found to be at 40 percent.
+
+STARBOARD FLAP :
+
+The inboard and outboard flaps were found totally crushed and
+
+damaged. The flexible drive shaft was found detached from the
+
+actuator end as well as gear box end,
+
+The inboard and outboard flaps actuator positions measured in
+this case too revealed flap selection in 40% position which could
+be either in takeoff or approach.
+
+All the failures of control cables/rods fittings and the surfaces of the
+
+flying control as discussed above were observed due to impact forces.
+
+EXAMINATION OF LANDING GEAR :
+
+i)
+
+ii)
+
+Both the main landing gears and nose landing gear were found
+stuck in down and locked position.
+
+On the port landing gear, the lock was displaced due to bend in
+the upper and lower drag braces, However on the starboard main °
+gear, the drag braces were fully secured with the strut assembly.
+Upper drag brace of nose landing gear was found broken from
+both the ends. Lower drag brace of nose gear was broken from
+eye end.
+
+21
+
+iii) All the three landing gears were found separated from the main
+
+wreckage.
+
+iv) No fire evidence was noticed on the nose gear as well as the port
+main gear. However, extensive fire damage was observed on the
+
+starboard main gear.
+
+v) Both the torque knees for main landing gears were found sheared
+
+off at the eye end.
+
+Tt can be concluded that landing Sears were down and locked at the
+time of impact.
+
+iii) EXAMINATION OF WINGS :
+SIN OF WINGS
+
+a) GENERAL CONDITION :
+meee On LONDITION
+i) Both the wing tips were totally crushed on bottom and upper side.
+
+Navigation/strobe light portion were also crushed and smashed.
+
+ii) Both the wings were found separated from the fuselage and were
+
+in pieces,
+
+b) PORT WING -
+
+i) Portion of wing from tip to Station No. 194.829 was extensively
+damaged due to fire on both Upper and lower side. However,
+beyond Station No. 194.829, the fire damage was confined near the
+leading edge only. The flexible tank in the leading edge was
+found burnt and burst. The other two tanks in this area were
+found burst without any fire damage.
+
+ii) Wing integral tank and wing tip flexible tanks were completely
+destroyed due to fire,
+
+iii) Small fire damage was observed on the upper side of aileron near
+
+the trailing edge.
+
+22
+
+
+¢)
+
+iv) Fire damage was observed to a portion of the auxiliary tank near
+inboard flap with concentration at fuel quantity probe. However,
+
+the fire damage was confined to the tank portion.
+
+v) By and large the port wing had extensive fire damage except the
+main wheel well area, inboard flap and wing root leading edge
+
+between engine and fuselage.
+
+STARBOARD WING :
+i) Wing tip portion upto Station No. 194.829 has no fire damage.
+
+Both the integral and flexible tanks were, however, found crushed.
+
+ii) Wing portion from Station No. 194.829 upto engine has extensive
+
+fire damage. All the three flexible tanks were consumed by fire.
+iii) Landing gear area has also fire damage.
+
+iv) Although the auxiliary fuel tank was found burnt, the fire was
+
+confined to small portion of tank only.
+
+v) In general, the fire damage was internal. Externally there was no
+
+fire dainage.
+
+EXAMINATION OF COCKPIT AND CABIN :
+WINDOW CONDITION :
+ESV CONDITION
+
+i) Windscreen was found detached from the fuselage with both the
+
+lasses shattered.
+ii) Cockpit windows on both the sides were found crushed and
+liberated. The panel of port side window adjacent to the
+
+windshield was found broken along with the fitting,
+
+iii) Main cabin windows were more or less not damaged. However,
+
+few inner panes were slightly cracked and found missing.
+
+23
+
+iv) Except for front two windows on port side, there was no fire
+
+damage on others.
+
+b) FLOOR CONDITION :
+The floor was totally damaged and almost crushed into small pieces.
+All the frames were found separated from fuselage skin. Stringers were
+also crushed and badly damaged. The upholstery was also found in
+
+pieces.
+
+c) SEATS CONDITION :
+
+All the seats were found separated from the fittings along with the floor
+
+board. No seat fitting was found intact. Seats, seat rests and seat belts
+were also damaged. Two cabin seats had small fire damage. Pilot's seat
+belt was found locked indicating that it was not used by the pilot at the
+
+time of crash.
+
+d) COCKPIT CONDITION :
+SNE LONDITION
+
+Cockpit was found completely crushed along with central console, CB
+console panel and instrument panel. Pilot and co-pilot control columns
+were found broken. Engine and Propeller have been examined Separately
+
+and findings on them are reflected in Chapter 1.16, Test & Research,
+
+MEDICAL AND PATHOLOGICAL INFORMATION :
+ee SERS LOGICAL INFORMATION
+
+From the accident site deshaped dead body of late Capt. T. S. Dhaliwal was
+
+recovered in the pond where crashed aircraft finally rested. The body was
+
+removed to Mahipalpur police station in the IAA] ambulance. Dr, Major B. K,
+
+singh, Medical officer IAA] accompanied the body to the police station and had
+
+carried out the preliminary examination. Following were his observations ;
+
+As fragmented and completely distorted human body has been rescued from
+
+site. No viscera is preserved. No sample could be collected in such case.
+
+Skull is open and torso is fragmented. All bony contours are distorted. Face
+is smashed, both upper limb are broken, left upper limb is attached with trunk,
+whereas right upper limb is completely crushed from mid arm. At torso
+
+vertebral column is fractured and pelvis is also crushed on right side.Both
+
+24
+
+
+interior extremities are damaged ( right int. ext. is missing while left interior
+
+extremity is amputated below knee).
+
+A few bowel pieces are bulging out from right side of trunk and also few
+pieces of flesh, bones, skin and body parts are placed by the side of body
+separately. Accumulation of clotted blood, mud, bush leaves also present along
+
+with flesh and torso.
+
+POST MORTEM :
+
+The postnortem examination was carried out at Safdarjuny [Hospital by Dr. G.
+K. Chaubey, Forensic Medicine specialist. During autopsy examination Dr.
+Bhalla ADG medical services, IAF and Dr. L. K. Banerjee, Dy. Director
+(Medical) BSF were present. As per autopsy report, "Death was caused due
+to blast injury of head & crush injury of chest and abdomen, along with
+
+multiple injuries".
+
+Face was observed split into two halves along with scalp. There were multiple
+injuries on the body. Lungs were crushed into multiple pieces, Heart and aorta
+had the rupture of right auricle and ventricle and of ascending and descending
+aorta. Stomach was empty with bilious {uid present approx. 50 ml, Kidney was
+observed slightly enlarged, pale wt. 200 gms. Liver was crushed into multiple
+
+pieces.
+
+The forensic medicine specialist had forwarded following viscera to SHO
+
+Mahipalpur for conducting chemical examination.
+i) Heart tissue ii) Blood sample iii) kidney, a piece of intercostal muscle v)
+Apiece of skin from cheek with carbon particles vi) Carbon particle vii) Brain
+
+tissue vii) Phial of ‘Mentat.’
+
+Heart tissue was taken by DGCA official to Institute of aviation Medicine
+
+Bangalore where detailed pathological examination was carried out.
+
+Other viscera was sent to Central Forensic Science Laboratory for examination.
+
+1.14
+
+FIRE :
+
+Aircraft caught fire immediately after the impact. ‘The fire was on broken wing
+structure pieces, on the Stbd undercarriage area and on the bushes. National
+Security Guard Cominandos who have got a unit close to accident site reached
+the site immediately and did the fire fighting with their unit equipment. They
+managed to put out the fire with fire extinguishers and buckets of water. The
+fire fighting personnel of fire training centre of IAAI which is nearby located
+to crash site reached shortly after the crash. However by that time fire was
+
+extinguished and they cordoned the area.
+
+SEARCH, RESCUE & EVACUATION :
+BY_AIR TRAFFIC CONTROL TQWER :
+As per ATC tape transcript at 1158 hrs. the BSF aircraft responded to repeated
+
+calls of Delhi Tower Control by saying ‘Go Ahead Sir’. At this stage, the
+Tower officer saw the aircraft taking a turn behind cargo complex terminal -
+II near Centaur Hotel and was seen loosing height. At 1159 hrs. an Air Force
+helicopter coming from ‘Hindon Airport’ informed Delhi Tower that "VOA‘
+had crashed on down wind. At 1200 hrs., the Tower sounded ‘crash siren’ to
+inform Sub fire station, Police control & Airport Manager. Crash siren however
+does not sound at Airport Health officer’s/IAAI MI Room. The tower
+subsequently informed on intercom Approach control, Watch Supervisory
+Officer (WSO) & Airport Reporting Officer (ARO) about the crash.
+
+BY NATIONAL SECURITY GUARDS (NSG) :
+
+At approximately 12.00 hrs. NSG personnel who were undergoing at their
+
+training camp near to the site of accident saw the aircraft coming from airport
+side and taking a U-turn when near to Centaur Hotel. The aircraft crossed
+
+passed them and crashed approx. 300 meters away with a loud thud sound &
+
+_ caught fire. The NSG commandos rushed to the spot and cordoned off the area
+
+and put out the fire with the help of fire-extinguishers and buckets of water.
+They reached first at the site of accident. The airport fire training school
+
+personnel reached the site subsequently after about 5 minutes.
+
+BY AIRPORT FIRE SERVICES :
+
+At 1158 hrs., Shri Jagdish Chander, Fire Officer who was taking a class of fire
+
+trainees reported to have heard the sound of an explosion, Immediately he
+
+26
+
+1.16
+1.16.1
+
+disrupted the class and ordered the fire trainees to keep the fire extinguishers
+in the water tanker and get the ambulance ready. On conforming that the -
+sound was that of an air crash, he rushed to the crash site with Asstt. Fire
+officer and fire- trainees along with fire tenders and ambulance. The fire was
+already extinguished by N.S.G. personnel, Immediately Shri Jagdish Chander
+along with Asstt. Fire Officer Shri K.M. Dhyani entered into the water pond
+to search for the casualties. In the mean time, the airport fire services people
+reached the site of accident along with airport doctor. The body was removed
+by Airport fire services in a stretcher and was rushed in the ambulance to
+airport M. I. room. Rest of the crew was engaged in search of another bodies.
+Dewatering of the pond was also started to locate for more casualties which
+
+was abandoned after BSF personnel told there was only one person on board.
+
+TEST AND RESEARCH :
+SS RESEARCH
+
+PATHOLOGICAL EXAMINATION AT TAM BANGALORE OF THE HEART
+SAMPLE (Exhibit No. 6):
+
+A portion of the heart and aorta of late Capt. Dhaliwal was sent to Institute
+of Aerospace Medicines Bangalore, for Histopathology / Toxicology examination,
+
+The IAM test report is as follows:-
+
+A. GROSS EXAMINATION :
+A portion of heart received, This includes a part of left atrium including
+left auricle; a part of mitral valve ring with anterior cusp of the mitral
+valve, and a small portion (2-1/2" x I") of left ventricle. One cm. of
+first part of aorta present and shows atheromatous plaques. Both the
+coronary ostia are patent. The left coronary (main trunk) shows
+atherosclerotic narrowing. The right coronary (main trunk) appears
+
+normal. The first portion of the pulmonary trunk also attached.
+
+B. HISTOPATHOLOGICAL EXAMINATION :
+EAL EXAMINATION
+
+1. Myocardium ; of left atrium and ventricle appear histologically
+‘normal.
+2. Aorta > shows mild atherosclerotic changes,
+
+.
+
+27
+
+
+3. Coronary arteries : The left coronary artery (main trunk) shows
+grade II atherosclerosis (over 50% occlusion of lumen). The right
+coronary artery (main trunk) shows grade I atherosclerosis (mild
+with less than 50% narrowing of numen). No calcification/
+
+haemorrhage in the atheromatous plaque.
+
+TOXICOLOGICAL EXAMINATION :
+
+No sample received for toxicological analysis.
+
+REMARKS: Both coronaries show atherosclerotic narrowing (more severe
+in the left coronary artery), But these sections have been taken from the
+main trunks of coronaries within one cm. of their origin in the aorta.
+Since the entire heart was not available, serial section study of the
+coronaries to detect any blockage could not be carried out. No other
+
+pre-existing decease detected in small portion of heart received.
+
+1.16.2 CENTRAL FORENSIC SCIENCE LABORATORY REPORT :
+
+Following test samples of late Capt. Dhaliwal were removed during autopsy
+
+examination and were sent to Central Forensic Science Laboratory, Lodhi Road,
+
+New Delhi (Exhibit No. 7) for chemical analysis.
+
+The CFSL laboratory report is as follows:
+
+DESCRIPTION OF TEST SAMPLES :
+
+1.
+
+One sealed small plastic Jar containing a piece of kidney and intestinal
+
+muscles marked as Exhibit No.1,
+
+One sealed small plastic jar containing a one small plastic bottle labelled
+as "MENTAT’ tablets marked as Exhibit, No.2.
+
+One sealed small plastic jar containing blood gauze marked as Exhibit.
+No.3.
+
+One sealed small plastic jar said to contain brain tissue marked as
+Exhibit. No.4.
+
+28
+
+1.16.3
+
+5. One sealed small plastic jar said to contain carbon particles marked as
+Exhibit. No.5.
+
+6. One sealed small plastic jar containing 20 ml (approx.) of blood marked
+as Exhibit. No.6.
+
+7. One sealed cloth parcel said to contain clothes of the deceased marked
+
+as Exhibit. No.7. ,
+N
+
+8. One sealed envelope said to contain carbon particles marked as Exhibit.
+No.8.
+
+RESULT OF ANALYSIS :
+
+1. The Exhibit No.I and 4 gave negative tests for ethyl alcohol and common
+intoxicated substances.
+
+2. No opinion is offered about the Exhibit. No.2 as contents of tablets are
+
+said to be Herbal.
+3. No opinion is offered as Exhibit. No.3 is dried blood gauze,
+
+4, No opinion is offered with respect to query No.5 and 8 in connection
+with Exhibit No, 5 and 8.
+
+5. The Exhibit No.6 gave positive tests for Ethyl Alcohol.
+
+6, The opinion regarding blood grouping in Exhibit No.3, 6 and 7 is
+
+attached herewith from Biology Divn. separately.
+
+MENTAT TABLETS EXAMINATION :
+EOP ADEE EXAMINATION
+
+Request was made by the committee to Cental Forensic Laboratory (CFSL) for
+carrying out the examination of Mentat tablet in respect of any intoxicant
+
+present in the tablet. Following are the CFSL comments:
+
+1. Small plastic bottle labelled as Mentat were containing 23 blue colour
+tablets
+
+29
+
+
+2.
+
+Test of these tablets gave negative results for Barbilurates and Alkaloids.
+
+1.16.4 ENGINES AND PROPELLERS EXAMINATION:
+
+a)
+
+ENGINE EXAMINATION ;
+Both the engines type PT6A-42 having S.No. PC-E94102 and PC-E94100
+which were installed on Super King Air B-200 aircraft VT-EOA were
+
+stripped examined in the presence 6f Mr.Alex Hall, Lead Air Safety
+Investigator, Pratt and Whitney , Canada manufacturers of the engines
+at New Delhi. S/Shri J.8.Bhatnagar, Dy. Chief Engineer, BSE (Air wing),
+New Delhi, Lalit Gupta and R.S.Passi, Assistant Directors Air Safety at
+D.G.C.A. Hgrs. also associated in the investigation. The examination
+report is at Exhibit No. 2. The findings made during strip examinations
+
+of the engine is as follows -
+
+Port Engine :
+
+1. The engine had suffered heavy impact damage, particularly on its
+underside.
+2. The propeller shaft was severed aft of the propeller flange and the
+
+reduction gearbox case was broken.
+
+3, The exhaust case was creased and compressed by impact. The
+right exhaust port was flattened rearwards and the left exhaust
+
+port was extended outwards, twisted and flattened top to bottom.
+
+4, The gas generator case exhibited distortion and torsional creas-
+
+ing particularly aft of the engine mounting pads.
+
+5. ° Disassembly of engine revealed severe impact damage throughout
+the power turbines and drive train, The power turbine shaft was
+severed between the No. 3 bearing and No. 3 bearing was severely
+distressed. Nature of damage to power turbine shaft indicated
+
+that it had broken under torsion.
+
+30
+
+
+The second stage power turbine rotor was damaged by contact
+with the downstream exhaust duct and about 30% of the blades
+were pushed rearward in their fixing. Blades were broken at
+various spans and the remaining airfoil sections were found bent
+against the direction of rotation due to contact with the upstream
+stator vanes trailing edges which were as a result, also got
+
+damaged.
+
+The first stage power turbine stator had been pushed rearward
+and contacted with the compressor turbine disk and the stator
+inner drum was separated from its vanes which was removed by
+
+hands.
+
+The compressor turbine disk was heavily machined at the blade
+root diameter due to contact with the first stage power turbine
+stator, At blade root end, heavy machining, effect was observed
+on a band of about 1/2 inch,
+
+Starboard Engine :
+Findings :
+
+1.
+
+The external damage to the engine due impact was of lesser
+magnitude. The propeller shaft was severed aft of the propeller
+flange. The reduction Searbox casing was fractured on top and
+broken open on the bottom. Second stage power turbine rotor
+blades were not having any damage. The shaft however, was
+
+found seized.
+
+First stage turbine stator baffle had machining marks and a
+
+portion of the inter-stage baffle had come out,
+
+Nut for the first Stage power turbine disk had smearing marks as
+
+a result of interference with baffle.
+
+Inner drum of the first Stage stalor housing had machining marks
+
+at the circumference,
+
+31
+
+b)
+
+5. Machining marks on the first stage power turbine blade root
+
+leading edges due to interference with downstream stator.
+
+6. The exhaust case found crushed, crampled and have about 45
+
+degrees crease.
+
+7. First stage compressor blades were found intact with no evidence
+of Foreign Object Damage. However, some of the blades were
+found bent against the direction of compressor rotation as a result
+
+of inferference with the stators due to impact.
+8. Oil pressure filter was found free from contaminants,
+
+PROPELLER EXAMINATION :
+
+Propellers and Servo Cylinder and Pistons for both the engines were
+
+examined in the facilities of M/s Cama Aviation, Bombay, Shri D.Ghosh,
+AME and Shri V.K.Chandna, Director of Air Safety conducted the
+investigation. Both the propellers are of Hartzell make of Model HC-
+
+B3TN-3N. The propellers and blades serial numbers are as follows:
+
+LH. PROPELLER (SL. NO. BU-17132) :
+
+No.1 No.2 No.3
+Blades F-80697 80671 F-80670
+SL No.
+Clamps EL-6715 EL-6957 EL-6977
+SI. No.
+
+R.H.PROPELLER (SL. NO. BU-17182) :
+
+No.1 No.2 No.3
+Blades F-80690 F-80679 F-80678
+Sl. No.
+Clamps EL-7385 EL-7414 EL-7061
+SL No.
+
+Observation made on propellers assemblies and its associated servo
+
+piston and cylinders assemblies are as follows:
+
+32
+
+
+L.H.PROPELLER :
+
+i)
+
+(ti)
+
+PROPELLER ASSEMBLY :
+
+Propeller hub broke off along with engine flange remaining con-
+
+nected to it.
+
+Only one blade remained attached to hub, while other two blades
+detached with clamps giving way due to impact. Out of the two
+detached blades one came out along with pilot tube while the
+other blade detached with broken pilot tube. One blade is bent
+rear ward (at a distance around midway of span from butt end).
+
+The other detached blade curled back wards.
+
+The depression marks on the Face of butt of the blades, the
+pattern of fracture and the stretch/ compression in the butt end
+portion of the blades indicate the blade pitch on the finer side
+
+at the time of impact of blade with ground.
+
+The comparative study was carried by comparing the blades
+angles of new propellers on the fixture for assembling and
+
+checking the blade angle.
+
+CYLINDER AND PISTON ASSEMBLY Pt. No.C.3021 - 5) :
+Piston ruptured at one place and heavily dented around 80 degree
+
+from ruptured position. *
+
+All link reds to blade clamps are bent. Piston is retracted (like in
+feathered condition).
+Base of cylinder though threaded but wrenched out due to impact
+
+cylinder is bent in the bottom end on one side.
+
+Al 3 low stop rods are bent (2 rods bent and 1 rod broken).
+Guide Collar broken, Spring retainer broken. Pilot tube along
+with spring bent.
+
+Front nut was removed. Spring still jammed in position due to
+
+bent cylinder. Piston was cut to take out cylinder.
+
+33
+
+.No specific observations could be made on the cylinder and inside
+
+of piston.
+
+R.H.PROPELLER :
+
+(i) PROPELLER ASSEMBLY :
+Propeller hub broke off along with engine flange remaining con-
+nected to it.
+
+Out of 3 blades 2 remained attached to hub with the clamps
+intact but the blades rotated inside the clamps. One blade rotated
+for about 40 degree while the other rotated for about 90 degree.
+The blades are intact except for some bending near the tip end.
+the third blade which got detached is bent almost 180 degree at
+the midway of blade span. The pilot tube is broken.
+
+The detached blade showed pull out marks on the clamps on the
+butt end (3" long on cambered side starting 1/2" from L.E. and
+on blade backside starting 1" away from L.E.)
+
+The depression marks on face of butt of detached blade,
+stretch/compression of the butt end position of blade indicate the
+propeller blade pitch on the finer side at the time of impact.
+
+Gi) CYLINDER AND PISTON ASSEMBLY :
+TEE AND PISTON ASSEMBLY
+
+Piston is intact. Two link rods are slightly bent but third one is
+badly bent but they are attached. Guide collar is missing. ,
+
+Low stop rods are bent and twisted and broken at the collar end.
+
+Front nut from pilot tube retaining removed.
+Spring assembly came out and bent with retainer housing.
+
+Piston stuck at a position of about 1" extended out indicating
+movement towards finer angles. The cylinder was pulled out
+
+from the threaded portion of the hub and got bent on one side.
+
+34
+
+
+Following conclusion were drawn from engine and propeller
+examination :
+
+1. The port engine sustained heavy impact damage both externally
+and internally. No anomalies which might have prevented normal
+engine operation were perceived. Heavy machining of the
+compressor turbine disk forward face (downstream) indicates that
+the engine gas generator was operating at medium/high power
+at the time of accident. The power turbine damage is indicative
+of severe interference with other static engine components as a
+
+result of ground impact and sudden propeller stoppage.
+
+2. No anomalies which would prechide normal engine operation
+were found on the starboard engine. Diagonal torsional creasing
+of the gas generator case and machining of the forward. (
+downstream) face of the compressor turbine disk are indicative
+
+of engine power at the time of the accident.
+
+3, At the time of initial impact the right propeller blades pitch was
+on coarser side while the pitch on left propeller was on finer side.
+Also the condition of the some of blades of both the propellers
+and the fracture/damage pattern of related components are
+
+indicative of power at the time of impact.
+
+1.16.5 EXPLOSIVE EXAMINATION BY BOMB DETECTION AND DISPOSAL SQUAD,
+BCAS :
+Bomb Detection & Disposal Squad headed by Major T.V. Narayanan (Retd.)
+carried out detailed inspection of aircraft and ‘site around the crash. The team
+also visited BSF Hanger at Safdarjung Airport. Explosive sniffer dogs and latest
+electronic explosive vapour detectors were used to sniff some of the doubtful
+parts of the aircraft to ascertain presence of any explosives,
+
+CONCLUSION :
+
+a) Study of secondary metallic fragments for such as curled fragment,
+curved fragments, fissured fragments, surface erosion, pitting, metal
+disposition, reverse slant fractures which are distinct features of explosion
+effects.
+
+b) Study of disbursement of aircraft parts/fragments in and around the
+scene of the crash.
+
+
+1.16.6
+
+c) Negative indication by explosive sniffer dogs about the traces of
+
+explosives from the doubtful fragments collected from the scene.
+
+d) Negative indication of presence of traces of explosives from fragment by
+
+the latest electronic explosive vapour detectors.
+
+e) Absence of any primary fragments of Bomb mechanism such as parts of
+
+detonators, power sources, switches explosive containers ete.
+
+f) Absence of any evidence of fragment/aircraft parts before the. touch
+
+down of the aircraft (point of initial impact).
+
+8) Absence of any craters and penetration of fragments in the soft wet
+
+ground at the scene of crash.
+
+Examination of parts of aircraft thrown in an around the scene of crash and
+subsequently at BSF Hangers, study of fragment's structure, pattern and marks,
+absence of any bomb mechanism such as explosives, power sources, detonators,
+switches, the team is of the opinion that chemical explosion may not be cause
+of crash of BSF Beechcraft, aircraft VT-EOA on 27 Aug.,92 near IGI Airport.
+
+METALLURGICAL EXAMINATION REPORT OF FAILED ELIGHT CONTROL
+CABLES AND PROPELLER ATTACHMENTS :
+
+The failed flight control cables and propeller attachments of Super King Air B-
+200 aircraft VT-EOA were sent to Research and Development Director of
+D.G.C.A. for metallurgical examination to find the type of failure. The detailed
+
+Report is as follows:
+
+Metallurgical examination of the failed ends of most of wires of all the
+strands showed necking and a cup & cane type of fractures indicating failure
+under overload conditions. No worn and abraded areas were found at and
+away from the failed ends of all the strands of the broken cables. There was
+also no evidence of any progressive damage and corrosion. The fracture surface
+of the failed propeller attachment showed a shining and fibrous fracture in
+appearance having presence of equiaxed dimples indicating failure under
+
+overload conditions. There was no presence of any progressive damage.
+
+36
+
+1.16.7
+
+CONCLUSION ;
+
+The flight control cables and the propeller attachment of BSF aircraft appears
+
+to have failed under overload conditions.
+
+SPECTRUM ANALYSIS REPORT OF NAL OF WORDS "GO AHEAD SIR" IN
+THE ATC TAPE TRANSCRIPT OF ACCIDENT FLIGHT :
+RS RR RENE OF ACCIDENT FLIGHT
+
+The spectrum analysis of the words "Go ahead Sir" spoken at counter No. 275
+and 397 contained in the ATC transcript of the accident flight was carried out
+at NAL Bangalore. The report is at (Exhibit No. 3)
+
+The observations made in the report are as follows :-
+
+- Time taken of the words "Go ahead Sir" at both the counters is equal
+
+to 0.5 sec.
+- The sound intensity level are identical at both the counters.
+
+- Duration of the word spoken "ahead" is more at counter No. 397 than
+
+the duration of the same word at counter No, 275.
+
+- Duration of the word " Sir" spoken at counter 275 is more than the
+
+duration of the same word spoken at counter No. 397,
+
+- The intensity of the word " Sir" js feeble at counter No. 397 compared
+
+to the same word spoken at counter No. 375.
+
+From the sound intensity pattern alone it can be concluded that the
+utterances at counters No. 275 and 397 belong to the same person.
+However to further Strengthen the observations, six pitch period
+
+measurements were taken on the voice segments at both the counters,
+- The pitch contours of both the time plots are identical.
+
+- The variations in the pitch periods are within the prescribed limits set
+
+for the pitch period variations associated with a person ( 1 milli sec.)
+
+37
+
+
+The LPC spectrum of the part of the word " go" in the two time plots
+
+exactly match
+
+From the above observations made it is concluded that the words
+
+spoken " go ahead sir" at counter No. 275 and 397 belong to the same
+
+person Late Capt. Dhaliwal.
+
+1.17) ADDITIONAL INFORMATION :
+1.17.1 SALIENT OBSERVATIONS MADE BY DOCTORS :
+
+a)
+
+Dr. Wg. Cdr Bhalla (Aviation Medical Specialist JAF)
+
+Dr. Bhalla in addition to his own agreement he had been looking after
+the duties of ADG Medical Services Civil Aviation on Wy. Cdr. Gupta
+was on leave on the date of accident he was requested to associate with
+the autopsy of Late Capt. Dhaliwal which was done by Dr. Chaubey at
+Safdarjung Hospital. Dr. Bhalla made following observations when
+
+question by the committee.
+
+Tam an aviation medical specialist and in addition to my normal
+responsibilities towards India Air Force have been looking after the task
+of ADG Medical Services, Civil Aviation during his absence. On
+27.8.1992, at 1430 hrs. I was informed that a message has been received
+from DGCA that there has been an air crash at Palam airport and I was
+required to assist. I got in touch with the office of Director of Air Safety,
+DGCA Hoars. and was told that Asstt. Director (Air Safety) will be
+coming to pick me up and take ime to the accident site. ] accompanied
+him to the site of accident where I saw the site of accident and learnt
+that the body of the diseased pilot had been removed by the doctor
+from IAAI and had been taken to Safdarjung hospital for autopsy and
+
+I was required to go to Safdarjung to assist the autopsy.
+
+At Safdarjung hospital I first saw the body lying in a mangled state
+outside the autopsy room. The Forensic medicine specialist at Safdarjung
+hospital was called and requested to set the body in a shape so that
+some photograph could be taken. The photographer was arranged and
+
+photographs were taken.
+
+38
+
+
+Prior to the start of autopsy, it was felt desirable that some history of
+the accident was made available. However except for hear say accounts
+by some BSF officers and a sketchy note from SHO Palam nothing, else
+was available. It was requested that it would be better if we could talk
+to Capt. Jha who was the co-pilot to the diseased in the sortie
+immediately preceding the fatal one. However, Capt. Jha was not
+available.
+
+The findings at autopsy were duly recorded in the post mortem report.
+Certain special specimen (in addition to those normally collected) by the
+forensic specialist) were collected at my behest. namely plain muscle,
+tissue, heart, pieces of brain, blood mixed with urine and water from
+
+the pelvis and piece of lip muscle.
+
+The BSF officers and Doctors present at the site were requested lo
+arrange for air lift of the samples to the Institute of aero special
+medicine, Bangalore for specific aviation related studies, They were
+informed that they could do so by using the good offices of DGCA or
+in any other way suitable to them. The samples were handed over to the
+local police and before being transport to IAM they had to be taken
+charge of from the police. The police was informed of the requirement
+
+and they have agreed to do so.
+
+The BSF officers present at the site were also requested to arrange if
+possible a visit for the forensic Specialist and self to Palam airport to see
+the cockpit of the aircraft similar to the one which had crashed. This
+was necessary to correlate the injuries patterns with the aircraft structure.
+I later learnt that the only tissue specimen to reach IAM Bangalore was
+the heart tissue. BSF could not organise a visit to Palam to enable us to
+see the aircraft of the type desired. The required visit was finally
+
+proposed by the Committee of Inquiry about a week back,
+
+It was also impressed by all concerned that the specimens were required
+to be kept refrigerated or stored in a flask full of ice and salt mixture
+
+ull such time as they reached IAM. This requirement | understood could
+
+39
+
+not be met as neither the Police nor concerned authorities are geared up
+
+for the same.
+
+QUESTIONS RAISED BY THE COMMITTEE AND ANSWERS THERE OF :
+
+Q.1.
+
+A.
+
+Q.2.
+
+A.
+
+Q.3.
+
+It is correct that you were representing Civil Aviation during the
+autopsy?
+Yes.
+
+What guideline of Civil Aviation you had followed?
+
+T had no guideline to follow.
+
+You must be aware the guidelines of the Air Force for the air crashes
+used.
+Yes.
+
+Do you consider that the checks carried out during the autopsy and the
+samples taken are complete in all respects as per the laid down
+guidelines?
+
+The special samples which could have contributed to finding the cause
+of accident were collected by the Forensic Medical specialists att my
+
+request besides the specimen which he was supposed to collect routinely.
+
+Why it was not considered fit to take the viscera sample?
+
+Tam not aware that the viscera sample was not collected.
+
+Samples of the contents in the stomach?
+The stomach was examined autopsy. It was found to be empty except
+
+for some bilious liquid. Thereafter, it was of no special interest to me.
+
+What are your comments on the pattern of injuries on the head?
+
+It appears that Capt. Dhaliwal’s face had been split into 2 portions as
+if it had been chopped by a knife. There were two lacerations through
+the skin of the lower lip. These injuries could have risen from mark of
+sharp object in the cockpit or frame of the aircraft. Thereafter the bones
+had multiple fractures which could be attributable to the multiple crash
+
+forces,
+
+40
+
+
+Q.9.
+
+Q.10
+
+Q.11
+
+Q.11
+
+Was there any evidence for the gun shot?
+That there could be a gun shot injury. However, on final analysis
+especially the neat splitting of the facial bone into two make me feel
+
+that it was not a gun shot injury.
+
+Was any requirement/ observation laid by the BSF Doctor?
+No. There was no requirement from the BSE Doctor. It is only we
+
+requested him to provide the necessary storage condition if possible.
+
+Did you requirement met into by them?
+The BSF doctors and even the administrative people like Shri H. Rao
+were requested for arrangement for preservation/ transportation for
+
+which the agreed to do.
+
+Why the full heart was not sent to [AM/
+
+I want to make it clear that authority for conducting the post mortem
+examination is with the Forensic specialist alone. My presence at the post
+mortem was in the advisory capacity and not covered by ‘any authority
+from any one whatsoever. Regarding hear, the FM specialist felt that he
+would like to go into sections, examine the coronary arteries for patency
+and sent the suspect tissue for examination. The right side of the heart
+was ruptured. and nothing could be salvaged from that part. The other
+coronaries were examined and the portion which appeared to be narrow
+was targeted for microscopic laboratory examination. The other portions
+
+were obviously patent.
+
+Please have a look on the report of IAM on the piece of the heart sent.
+Taking this report and the examination of heart at the time of autopsy,
+what are your comments on the functioning of the heart at the time of
+accident?
+
+The lumen of the coronaries examined with the microscopic eye was
+patent. The segment which appeared narrow has been examined at IAM
+and the report suggests that pathology leading to severe inflammation
+could not have been in this segment also. As such the. possibility of
+
+cardiac arrest leading to death can be safely ruled out.
+
+41
+
+
+Q.12
+A.
+
+Q.13
+
+Q.14
+
+Q.15
+
+0.16
+
+What you think could be effect of the Himalaya drug (mentat) which
+was found the clothing of the diseased?
+
+Tam not well conversant with the effects of this medicine.
+
+In your opinion were all actions taken correctly on medical angle in
+
+such a case of air crash?
+
+1. The body should not have been removed from the site of accident.
+
+2. If the removal was must, the clear photographs should have been
+taken before removal.
+
+3. The investigating team should have been clearly identified and
+worked out in co-ordination right from survey of the wreckage to
+completion of the investigation,
+
+4. All facilities required for. an investigation like meeting eye
+witnesses, examining air of like nature and proper authorities
+for conducting all the investigation,
+
+5. Facilities for proper refrigeration of samples and cold chain of
+
+transmission til] they reach the laboratory.
+
+What is your experience in aviation autopsy?
+
+It is my first autopsy in this nature.
+
+In you opinion do you think that Capt. Dhaliwal strapped up in the
+cockpit at the time of accident?
+
+it appears that he was not wearing the harness.
+
+When you had expressed the requirement of refrigeration / transpiration
+by air of the viscera to BSF and local police but they had at any stage
+shown inability to do se?
+
+BSF had expressed their inability to take the viscera to Bangalore by
+Air, They were apprised that they could approach DGCA to arrange for
+the same. DGCA was personally apprised of this requirement also.
+DGCA had posted Mt.Khola to arrange the transpiration for the samples
+to Bangalore, :
+
+Q.17
+
+A.
+
+Q.18
+
+Q.19
+
+b)
+
+Why oily heart Sample was sent? In your opinion was it necessary to
+Sent to other items of viscera preserved during the autopsy?
+
+Thad requested Dr. Choubey that all the aviation specific items collected
+by us to be sent to IAM. The Forensic Medical Specialist had reservations
+On this because the investigation procedure as laid down by law require
+
+that he sent this Specimen to Forensic laboratory,
+
+Is there any way to finding out. the pilot was in his sense at the time
+of crash?
+We can say that we was alive at the time of crash but whether he had
+
+control over his sense cannot be said.
+
+What are the improvements you think could be made while providing
+medical cover to crash victims?
+
+A definite procedure should be there to be followed by doctors of all
+airport authorities and it is advisable that Airport authority and agencies
+Operating aircraft services should have post. graduate (MD) qualified
+aviation medicine Specialists on its strength.
+
+Dr. G.C. Choube
+On 27 Aug.1992 | conducted post mortem on the body of Trilok Singh
+Dhaliwal, Age-52 years IG BSE Air Wing, Delhi. The body and the
+inquest papers were brought by Nanak Chand, Sub Inspr. Police Station
+Mahipalpur on 27.8,92 at 330 PM.
+
+Forensic Medicine Specialist :
+
+There was a alleged history of Air crash on 27.8.92 at 12 noon died on
+the spot. My detailed report is already handed over the police which is
+in my hand writing and bears my signature. The photostat copy of the
+Teport is already here with the Court of Inquiry.
+
+Tam doing Forensic Medicine from June 1982. T am in Safdarjung
+Hospital as Specialist in Forensic Medicine Nov.89. This was my first
+case of Air Crash. The body was grossly mutilated and mingled. He
+was wearing a shirt, a banyan, underwear and pant with belt and socks,
+There were blood stained. On search of pocket of trouser three identity
+cards were recovered and also a pack unsealed mentat tablet were
+recovered,
+
+43
+
+Cause of death was due to blast injury of head and crush injury of
+chest and abdomen, along with multiple injuries mentioned in the post
+
+mortem report.
+
+During autopsy examination Dr. Bhalla from Air Force and Dr. KK.
+Banerjee, Dy. Director (Medical) were present.
+
+CROSS EXAMINATION BY THE COURT’:
+SE RENE EION BY THE COURT
+
+Q.
+
+A.
+
+ie)
+
+Dr. Choubey will you please tell us that how many autopsy you have
+carried out till date?
+
+Approx. I must have conducted 6 to 8 thousand autopsies.
+
+What internal organs do you preserve for finding out the toxic elements
+in the stomach?
+
+We preserve following:-
+
+Stomach, part of small intestine, a piece of liver and half of each kidney
+
+and a sainple of blood.
+
+Did you preserve these specimens in case of Dhaliwal?
+
+Normally the viscera is preserved on the request of investigating
+authorities or when the cause of death is not apparent on conduction of
+post mortem examination. In this case both the things were absence,
+however, suitable tissues and organs were preserved to analyses the toxic
+
+element.
+
+There was a wide spread crash injury to the abdomen and there were
+lot of blood and water present in perennial cavity so not much purpose
+
+would have been served by following the routine viscera preservation.
+
+Since Capt.Dhaliwal containing mentat tablet was recovered from a
+person of the deceased pilot, did you not think it necessary to preserve
+the viscera. Moreover in this particular case it is not only necessary to
+find out the cause of death but it was equally important to find out the
+actual physical and mental condition of deceased just before he died.
+
+I did not think it fit to preserve routine viscera but selectively we did
+
+preserve the tissues and kidney and brain tissue and blood sample and
+
+44
+
+
+inter costal muscle to get the analysis Specially for the narcotic drugs.
+This selective preservation in my opinion would have been better than
+preserving the whole mingled mass of ‘viscera which was also
+
+contaminated,
+
+Is it correct that you did not accept the Suggestion of Dr. Bhalla,
+(Aviation Med. Expert from Air Force) to send these samples of tissues
+for detailed examination and analyses to IAM Bangalore as you wanted
+to send these samples to FSL?
+
+There is no question of my accepting or rejecting his request because we
+preserve the relevant things and hand over it to investigating authorities,
+Now it is upto them where they get the analysis done. We only request
+the investigating authorities to get the chemical analysis done. Further
+more there had there been any request it should have been made to
+
+investigating authorities which in the present case was Delhi Police.
+
+In the PM report submitted by you, you have given the cause of death
+as blast injury of head. Did you suspect any fire arm injury or did you
+mean this injury to be caused by some other ?
+
+I did not suspect any fire arm injury, the term blast is being used for
+the sudden impact of any force blunt in nature. In this case it seems
+some blunt object has hit the head in the area of face in nud line
+
+extending from root of nose to vertex.
+
+After visiting Palam and having a look of a similar aircraft from the
+inside what is your opinion could have cause that injury?
+It is difficult for me to comment exactly but it is more likely that head
+
+might have hit the window angle.
+
+On the basis of information available to you from the post mortem
+examination is it possible for you to comment on the alertness of the
+deceased Pilot immediately before he died?
+
+It is not medically possible to comment on the alertness in such a case.
+
+What is the difference between conducting a post mortem of an Air
+
+Crew died in air accident to that of other unnatural death cases? Are
+
+45
+
+
+there any guidelines provided by the DGCA to this effect?
+
+For practical purposes there is no difference in conducting the post
+mortem examination, in cases of air crash death of air crews and other
+un natural deaths. I have not received any DGCA guidelines regarding
+
+deaths in air crash by DGCA or any other government bodies.
+
+As per Dr. Bhalla’s statement he wanted all the preserve tissue to be
+sent to [AM Bangalore whereas only a portion of the heart was sent?
+Whose decision this?
+
+I am unaware who sent the heart to IAM Bangalore because it is for
+investigating authorities to get the analysis done from his specified
+
+laboratories.
+
+It was observed by the committee that special specimens were kept at
+the police station Mahipalpur under ambient conditions and not under
+refrigerated conditions? Did you apprise to Police Authorities of the
+requirement of refrigeration and did they express their inability to do
+So.
+
+After handing over the tissues or viscera to the investigating authorities
+it is the responsibilities of the investigating authorities to get the analyses
+done. Neither I was aware of such a circumstances nor I was informed
+
+by the Police authorities of such a situation.
+
+The special specimen were kept in the Police Station under ambient
+condition for over two months? In you opinion will they serve any
+purpose if send for analyses at this stage?
+
+There is very small percentage of chance that analyses will prove fruitful
+
+nevertheless attempt should be made.
+
+After going through IAM report can you ruled out the possibility of
+Heart Attach?
+After going through the report Tam quite convinced that he did not
+
+have any heat attack before death.
+
+STATEMENT OF DR. G.K.CHOUBEY :
+See AP KR. GK. CHOUBEY
+
+For chemical] examination all the internal organs are preserved in saturated
+
+46
+
+solution of common salt and blood is preserved as such in this case also
+kidney, brain were Preserved in saturated solution of common salt. Blood was
+preserved without any preservative. Addition of Solution of salt to the blood
+will vitiate the findings. The Preservative for the blood is used only when there
+are special requirements and the case deserves the same. When the case is not
+clear about its circumstances it will better not to add any preservative to the
+blood. After seeing the CFSI, teport IT am of the opinion the deceased was not
+under the influence of liquor because the brain tissue and Kidney tissue came
+negative result for alcohol. The presence of ethyl alcohol in blood is because
+Of petrifaction. In case the preservatives are used for the viscera refrigeration
+are not required approximately 3 to 4 months. Police were not told to keep
+the blood in the sub zero condition as the presumption is that they are
+Supposed to hand over the CFSL same day. It is not possible to detect the case
+of heart failure due to cardiac arrythmia, low blood Pressure, low blood sugar
+by carrying out the Postinortem. By carrying out postmortem one can detect
+coronary disease. There are 10% of cases were cause of death cannot be
+ascertained even after carrying out detailed postmortem examination. General
+"black out" is caused by cardiac arrythmia, low blood pressure, low blood
+Sugar and also certain forms of epilepsy. All these diseases can not be detected
+by carrying out postmortem examination. If the blood Sample was preserved
+under refrigerated conditions al] along it would have been possible to
+
+determine the blood Sugar lever at a later date.
+
+STATEMENT OF DOCTOR R, -AGNIHOTRI, CHIEF MEDICAL
+(AYURVEDIC HOSPITAL) :
+
+Tam Post Graduate in Ayurvedic having approximately 35 years experience
+
+OFFICER
+
+(Clinical) regarding the mentat tablets of Himalaya Drug Company as per |
+know the composition is;
+
+Brahmi, Vacha, Shankha Pushpi, and Jatta Mansi and other similar ingredients
+in smaller percentage. These tablets are normally prescribed for enhancing the
+
+mental faculties and for calming down frayed nerves, This has the effect of a
+
+not impair the routine activities of a human being but an over dose ‘may
+cause drowsiness. This drug is not considered to be habit forming. Sudden
+" stoppage of its use does not produce any withdrawal symptoms. This drug can
+be taken either on empty stomach or after meals. There are no contra
+indications. this medicine reduces the blood pressure Hf taken in excess. |
+categorise excess dosage as consuming more than six.tablets at a time. If excess
+
+dosage is taken its manifestation will be seen after about three hours.
+
+CFSL FINDINGS :
+
+In connections with case No.DD No.10. dt. 27.892 eight sealed parcels were
+received in the Laboratory on 24th November’92 from Police Station
+Mahipalpur from SHO. There were some queries with respect to nature of
+investigation required. There were queries with the respect to Alcohol presence
+about kidney, brain tissue and blood sample. There were also queries
+regarding intoxicates in brain and kidney. There were also query with the
+respect of intoxicates in mentat tablets. Now with the respect to result of the
+analysis after chemical analysis:-
+
+i. Brain and kidney gave negative tests for ethyl alcohol and common
+intoxicated substances like barbiturate and alkaloids.
+
+ii. No opinion is offered about the contents of mentat tablets as they are
+said to be of herbal preparations.
+
+iii. The blood samples gave positive tests for ethyl! alcohol. In case in blood
+when purification has occurred are must exercise extreme caution in
+interpreting alcohol levels obtained by the analysis of putrid samples.
+this is due to the fact that alcohol may be lost or produced by bacterial
+action during the putrefactive process. If the blood sample is preserved
+by addition of sodium fluoride this will prevent loss of alcohol and
+production of alcohol as the result of bacterial action. Since alcoho] at
+equilibrium should have been found in brain and it has been found
+negative in brain, it could have been found in blood due to putretaction
+if it has not been preserved.
+
+Q.1 Where the preservation of the viscera samples was adequate?
+A. Along with the exhibits which were sent to the laboratory there was no
+documents along with them whether they were preserved or not. Hence
+
+no definite conclusion can be given for this question.
+
+48
+
+
+1.17.2
+
+Q.2 Is there any possibility of the correct analysis not coming out if the
+Samples are not preserved properly?
+
+A. If samples are not properly preserved the correct results quite possible
+may not be available,
+
+Q.3. What is a maximum period sample can be kept at ambient condition for
+correct analysis?
+
+A. This will depend upon the Nature of the poison to be detected.
+
+Q4. In this particular case what is the period as per you ?
+
+A. In case of proper preservation and standard conditions of keeping the
+samples before analysis are maintained the quality of analysis will
+improve.
+
+Q.5 As per you what is the idle condition of preservation os Samples?
+
+A, In my opinion were samples cannot be taken for analysis inmediately,
+They must be stored in cold storage where temperature is below zero,
+
+Q.6. In the instant case since the samples had not been kept under sub zero
+conditions do you think the result of your analysis is not correct?
+
+A. If the samples have been preserved under sub zero conditions the results
+would not have been different qualitatively but for the sample of blood
+which had purified.
+
+Training and Checks for the BSF Pilots :
+
+The Commercial Aviation organisations engaged in passenger carrying do give
+technical / performance refresher courses at regular intervals to their pilots to
+maintain the high standard of pilot proficiency. At present the BSF pilots are
+not given any such refresher course. In view of the fact that the BSF pilots
+catty out the VIP duties, they also should undergo such refresher courses,
+Although BSF has been categorised as a private Operator, and under the pre-
+vailing rules it is not mandatory on the part of BSF to conduct refreshers for
+the pilots, but as pointed out above such courses will maintain the high level
+Of proficiency of the BSF pilots in case these are regularly carried out.
+
+Secondly at present, no procedures are laid down by DGCA for providing
+training and cheeks for BSF pilots holding ALTP licence if there is long break
+in their flying. Instructions exist only for commercial Operators. It is desired
+that DGCA should lay down such instructions for non-commercial operators
+as well to ensure proficiency of pilots is ensured before they operate a flight.
+
+49
+
+
+1.17.3
+
+1.17.4
+
+1.17.5
+
+Crew Requirement for Twin Engined Aircraft :
+
+At present, the ICAO guidelines on the crew requirements for the aircraft
+operations require only one pilot for the aircraft below 5700 Kgs maximum
+Al-up-weight. Super King Air is certified as single pilot operation. However,
+keeping in view that this aircraft is normally used for VIP flights, two pilot
+
+operation for all twin engined aircraft needs serious consideration.
+
+Trainin
+
+and Refresher for Airport Medical Officer/ Ambulance Attendants :
+
+It has revealed that Airport Medical Officers of the TAAI have not been
+imparted taining on the aviation medicine aspect. If such a training is
+imparted to the doctors posted at the airport, it can expose them to the
+requirements of the medical standards of the aviation personnel and the aspects
+to be looked for in case of air crashes. The Ambulance Attendants do not
+undergo any refreshers which if given shall ensure their proficiency all the
+
+time.
+
+Annual Medical Checks of the BSF Officials Pre-flight Examination of the Crew
+and Flight Duty Time Limitations for the Crew :
+
+As per the practice followed by the BSF, All the Officials undergo medical
+
+examination annually. Late Capt. Dhaliwal had undergone the medical in 1990
+and after that he had not undergone the annual medical as revealed by his
+medical records. This medical check up is an internal requirement and the
+medical check up for the licence renewal is done in a different manner. As
+per this medical for licence renewal, he was found fit. At present no practice
+is existing in BSF for carrying out the pre-flight medical of crew. The pre-
+flight medical examination ensures that pilot is in good health condition to
+
+operate the flight.
+
+Recently, the DGCA has come out with Aeronautical Information Circular No.
+28 of 1992 on Flight Duty Time Limitation which encompasses all the crew
+members engaged in different operations and is applicable to BSE crew
+members also. The compliance of this Circular shall ensure that the fatigue
+
+due to flying duties is Kept in limits.
+
+
+1.17.6 Aircraft Maintenance Personnel of BSE :
+ee enhance Personnel of BSE
+
+1.17.7
+
+The Border Security Force holds one Super King aircraft, five Avro aircraft and
+one Chetak helicopter. To maintain this fleet of aircraft, the BSF has got a
+Sanctioned strength of one Chief Engineer, four Dy. Chief Engineers, five Sr.
+Aircraft Maintenance Engineers, eight Jr. Aircraft Maintenance Engineers and
+eight Aircraft: Mechanics, In addition they have got two Aircraft Radio
+Maintenance Engineers and two Radio Mechanics. At present, they have got
+one Dy. Chief Engineer, One Jy. Aircraft maintenance Engineer, 35 Aircraft
+
+Mechanics and four Radio Mechanics,
+
+BSF Air Wing Security Arrangements :
+
+Security Officer (Air Wing) BSE, Shri Dinesh Singh, Asstt. Comdt, — was
+interrogated by the Committee of Inquiry. He has stated that the security staff
+of BSF (Air Wing) Security staff has 3 Inspectors, 1 Naik and 12 constables
+who carry out hanger security and personnel security. On the night intervening
+26th/ 27th August,92, the aircraft was parked inside the BSF hanger at Palam
+and its doors were locked and keys were retained by sentry on duty. A
+register is maintained by the Sentry. Before drawing the keys, the name of the
+person drawing the keys is entered in the register, Sh Dinesh Singh further
+intimated that on the night intervening 26/27th August,92 nobody had entered
+the hanger. In the morming of 27th August 92 Shri R.Ramesh, Jr. Aircraft
+Technician had withdrawn keys for carrying out pre-flight inspection and
+refuelling of the aircraft as the aircraft was detailed for Operating flight from
+Delhi to Leh to escort D.G,, ITBP from Leh to Delhi.
+
+Shri Dinesh Singh informed that when the aircraft was parked at Bay No. 22
+for inspection and refuelling, one guard was kept at the hanger on Bay No.21
+and one guard was posted to Bay No.22. Before the flight the baggage of the
+passengers is got identified. The baggage is again checked near the aircraft
+before these are pul inside the aircraft. Their security staff is equipped 10
+Hand Held metal detectors for this purpose. Personnel of para-military
+organisations are identified with the help of their Identity cards. In case of
+Passengers travelling with VVIPS, the identification of passengers is done with
+
+the help of personal staff of VVIP,
+
+51
+
+After refuelling and inspection by the AME, Inspector Baljeet Singh of BSF Air
+Wing checked the aircraft before it left for Leh carrying following crew.
+
+1 Shri A.K Jha, Pilot-in-command
+
+2. Shri Suresh Beri, A.D. (Air Ops.)
+
+3. Shri M. Nair, ARME
+
+4 Shri Kamaljit Singh, Niak (Cabin, Crew)
+
+Shri Dinesh Singh further informed the Committee of Inquiry that from his
+long association with the Air wing, he could categorically say that both at
+Delhi and Leh no outsider had entered the aircraft except the VIP passenger
+at Leh. On return from Leh he himself was present at Palam and no outsider
+had entered the aircraft. At Delhi technician Shri B.N.Shukla of BSF entered the
+aircraft to check the quantity of fuel on board the aircraft, before it was
+
+released for local circuits and landings.
+
+The aircraft carried out first two local circuits/landings with Late Capt.
+Dhaliwal as pilot-in-command and Shri A.K Jha as co-pilot. After two sorties,
+before the aircraft took off for the 3rd sortie and none else had access to the
+aircraft. Only Capt. Jha was dropped out by Capt. Dhaliwal before take off for
+the final eventful third sortie. No malfunctioning of aircraft controls and
+engines was reported during or prior to the eventful sorue or in the earlier
+flying of the day. From examination of aircraft wreckage no signatures of
+
+sabotage with aircraft or engines were observed.
+
+Shri Dinesh Singh has stated that there should be more man power to have an
+effective watch over the BSf properties including aircraft at the Palam airport,
+This stated deficiency of man power, however, needs evaluation by the BSF
+
+authorities.
+
+52
+
+2.1
+2.1.1
+
+ANALYSIS :
+
+WAS THE AIRCRAFT FULLY SERVICEABLE PRIOR ‘LO IMPACT?
+MAINTENANCE RECORDS :
+
+The involved aircraft King Air B-200C VT-EOA was issued with initial
+
+Certificate of Airworthiness in August87 after the aircraft: was subjected to
+
+schedules approved by the D.G.C.A. As per the maintenance records and the
+relevant documents since the introduction of the aircraft in the BSF no major
+defect effecting the airworthiness of the aircraft was reported. All the test
+flights since the issue of initial Certificate of Airworthiness till the issue of
+last Certificate of Airworthiness were carried out by late Capt. T.S.Dhaliwal and
+no abnormality of any nature including flying characteristics of the aircraft
+and/or the performance of the engine were reported. Perusal of maintenance
+records reveal that all the related mandatory Service Bulletins Issued by the
+manufacturer and the modifications were complied with and the aircraft was
+being maintained strictly following the D.G.C.A. approved schedules. The
+maintenance records also reveal that since the induction of the aircraft in
+service, no abnormal snags were reported which could have jeopardized the
+
+safe operation of the aircraft.
+
+Aircraft had the valid flight release certificate. On the date of accident before
+Operating the flight to Leh daily inspection was carried out and the aircraft
+was declared serviceable. Aircraft operated the Leh flight normally without any
+
+problem on any of the aircraft systems and engines.
+
+Aircraft was accepted for the circuits and landing by late Capt. Dhaliwal
+without any observation on the aircraft serviceability. Two circuits were
+completed satisfactorily and during the last circuit though some sound was
+reported on the door by late Capt. Dhaliwal but saine was not confirmed by
+
+Capt. Jha who was disembarked from the aircraft.
+
+WRECKAGE EXAMINATION -:
+.
+a) AIRCRAFT ATTITUDE SPEED AND ITS STRUCTURE
+rn ee NE
+
+DISINTEGRATION :
+
+After take off from Tunway 28 the aircraft was seen turning for down
+
+wind leg, and after that it was observed steadily going down. The tell-
+
+tale marks on the ground near and at the accident site indicate that
+
+53
+
+before the aircraft finally impacted the Bround it was a rather in a
+
+Steeper attitude,
+
+The ground marks at the initial impact point are indicative that the
+aircraft suffered Major impact loads OR first impact itself. The main
+wreckage was in a ditch havitig water at a distance of about 350 ft from
+the initial impact point. In between the main wreckage and the initial
+impact point there was no ground mark. No presence of any ground
+mark within the approximate distance of 350 ft. indicates that the initial
+impact was so high the aircraft bounced up in the air and travelled for
+such a distance with its residual forward MoMentunt betore again hilting
+the ground. This, also Suggests that the Speed of the aircraft at the time
+of initial impact was very high. One of the air speed indicator needle
+was found stuck at 210 kts due to impact which corroborates the
+
+possibilities of aircraft hitting the ground on its nose with high speed.
+
+The main structure Of the aircraft was found completely crushed and the
+tail portion found loosely attached with the main Structure lying in
+inverted portion, After the initial impact point, throughout on both the
+sides of the flight path, the aircraft components/ parts were found lying
+scattered. No components or any of the aircraft Part was found before
+the initial impact point, The above Suggest that the disintegration of the
+aircraft started after the initial impact only and there was No inflight
+
+structure failure,
+
+b) INITIATION OF FIRE :
+Port wing had suffered fire damage on the outboard side near the
+leading edge. Integral fuel tanks and the flexible tanks were completely
+consumed by fire.Comparatively fire on stbd. wing was less, although
+the auxiliary fuel tank was burnt. Starboard main landing gear also
+suffered fire damage. Fire pattern on the wreckage indicated a fire
+
+Srowth on the ground only.
+
+No evidence, such as Soot and streak marks or any other such evidence
+was available on the wreckage which could “uggest the evidence of
+
+inflight fire. The main fire effected part of the aircraft was port wing.
+
+54
+
+eee
+
+Prior to initial impact the tall bushes which were cut but by the wings
+did not have any fire evidence. The evidence of fire on small bushes
+Started at about 50 ft. away after initia] impact point. Ali the fire
+evidence on the bushes were on the port side only. As per the
+statements of the witnesses, those who were Present near the site of
+accident have seen the aircraft coming down and hitting the ground,
+the fire started only after the aircraft had hit the Stound with high
+
+impact sound. ‘Thus it can be concluded that the fire started initially on
+
+the aircraft after it hit the ground.
+
+PRIMARY ELYING CONTROL; AND LANDING GEARS :
+
+Both port and starboard elevators were found connected with the
+hinges and the elevator movements were found to be in order.
+Both starboard and port elevator tabs were moving Properly and
+the elevator servo cables were found attached with main cables,
+Both attachment points of the bel] crank with cable were intact
+and the link rod was also found attached with column assembly.
+The convol cables were also intact except that pulley and at-
+tachinent bracket Over which the cables Tun were damaged due
+
+to impact loads,
+
+There was no apparent damage to the rudder and rudder tab. All
+the control cables including the rudey Servo cables were intact and
+attached with the Systems. Both the pneumatic rudder servos were
+
+intact and were attached with the Primary rudder boost system,
+
+All the components of port aileron control system in the cockpit
+were badly damaged and were found Separated from each other.
+The chain was attached at both the ends. Cable joints to the
+central contro] quadrant were fully secured. However the cable
+was badly damaged. The cable joints with the quadrant servo of
+the starboard aileron were found fully secured though these were
+badly damaged and broken. However it was possible to move the
+link rod by Operating the cables,
+
+55
+
+iii)
+
+The cables which were found frayed and broken were examined
+in R&D Laboratory of DGCA (Exhibit No. 1) All the fractures
+
+were overload fractures as a result of impact loads,
+
+All the above observations suggest that the primary flying controls
+had no preimpact failure which could have contributed to. the
+
+loss of aircraft control,
+
+FLAPS :
+Port side inboard and outboard flaps were badly damaged,
+
+Though the flexible drive from gear box to inboard flap was
+found detached from the gear box end, but it was Intact. The
+inboard and outboard flaps actuator extension position when
+measured was found to be close to the 40 percent: position. The
+Starboard side inboard and outboard flaps were also badly
+damaged ‘but the flexible drive shaft was detached from both the
+ends i.e. actuator end as well as gear box end. The actuator
+extension position also indicated the flap selection in 40 percent.
+Forty percent flap selection could be in take off or the approach
+phase.
+
+LANDING GEARS :
+
+All the three landing gears were found detached from the main
+structure in the down and locked position, However both the
+torque knees for the main landing gears were found sheared off
+at the eye end. It can be concluded that aircraft Impacted the
+
+ground with undercarriage down and locked,
+
+ENGINES :
+
+Both the engines were found in the main wreckage and were
+lying detached from the aircraft. The damage was particularly on
+the front and on the underside of engines. ‘Phe propellers: were
+separated from the engines. The propeller shaft was found sheared
+just aft of the propeller mounting flanges. The crushing damage
+to the port side engine was more compared to the starboard side
+of the engine. The reduction gear box on both the engines were
+detached from its bottom attachment.
+
+56
+
+After retrieval of beth the engines a detailed examination was
+carried out at Safdarjung Airport in BSF hangar by Mr. Alex Hall,
+a technical expert of M/S. Pratt and Whitney, the manufacturer
+of the engine. DGCA officers also associated in the investigations.
+
+The report is placed in Exhibit, No. 2.
+
+During detailed investigation, the condition of the engines and of
+the fuel control system precluded functional testing. No
+abnormalities and/or anomalies which could have prevented
+
+normal operation of the involved engines were noled,
+
+The damage to the exterior and interior of the port engine was
+suggestive of a very severe impact at an operating condition of
+moderate to high power. Impact forces on the starboard engine
+appear to have been considerably less and as a result the rear-
+ward axial deformation of the engine structural casing was also
+reduced. However the diagonal creasing of the major structural
+casing was quite evident. The rearward axial deformation of the
+Static structural casing pushed the first stage power turbine stator
+baffle into contact with the compressor turbine. As a result the
+baffle was machined /trepanned completely through its centre and
+the compressor turbine disc exhibited corresponding machining
+marks at its hub and fir tree diameter. The torsional creasing of
+the major structural casing together with the machining of the
+compressor turbine disk and the first slage power turbine stator
+baffle it may be concluded that at least moderate power was in
+
+use at the time of the accident on the starboard engine.
+
+Scrutiny of the maintenance records reveals that the involved
+engines had done 1347 hrs. and 24 mts. since new and 157 hrs.and
+29 mts since last C of A. Both the engines were maintained
+following DGCA approved schedules. Since the induction of the
+aircraft in Operation no malfunction was reported relating to the
+
+performance of the engines till the date of accident.
+
+57
+
+
+v)
+
+PROPELLERS :
+
+Both the propellers were found separated from the engines and
+
+got heavily damaged due to the impact. Both the propellers were
+sheared off from their engines along with the flanges. Out of the
+three blades of the starboard propeller assembly two blades
+remained attached with the hub and were free to rotate inside the
+clamp. The third blade which got detached was bent rearward
+almost at 180 degrees at the midway of blade span. Whereas the
+port side propeller had only one blade attached to hub and the
+remaining two blades were found detached. Out of the two
+detached blades, one blade was found bent rearward ata distance
+around uidway of the span and the other one was curled
+
+backward.
+
+Both the propeller servo assemblies and the propeller blades were
+subject to examination at the overhauling facilities of M/S. Cama
+Aviation, Bombay (Report at Exhibit No. 2). As per the
+investigation report, though at the time of initial impact the
+starboard propeller blades pitch setting was on coarser side and
+the pitch setting of port propeller blades were on finer side, the
+condition of both the propeller blades and the fracture / damage
+pattern of related components were indicative of "power" at the
+
+time of initial impact.
+
+The scrutiny of the maintenance records of the propellers indicated
+that the involved propellers had done 1347 hrs. and 24 mts. since
+new and 157 hrs. and 29 mts. since issue of Last C of A. No
+
+defect was reported on propellers since then.
+
+Hence taking into account the engine examination which sug-
+gested that both the engines were operating with power and the
+results of the propeller investigation it can be concluded that at
+the time of impact both the engines were running with sufficient
+pewer and there was no engine malfunction or loss of power
+
+which could have contributed to the accident.
+
+
+2.2
+
+CONCLUSION :
+
+Taking into consideration the above derivatives the committee is of the view
+that aircraft had no malfunctions on its flying controls, engines and the other
+related systems which could have contributed directly and indireetly to the
+accident. It is considered that Late Capt. Dhaliwal probably continued to fy
+with take off flaps, and undercarriage down, keeping in view of a short circuit
+which is a normal feature of such circuils. Further had the pilot experienced
+any malfunction and if he was forced fo land, he would have comununicated
+to the tower and tried to land in the airfield being very close to i(around 2.7
+kin. south), however the same was not done. Even if the pilot was forced to
+land, in the down wind area, he would have landed with undercarriage
+retracted in the disused area to avoid damage but the same was however not
+
+done. Thus the circumstantial evidence also rules out any possibility of aircraft
+
+malfunction prior to crash.
+
+WAS IT A SABOTAGE?
+
+The enquiry committee closely examined the possibility of sabotage leading to
+the crash of BSF aircraft B-200 (Super King Air) VI-ROA on August 27, 1992
+resulting in the death of T.S. Dhaliwal, Director (Air), BSF Air Wing. The
+following points emerged after carefully analysing the oral and documentary
+
+evidences collected during the enquiry relevant to this aspect-
+
+1. The medical experts who handled the dead body after the accident and
+
+were also connected with the post-mortem opined that the injuries
+
+sustained by the deceased were not caused either by fire arms or
+explosives. The nature of injuries was similar to those sustained in a
+normal air crash. This view was also supported by the Police Officer
+
+who performed the inquest on the dead body.
+
+2. According to a number of eye witnesses including those present in the
+
+Air Traffic Control Tower at the time of crash and those working near
+
+the crash site, no smoke was noticed coming out of the ill fated aircraft
+while in the air. There was no disintegration of the plane either and
+
+almost the entire wreckage of the plane was confined to a small area
+completely ruling out the possibility of a midair explosion. No body saw
+
+any missile hitting the aircraft and examination of the wreckage did not
+
+59
+
+
+reveal any bullet hole etc. There is enough evidence to indicate that the
+aircraft and its fuel tank was absolutely infact when it reached the
+
+ground and disintegration of the aircraft took place afterwards.
+
+The eye-witnesses did not notice any abnormality either at the time of
+take off or while in the air. Even when it was loosing height its wings
+were level and the dive was steady though the dive angle was more
+steep. The eyewitnesses also heard ‘the sound of the engine and saw the
+
+propellers rotating.
+
+Maj. T.V Narayanan, Officer incharge of Bomb Detection Disposal Squad,
+BCAS carried out detailed inspection of the crash site and debris of the
+ill fated aircraft. The team used explosive sniffer dogs and electronic
+explosive vapour detectors to check the presence of explosives during
+their investigation. However, no such presence of explosives was detected
+and the team concluded that the disintegration of the aircraft was due
+
+to structural failure associated with the crash and no by explosive device.
+
+No extremist/lerrorist groups active in| Kashmir, Punjab, North-East or
+in the South claimed the responsibility for this crash. There is no
+evidence to link the activities of insurgent/extremist groups active in the
+country, with this crash. Further there are no reports to indicate the
+presence or movement of such groups near Palam area during July-
+August,1992.
+
+The question of someone tampering with the aircraft or indulging in
+deliberate mischief to cause this crash was also examined and the
+
+following points were taken into consideration:-
+
+a) Capt. Dhaliwal’s plan to do local flying was not known to
+anybody before August 27, 1992. This aircraft B-200, VI-EOA had
+gone to Leh on the morning of August 27, 1992 to bring back the
+D.G., ITBP. It was around 1000 hrs. or so that Capt. Dhaliwal
+enquired about the expected time of arrival of this plane from Leh
+and instructed Asstt. Commandant, Dinesh Singh, Security Officer
+
+BSF Air Wing to keep the aircraft ready on its return from Leh
+
+60
+
+
+b)
+
+d)
+
+as he wanted to some local Hlying. After ib. coture to Delhi, the
+aircraft remained under the constant presence of senior officers
+and barring a technician who checked the quantity of fuel in the
+
+aircraft, nobody entered the aircraft.
+
+Capt. Dhaliwal did not mix much with his colleagues and
+subordinates in the BSF Air Wing and was not popular with
+them. He was considered to be a hard task master and short
+tempered. However, during the last few months before the
+crash, people noticed that Capt. Dhaliwal had considerably
+mellowed down and become more accessible. He was found to
+have become more religious and had stopped taking alcohol.
+There was some decline in his physical fitness and was noticed
+taking special care about his food. He carried his own drinking
+water and milk in a thermos flask. There is a suspicion that he
+was suffering from some sort of stomach problem which
+necessitated consumption of milk at frequent intervals. As per the
+evidence collected, people in the BSF Air wing did not bear any
+
+grudge against him.
+
+Capt. Dhaliwal did not care much for the cockpit discipline. He
+did all his flying in civies and generally did not put on the
+shoulder harness or lap strap while flying. He also occasionally
+violated instructions from the ATC. He appeared to be a man in
+
+hurry and this perhaps resulted in his violating safety precautions
+
+sometimes.
+
+Though it is not a normal practice in the BSF to flying the B-200
+Super King Air with the single pilot and Capt. Dhaliwal had also
+never flown alone in this aircraft earlier, on August 27, 1992 on
+
+the last circuit he was. the sole occupant of this aircraft.
+
+During the night intervening August 26-27, 1992, the aircraft B-
+200 VT-EOA was parked inside the BSF Hangar at Palam Airport.
+Its doors were locked and the key was in the key box. The BSE
+
+Hangar Ic ed inside the Palam, a well protected area is further
+
+61
+
+
+guarded by unarmed sentries of the BSE. Assistant Commandant,
+Dinesh Singh is incharge of the security of BSF Air Wing and
+has got a complement comprising 3 inspectors, | Naik and 12
+Constables for this purpose, All the BSF men on the security duty
+are subjected to periodical reverification by Delhi Police and ’C’
+Branch of the BSF. The lighting, arrangements both outside and
+inside the BSE Iangar are adequate. Uhe key of the key box
+remains with the Sentry on duty and a record is kept whenever
+the key of the aircraft is withdrawn from the key box. The
+possibility of any unauthorised person gaining access to the
+aircraft is non-existent, All the technicians, Senior Officers and
+Security personnel who were on duty in the BSF Hangar on the
+night intervening August 26-27, 1992 or who had access to this
+aircraft on the morning of August 27 were found to be above
+
+board after a thorough record check.
+
+The ill fated aircraft left Palam Airport at 0700 hrs. on August 27,
+1992 and landed at Leh around 0900 hrs. the same day. It took
+off from Leh around 0915 hrs. and landed at Palam around 1100
+hrs. During the flight both ways the aircraft behaved alright and
+no snag was detected, a fact corroborated by all the crew members
+who were on board the aircraft, Capt. A.K Jha of BSF who piloted,
+the flight from Delhi to Leh and back acted as co-pilot with Capt.
+Dhaliwal when latter went for local flying in the same aircraft.
+Capt. Jha completed two circuits along with Capt. Dhaliwal and
+did not notice any trouble whatsoever in the aircratt. He, however,
+noticed that while doing these circuits, Capt. Dhaliwal reduced the
+engine RPM abruptly which Capt. Jha had to set right cach time.
+After second circuit, on request, the ATC cleared the aircraft to
+return to BSF Hangar. However, later Capt. Dhaliwal desired Capt.
+Jha to seek permission for one more circuit and this was also
+cleared by the ATC. It appears that Capt. Dhaliwal was not very
+firm on doing the third circuit as at least thrice the aircraft went
+up to the runway and returned to the taxi holding ‘E’ on the
+pretext of checking the door. Capt. Dhaliwal every time asked his
+co-pilot Capt. Jha to check the aircraft door for some imaginary
+
+62
+
+
+noise which Capt. Jha himself did not notice. ‘Twice Capt. Jha was
+made to go out of the aircraft to check the door and: on the
+second occasion Capt. Dhaliwal did not want him to come back
+into the aircraft to accompany him on the third circuit. Lt is not
+clear as to why Capt. Dhaliwal behaved in this manner as any
+malfunctioning of the door is indicated on the instrument panel
+and if panel was not showing any abnormality, there was no
+
+reason to carry out manual inspection of the door time and again.
+
+g) Though the ATC had allowed the third circuit to B-200 VI-EOA,
+it did not give it take off clearance due to some other traffic.
+However, Capt. Dhaliwal violated the ATC’s instructions and went
+ahead with the third circuit forcing the other Air Force aircraft
+to abort its take off. Repeated calls/ queries from the ATC directed
+towards Capt. Dhaliwal remained un-answered, Only a feeble ‘Go
+
+ahead’ was heard from him a little before the crash.
+
+On the basis of the aforementioned, the possibility of sabotage
+being the cause of this crash is totally ruled out. Similarly, the
+possibility of some body intentionally tampering with the aircraft
+
+appears to be non-existent.
+
+23 HUMAN FAILURE ASPECTS :
+
+2.3.1 WAS IT A CASE OF SUICIDE ?
+
+a)
+i)
+
+FACTS ON RECORD :
+CREW COMPOSITION :
+
+Though the Super King Air aircraft is certified to be flown by a single
+pilot crew, the practice followed in BS.E. was that along with a pilot,
+the co-pilot’s seat was occupied by either another pilot, engineer, radio
+officer or a technician. Capt. Jha and Shri Nair, Radio Operator were to
+accompany Capt. Dhaliwal for his local flying sortie on the fateful day.
+As Shri Nair was closing the door after coming inside the aircraft Capt.
+Dhaliwal told him that he need not come on board as he had already
+done the sortie to Leh and back the same morning. The committee is of
+the opinion that there is nothing abnormal in Shri Nair getting down as
+
+there being two pilots on board, there was no necessity for a third
+
+63
+
+member. After doing two circuits the aircraft was cleared to go back to
+BSF hanger by the ATC when Capt. Dhaliwal decided to do one more
+circuit, After having commenced the take off roll tor the third circuit
+Capt. Dhaliwal reported to ATC that there will be a delay of two to
+three minutes as there was something wrong with the door, Capt. Jha,
+the co-pilol, went back and checked the door from inside and found
+nothing wrong. The aircraft taxied out but Capt. Dhaliwal was not
+satisfied with the door. He again retirned to the taxi holding point and
+asked Capt. Jha to recheck the door from outside, Capt. Jha got down
+and locked the door from outside and after confirmation from Capt.
+Dhaliwal through sign signal, was asked to come inside. This exercise
+was repeated once again; but this time Capt. Dhaliwal told Capt. Jha to
+stay out only and decided to §0 for the third circuil alone, which was
+quite strange to say the least. The fateful third circuit had Capt.
+Dhaliwal as the sole occupant of the aircraft. Though there is more
+probability of the pilot without the head set to hear any sound from the
+rear of the cabin, it could not be ascertained as to what noise Capt.
+Dhaliwal could have heard. Capt. Jha never found any thing wrong
+with the door and even the door warning light which ituminates
+
+whenever the door is open remained off.
+
+Tt was well within the rules for Capt. Dhaliwal to fly single pilot in the
+aircraft, though as a practice it has never been done before. The acute
+uncertainty of the pilot leads one to conclude that there was some
+confusion creeping into his mind. The noise he heard could have been
+a figment of his imagination. His leaving Capt. Jha on the taxi track
+and not in the dispersal and proceeding on a solo circuit is in violation
+of laid down norms of flying discipline and leads one to think that at
+this stage his mental frame had been affected severely enough to lead
+
+him to undertake a chain of unwarranted actions.
+
+R/T TRANSMISSION :
+
+HS-748 aircraft cal] sign VVF and Capt. Dhaliwal’s aircraft were Cleared
+to line up and wait on the two different runways, R/W 27 and R/W 28
+respectively. Later VVF was cleared for take off by the air traffic control.
+As VVF started rolling {. take off Capt. Dhaliwal also started rolling
+
+~~ 64
+
+and did not respond to the Air Traffic Control's instructions not to do
+so. The pilot of VVE saw Capt. Dhaliwal’s aireratt gelling airborne and
+he abandoned his take off avoiding a possible dangerous situation after
+getting airborne. After repeated calls by the Air Traffic Controller, Capt.
+Dhaliwal just replied once "Co ahead Sir". On the time scale Capt.
+Dhaliwal replied the air traffic controller approximately 40. seconds
+before the crash. It can be reasonably assumed that K/‘T set of Capt.
+
+Dhaliwal’s aircraft was working normal till the aircraft crashed.
+
+Capt. Dhaliwal was not a disciplined flier, having a casual attitude to
+cockpit discipline as stated by Witness No. 21 Capt. Jha and Witess
+No. 22 Mr. Nair Capt. Dhaliwal took off without clearance from the
+Control Tower. There is a possibility that Capt. Dhaliwal mistook the
+clearance for VVFE as for him and started rolling, but the fact that
+subsequent calls of the ATCustructing him to cancel his take-off were
+not adhered to by him, shows that he intentionally violated the ATC
+
+instructions.
+
+The Committee is of the opinion that’ if he had mistook the take-off
+clearance given to VVF by the ATC as for him, his R/T receiver was
+working satisfactorily and as such he must have also heard the ATC’s
+further instructions asking him to cancel his take-off after he had
+commenced his take-off run. The possibility of deliberate take-off
+
+violating the instructions of ATC cannot be ruled out.
+
+COCKPIT DISCIPLINE :
+NE Io CIPLINE
+
+Capt. Dhaliwal was not a very disciplined pilot having a casual attitude
+towards cockpit discipline as stated by witness No. 21 Capt. Jha and
+witness No. 22 Mr. Nair. He used to fly in civil clothes and was
+reluctant to wear his seat harness during flying. This was evident by
+the fact that his body was found clear of the pilot's seat and the seat
+
+harness was found in the locked position.
+
+AIRCRAFT CONFIGURATION :
+SAE LUNFIGURATION
+
+While carrying out circuits and landings, undercarriage and flaps are
+
+retracted after take-off at a safe height and speed but when executing
+
+65
+
+
+short circuits, it is a normal practice that undercarriage is left down and
+
+flaps left at 40 percent after getting airborne during the circuit,
+
+The detailed examination of the wreckage revealed the inboard and
+outboard flaps actuator Position measured to flap selection of 40 percent
+and both the main gears and the nose Bear were found stuck in the
+down and locked position.
+
+ENGINE POWRR :
+SUN POWER
+
+As per witness No, 8 Sq. Ldr. Rajiv Gupta, pilot of VVE, who saw Capt.
+Dhaliwal’s aircraft loosing height on down wind, the props of Capt.
+Dhaliwal’s aircratt Seemed turning indicating that engines were not shut
+down and propellers feathered,
+
+This has been substantiated by the engine report which Says that the
+- Starboard engine had a moderate power and the port engine was
+running at moderate to high power at the lime of the accident, This
+_ was further substantiated by the fact that the Starboard torque meter was
+
+found stuck at 1800 ft Ibs. which means very high power setting.
+
+AIRCRAFT ATTITUDE :
+_ As per witness No, 8 Sq. Ldr. Rajiv Gupta, who saw Capt’s Dhaliwal’s
+aircraft going down on down wind, the attitude of the aircraft did not
+_ look very steep though it was steeper than a norma! approach. As per
+witness No. 2] Capt. Jha, the dive angle appeared to be that of an
+_ . approach without power. As per these eyewitnesses, both pilots, the
+attitude was not very steep when the aircraft crashed though the manner
+. in which the tal] §lass was cut at the point of impact indicates a steep
+angle of about 22 degrees, The needle of one of the air speed indicators
+7 was found stuck at 210 knots. This indicates that the aircraft has
+impacted the ground at high speed in a nose down attitude with
+
+moderate to high power causing disintegration on impact.
+
+After going through the facts on record as Mentioned above, the Comittee
+is of the Opinion that the possibility of a deliberate atlempl to take one’s life
+cannot be ruled out in the case of Capi. Dhaliwal,
+
+66
+
+eee
+
+b)
+
+The Committee carried out further investigations to find out if any
+reason could be found which could have compelled Capt. Dhaliwal to
+
+commit suicide. The following aspects were looked into :
+
+FAMILY BACKGROUND -
+
+Late Capt. Dhaliwal’s family consisted beside him, his wife one son who
+is studying in college and one daughter who is a Doctor. The fainily is
+financially sound and Mrs. Dhaliwal is running a school at Gurgaon in
+their private residential house (the property is worth several lakhs of
+Rupees). The impression that the Committee members got after meeting
+the family was that it was a well knit family where every one cared for
+each other. This was substantiated by some witnesses also who were
+
+closely associated with Capt. Dhaliwal.
+
+A number of persons with whom Capt. Dhaliwal came in close contact
+on the fateful day when cross-examined said that on the day of accident
+
+they did not observe any change in his general behaviour and
+appearance.
+
+CAREER IN BSF. : :
+
+Capt. Dhaliwal was in inducted in the BSE on deputation from the Air
+Force on 7.2.72 and was 8iven the acting rank of LC. On 216.88. Ele was
+confirmed in the rank of Director (Air) w.ef, 8.11.89. He was decorated
+with Police medal for Meritorious Service in 1979 and President's Police
+Medal in 1988. He was the founder member of the BSF Air Wing. His
+
+promotions and awards suggest that his career was progressing well in
+the B.S.F,
+
+DEPARTMENTAL INQUIRY :
+
+A paper cutting was made available to the Committee (Exhibit No...
+Evidence Polder) in which it was stated that there was some secret
+inquiry ordered against Capt. Dhaliwal by 'G’ branch of BSF and that
+the school premises being run by his wife were raided. On inquiring
+from the D.G., BSF. regarding any departmental inquiry against Capt.
+
+Dhaliwal, the Committee was told that no such inquiry was ordered or
+
+ger
+
+
+held against Capt. Dhaliwal during the last 6 months preceding his
+
+death. To confirm any truth in the paper statement one of the committee
+members visited Gurgaon Police Station to check if the school premises
+run by Capt. Ddhaliwal’s wife was ever raided. Tl was contirmed that no
+
+such raids was ever conducted at the school preniises.
+
+DIFFERENCES WITLLTHE D.C, -
+
+Witness No. 2] Capt. Jha says that ever since Shri Anantachari took ever
+as D.G., B.S.F. Capt. Dhaliwal's relations with him were not very cordial.
+He said that earlier whenever the previous D.G. went on a tour, Capt.
+Dhaliwal used to fly the aircraft for him. But, he never flew Shri
+Anantachari. He further stated that on many occasions it was observed
+that the present D.G. did not attach the same importance to Capt.
+Dhaliwal as was accorded to him by previous DGs. Witness No...Shri
+Beri, Asstt. Director (Air) Operations, B.S.F. said that after Shri T.
+Anantachari took over as D.G., B.S.F., he started exercising full control
+over the Air Wing. This was naturally not liked by Capt. Dhaliwal but
+with the passage of time late Capt. Dhaliwal reconciled to the changed
+
+circumstances.
+
+EXECUTION OF WILL :
+
+Mrs. Dhaliwal in her statement says, "[ am not aware of any will
+executed. There is no will in the house. Even in office | was told: he had
+not left any nomination, My children had to sign a bond stating that the
+entire gratuity be given to me. I am aware of only his PLI having my
+name as nominee. On scrutiny from the personal files of Late Capt.
+Dhaliwal it was ascertained that he had not made any nomination for
+
+his provident fund and his gratuity.
+
+GENERAL BEHAVIOUR :
+
+Capt. Dhaliwal was a very religious person. He was very strict in his
+dealings with his subordinates. Of late he had calmed down
+considerably. All the witnesses who had come in contact with him on
+the fateful day of the crash did not find any difference in his behaviour
+from normal, Wg. Cdr. Beri who is looking after the operations in the
+
+BSF AIR WING met ¢ Dhaliwal just before he entered the aircraft
+
+68
+
+2.3.2
+
+to ask him if he would like to do the Home Minister's flight the next
+day. Capt. Dhaliwal told him that he would like to fly the Home
+
+Minister the next day as he had not flown with him for a long time.
+
+It is evident from this that Capt. Dhaliwal’s behaviour on the day of the
+crash was normal and he did not give any indication that he was
+
+perturbed on anything.
+
+FLYING SKILL :
+
+Capt. Dhaliwal was an examiner pilot on the Super King Air and the
+
+HS-748 of the B.S.F. He was a very experienced pilot having more than
+
+13000 hrs. to his credit. He last flew this type aircraft on Sth Aug.,92 for
+_ 2 hrs. 45 Mts.
+
+Capt. Jha who accompanied him for the previous two circuits and
+landing, apart from noticing him reduce the power abruptly on circuit
+
+did not notice anything abnormal in his handling of the aircraft.
+
+It is evident that the aircraft, could not have’ crashed) due to Capt.
+
+Dhaliwal’s inelliciency in flying skill,
+
+Although the probability of Capt. Dhaliwal comunitting suicide cannot be ruled
+
+out, the Committee could not arrive at any convincing reason which could have
+
+compelled Capt. Dhaliwal to take his life.
+
+WAS IT A CASE OF PILOT'S INCAPACITATION ?
+
+The aspect of incapacitation was looked into at length by the Committee, The
+
+folowing aspects were covered :
+
+MEDICAL HISTORY :
+
+Capt. Dhaliwal used to undergo medical tests twice a year at the Central
+Medical Establishment of the Air Force for his license renewal. The last medical
+
+was done in April, 92 and he was declared fully fit for flying duties.
+
+During cross examination witness No. 41 Mrs. Manjit Dhaliwal, said "Ele had
+
+a very sensitive stomach. He had stomach trouble first time in 1972. He ever
+
+69
+
+
+since started taking light food only. Every time he went outstation he would
+
+invariably return with stomach trouble,"
+
+It is evident that though Capt. Dhaliwal had no medical history, he had been
+
+suffering from Stomach ailment.
+
+HEART AILMENT :
+SSN AILMENT
+
+Witness No. 3 Dr.Choubey, in his post mortem report initially said that it could
+be ascertained that the death of Capt. Dhaliwal was not caused by heart
+attack. On further cross examination he said "By Carrying out post mortem one
+can detect coronary disease. There are 10% of cases where cause of death
+cannot be ascertained ever after carrying out detailed post mortem examination,
+Tt is not possible to detect the cause of heart failure due to cardiac arrythmia,
+
+low blood pressure and low blood sugar by carrying out Post morteny,"
+
+This implies that heart failure due to cardiac arrythmia, low blood pressure or
+
+low blood Sugar cannot be ruled out.
+
+SELF MEDICATION :
+
+Capt. Dhaliwal though medically fit on record was suffering from stomach
+ailment since 1972, Witness No. 41 Mrs, Manjit Dhaliwal wite of Capt. Dhaliwal
+said "He used to regularly take ayurvedic medicines such as Hajmola churn
+to overcome this problem. He had even stopped taking alcohol for the past 4
+to 5 years, At home he used to prefer soup, corn flakes, honey, chutney,
+Papaya, jams and daliya. He never went to a Doctor with his ailment." When
+asked about Capt. Dhaliwal taking Mentat tablets, she replied that she was not
+aware that he took mentat tablets at all, though she said that he used to take
+new medicines on recommendation of known people who had tied the
+medicines themselves to overcome his stomach problems. New medicines such
+as Zymnet, Kayam Churn and Sualin in tablets were found on his person on
+
+a few occasions.
+Tt is evident that Capt. Dhaliwal was suffering from Stomach disorder. He
+
+never reported the matter to his doctors and to Overcome his disorder used to
+
+rely on ayurvedic medicines prescribed by his friends,
+
+70
+
+MENTAT TABLETS :
+
+A unsealed packet of mentat tablets was recovered from the pocket of Capt.
+Dhaliwal after the crash. Witness No. 5 Dr. Agnihotri in his statement said
+that if mentat tablets are taken in excess on an empty stomach it can cause a
+drop in blood pressure and induce drowsiness and sleep. Its manifestation can
+be scen after about 3 hour. There exists a possibility that Capt. Dhaliwal who
+according to his cook had taken only porridge (daliya) in the morning and post
+mortem examimation showed hint empty stomach took these mentat tablets
+before he went to the airport. As per witness No. 7 Dr. Panda gastric
+disorders can also cause drop in blood pressure and mental black outs, there
+by seriously affecting the decision making capability of the pilot. If this black
+out is prolonged the pilot can loose consciousness as well. ‘he committee after
+seeing the circumstantial evidence feels that if Capt. Dhaliwal had taken Mentat
+tablets before the flight, the possibility of his becoming drowsy and
+
+subsequently blacking out cannot be ruled out.
+
+ALERTNESS IN THE COCKPIT :
+
+When witness No. 3 Dr. Choubey was specifically asked whether it was
+
+medically possible to determine if the pilot was alert and in senses at the time
+of crash, his answer was that it was not medically possible to comment on
+this aspect. Witness No. 1 Wg. Cdr. Bhalla ADG medical services Civil Avia-
+tion when put this specific question, said that whether the pilot had control
+
+over senses or not could not be ascertained medically.
+
+After deliberating on the circumstantial evidence available and the statements
+of the witnesses and in the absence of a CVR, FDR or an eye witness the
+committee is of the opinions that incapacitation of the pilot under the
+
+circumstances cannot be ruled out.
+
+Sununing, up the above paras 2.3.1 & 2.3.2, it can be said Chat the probability
+of a deliberate attempt to crash the aircraft on the part of late Capt. Dhaliwal
+cannot be ruled out. But in the absence of any justifiable reason which could
+have compelled late Capt. Dhaliwal to act in such a manner and take the
+extreme step, the probability of his Incapacilation during, the last cireuit can
+
+also not be ruled out.
+
+71
+
+
+2.4
+241
+
+2.4.2
+
+POST CRASH ACTIONS :
+Photography of Dead Body at Crash Site :
+
+The dead body of late Capt. Dhaliwal was removed from the site without
+photography although it is laid down in the Air Safety Circular No. 3 of 1984
+of DGCA that the Police Authorities shall take the photographs prior to the
+dead body removal. Body was removed by IAAI Fire Services without taking
+the photographs. Fire Service staff was also not aware of this requirement,
+Photographs of the body were only taken after the body was removed from
+
+the site.
+
+Post Mortem and Preservation of Viscera :
+
+The post mortem of the crew bodies have to be carried out as per the
+guidelines laid down in the Air safety Circular No. 3 of 1984 of DGCA. In
+this case, doctor We. Cdr. Bhalla, an aviation medicine Specialist of Air Force
+was requested by the DGCA to associate with the post mortem. Though he
+was not given the Air Safety Circular 3 of 1984, he being aviation medicine
+expert, was fully aware of the requirements of the detailed examination in case
+of air crashes. Viscera was preserved as per the guidance of Dr. Bhalla.
+DGCA deputed one of their officer’s to take heart sample to the IAM,
+Bangalore to check the possibility of a heart attack. Rest of the viscera was
+taken in possession by the Mahipalpur Police Station for sending the same to
+Central Forensic Scientific Laboratory (CFSL) as per the directions of Forensic
+expert of Safdarjung Hospital. It takes about a week to send the viscera to
+CFSL from the Police Station in the normal course. The Police Station and the
+CFSL maintain viscera in the ambient conditions only due to non-availability
+of refrigeration facilities. Most of the viscera is kept in preservatives except
+for the blood. In the instant case, the blood sample was not having
+preservative and neither is it recommended and hence it got putrefied with the
+passage of time in the ambient temperature conditions. Except for blood, the
+other viscera samples could be properly analysed due to preservatives being
+
+used.
+
+72
+
+
+3.1
+
+CONCLUSIONS :
+FINDINGS :
+Super King Air Aircraft B-200 C VT-EOA was having a valid Certificate of
+
+Airworthiness and was being maintained as per the DGCA approved schedules.
+
+This aircraft was a comparatively new aireraft (purchased in 1987) and had
+
+done 1347 hours since new. Both the engines had also done the same hours.
+
+No defect was reported on fhe aircraft after April,92 and on the date of
+accident the morning flight Delhi-Leh-Delhi was Operated without any reported
+snag. Also the two circuits before the accident were completed: without any
+
+snag.
+
+Aircraft weight and centre of gravity were within limits and there was
+
+sufficient fuel to carry out the circuits.
+Weather was good and not contributory to the accident.
+
+Late Capt. T.S. Dhaliwal was having current ALTP licence No.773 and was
+holding examiner approval on the Super King Air and Avro aircraft. He had
+total flying experience of 13519 hrs. out of which he had around 1100 hrs. on
+
+Super King Aircraft.
+
+On 27.8.92 Late Capt. Dhaliwal filed the flight plan for carrying out local
+
+flying on this aircraft after its return from Leh.
+
+This aircraft arrived from Leh at 1100 hrs. and al 1133 Late Capt. Dhaliwal
+with Capt. Jha as co-pilot taxied out to runway 28 for carrying out circuits and
+landings. It took off at 1136 hrs. and landed back at (140 hrs. After this he
+
+did touch and go for carrying out the second circuit which was a short circuit.
+
+After the second circuit, initially, late Capt. Dhaliwal decided to do a full stop
+landing but later on changed the idea and requested Air Traffic Control for
+third circuit which was cleared. After the aircraft lined up Late Capt, Dhaliwal
+informed tower that he was vacating runway due to some problem with the
+
+door. On ’E’ taxi track Capt. Jha checked the door and was disembarked. Later
+
+73
+
+10.
+
+11.
+
+13.
+
+14.
+
+16.
+
+17.
+
+on Late Capt. Dhaliwal lined up on runway 28 at 1157 hys. and took off
+
+without clearance from the tower.
+
+Aircraft was repeatedly called by the tower and the last transmission was 'Go
+ahead Sir’ by late Capt. Dhaliwal approximately 40 seconds before the aircraft
+crashed. The aircraft was seen going down after it turned on down wind. The
+aircraft hit the ground in pitch down and wing level attitude and suffered
+
+severe impact leading to disintegration of the aircralt,
+
+The crushed aircraft main wreckage afler initial impact remained in air for
+about 350 ft. before falling into the ditch in inverted condition, Wreckage
+was scattered all along the path of main wreckage travel. The pilot was killed
+
+during the crash.
+
+Fire started immediately after the impact due to disintegration of aircraft with
+fuel catching fire. The fire was extinguished by the NSG Commandos whose
+
+unit is located nearby the accident site.
+
+Wreckage analysis revealed that aurcraft made a high speed impact with the
+ground in a steep angle. Undercarriage was down with the flaps in take off
+
+position of 40 percent,
+
+Flying controls, engine and propellers examination revealed no pre crash
+
+failure. Any aircraft system failure contributing to accident is ruled out.
+
+Wreckage examination by explosive ex erts, perusal of intelligence re orts
+8 P
+
+connected with activities of various terrorist/extrentist §roups active in the
+country and also examination of the conduct of personnel connected with BSE
+
+Air Wing rule out the possibility of sabotage.
+
+Post mortem report of Late Capt. Dhaliwal has revealed that his death was as
+
+a result of injuries inflicted during crash.
+
+Pathological examination of blood, heart, brain, muscle, kidney and the mentat
+Ayurvedic tablet has not revealed any positive symptom for cardiac arrest and
+
+effect of narcotics.
+
+74
+
+
+CAUSE OF ACCIDENT :
+
+~ The exact cause of the accident could not be confirmed, however, on the basis
+
+of the evidence on record, the probability of a deliberate attempt to crash the
+_ aircraft on the part of late Capt. Dhaliwal cannot be ruled out. However, in
+
+the absence of any justifiable reason which could have compelled late Capt.
+
+Dhaliwal to act in such a manner and take the extreme step, the probability
+“of his incapacitation during the last circuit can also nol be ruled out.
+
+“RECOMMENDATIONS :
+
+Consideration be given to ensure that twin engined aircraft are flawn by two
+
+“pilots irrespective whether it is being used by VIPs or not.
+
+a\ir Safety Circular No.3 of 1984 should be widely circulated specially to all
+major hospitals and alf Airport Police Stations and its, compliance be ensured
+during air crashes.
+
+DGCA may take steps to ensure that complete viscera of dead air crew be sent
+to IAM, Bangalore for analysis after an air crash.
+
+Consideration be given for installation of CVR with under water locator on all
+
+the twin engine aircraft irrespective of their all-up-weight.
+
+DGCA should lay down the requirements of technical/ performance refresher
+‘curses for pilots engaged in flying other than those in commercial
+
+weganisations to ensure high standards in flying are maintained at all times.
+
+IGCA may consider for laying down norms for dual training and checks in
+ase of break in flying of ALTP holders other than those employed in
+ommercial organisations as well.
+
+ll the medical officers employed for Air crew/ Airport duties should undergo
+asic courses in Aviation medicine at Institute of Aviation Medicine IAF
+
+angalore.
+
+‘structions may be issued to operators and airport authorities that before
+
+moval of dead bodies of air crash victims from the site, photographs should
+variably be taken.
+
+
+9. Crash siren/ Alarm facility should also be made available at the Airport Medical
+- Inspection rooms,
+
+- 10. Airport authorities should ensure that attendants of ambulances are given
+refresher training at regular intervals.
+
+1]. BSF should ensure’ that requirements of Flight duty time and Flight time
+limitations, as stipulated in AIC 28/1992 dated 10.12.92, be complied for their
+pilots.
+
+~ 12, DGCA to consider introducing preflight medical requirements for crews
+
+engaged in flights where passengers are involved,
+
+13. BSF may review the present strength of maintenance personnel and fill up the
+vacancies to ensure higher standards of maintenance all the time.
+
+14. Police authorities be issued instructions that relevant viscera, as suggested by
+doctors conducting post mortem of air crew killed in air crashes, be preserved
+
+for enquiry at the hospital having refrigeration facilities.
+
+15. BSF may re-evaluate the present security arrangements for its Air Wing at the
+
+airport.
+(R.P.S. GARCHA)
+Air Commodore
+CHAIRMAN, COMMITTEE OF INQUIRY
+4
+VY Joye Whe hae lina
+(A.K. GUPTA) (V.K. CHANDNA)
+Dy. Director, IB Director Air Safety
+MEMBER . MEMBER SECRETARY
+
+Place : New Delhi
+Date : 28th February, 1993
+
+76
+
+0559
+
+O60]
+
+0602
+
+FROM
+
+VOA
+DG
+
+VOA
+
+DG
+
+VOA
+DG
+VOA
+
+VOA
+
+DG
+
+VOA
+VOA
+
+“pg
+
+“VOA
+
+TAPE TRANSCRIP?
+
+DG
+
+VOA
+
+DG
+
+VOA
+
+DG
+
+VOA
+
+DG
+
+DG
+
+VOA
+
+DG
+
+DG.
+
+VOA.
+
+DG
+
+OF DELHI GROUND
+
+121.9 MHZ
+as
+
+TEXT
+
+Calling.
+
+Go Ahead,
+
+Req. Start-up for local flying,Sic,
+Parked in front of BSF Hangar,
+Would like to do 2 or 3 circuits
+landings, Sir.
+
+Roger, Alpha,report total no. of
+Persons on board,
+
+02 Stir.
+Start-up approved .
+(Oscar)
+
+Reg. taxi clearance,parking in
+front of BSF hangar.
+
+Taxi via Echo, holding point
+(cunway) 28.
+
+BSG eS Pah ARGS 6 BL4U E811 g wl
+
+Delhi Tower; 118.1
+
+Roger, Sir, switching over to
+118.1 .
+
+Ma be
+
+TIME
+
+0602
+
+0603
+
+0605
+
+0606
+
+0607
+
+0608
+
+0609
+
+ATC TAPE TRANSCRIPT’ PERTAINING TO THE ACCIDENT TO SUPER.
+
+KING AIR B~200¢ AIRCRAFT VT-EOA ON 27.8.92( Tower)
+
+FROM
+
+VOA
+DD/TWR
+VOA
+DD/TWR
+VOA
+
+VOA
+
+DD/TWR
+VOA
+
+DD/TWR
+
+YOA
+DD/TWR
+VOA
+VOA
+DD/TWR
+VOA
+
+DD/TWR
+
+VOA
+
+VOA
+
+DD/TWR
+VOA
+VOA
+DD/TWR
+VOA
+VOA
+
+DD/TWR
+
+TO
+Delhi Tower
+VOA
+DD/TWR
+VOA
+DD/TWR
+
+DD/TWR
+
+VOA
+TWR
+
+VOA
+
+DD/TWR
+VOA
+DD/TWR
+DD/TWR
+VOA
+DD/TWR
+
+VOA
+
+DD/TWR
+
+DD/TWR
+
+VOA
+DD/TWR
+DD/TWR
+VOA
+DD/TWR
+DD/TWR
+
+VOA
+
+i \ a : _ “4 moma
+s \.
+
+TEXT
+DELHI TWR voA
+VOA DELHI TWR GO AHBAD
+ON "E" SIR,
+REPORT HOLDING SHORT ON "E"
+ROGER
+
+WILL LIKE TO DO CIRCUIT AND
+LANDING IF TRAFFIC PERMITTING SIR.
+
+ROGER
+
+CALLING
+
+VOA TO HOLD POSITION,
+
+VOA AFTER LANDING AIRCRALY
+
+WILL BE LINING UP RWY 28 TAKE
+OFF, TURN LEFT, CLIME po 2500 REPORT
+
+Down WIND ON QONH 1006 HPa.
+VOA LINING UP 28 SIR,
+
+ROGER, LINE UP AND HOLD
+
+WE ARE CLEAR TO LINE UP AND HOLD.
+VOA READY FOR TAKE OFF
+
+HOLD POSITION
+
+ROGER
+
+VOA ‘CLEAR FOR TAKE OFF
+WIND 960/03 kts.
+
+VOA ROLLING SIR.
+
+VOA 2500°TURNING PORT, WILL
+REPORT DOWN WIND SIR.
+
+REPORT DOWN WIND
+ACKNOWLEDGED.
+
+VOA REPORTING DOWN WIND
+ROGER,REPORT FINAL FOR RWY 28
+VOA
+
+VOA TURNING BASE LEG.
+
+REPORT FINAL
+(o* C
+
+ww ¥ phe
+
+TIME
+
+9610
+
+0611
+
+0612
+
+0613
+
+-0614
+
+0615 -
+
+FROM
+
+VOA
+DD/TWR
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+VOA
+VOA
+DD/TWR
+VOA
+DD/TWR
+VOA
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+VOA
+
+DD/TWR
+
+VOA
+DD/TWR
+
+VOA
+
+DD/TWR
+VOR
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+DD/TWR
+DD/TWR
+VOA
+
+DD/TWR
+VOA
+
+DD/TWR
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+DD/TWR
+
+VOA
+
+DD/TWR
+
+VOR
+
+DD/TWR
+
+TEXT
+
+VOA TURNING FINALS, THREE GREENS.
+VOA CLEAR TO LAND WIND 310/08 kts.
+VOA
+
+VOA CONFIRM MAKING FULL STOP LANDING
+OR TOUCH AND Go.
+
+TOUCH AND GO
+ROGER CLEAR FOR TOUCH AND GO WIND
+310 CORRECTION
+280/08 KTS
+VOA ROLLING
+ACKNOWLEDGED.
+WOULD LIKE TO DO A SHORY CrRCULY
+BAD WEATHER CIRCUIT.
+CLEARED FOR SHORT CIRCUIT VOA.
+ROGER CLEAR FOR SHORT CIRCUIT.
+REPORT DOWN WIND RWY 28
+(ROGER) Yoa
+VOA REPORTING DOWN WIND
+
+REPORT FINAL
+
+VOA TURNING FINAL
+THREE GREEN SIR.
+
+ROGER CLEAR FOR TOUCH AND Go
+WIND 246/03 KTS
+
+VOA WILL DO FULL STOP SIR.
+
+ROGER CLEAR FOR FULL STOP LANDING
+WIND 240/04 KTS
+
+ROGER
+
+VOA RETURNING BACK TO BASE SIR.
+
+ROGER CLEAR FOR BACK TRACK,
+REPORT VACATING RWY ON "Bp"
+
+ROGER SIR,WE WILL GO vO BSF HANGER
+
+ROGER
+
+SIR WOULD LIKE TO DO ONE MORE
+CIRCUIT iF TRAFFIC PERMITTING,
+
+ROM
+
+0615 DD/TWR
+
+DD/TWR
+
+VOA
+
+0616 DD/TWR
+
+VOR
+0617 DD/TWR
+VOA
+
+VOA
+
+« DD/TWR
+
+0618 92 DD/TWR
+
+ul
+N
+
+|
+
+VOA
+
+Gy
+N
+Ni
+w
+
+|
+
+No
+~
+pa
+
+DD/TWR
+
+VOA
+
+DD/TWR
+
+D276 VOA
+
+0619 DD/TWR
+
+& D287 VOA
+
+DD/TWR
+
+D288 VOA
+
+DD/TWR
+
+&e2y
+DD/TWR
+
+_ DD/TWR
+
+TO
+
+VOA
+
+VOA
+
+DD/TWR
+
+VOA
+
+DD/TWR
+VOA
+DD/TWR
+
+DD/TWR
+
+VOA
+VOA
+DD/TWR
+VOA
+
+PO/EWR
+VOR
+
+DD/TWR
+
+VOA
+
+DD/TWR
+VOA
+
+DD/TWR
+
+VOR,
+
+DD/TWR
+
+VOA
+VVR
+
+ROGER, ROGER.
+
+ROGER LINE UP FOR RWY 27,
+CORRECTION 28,
+
+ROGER LINING UP 28
+ROGER LINE UP,
+
+RWY 28
+
+VOA LINE UP RWY 28 AND CLEAR
+FOR TAKE OFF WIND 260/03 KTS/
+ROGER (VOA)
+
+CLEARED FOR TAKE OFF
+
+VOA ROLLING SIR.
+
+SIR WE ARE CLEARING RWY 28. FOR.-TWO
+MINUTES.
+
+ROGER,.
+VOA HOW MUCH DELAY
+i, MINUTE
+SAY AGAIN
+
+STAND BY ONE.
+HOW MUCH MARGIN Is THERE POR DELAY,
+
+»
+WE GOT TWO DEPARTURE AND ARRIVALS
+ALSO.
+
+ROGER
+
+VOA DD/TWR
+VOA DD/TWR
+
+GO AHEAD SIR
+CONFIRM HOW MUCH IS DELAY
+
+WE ARE JUST CHECKING UP, THERE IS
+SOMETHING WRONG WITH THE DOOR SIR.
+IT IS JUST ABOUT TWO TO THREE
+MINUTES SIR.
+
+ROGER, EXPEDITE
+
+DD/TWR VOR Og
+DD/TWR Vie
+VOA LINE UP
+
+GO AHEAD
+
+-PINBIC.No.
+
+0621
+
+0622 p319
+
+0624
+
+D361]
+
+0626 D371
+
+w Iw
+ai
+wm fr
+
+|
+
+0627
+
+had
+le
+n
+
+390
+
+FROM
+
+VR
+
+VVR
+DD/TWR
+VOA
+
+DD/TWR
+
+VOA
+DD/TWR
+VVF
+
+DD/TWR
+VVEF
+
+DD/TWR
+VOA
+VOA
+DD/TWR
+VVE
+
+DD/TWR
+
+VVE
+
+DD/TWR
+VOA
+
+DD/TWR
+
+DD/TWR
+DD/TWR
+
+VVE
+
+DD/TWR
+
+TO
+
+DD/TWR
+
+QRETWR
+
+DD/TWR
+
+VOA
+
+DD/TWR
+VOA
+DD/TWR
+
+VVF
+DD/TWR
+
+VOA
+DD/TWR
+DD/TWR
+Vos
+
+DD/TWR
+
+VVF
+
+DD/TWR
+
+VOA
+DD/TWR
+
+VVF
+
+VOA
+VOA
+
+DD/TWR
+
+VVF
+
+TEXT
+
+AIR BORNE HINDON FOR, YOu MAINTAINING
+2500’ PERMISSION TO CALL 10 NM NORTH
+
+SAY AGAIN,
+ROGER REPORT 10 NM TNBOUND NORTH, VOR
+VOA LINE up,
+
+VOA HOLD POSITION
+VOA TO HOLD POS ELON
+
+CONFIRM WE WILL BE DELAYED Now
+AFFIRMATIVE EXPECT DELAY 15 MINUTES
+
+CALLING
+GOOD MORNING
+
+STANDBY ONEV VF LINE UP RWY 27.AND HOLD.
+LINE UP RWY 27,\VP
+
+VOA TO LINE UP RWy 28 AND HonD,
+
+ROGER SIR VOA CLEAR TO LINE UP AND HOLD,
+VOA LINING up,
+
+ROGER LINE UP AND HOLD
+
+VVF READY FOR DEPARTURE
+
+VVF COPY ATC, CLEARED TO CHANDIGARH,
+
+CLIMB AND MAINTAIN YO, DEPARTURE SPl,
+TAKE OFF HEADING 3500’,
+
+(READ BACK ATC)
+VOA TAKE OFF-
+
+~ BOLD POSITION, VOA TO HOLD POSITION
+
+ROGER
+
+VVF IS CLEARED FOR TAKE OFF WIND
+280/02 KTS
+
+280/02, rolling VVE. VOA SOME TRANS-—
+MISSION ASKING HOLD POSITION.
+(BACK GROUND VOICE)
+
+VOA TO HOLD POSITION
+VOA I SAY AGAIN CANCEL TAKE.ORF,
+
+VVF IS REJECTING TAKE OFF
+ABANDONING TAKE OFF STR.
+
+DELHI/TWR VVF IS ABORTING TAKE OFF
+
+ROGER WILL CALL UP........T0 ate
+(TRANSMISSION NOT CLEAR)
+
+i “A foe
+. Le _ ee /
+
+~ , TIMEL No, FROM TO
+0628 391 DD/TWR VVE
+VVP HO/TWR
+DD/TWR VVE
+DD/TWR VOA
+DD/'TWR VUA
+DD/TWR VOA
+DD/TWR VOR
+D397 VOA DD/TWR
+DD/TWR VOA
+DD/TWR VOA
+DD/TWR
+0629 VVE
+0630 VVR DD/TWR
+DD J Fete VVR
+(sound of siren)
+TWR " vvR
+VVR TWR
+VVEF/ VVR
+NB?
+J = Capt. Jha
+D= Late Caph U.S. Dhaliwal.
+we
+“tv
+ph
+-
+_ eae
+
+TEXT
+
+VVF TO HOLD POSITION
+
+REQUEST BACK TRACK 27,
+
+ROGER APPROVED.
+
+VOA DD/TWR
+
+VOA DD/TWR
+
+VOA DD/TWR
+
+VOA DD/TWR
+
+GO AHEAD SIR
+
+YOU HAVE NOT BEEN TOLD TO FoR
+TAKE OFF,HOW COULD YoU TAKE OFF
+WITHOUT PERMISSION. TWR HAS GIVEN
+TAKE OFF CLEARANCE ONLY TO VVE
+FROM RWY 27.
+
+(NO.REPLY)
+
+VOA DD/TWR CONFIRM COPIED.
+
+VOA DD/TWR
+VOA DD/TWR
+
+VOA SEEMS TO HAVE CRASH,
+
+DD TWR/VVR, VOA HAS CRASHED
+DOWN WIN® SIR.
+
+ON
+
+ROGER COPIED.
+
+VVR MAY WE SET COURSE AND WILL
+CALL YOU 5 MILES NORTH
+
+NEGATIVE DELHI HANDLING Ellin
+SENCY AND AIRCRAFD HAS CRASHED
+YOU GO BACK Tu HINDON ATRSPACE
+VVR CONFIRM COPIED
+
+ROGER
+
+DIVERTED,
+

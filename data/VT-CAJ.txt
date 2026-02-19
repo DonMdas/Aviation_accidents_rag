@@ -1,0 +1,871 @@
+Weada ae
+
+DIRECTORATE GENERAL OF CIVIL AVIATION
+
+FINAL INVESTIGATION REPORT ON ACCIDENT
+TO M/S. CHIMES AVIATION €C-172R AIRCRAFT , VT-CAJ
+ON 38 FEL. 2012 AT DHANA AIRSTRIP, DIST., SAGAR, M.P.
+
+OFFICE OF DIRECTOR OF AIRSAFETY (WESTERN REGION)
+GOVERNMENT OF INDIA
+MUMBAI OLD AIRPORT, MUMBAI-400029,
+
+FINAL INVESTIGATION REPORT ON ACCIDENT TO M/s. CHIMES AVIATION,
+
+CESSNA 172R AICRAFT VT-CAJ
+ON 03.02.2012 AT DHANA AIRSTRIP, DIST,, SAGAR, MP
+
+S “4
+
+INVESTIGATION & REPORT BY :-
+
+Sh. R. RAJENDRAN- ASSISTANT DIRECTOR OF AIR SAFETY,
+OFFICE OF DIRECTOR AIR SAFETY (WESTERN REGION), MUMBAI.
+
+
+ve ee op INDEX _ _
+Para | Sub.Para * CONTENTS _ Page No.
+1, | Factual i formation. ” - oo _ 02-20
+11 ; History of ‘flight . - 02
+| V2 7 Injuries to persons - _ 1 04
+13 _. Damage to aircraft, 7 04
+1.3.1 | Left wing 7 04 -
+133 ction 7 Vos,
+“1.34% _ 06
+[ 1.3.5 : aan — . 7” | 06
+136 | Fuselage _ - _, 06
+13.7, Main inding gear ; : | 07 |
+1.3.8 Nose landing gear _ _ 07 7
+4340 lee bin ~ a 07 | |
+[150 “Persounel information _ TO jO7
+Voi : Pilot i ie cammand _ _ | O7
+152 As sighs r t fight instructor _ | 08
+: 1.6 “Aircra’ ‘_ information 08
+iL Mote -cralogical information 09
+18 ~ ste navigation , 10
+[1.9 ve inications : ; : ‘10
+“1.10 me “me information — 10 7
+| [us rders ~ _ 7 _| 10 7
+1.1? and impact info ‘mation 10.
+| 113 ic “and ‘pathological information - Jil _
+1d aspects "11 :
+iA ; : ! ‘l research 7 . j 11 |
+rey . | Crs av onal and management information 7 [a2 ; |
+: “information 11
+_ r effective ine Stigation technique i ‘T
+a a [1B
+ie
+en = — 12 -
+2 13
+fa Oche - | 13
+13. | Conclusion : - ~ “| 43-14
+33d Findings 33
+; | 3.2 _ Pichat ; - a 14
+14. _ Safety Recomrs —_ _ 7 “14
+
+
+FINAL INVESTIGATION REPORT ON ACCIDENT TO M/s. CHIMES AVIATION,
+CESSNA 172R AICRAFT VT-CAJ ON 03.02.2012 AT OHANA AIRSTRIP, DIST., SAGAR, MP
+
+1. Aircraft
+Type : CESSNA
+Mode! : 172R
+Nationality > INDIAN
+Registration : VT-CAJ
+2. Name of the
+Owner/ Operator » Chimes Aviation Pvt. Ltd., New Dethi
+3. Place of the Accident : Dhana Airstrip, Dist. Sagar, Madhya pradesh.
+
+4, Date and “ime af Accident + 03/02/2012 & Approx. 04:20UTC
+
+5, Pilot in command : Student Pilot License
+6. Co-Pilot ON/A
+
+7. Extent of injury : Minor
+
+8. No. of Passengers Nal
+
+9. Last point of Departure
+& its coordinates : Dhana Airstrip., 23°45°9"N 78°51'24"E
+
+10. Point of intended landing
+
+& its coordinates : Dhana Airstrip. , 23°4S'S"N  78°S7'24"E
+11. Geographical location of site
+
+Of Accident {Lat. Long} : 23°45'9"N 78°S1'24%E
+12. Type of operation | Sole Locai Circuit & Landing.
+13. Phase of operation : Landing.
+14. Type of accident » Runway Excursion,
+
+(All timings in the report are in UTC unless of otherwise specified)
+SYNOPSIS:
+
+M/s Chimes Aviation Academy Cessna 172R aircraft registration VT CA on 03" Feb.2013, during
+landing of second solo sortie of a trainee pilot, approximately 25-30 ft above the runways, aircraft left
+wing dropped and the aircraft hit the ground on the left shoulder of the runway at about 1200ft fram
+the beginning of the runway 35.
+
+The Accident was informed to OGCA, India and the Investigation was carried out by an inspector
+of accident appointed by OGCA order vide letter No. AV.15013/2/2012-AS dated 06.02.2012, in
+accordance with the requirements of Rule 71 af Aircraft Rules 1937,
+
+On investigation, it was observed that during the time of landing, the aircraft’s nose attitude
+was high. The wrong procedure used for go around had lead the aircraft to stall and resulted the
+atcident
+
+1. FACTUAL INFORMATION
+
+1.1 History of the flight:
+
+On 03.02.2012, Authorised AME carried out the daily inspection of the aircraft in accordance
+with approved Daily Inspection procedure and found satisfactary. The aircraft uplifted with 200litres of
+fuel and 6.8 quarts of oil. Tyre pressure of 34PSi on Nose wheel tyre and 29P5/ on each main wheel
+tyre was maintained, The aircraft released for training operations with nil snag.
+
+As per the schedule, the trainee pilot reported for the flight program at 0845 i$T, The trainee
+pilot accepted the aircraft with no snag. The trainee pilot carried out walk around / pre flight inspection
+and instructor briefed weather (Winds 350/05 kts, Visibility 5 kms) and circuits and landings to him.
+With AFI onboard, the trainee pilot performed four circuits and landings checks. He was found fit by AFI
+and hence, the trainee pilot was rcleased for the second solo by AFl under the supervision of CFI. During
+the time of second solo release, the fuel onboard was around 185litres.
+
+As per the training school procedure, the respective student’s instructor handles RT
+communication with the aircraft from ATC facitity. During the time of the second solo flight, the AFI was
+handling RT fram ATC facility and gave instructions to the trainee pilot.
+
+Curing the solo flight, first circuit pattern, AFi had observed that the aircraft was on proper glide
+path and the safe anding was performed by the trainee pilot. Hence, AFI cleared him for the secand
+circuit & tanding with 178litres of fuel onboard, During this second circuit and landing exercise, AFI had
+observed that whe the aircraft approached close to runway, the trainee pilot reduced the power and
+flared out higher than the normal. After flare out he floated for some distance, while floating, the
+aircraft was in higti nose attitude. At that time the trainee pilot was about 1000 ft fram threshold of
+Runway 35 and about 25-30 ft above the runway. AFI immediately advised on R/T to open full power,
+pitch down and execute a ‘Go Around’. Student performed the go araund by the way of opened full
+power & pitch down as instructed by the AFI. However, the trainee pilot observed that the aircraft was
+not coming down and at the same time he heard stall waraing horn and the aircraft stalled, as a result
+of which the aircraft left wing dropped & the aircraft hit the ground on the left shoulder of the runway
+at about 1206ft from the beginning of the runway 35. Upon crash landing, the airbag deployed, there
+was no fire on the aircraft and there were no injuries to the trainee pilot or any personnel an ground.
+There was no fuel leakage. The trainee pilot came out of the aircraft without any injury.
+
+After the accident, approximately 171 litres of Fuel was removed and approx, ilitre of oil fram
+the engine oi! sump were collected fram the aircraft.
+
+During time of eccident, CFI was fiying with the other student in local circuit and landing
+exercise,
+
+Figi: Ohana Airstrip Rwy 35-17 on google map
+
+c
+
+“™Gangle
+
+vet 41:18)
+
+
+1.2 Injuries to persons.
+
+“INJURIES CREW | PASSENGERS “Y OTHERS
+: FATAL Pui Ni TN an
+“SERIOUS. : il _ Na “| Nl
+
+: MINOR/NONE | Nil/ 01 Nil | Nil :
+
+1.3 Damage to aircraft
+
+Following major structural damages were observed:
+
+Aircraft was severely damaged in nose section & wing tips. The propeller twisted and both tips
+were sheared off. Engine Mount found broken & nase landing gear found sheared off from its
+attachment due to impact. Both wings were bent upward at wing tip area. Firewall buckled & moved
+slightly inwards. Cabin: & rear section intact with minor buckling at some places and both main landing
+gears were intact. The airbag assembly was found inflated on pilot seal.
+
+13.1 Left Wing:
+
+1. Wing bent upwards from station 190 & aileron also damaged at the corresponding section.
+Wing tip was missing & pieces were recovered fram the site.
+Leading edge skin between station 190 to 208 & between 156 to 172 found crushed.
+Wing upper skin wrinkled & deformed from wing strut attachment point.
+Wing lower skin found deformed from wing strut attachment point to tip. Wrinkles were
+observed fram strut attachment paint to integral fuel tank.
+
+4
+
+1.3.2 Right Wing
+
+L
+
+Wing tip found bent upwards. Wing tip found attached to the wing with wing tip jeading edge
+broken.
+
+Wing leading edge found crushed from Statian 140 to Station 208.
+
+Wing iower skin found wrinkled from Station 85 to Station 208 and graze marks were observed
+on skin from Station 140 to Station 208 cspeciaily an leading edge.
+
+The aileron was found bent at Station 190 & at Station 149,
+
+Wing Upper Skin found deformed from Station 140 ta Station 208, wrinkled between Station
+100 to Station 140 & Crushed between Station 71 to Station 100.
+
+LH flap found to be moved inboard crushing side window pane and aft upper cabin area, which
+mdicates wing bent backward due to impact,
+
+1.3.3 Nose section
+
+Nose section severely damaged.
+
+1
+
+anh wr
+
+LH lower cowling separated at mount section, the attachment rivets found sheared off. The FRE
+section torn to the exhaust tail pipe opening. RH Side of nose Cowling found broken. RH lower
+Cowling found attached to nose cowling.
+
+All anti shock cowl mounts tound sheared off.
+
+The fuel filter bow! found opened ang fuel return hose pipe Found to be sheared.
+
+Nose landing gear sheared off fram attachment
+
+Firewall found crushed & buckled.
+
+The main electronic junction box found bent with cover broken. Ail internal components except
+main C8's which sheared from panel. Battery found intact with minor defarmation, no evidence
+of acid Jeakage were observed,
+
+7, Lower portion of forward fuselage crushed. LH & RH Steering Rod found bend with part of
+steering arm attached on it. Upper Nose gear mount found missing and lower nose gear mount
+sheared and attached to fuselage.
+
+8. Engine mount found to be braken ar all four mounting points towards engine. The shoc<
+maunts & frame found attached ta the engine. The mount structure at fuselage found attached
+to firewall at all four points.
+
+1.3.4 Engine
+
+1. Engine air intake box separated fram engine. Fuel servo assembly found attached to engine with
+both throttle & mixture control attached to it,
+
+2. All four exhaust risers found deformed. The muffler found intact with shroud deformed. Exhaust
+tail pipe found crushed at the tip.
+
+3. Gil filter found crushed slightly with oi] leaks.
+
+4. Starter rirg gear found cracked at alternator pulley area in ane paint.
+
+5. LH from baffle found buckled,
+
+1.3.5 Propeller
+
+Propeller found attached to engine with spinner intact. Slight graze marks were observed at
+
+spinner nase.
+
+1,
+2,
+
+Propeller found twisted. Both tips found sheared aff about one inch from tip.
+Severe material erosion were observed on the leading edges towards the propeller tips
+
+1.3.6 Fuselage
+
+L
+
+Fuselage cabin section found intact with minor deformation on LH&RH side.
+
+2. RH side window found broken due to flap moved inward,
+3. AFT cabin section found with minor buckling.
+
+6
+
+1.3.7 Main landing gear
+
+1. LH brake cylinder found rubbed on ground & bleeder screw found missing.
+
+1.3.8 Nose landing gear
+
+Landing gear sheared off,
+2. Upper torque link attachment bolts found sheared at both points.
+
+3, Shimmy dampener rear attachment point faund sheared and shimmy dampener found attached
+to gear at front attach point.
+
+4, Shock strut upper barrel found dented near upper attachment point. Upper attachment point
+found intact & attached to gear upper strut.
+1.3.9 Cabin
+1, Forward Section of cabin found buckled at floor board. Rudder Paddles found intact but frozen
+
+due to buckling of floor board, Bath cantrol column push pull tube found to be bent.
+2. Amsate Inflatable Bag found to be activated duc to impact.
+
+1.4 Other Damage:
+Nil.
+
+1.5 Personnel information:
+
+4.5.1 Pilat-in-Command :
+
+license Student pitot license
+} _Date of issue :
+Pala oT
+
+Category
+Endorsement as Pic Co
+
+Class , eee sees .
+i 07.09.201i (Class)
+06.09.2022 i
+
+__FRTO Bate of issue 40,03,2012
+
+~ERTO | Vaticd up to 09. a1. 2022
+Flying hours (Dual) — 4 i 7he 25 min
+“Flying hours (Solo) 20 minutes
+
+First Solo 02.02.2012
+; Flying: in last 90 Days | | 17hr 25 min_
+_ Flying in Last 30 Days | 10hr 20 min
+Flying in Last 07 P Days | 05 he 25 mia
+
+Flying i intost 24 Hours | 55 min
+
+
+RAN Fit Mane ne Ae Ae)
+
+The trainee piiat joined Chimes Aviation Academy on 24,06.2011, as @ trainee pilot and started
+flying from ©5,11.2011. On 02.02.2012, when the trainee pilot had completed 15:30 hrs. he was
+released for First Solo by Flight Instructor, His approach and landing in the First Solo was satisfactory.
+
+There were total of $9 successful landings carsied out in the entire training program of the
+trainee pilot and out of which 02 were solo flights and remaining 57 were dual flights.
+
+On 3 Feb 2012, there were tatal of 06 landings were carried out and out of which 04 were dual
+and 02 were solo fligh: and during the second solo landing exercise, the aircraft met with an accident,
+
+From the FTPR recards, it is observed that the student was not proficient enough to handle the
+stalls, and there were no debriefing records avaiable.
+
+1.5.2 Assistant Flight Instructor:
+
+| AFIA Date of issue ~ | 16.08.2011
+
+| AFIR Valid up to vee wa of
+
+| License ~ pilot license
+
+t .
+
+; CPL Date of issue "| 06.03.2008 |
+
+| CPL Valid up to 05.03,2014 |
+
+| PiC Endorsement on CPL | C-152, €-172 R end BE- 76
+
+[AFIR Endorsement | C-152—
+IR | Volid
+FRTOL Date ofissue | 06.03.2009 ad
+PFRTOL Validupto ——_—| 05.03.2074
+
+[RTA (Aj Date of issue 20.01.2009
+_RTR (Aj Date of
+LRIR{A) Validupto | 19.01.2014
+
+| Date of last Med. Exam | 22.10.2011 (Closs 1)
+
+1 Med, Exam valid up to 20.10.2012
+' Total Flying Hours 497 Hours
+| Fetal instructional Hours | 205 Hours
+
+As per the regutations, AFI may impart training to the trainee pilot under the supervision of CFI
+during daytime.
+
+2.6 Aircraft information:
+
+The Airplane is high wing monaplanes of all metal semi-monocoque construction, equipped
+with fixed tubular spring steel main gear struts and a steer-able nose gear in tricycle configuration. The
+nose gear has an air/oil fluid shock strut. Cabin has a four place seating arrangement with all up weight
+(AUW) 1111.3 kg. This aircraft is pawered by four cylinder horizontally oppased, air — normaily aspirated
+LycominglO-360-L2A engine with power output 160 BHP at 2400 RPM driving a McCauley fixed pitch all
+metal propeller with Model no. 1C235/LFA7570. Engine operates with AV GAS 100LL and the total fuel
+capacity 210 litres ($6 U.S.G) and total usable 200 litres (53 U.5S.G}. Wings are of afl metal, strut —
+braced, semi-monocoque construction, utifizing two spars and full - cantilever, all metal tai group
+consists of a vertical stabilizer and rudder, and a horizontal stabilizer and elevators,
+
+anpaer
+
+'
+i
+f
+‘
+:
+E
+
+| Airceaft C1 72K
+
+_ Aircraft Registration VT - CAI
+
+| MSN st No. 7 ~~ ~ — : 17281486 : — —
+' Year of Manufacture | 2007 ~ :
+
+Category Normal, Passenger
+PMax.AUW WINKS
+CoA ~ TT 19-05,2009 to 12.12.2012 :
+
+CofR | 11.04.2008 _
+
+“Mt, Schedule — 13/12/2007 ~
+
+| Engine SINo. 1-33830-51E ; . :
+| Aircraft f Hours s (Since New) _ — — i: | 1958:20 7 . __.
+| Engine Hours (Since New) _ | 1958:20
+
+| 1958:20
+
+Propeller Hours(Since New)
+Aircraft Station .
+| Mavigation equipme ‘nts on board
+
+Dist Sagar,M.P
+
+_Automatic Direction finder (ADF)
+: instrument landing
+i Localizer
+
+| Glide path receiver
+
+|) BENDIX ~ KR 87
+
+“GARMIN- GMA 1347
+GARMIN- GMA 1347
+
+| | VOR teceiver
+
+| Marker receiver
+| ATC transp
+GPS receiver
+
+) ELT
+
+| GARMIN: GTX 33
+| GARMIN. GIA 63
+| ARTEX ME 406
+
+The following «1 communication equipments(a} installed .
+if ‘ommunication Set 1 ‘GARMIN- GIA 63
+Communication Set2 L GARMIN: GIA 63
+
+The aircraft Airframe Record reveals that it had logged 1958:20 total airframe hours since new
+and ail inspections were carried out on the aircraft fram the time since assembly/ Certificate of
+Airworthiness. The schedules of 400nrs/O2years inspection, 200 hrs/O1 year, 100 frs/O6 month
+inspection, 50 hrs/O1 month, 25hours inspection where carried out as ner the maintenance program.
+
+The Engine records reveal that the engine was manufactured by M/s Lycoming and the Model
+no. is 10-360-L2a and S/N is t-33830-51€ had logged 1958:20 ors since new. The McCauley Propeller
+Model No. 1C235/LFA7570, S/N is ABA485214 had been installed on the engine and it had logged
+1958:20 hrs since new.
+
+All the Inspection Schedules carried out on L-33830-S1E Engine Time since Assembly/ C of A.
+The SOhrs/01 month inspection, 100hrs/06 manth inspection, 200 hrs/ Otyear Inspection were carried
+out as schedule as per maintenance program.
+
+1.7 Meteorological information;
+
+MET information was obtained from IMD website for the city of Bhopal, The anemometer used
+and kept in control tower (ATC) facility at Dhana airstrip found to be non operational. The Instructor,
+informed the trainee pilot about the weather condition as Visibility of S km and winds from 350/05
+knots prior to the flight, The wind sock is being used for predicting the wind speed and direction.
+
+i
+;
+i
+é
+t
+{
+&
+
+1.8 Aids to navigation:
+
+The aircraft Cessna-172R VI-CAJ was equipped with Garmin-1000 GPS system which is capable
+of giving 3-dimensional aircraft position in relation to the ground from any number of way points on a
+moving map display. Garmin-1000 also gives TAS, Ground speed, Heading required ta be flown to
+maintain the desired track, EET and ETA to a way point. Students prepare a map and flight log for the
+cross-country flight which cross checked by their respective flight instructor before the flight. The cross
+countries are usually flown by using the techniques of pilotage and dead reckoning.
+
+1.9 Communications:
+
+Dhana ATC is equipped with licensed VHF radio station with elevated antenna and normal radio
+range at flight 075 is about 100nm. ATC tower does not have AFC personnel to take the responsibilities
+of ATC official, in this accident case, it was handled by the Assistant Flight Instructor.
+
+1.10 Aerodrome information:
+
+This aerodrome is owned by state government and maintained by the organisation. The runway
+surface is nota paved one. The runway 35 is not feasible for operation as it was full of pebbles.
+
+| Runway Orientation 35/1? . a ae .
+i le 8000 ft ee 7
+i Wi Ofte ~
+| Elevation. or see _ 1709 ft me _
+CARP _ [By4s'9"N 7ersy2a"e - —|
+| Airspace , Unrestricted S Nm fram the Airstrip.
+| Beyond Sam ts controlied under M Mumbai FIC. |
+ATC Tawer Facility ATC. tower has VHF radio installed but no ATC official to take the |
+_! » responsibilities of ATC. ee _. a
+
+ie ee
+
+1.11 Flight racorders:
+
+NA,
+
+As the aircraft weight is below 5700 kilograms. Hence the aircraft not equipped with either CVR
+or OFBR.
+
+1.12 Wreckage and impact information:
+
+The wreckage was closely confined ta the spot where the aircraft came toa complete stop at
+around 1206ft from the beginning of the runway 35. in order to resume the operation, the aircralt was
+removed from the site and kept behind the hanger for further inspection and investigation, The surface
+condition of the runway was found with full of pebbles, the trail for impact could not be found.
+
+After the accident, appraximately 171 litres of fuel was defueled and approximately one litre of
+
+ait from the engine oil sump was collected from the aircraft.
+
+15
+
+u
+t
+1
+
+1.13 Medical and pathological information:
+
+The trainee silot was not subjected to any pest accident medical check-up as Flight Training
+school was unaware about the post flight medical check-up immediately after the accident.
+
+1.14Fire:
+
+Ihere was no fire
+1.15 Survival aspects;
+
+The accident was survivable.
+1.16 Tests and research:
+
+Not Applicable,
+
+1.17 Organisational and Management information:
+
+Chimes Aviation Academy is a subsidiary of Chimes Aviation Put. Ltd. with its registered office at
+New Celhi. Director s a head of Chimes Aviation Pvt, Ltd,, the Accountable Manager and Chief operating
+officer oversees the functioning and operations of the Academy. Day to Day functioning of Chimes
+Aviation Academy a‘: Ohana is managed by CFI. The Academy has a Hangar and associated buildings for
+maintenance of aircraft and conduct flying training. The flying club has CAR 145 approval for
+
+raaintenance af their aircraft.
+1.18 Additional Information:
+Nil
+
+1.19 Useful or effective investigation techniques
+
+Nil.
+
+2. Analysis:
+
+2.1 Maintenance Aspect:
+
+i. The aircraft was inspected in accordance with approved Daily Inspection procedure.
+
+i, As per tye records, all the maintenance schedules were follawed and complied with.
+
+lil. The aircraft was released with valid C of A and C of R.
+
+iv. For the second solo sortie, the aircraft was released with approx.i78 liters of fuet and
+approx. 6.8 quarts of oil onboard.
+
+v. AS per the maintenance records, the condition and performance of alreraft, engine and
+system were satisfactory at the time of Oaily Inspection. No snag was reported during the
+previous flights. No snag was observed during Daily inspection and No snag was reported by
+the student pilot or instructor while carrying out pre-flight or while flying.
+
+et
+
+e
+®
+$
+4
+£
+
+vil After the accident Approximately 172 liters of fuel was defueled from the aircraft and
+approximately one litre of ait was collected from the engine oi] sump,
+
+Hence, it could be concluded that the maintenance aspect is mat a contibutory factar for thas
+accident
+
+22 Operational Aspect:
+
+40.
+
+11.
+
+12.
+13.
+
+The trainee pilot started flying training from 05.11.2011 on the aircraft Cessna 1728 at Chimes
+Aviation Flight Academy, Dhana, Dist Sagar, Madhya Pradesh.
+
+On 02.02.2012, the trainee pilot was released for first solo by Fl and faund Satisfactory.
+
+The trainee pilot after taken adequate rest reported for duty on 03.02.2012 around 08:451ST.
+The trainee pilot undergone secand solo check with AF an 03.02 2012 and as his performance
+was faund satisfactory; the student pilot was released for second salo,
+
+Quring the second solo landing, AFt witnessed that the trainee pilot was well on approach and
+when the aircraft approached clase to runway, the trainee pilot reduced the bower and flared
+out higher than the narmal. After flare out he floated for some distance, while floating, the
+aircraft was in high nose attitude with idie power. At that time the trainee pilot was about 1000
+ft fram threshold of Runway 35 and about 25-30 ft above the runway, AFI immediately advised
+an R/T to open full power, pitch down and execute 3 ‘Go Around’.
+
+Student performed the go around by the way of opened full power & pitch down as instructed
+by the AFI. However, the trainee pilot observed that the aircraft was not coming down and at
+the same time he heard stall warning horn and the aircraft stalled, as a result of which the
+arcratt lett wing dropped & the aircraft hit the ground on the left shoulder of the runway at
+about 1200ft trom the beginning of the runway 35.
+
+The AFi, insteueted the trainee pilot to perform Go around maneuver without analyzing the
+cockpit environment was hypothetical.
+
+The trainee pilot simply followed instructions provided by the AFI who is autside the cockpit
+without analyzing the cockpit configuration.
+
+The trainee pilot wag not able to recognize the stall condition and correct the pitch attitude and
+power canfiguration,
+
+The trainee pilat performed Full Power, Nose down and Go Around instructions provided by the
+instructor instead ta recover from stall condition by lowering the nase and then applying full
+power,
+
+From the FTPR records, it has been observed that the student required additional training for
+the stall maneuver recovery,
+
+There was no post flying de-briefing record maintained by the training academy
+
+Prior ta the accident sortie, the trainee pilot carried out one safe landing and no snag was
+encountered by him.
+
+From the above it has been observed that when the aircraft was around 25-30 feet above
+
+Bround, the aircraft was floating in the ground effect and the power was reduced to idle. Speed was
+already decreasing and the aircraft was In nose high attitude. With the aircraft was floating with high
+
+12
+
+ent tea
+
+attilude, the instructor instructed on the hand heid radio fram ATC Lower to Bo around by applying full
+power and nose down, trainee immediately added full power whieh in turn, further increased the nose
+attitude which has resulted the aircraft to stall, However, to break the stall, nose down and then apply
+sufficient power procedure to be perfarmed. The apposite manoeuvre resulted into power off stall
+Situation which finally lead to the crash landing of the aircraft.
+
+2.3. Weather condition
+
+1, The wind condition was predicted by the help of windsack as the instrument meant for this was
+not in serviceable condition, The prevailed weather condition was predicted as Visibility of 5 kim
+and wind irom 350/08 knots prior to the flight by the use of windsock. This indicates that the
+weather is nat a conteibutory factor to this accident.
+
+2.4 Other Aspects:-
+
+1. The runway 35-17 was found with full of pebbles. However, the aircraft tyres were found intact
+and were holding pressure. Hence, runway condition was not a contributory factor. Though the
+Govt, of Madhya Pradesh is accountable for maintenance of the Airstrip, there is no check and
+baiance be ng kept in place by the training school to ensure the Airstrip fitness for regular day to
+day operations and the accountable authority was not informed about the discrepancy to carry
+out the adequate maintenance work.
+
+2. The Afi is i CPL holder with PIC endorsemen: on C-152, €-172 BR and BE-76 and his AFIR rating
+states C-152 airplane on which instructions can be imparted.
+
+3. The €-152 is an analog instrument aircraft which comes under 1500 kdogram weight category,
+The C-172R is also under 1500 kilogram weight and is somparatively more advanced glass
+cockpit aircraft equipped with Garmin 1000 digital instrument panels.
+
+4. AFL is performing the privileges of Assistant flight instructor rating on C — 1728 as per the
+Aircraft Rulas 1937, Privileges of AFIR.
+
+S. AS per the regulations, AFI can release second solo to the trainee pilot under the supervision of
+FI/CFI. On that day, CFl was available at station, During time of accident, CHi was flying with the
+other student in local circuit and landing exercise,
+
+3. CONCLUSION:-
+
+3,1 Findings:
+
+1. The aircraft had valid C of A& CofR.
+
+2. The aircraft nad all the valid documents required for operation of the aircraft
+
+3. Aircraft was maintained in fully airworthy condition and no Maintenance work was pending
+before release for training purpose.
+
+4. After completing the daily inspection and being completely satisfied, the AME had released the
+aircraft on 03.02.2012 for training flights with 200 litres of fuel and 6.8 quantity of ail was on
+board.
+
+5. MET informetion was obtained from IMO website far the city of Bhopal and AFI predicted Jocal
+weather by using wind sock and provided the weather infarmation to the student
+
+&. The trainee pilat was released for 2nd salo after assessing his performance by AFI,
+
+13
+
+40.
+
+ll
+
+32,
+13.
+14.
+
+415.
+
+As per the regulations, AFI can release solo to the trainee gilot under the supervision of FI/ CFI
+Auring the time of Accident, CFI was carrying out local flying with other trainee pilot within the
+vicinity of the airstrip and AFI was in ATC control tower to handle RT cammunication with the
+trainee pilot,
+
+During the second landing, the trainee pilot was well on approach, When the aircraft was
+around 25-10 feet, the aircraft was floating in the ground effect with nose high altitude and the
+power was reduced to idle. As speed was already decreasing due to nose high attitude and no
+power in aircraft, resulted stall warning,
+
+As the aircraft was floating the instructor instructed “Full Power, Nose Down, and Go
+Around.“As the aircraft had no power and nose high attitude, the trainee pilat added power as
+per instructor instructions without analyzing the cockpit environment. Due ta addition of
+power with nose high attitude, the nose of aircraft pitched up and stall warning was triggered.
+Further the aircraft undergone in power off stall.
+
+The procedure followed to break the stall is "Nose Down-Full Power” whereas, the Assistant
+Flight Instructor given the wrong instructions of “Full Power-Nose Down-Ga Around” which was
+followed by the student which lead to stalling of the aircraft and teading to left wing dropping
+and the aircraft to ceash on the left shoulder of the runway at about 1200ft from the beginning
+of the runway 35.
+
+Flight training school was not aware about the post flight medica! checkup of the trainee pilot
+immediately after the accident, Hence no post flight medical checkup of the trainee pilot was
+carried out.
+
+Aircraft substantially damaged.
+
+After the accident the remaining fuel & ail was removed from the aircraft.
+
+During the inspection after the accident, the runway was found to be full of pebbles. This
+depicts that the training school had not informed the Accountable authority responsible for
+maintaining the serviceability of Airstrip and ensuring the fitness of runway for regular day to
+day operation.
+
+There is no de-briefing record maintained by the Flight school to assess the trainee pilot’s
+improvement in performance in handling of ai-craft.
+
+3.2 Probable Cause:
+
+4.
+
+During the time of landing, the aircraft’s nose attitude was high and the wrong go around
+
+procedure adopted by the trainee pilot as directed by the AFI, resulted into the aircraft stall thereby
+causing the accicent.
+
+SAFETY RECOMMENDATIONS:
+
+1. Necessary corrective training may be imparted fo the traince pilot.
+
+. Necessary corrective action to be taken against AFI for instructing wrong procedure to the trainee
+
+pilot without properly assessing the situation.
+
+14
+
+3. The training instivule to be instructed 1o carry oul necessary runway surface maintenance/ repair
+work and to ensure that the serviceable instruments/ equipments are made available at the ATC
+tower, Necessary arrangement to be made to provide Accurate MET information to the students
+
+4 Any other action as deemed fit by the competent authority.
+
+Oh isi
+30.05.2013 nhaiatean
+MJMBAI~ 29, INSPECTOR'OF ACCIDENT
+of VT-CAI
+
+15
+
+Aft
+
+Aircraft Hours
+Aircraft Registration
+Aircraft Station
+Airstrip
+
+ATCO
+Authorized AME
+CofA
+
+CofR
+
+CB's
+
+ects
+
+CFt
+
+Circuit
+Competent authority
+CPL
+
+Crosswind
+
+CVR or FIR
+Daily insoection
+Deform«tion
+Dual
+
+ELT
+
+Engine ours
+ETA
+
+Flying Hours
+
+ABBREVIATIONS
+Assistant Flight Instructor
+Total Hours flown by Aircraft
+Registration of oircraft
+Base of aircraft
+Runway used for tanding of aircraft
+Air Traffic Controller Officer
+Licensed AME of the aircraft.
+Certificate of Airworthiness
+Certificate of Registration
+Circuit Breakers
+Circuits.
+Chief Flight Instructor
+Pattern followed for landing
+DGCA/Civil Aviation Department
+Commercial Pitot License
+Winds acrass the runway
+Cockpit Voice Recorder or Flight Data Recorder
+Inspection of aircraft carried out on daily basis
+Change of structure due to accident
+Student pilot along with Instructor
+Emergency Locator Transmutter
+Hours flown by the aircraft with respective engine
+Estimated time of Arrival
+
+Hours flown by individual pilot.
+

@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+Docs/
+doc_registry.json
+ProductionGradeRAGPythonApp/
+rag-from-scratch/
+vector_db/
+*RAG_DATA*
+

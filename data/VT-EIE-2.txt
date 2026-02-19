@@ -1,0 +1,2628 @@
+REPORT ON ACCIDENT TO
+M/S AERIAL SERVICES Pvt. Ltd. SUPER KINGAIR
+B-200 AIRCRAFT , VT-EIE , ON JULY 29, 2000,
+NEAR VILLAGE JHUGGI , H.P.
+
+BY
+A.K.CHOPRA
+
+INSPECTOR OF ACCIDENTS
+
+aH
+
+CONTENTS
+
+Important ‘iimings
+
+Summary
+
+Previous History
+
+Factual Information
+
+History of F ight
+
+Injuries to Person
+
+Damage to Aircraft
+
+Other Dam: Les
+
+Personnel Ir,!ormation
+
+Aircraft Information
+Meteorological Information
+
+Aids to Nav. zation
+Communicztion
+
+Aerodrome information
+
+Flight Reec.der
+
+Wreckage aid Impact Information
+Medical anc. Pathological Information
+Fire
+
+Survival Ac pects
+
+Tests
+
+YY
+
+
+2.4
+2.5
+2.6
+
+2.7
+
+2.9
+
+2.10
+
+2.11
+2.42
+
+2.13
+
+hud
+
+ANALYST;
+
+Aircraft Serviceability
+Pre-flight Preparations
+Enroute Weather
+
+Flight Path
+
+Purpose of F light
+Regulator, Control
+Facilities at Kullu Airport
+Chandigarl: - Kullu Route
+ATC Control
+Coordinatica with Airforce
+Role of Purice
+Maintenance Practices
+Investigatica Process
+FINDINGS
+
+CAUSE OF ACCIDENT
+RECOMNIENDATIONS
+
+COMPLIANCE WITH REGULATIONS
+
+Watt
+
+073)
+
+0736
+
+0738
+
+0739
+
+0741
+
+0750
+
+0755
+
+0758
+
+0802
+
+Important Timings
+
+Star: up asked from Delhi Ground. Message from Kullu about weather
+given.
+
+Again asked for start up as emergency evacuation is there.
+Taxying
+
+Airborne
+
+First contact with Chandigarh ATC
+
+36 miles from SP Radar F 170
+
+28 miles from SP Radar, changed over by Delhi Radar.
+
+Ashed 5 - 7 miles deviation left of track from Chandigarh ATC
+Asked descent from Chandigarh ATC to F 105
+
+Overhead SP F 170
+
+Set course directly to Kullu
+
+Reported F 105 requested descent to F 90 - 22 miles East abeam
+
+‘Chandigarh ,
+
+Reported F 90
+
+HF contact with Kullu passed ETA 0808 - position 42 miles descending
+F 90
+
+Lost Chandigarh VOR - 35 miles to Kullu - requested change over
+fron Chandigarh ATC.
+
+Approx. time of crash
+
+Ye
+
+\
+
+NN
+
+=
+
+
+ey
+
+INVESTIGATION REPORT OF ACCIDENT
+
+TO SUPER KING AIR B-200 AIRCRAFT VT-EIE
+NEAR VILLAGE JHUGGI
+ON 29.07.2000
+
+1, AIRCRAFT
+Type
+Mocel
+Nationality
+Registration —
+
+2. OWNER / OPERATOR
+
+3. DATE & TIME OF ACCIDENT
+
+4. SITE OF » CCIDENT
+
+0. SUMMARY
+
+Beech Super King Air
+B 200 C
+
+Indian
+
+VT-EIE
+
+M/S Aerial Services Pvt. Ltd.,
+Bombay
+
+29.07.2000 AT 0802 Z
+(Approx.)
+
+Near Village Jhuggi, Distt. Mandi
+(H.P.) at GPS coordinates of
+
+Lat 31° 27'43" N
+Long 077° 05' 03" E
+
+Super King Air B 200 aircraft VT-EIE took off from Dethi for Kullu with five
+persons on board Jor evacuation of an injured person. Enroute Chandigarh - Kullu,
+aircraft descended below minimum sector altitude in IMC. Aircraft hit a hill
+
+and crashed killing all on board.
+
+NOTE: All timings in this report are in GMT unless stated otherwise,
+
+Sec
+LN t
+
+fv
+iss
+AAs
+
+
+or
+
+0.0. PREVIOUS HISTORY
+
+Delhi ~ Kullu air route has proved to be disastrous for the Civil Aviation for the last 6 -7
+
+years. The present accident is the third major accident on this route. Earlier Punjab
+
+Government Super king air aircraft VT-EUJ met with an accident on 9" July, 1994. The
+
+accident wiped out almost the entire family of Shri Surendra Nath, the then Governor of
+
+Punjab & Himach:| Pradesh. Two years later Archana Airways L-410 aircraft VT-ETC
+
+met with an accident on 11" July, 1996, killing 5 passengers and three crew members.
+
+In the present accicent all the five person on board lost their life,
+
+These accidents ass ime the importance for the fact that all the three accidents took place
+
+at almost the same place under the similar circumstances and in identical weather
+
+conditions . All tle three accidents can be technically termed as CFIT. The similarity
+
+between these accidents is too glaring to be ignored, all the aircraft hit the hill tops ,
+
+which were covered with clouds. This gives a scary feeling that history is repeating at a
+
+very short interval. Both the earlier accidents were investigated by the "Court of Inquiry”
+
+and the reports have been submitted to the Government. A lot of efforts were put by "the
+Court" and number of recommendations were made. In spite of the same the third
+
+accident has taken »lace ina short span. This raises serious issues and brings out
+
+that the efforts put in is probably not adequate.
+During the investig;
+
+ition of this accident, the work done by the earlier "the Courts" were
+
+given due considezation. Efforts have been made to go to the root cause and to look into
+
+whether our follow: up action was adequate or some hidden cause was left
+
+unattended earlier. It was my view from the beginning that merely stating the cause of
+
+
+ey
+
+accident as "humar error" will not suffice. Therefore, efforts were directed to probe
+further including the adequacy of regulations, the existing systems and facilities and the
+implementation of earlier recommendations . Painstaking investigation carried out in the
+present case has revealed a wide range of areas which need to be addressed if this route is
+to be made safe anc nexus of repeated accidents is to be broken. The investigation report
+
+is, therefore, written keeping this objective in mind.
+
+
+i. FACTUAL INFORMATION
+
+1.1 HISTORY OF FLIGHT
+
+Super King Air B 200 aircraft VT-ELE owned and operated by M/s Aerial
+Services Pvt. Ltd was to undertake a flight from Dethi to Kullu and back. Capt.
+Ghumman was in command with Capt. Selvam as Co-pilot. There were
+
+three passengers on board.
+
+’
+
+1.1.2 Flight plan was submitted to Delhi ATC wherein Flight was to be conducted
+under Instrement Flying Rules(IFR) on route W 35. Aircraft was to fly at F 170
+upto Sarsawa(SP) and thereafter at F 160 to Kullu. Cruising speed of aircraft was
+given as 240 knots. Duration of flight was one hour whereas endurance of
+aircraft was five hours . Chandigarh was designated alternate airport. Purpose of
+flight was shown as Ambulance flight. Take-off timing was 0330 Z, which was
+
+revised number of times. Capt. Amarjeet Singh was to be the pilot - in -
+command .
+
+1.1.3. However aircraft took off from Dethi at 0712 Z with three passengers and two
+crew on board. Aircraft climbed to F 170 and when 28 miles from SP Radar at
+0738 Z , Delhi Radar control was terminated, Aircraft was permitted to deviate 5
+-7 miles left of track by Chandigarh ATC .
+
+1.1.4 At 0736 Z vilot asked for descent and set course directly to Kullu from ONOGI ,
+with the permission of Chandigarh ATC.
+
+1.1.5 At 0750 Z aircraft descended to F 90. Aircraft contacted Kullu HF and gave its
+position and ETA as 0808 Z.
+
+1.1.6 Frequency :hange was approved by Chandigarh ATC at 0758 Z.
+
+1.1.7 When aircraft did not contact Kullu , anumber of RT calls were given without
+any response from aircraft.
+
+1.1.8 Aircraft sussequently was found to have crashed in hills near village Jhuggi,
+Distt. Mandi (HP ) about 21 nm from Kullu. Accident site is located at GPS co-
+ordinates ¢f Lat 31° 27' 43" N , Long. 077 ° 05' 03" E at an altitude of 8800 ft.
+(Approx) .
+
+1.1.9 Accident occurred in day light in cloudy weather. Aircraft was destroyed due
+impact. There was no fire. Ajl on board were killed in the accident,
+
+\
+AA
+ig
+
+
+1.2
+
+13
+
+14
+
+1.5
+
+INJURIES TO PERSONS
+INJURY CREW PASSENGERS OTHERS
+Fatai 2 3 -
+Serious - - -
+Minor - - -
+DAMAGE TO AIRCRAFT
+
+Aircraft was destroyed due impact.
+
+OTHER DAMAGES
+
+There was no third-party damage other than two buffalloes those were
+
+reported missing after the accident.
+
+PERSONNEL INFORMATION
+
+15.1 PILOT
+
+Name ; Capt. 3S. Ghumman
+
+Date of Birth : 01.10.1945
+
+Liceace No. : ALTP 1615
+
+Validity . : 16.08.2000
+
+En< orsement : As PIC As Co-Pilot
+Pushpak DO - 228
+HS - 748
+
+FRO - No. 3857 Valid upto 17.08.2000
+
+
+- 8340:05 out of which 776:50 hrs.
+
+Flying Experience as on
+were as PIC on type
+
+the date of accident
+
+Flying done before the accident in last:-
+
+- 30 days : 22:05 hrs.
+
+- Tdays - 14:10 brs.
+
+- 24 hours : 2:30 hrs.
+Last IR Check done on : 20.01.2000
+Last Medical done on : 24.05.2000
+
+1.5.1.1 Capt. Ghumman was advised to wear corrective bifocal look-over glasses.
+
+1.5.1.2 Operator has no record of flying done/checks/validity of licences etc. of
+pilots.Capt. Ghumman's personal log book was recovered but handed over to his
+relatives by police; thus flying details were not available. So was the case with
+Journey Log Book. Thus all flying hours are computed from the available
+documents; these hours are only approximate and may not be accurate.
+
+1.5.1.3 Capt. Ghumman's ALTP was suspended from 19.07.98 to 31.8.98 for flying
+
+without valid medical.
+
+1.5.1.4 As per the documents Capt. Ghumman did his IR Check on B-200 aircraft on
+ions same should have been repeated before 16. 12.99.
+
+17.12.98. As per the regulati
+There is no documentary evidence of the same. IR check report is not available
+nor the same was submitted to DGCA. However, Operator has informed that IR
+
+Check was carried out by Capt. Tyagi on 20.01.2000. As an evidence , entries in
+journey log book of aircraft VT-EID were submitted. Even if the same is
+accepted Cpt. Ghumman had flown from 17.12.1999 to 20.01.2000 without valid
+IR. During this period he has flown for 25 hours (Approx.) under TFR in
+
+violation ef regulations.
+
+1.5.2 CO - PILOT
+Name : Capt. A. Selvam
+Date of Birth ; 20.12.1975
+9
+A
+
+v
+a
+
+afr
+
+
+Licence No
+Validity
+Endorsement
+FRTO
+
+Flying experience
+upto 30, 12.1999.
+
+yy
+
+: CPL No. 3331
+
+: 02.06.2001
+
+: As PIC
+
+: C-152A , Super King B 200
+
+: No. 5998 valid upto 02.06.2001
+
+: 526:55 Hrs.
+
+Flying done before the accident in last:
+
+- 30 days
+
+- Tdays
+
+- 24 hours
+
+Last IR Check done on
+
+Last medica! done on
+
+: 5:30 Hrs.
+
+: 5:30 Hrs.
+
+: NIL
+
+: 03.07.99 on B-200 aircraft
+
+: 03.06.1999
+
+1.5.2.1 Operator has not maintained records of flying as well as of licence. Capt.
+Selvam's flying log book is held-up with police. Thus, his total flying hours and
+flying done on B-200 aircraft is not available. Remaining hours have been worked
+out from available documents which are only approximate and are not accurate.
+
+1.5.2.2 IR Check of Capt. Selvam was valid only upto 02.07.2000. He has been flying
+under IFR since then in violation of regulations.
+
+1.6
+
+AIRCRAFT INFORMATION
+
+Manufacturers : Beech Aircraft Corporation,
+Wichita, USA .
+
+Type Super King Air B 200 C
+
+Constructor's S1.No. : BL-63 .
+
+}
+
+
+1.6.1
+
+Year of Manufacture
+
+Certificate of Airworthiness
+(C of A)
+
+Certificate of Registration
+(C of kK)
+
+Owner
+
+Minimum Crew required
+Maximum authorised AUW
+
+Total hours/landings done
+
+Last Major .nspection
+
+Last Flight Release Issued
+
+Last Minor Inspection
+ENGINE
+Manufacturers
+
+Type
+
+i
+
+No. 1768 issued on 29.12.83
+Valid upto 16.03.2001!
+Category - Normal
+Sub-Division - Passenger
+
+No. 2238/2, Issued on
+20.02.95 in Cat. "A"
+
+M/s. Aerial Services Pvt. Ltd.,
+Bombay
+
+One
+5669-90 Kg.
+
+6243:35 Hrs. ) Since new upto
+5646 Landings ) 27.07.2000
+
+105:35 hrs.
+103 Landings
+
+) Since C of A upto
+) 27.07.2000
+
+100 Hrs. on 06.06.2000 at
+6206:30 hrs. since new
+
+On 06.07.2000 valid upto 2400 hrs.
+05.08.2000 or 50 flying hours
+
+Radio Check Valid upto 03.08.2000
+
+Daily Inspection on 29.07.2000
+
+Pratt & Whitney Aircraft
+Canada
+
+PT 6A - 42 .
+
+
+_ 1.6.1.1 RH. ENGINE
+
+Serial Numt-er : PCE 94260
+Hours done :  3275:45 Hrs. since new as on
+; 29.07.2000
+=_ 461:35 hrs. since overhaul
+Date of Last Overhaul > 13.08.2000
+Last Major Inspection : 100 hrs. on 06.06.2000 at
+
+_ 424:30 hrs. since overhaul
+
+_ Drop in Torque and fuel flow was reported on 14.1.98 at engine hour 2813:20
+since new. Defect could not be rectified; therefore, engine was removed
+prematurely for overhaul.
+
+1.6.1.2 LH. ENGINE
+
+Serial Number : PCE 93540
+7 Hours Donz :  5831:05 hrs. since new
+as on 29.07.2000
+
+_ 3030:55 Hrs. since overhaul
+Date of Last Overhaul > 28.04.1989
+
+Last Major Inspection : 100 Hrs. on 06.06.2000 at
+2993:50 hrs. since overhaul
+
+Engine was under life development program, overhaul life was increased
+from 3000 ars. to 3200 hrs. with inspection at every 50 hrs.. Engine was subjected
+to Hot Section Inspection on 06.06.2000 at 2993:50 engine hours.
+
+’
+
+1.6.2 PROPELLER -
+
+_ Manufactut ers : Hartzell Propellers Inc.
+Ohio, USA
+
+_ Type > HC-D4N-3A
+
+7 12
+
+
+1.6.2.1 L.H. PROPELLER
+
+Serial Nuniber : FY 1322
+
+Hours Done 939:50 hrs. since new as
+on 27.07.2000
+
+Date of Installation > 06.12.1995
+
+Last Major Inspection 100 hrs. on 06.06.2000
+
+at 902:45 hrs,
+
+Propeller was not removed from eng
+
+ine for major repairs nor any damage was
+reported .
+
+1.6.2.2 R.H. PROPELLER
+
+1.6.3
+
+Serial Number : 2 FY 1323
+
+Hours done : 939:50 Hrs since new as
+on 27.07.2000
+
+Date of Installation > 06.12.1995
+
+Last Major Inspection 100 hrs. on 06.06.2000
+
+at 902:45 hrs.
+
+Other than routine maintenance
+
+propeller was not removed from engine nor any
+damage was reported.
+
+RADIO APPARATUS
+
+Aircraft is installed with dual VHF and HF for communication, ADF, DME,
+Radio Altimeter, Transponder, Weather Radar, VHF Nav. System and GPS are
+
+the Navigation and landing aids. Besides these GPWS and ELT are installed as
+warning and locating aids.
+
+Last Radio Check : 30 days inspection done on 4.7,2000
+
+at 6219:45 aircraft hours,
+Aircraft Station Licence : No. A-261/3 dated 31.12.96
+Valid upto 31.12.2001
+( However as per CofA rehewal records ,
+it was valid upto 31.12.2000 )
+
+
+wy
+
+1.6.4 There was no major snag reported on engine or flying controls. In last six months
+only one snag was reported on Weather Radar, which is not realistic. It is obvious
+that snags were not being recorded.
+
+Aircraft was not involved in any accident or major damage earlier.
+
+1.7. METEOROLOGICAL INFORMATION
+
+Accident occurred between Chandigarh and Kullu . Therefore detailed study of existing
+meteorological conditions was carried out . The weather conditions prevailing at various
+stations as per the METARs issued by the Meteorological department were as follows :
+
+1.7.1 AT DELHE AIRPORT
+
+1.74.1
+
+1.7.1.2
+
+METAR 0700 Z
+Runway
+Visibility
+Winds
+
+Clouds
+
+Temperature
+Dew Point
+QNH
+
+QFE
+
+Trnd
+METAR 0730 Z
+
+Runway
+
+Visibility
+
+14
+
+29
+3500 mtrs.
+240 ° / 03 kts.
+
+BKN 3000 ft.(900 mtrs)
+SCT 10,000 (3000 mtrs.)
+
+32°C
+27°C
+1003 HPA) =—_- 2964 INS
+977 HPA 2985 INS
+
+NOSIG
+
+29
+
+4000 mtrs.
+
+nN
+
+and
+
+Aircraft took off from Delhi at 0712 Z. Weather conditions existing at Delhi were
+
+><a)
+
+
+Winds
+
+Clouds
+
+Temperature
+Dew Point
+QNH
+
+QFE
+
+Trend
+
+Calm
+
+BKN 3000 ft.(900 mtrs.)
+SCT 10,000 ft.(3000 mtrs.)
+33°C
+
+27°C
+
+1003 HPA =—s_- 2964 INS
+976 HPA 2884 INS
+NOSIG
+
+1.7.1.3 Terminal Area Forecast was issued at 2100 Z on 28" July, 2000 which was valid
+till 1200 Z on 29" July, 2000 for 50 nm around Delhi airport. As per the same,
+the weather at around 0700 Z was expected to be:-
+
+1.7.2
+
+1.7.2.1
+
+Visibility
+Wirds
+
+Clouds
+
+5000 mtrs. Haze
+120 °/10 kts.
+
+SCT 3000 ft.
+SCT 10000 ft.
+
+Thunder storm and Rains were predicted with FEW CB at 3000 fi.
+
+AT CHANDIGARH
+
+As per the Airforce Meteorological office , weather conditions prevailing at
+
+Chandigarh were as follows:-
+METAR 0730 Z
+
+Visibility
+
+Winds
+
+Weather
+
+Clouds
+
+6 km.
+
+180 ° / 07 kts. (14 km per hour)
+MOC ”
+
+2 SC 3000 ft. (900 mtrs.)
+
+2 AC 10,000 fi.(3 kms.)
+6CS 20,000 f.(6 kms.)
+
+
+Total Clouds
+Temperature
+QNH
+QFE
+
+Trend
+
+1.7.2.2 METAR
+Visibility
+Winds
+Weather
+
+Clouds
+
+Total Clouds
+Temperature
+QNH
+QFE
+
+Tread
+
+0830 Z
+
+on
+7/8
+32.4°C
+1004 HPA —- 29.67 INS. 753 mb
+
+968 HPA 28.59 INS 726 mb
+
+NOSIG
+
+6 kms.
+
+270 ° / 03 kts. (06 km per hour)
+Overcast
+
+28C 2500 ft. (750 mtrs.}
+
+1SC 3000 ft.(900 mtrs.)
+
+3 AC 10,000 £t.(3000 mtrs.)
+6SC 20,000 ft.(6000 mtrs.)
+8/8
+
+32.4°C
+
+1004HPA =. 29.66 INS_ 753 mb
+967 HPA 28.57 INS 725 mb
+
+TEMPO RA/DZ
+
+1.7.2.3. Terminal Area Forecast was issued at 2100 Z on 28" July, 2000 valid upto
+
+2000. As per the same the weather at about 0800 Z around
+Chandigart: was expected to be:-
+
+1200 Z on 29" July,
+
+Visibility
+Winds
+
+Clouds
+
+16
+
+2500 mtrs. Haze
+120 °/5 kts.
+
+SCT 3000 ft.
+SCT 10,000 ft.
+
+rae
+ax
+
+
+1.7.3
+
+1.7.3.1 METAR
+
+1.7.3.2
+
+Thunder storm and Rains were
+
+BKN at 9000 ft.
+
+AT KULLU
+
+Ww
+
+predicted with FEW CB at 3000 ft. and clouds
+
+Weather conditions prevailing at Kullu Airfield as per METARSs issued by the
+Meteorological Department were as follows:-
+
+0800 Z
+Visibility
+Winds
+
+Clouds
+
+Temperature ,
+Dea Point
+QNH
+QFE.
+ME?vVAR 0900 Z
+Visibility
+
+Winds
+
+Clo ds
+
+Tem, erature
+Dev Point
+QNH
+
+QFE
+
+6 kms.
+
+140° / 12 kts.
+
+FEW 1500 ft. (450 mtrs.)
+BKN 3000 ft. (900 mtrs,}
+OVC 8000 ft. (2400 mtrs.)
+27°C
+20° C
+1009 HPA =. 229.80 INS
+886 HPA 26.16 INS
+6 kms.
+
+180° / 12 kts.
+
+FEW 1500 ft. (450 mtrs.)
+
+BKN 3000 ft. (900 mtrs.)
+OVC 8000 ft. (2400 mtrs.)
+
+27°C
+
+20°C .
+1008HPA 29.79 INS
+885HPA —-.26.15 INS
+
+
+1.7.3.3. Terminal Area Forecast was issued at 2100 Z on 28" July, 2000 valid upto 1200
+
+Zon29" July, 2000. As per the same the weather around Kullu/Shimla was
+_ expected to be:-
+
+Visibility : 3000 mtrs. Haze
+7 Winds : 090 °/ 10 kts.
+_ Clouds : SCT 2500 fi.
+BKN 10,000 ft.
+
+Thunder storm and Rains were predicted with FEW CB at 3000 ft.
+1.74 ROUTE FORECAST
+
+A route forecast was issued by the Meteorological Department, Delhi for
+Delhi - Kullu route at 2330 Z on 28" July, 2000, which was valid for
+
+departure at 0230 Z on 29% July,2000. Winds and temperatures between
+Delii and Kullu were expected to be:-
+
+_ F 140 160 °/05 kts. : 6°C
+Changing to 320 °/ 10 kts.
+_ F109 330/10 kts. : 12°C
+F 70 330 // 10 kts. : 17°C
+F 50 360 / 15 kts. : 22°C
+_ Changing to 330 °/ 10 kts.
+
+Visiility was expected to be 3000 Mtrs. in Haze, which was likely to
+
+_ reduce to 1200 Mtrs. in thunder storm with rain. Isolated thunder storm
+and rain and moderate to severe turbulence was predicted with icing in
+CB. Freezing level was F 180.
+
+1.7.5 At the time of briefing Meteorological Department at Delhi has specifically
+
+brought ou: that cyclonic circulation extending upto 1.5 kms. ASL were persisting
+~ over J & K and neighbourhood.
+
+1.7.6 SATELLITE CLOUD IMAGERY _
+Visual and Infra-red Satellite picture were obtained. Satellite imagery of 0600 Z
+reveals Brcken Low and Medium clouds with embedded isolated weak to
+moderate convection on Chandigarh - Kullu route. Cloud top temperature at 32 °
+
+N,77° Ewas- 10°C. This weather continued and satellite picture of 0900 Z do
+not reveal any change in weather.
+
+A
+
+
+77
+
+1.8
+
+1.8.1
+
+1.8.2
+
+19
+
+1.9.1
+
+1.9.2
+
+1.93
+
+Besides the Meteorological Reports, the pilot who was flying in same area was
+asked about prevailing weather enroute. As per him area beyond Sunder Nagar
+was fully covered with clouds. As he was not getting any opening, he diverted
+
+Weather has played a significant role in the accident.
+
+AIDS TO NAVIGATION
+
+Chandigarh Airport is equipped with VOR/DME, which was serviceable
+at the time of accident. Pilot was using the same for position reporting
+
+The only navigational aid available at Kullu is NDB . The same was
+Teported to be working normal at the time of accident. However, due to
+location of the NDB and the surrounding terrain, the performance of NDB
+is not satisfactory. It has poor range with fluctuations in bearings. There
+‘is no evidence that aircraft could home on to the same before the accident.
+
+Aircraft was equipped with GPS. Whether Delhi - Kullu - Dethi route
+was stored in it or if pilot was making use of the same, could not be
+established.
+
+COMMUNICATION
+
+Kullu Airport is equipped with HF and VHF communication. Due to
+surrounding terrain, Kullu VHF has very poor range and aircraft come in
+contact with Kullu ATC only in the vicinity of Pando. The aircraft was
+not in contact with Kullu on VHF R/T. However, aircraft had contacted ;
+Kullu on HF R/T at 0755 hrs. to pass its position and ETA. That was the
+only contact with Kullu.
+
+There is no direct communication link between Kullu ATC and Delhi FIC,
+ATC Chandigarh or Alpha control, Kullu ATC can only contact these
+places on normal P&T telephone line. The AFTN link is also not direct
+but is through Amritsar, which has to retransmit all messages. This in any
+Air Traffic Control System, is not an healthy/acceptable situation.
+
+He-wever, aircraft was in contact with Chandigarh/Alpha control on VHF
+R/T almost upto the time of accident.
+
+19
+
+
+: ¥
+
+1.10 AERODROME INFORMATION
+
+1.10.1 Kullu airport is under the Management of the Airports Authority of India.
+
+It is situated in the Kullu Valley on the Western Bank of Beas river. There
+are steep hills on both sides of the airport.
+
+1.10.2 The aerodrome is located 10 kms. South of Kullu town at an elevation of
+
+3556’. The airport reference point is located at Lat. 30° 50' 38” N and
+Long. 77° 09 24",
+
+1.10.3 There is only one tunway designated as 34/16. The Tunway is 3700' long
+and 100' wide. The Tunway surface is of tarmacadam with LCN of 14.
+Kullu is unidirectional airfield . Landing is permitted only on Runway 34
+and take off only from Runway 16. The declared distances are:
+
+RUNWAY 16
+TORA > 3450 ft.
+TODA : 3870 ft.
+ASDA : 3450 ft.
+RUNWAY 34
+LDA : 3450 ft.
+1.10.4 There are no approach, runway, threshold or taxy lights. The signal area is
+unlighted.
+1.10.5 The threshold of runway 34 is displaced by 180’ due to obstruction of
+
+overuead wires on the approach. The over-run areas at both ends of
+runway need improvement,
+
+1.10.6 Cat. IV fire fighting facilities are available. The airfield is only cleared for
+VER operations.
+20
+Nail
+“ u AA ,
+anh
+
+
+iS
+11 FLIGHT RECORDER
+
+1.411 Super King B 200 aircraft is not fitted with Cockpit Voice Recorder
+(CVR) and Flight Data Recorder (FDR). Thus vital analysis of Flight path
+based on CVR and FDR could not be made.
+
+1,11.1.2 As per the existing regulations FDR/CVR is not required to be installed on
+aircraft having maximum AUW less than 5700 kg. Maximum take-off
+weight of Super King Air is 5669 kg. But this aircraft is being extensively
+used for VIP/Executive flying under private/non-scheduled category.
+Regulations in this regards need to be reviewed. :
+
+1.11.2 R/T communication between aircraft and ATC Units at Delhi, Chandigarh,
+Alpka Control and Sarsawa is recorded. However HF communication at
+Kuila is not recorded. These recorders use channel No. 1 for generating a
+time code. Various communications can be related with the time and
+flighy path can be reconstructed to some extent using the same. Transcript
+of various channels were obtained/prepared, the salient points observed
+from these transcripts are:-
+
+- Before giving start-up to aircraft, pilot was advised of message
+from Kullu that VUM landed at Chandigarh due bad weather
+enroute Kullu.
+
+- Pilot again asked for start-up after about seven minutes stating
+he will take a chance as there is emergency evacuation.
+
+- Aircraft got airborne at 0712 Z.
+
+- Aircraft asked for deviation 5 to 7 miles left of track at 0731 Z
+From Chandigarh ATC which was approved.
+
+- Pilot requested and was given descend, firstly to F 105 and
+then to 9000 ft.
+
+- Aircraft set course directly to Kullu after 'SP' on a route
+crossing 22 miles East of Chandigarh.
+
+- Only transmission with Kullu was on HF at 0755 Z when
+aircraft gave its estimate and position as 42 miles from Kullu
+and descending to F 90.
+
+- Pilot requested for change over to Kullu at 0758 Z, which was
+, approved ‘
+
+21
+
+“Zul
+
+
+| ke
+
+1.12 WRECKAGE AND IMPACT INFORMATION
+
+1.12.1 Accident site is located at GPS Coordinates of Lat. 3] °27 43" N and
+
+Long. 077 ° 05' 03" E near village Thuggi, Distt, Mandi (HLP.). Accident
+Site is approx. 21 nm from Kullu at an altitude of 8800' (Approx.)
+
+1.12.2 The accident site was flat area of Approximately 500' x 300' with a slope
+of 30°- 40°. Area was free of obstacles like trees etc. The wreckage was
+inspected by a team of DGCA Officers. Significant observations are:-
+
+- Aircraft impacted hillock while in climbing attitude with high forward
+
+speed. This resulted in very high impact forces and portion of it got
+embedded,
+
+- Due to severity of impact cockpit was completely crushed and
+fuselage broke into two pieces.
+
+~ Pilot's seat had detached but was found inside crushed cockpit.
+
+- CCo-pilot's seat was thrown away and was found 40' on LH of fuselage.
+Seat mountings was found pulled out alongwith structure.
+
+- ail portion including horizontal stabilizer fin and rudder got separated
+from fuselage and was lying on LH side on engine.
+
+~ Pieces of both the wings with flaps and aileron were found scattered in
+the area.
+
+- All the landing gears were found separated:
+RH landing gear, oleo and wheels were intact.
+
+LH Landing gear had detached from outer cylinder. However both
+the wheels and torque links were intact.
+
+Nose landing gear after detaching was thrown away. It was found
+35' behind RH Propeller with both wheels burst.
+
+- Piece of wing L.H. edge (Approx. 5’) along with ruptured fuel cell was
+found 50' ahead of fuselage.
+
+1.12.3 Attempts to overturn fuselage to examine wreckage underneath were not
+successful. Thus ELT, GPWS & GPS could not be traced.
+
+\
+
+22
+
+
+Propeller drive shaft had sheared in torsion. .
+
+- Eub on one of blade attachment was completely broken/shattered, At
+
+other location it was cracked. ,
+
+-  Feathering ring adjuster was bent and ring was missing.
+
+23
+
+“al
+
+ay
+
+1.12.4 Some of the cockpit instruments could be retrieved from exposed front
+portion of the broken fuselage. Readings of these instruments were
+_ recorded as follows:-
+— INSTRUMENTS READING
+Altitude Alert Controller 19,400"
+Encoding altimeter 8,560'
+Baro setting 1004 mb /
+29.66" -
+Cabin Air Temp. gauge 95°F
+Load Meter 0
+_ Frequency Meter 380
+Pneumatic Pressure Gauge 8.5
+Oxygen Pressure Gauge > 2000
+_ Torque Meter (Port) 1700
+Rpm gauge (Stbd.) 95%
+Oil Pressure Gauge (Stbd.) 150 Ibs.
+~ Oul Temp. Gauge (Stbd.) 65°C
+Cabin Altitude Pressure Gauge 4 psi
+1.12.5 L.H. Propeller was found at about 20' from first impact point. RH
+Propeller was found embedded in the soil close to engine nacelle only one .
+~ blade was visible. Propellers were retrieved from accident site and
+examined. Following salient points were recorded.
+~ 1.12.51 L. E. PROPELLER
+
+Sah\
+
+
+1.12.52
+
+1.12.53
+
+1.12.61
+
+\Y
+
+~ Propeller pitch change housing was missing. Two of attachment bolts
+were broken; other two were pulled out and bent.
+
+~ All propeller blades fly weight except one was missing.
+- One of the blades was broken at mid span.
+
+- One blade was found detached, twisted forward with deep scoring
+mark.
+
+~ Other blades were twisted and bent backward.
+RH. PROPELLER
+
+- Propeller drive shaft was found sheared in torsion.
+~ Propeller flange bolts were intact.
+
+- Propeller pitch change housing was missing. Housing attachment
+Lolts were pulled out and bent - one was broken.
+
+- Fly weights of all blades were missing.
+
+~ Feathering piston housing had sheared from root.
+
+- Broken feathering ring flange was attached with propeller hub.
+- Leading edges of all blades were broken and damaged.
+
+- One blade was found twisted and bent forward; it had deep scoring
+marks. Other three blades were found twisted and bent backwards.
+
+No pre-impact damage/defect was identified during examination of
+propellers. Damage to the propeller was indicative of straight, head on
+impact with solid obstruction when rotating under considerable power.
+L.H. Engine was found below tail portion. After initial examination at site
+
+engine was transported to Delhi for detailed examination and following
+observations are recorded:-
+
+- Engine had separated from Pylon and engine cowl was Missing,
+
+~ The propeller shaft was found broken, failure being in torsion, which
+’ indicated sudden stoppage of propeller when engine was in power,
+
+- There was no indication of engine fire.
+
+24
+
+
+1.12.6.2
+
+1.12.6.3
+
+1.12.6.4
+
+- The exhaust was found crushed.
+
+- Fuel control unit, starter generator and outer casing of combustion
+chamber were found damaged due impact.
+
+R.H. Engine was found about 35 behind main wreckage. After initial
+examination at site engine was transported to Delhi for detailed
+examination. Following are the salient points:-
+
+- Engine was without nacelle.
+
+- There were localised fire indication on outer casing. Fuel lines,
+electric harness upto "B" flange were having fire damage.
+
+- The nacelie was found 5' behind engine. It was badly crushed with
+indications of fire.
+
+~ Reduction gear box was found detached.
+
+- Fuel control unit, starter generator speed governor etc. were all found
+damaged.
+
+- The Propeller shaft was found broken in torsion.
+
+Both the engines were partially stripped to sec internal condition:-
+
+- Turbine disc and blade assembly of both the engines were in
+satisfactory condition, There was no sign of over-heating or cracks,
+
+- The combustion chamber liner had no cracks or signs of over-heating.
+- The condition of shroud housing segment, air-seals were satisfactory,
+
+- Compressor turbine vane ting of LH engine was found partly
+
+damaged. Few of vanes were found broken. RH engine was
+satisfactory.
+
+Strip examination of engine did not bring out any pre-impact
+protlem/abnormality.
+
+25
+
+
+1.13.1
+
+1.13.2
+
+1.13.2.1
+
+1,13.2.2
+
+1.13.3
+
+1.13.3.1
+
+1.13.3.2
+
+1.13.4
+
+MEDICAL AND PATHALOGICAL INF ‘ORMATION
+
+All the occupants died as a result of accident. The bodies after
+identification were subjected to post -mortem at Sub-divisional Hospital at
+Sunder Nagar. As DDMS of Civil Aviation was not present at the time of
+post-mortem and doctors at Sunder Nagar had no experience of
+
+conducting Post-mortem as requited for Aviation accident, they followed
+normal procedure.
+
+As per the Post-mortem report Capt. Ghumman suffered multiple
+traumatic and crush injuries with extensive head injury with damage to the
+brain, spinal cord, internal and external organs of chest and abdomen and
+multiple compound fractures to the skull, vertebral column and limbs.
+These caused instantaneous death.
+
+Samples were collected from body of Capt. Ghumman and
+histopathological examination was done at IAM, IAF Bangalore. These
+did sot reveal any pre-existing disease. No inflammatory
+exudation/reaction in the tissues was observed. However, all specimen
+showed partial autolysis,
+
+Anatysis of medical records of Capt. Ghumman does not reveal any
+
+sign'ficant medical History. However, there was suspicion of Coronary
+Artery disease.
+
+As per Post-mortem report Capt. Silvam suffered multiple, traumatic and
+crusii injuries with extensive head injury with damage to the brain, spinal
+cord, intemal and external organs of chest and abdomen and multiple
+compound fractures of the skull, vertebral column and limbs, which
+resulted in his instantaneous death. ;
+
+she-ved partial autolysis,
+
+Anélysis of medical records of Capt. Silvam does not reveal any
+sigrificant medical condition.
+
+Injucies suffered by both the pilots are indicative of vety high impact
+forces to which they were subjected.
+
+26
+
+oo
+
+
+1.14
+
+yer
+
+FIRE
+
+There was no in-fli
+minor localised fir
+reveal any signs o:
+spread out on the
+
+ight fire. There was no post-impact fire also other than
+eonR.H engine. The wreckage or bodies did not
+
+f fire or soot. Due impact wings disintegrated and fuel
+wet ground so it did not trigger or support fire.
+
+SURVIVAL ASPECTS
+
+Accident resulted in very high impact forces, which ruled out any
+possibility of survival of Occupants. Any of additional measures like
+
+helmet etc. would have made no difference to the fatal outcome of the
+accident.
+
+Accident was not survivable.
+
+27
+
+ZN a
+ye
+
+
+YW
+
+AIRCRAFT SERVICEABILITY
+
+The detailed examination of the wreckage was carried out at the site and at Delhi.
+All aircraft parts, especially flight control surfaces were accounted for. After
+
+evaluation of evidence and detailed examination of the wreckage, following
+inferences were drawn:-
+
+- There was no evidence of either lightning or bird-strike damage.
+
+No evidence of any explosive device having detonated was found. Thus
+sabotage is ruled out.
+
+Possibility of accident due to failure/serious problem of power plant, controls
+or instrurents was discounted.
+
+- There was no evidence of structural failure or of disintegration of aircraft in
+- No evidence of vibration or flutter having set-in during the flight was
+
+Records reveal that no major snag was reported by the pilot prior to or during the
+accident flight. It can thus safely be concluded that the aircraft was in airworthy
+condition upto the time of accident.
+
+PRE - FLIGHT PREPATIONS
+
+For any successful flight proper pre-flight checks play major role. There are
+
+certain regul story requirements to be followed before any flight. Observations on
+the same for accident flight are:-
+
+FLIGHT PLAN
+
+2. ANALYSIS
+21
+2.1.1
+the fligh.
+observec.
+2.1.2
+2.2
+2.2.1
+2.2.1.1.
+
+Flighit plan was submitted to Delhi ATC on Fax. Capt. Amarjeet Singh
+was shown as PIC with take off time as 0230 Z. Flight was to be
+con‘lucted under IFR. Number of persons on board were not mentioned,
+
+which were to be notified. Operator never informed ATC about details of
+passengers.
+
+28
+
+>is)
+ane A\
+ge
+
+
+2.2.1.2
+
+2.2.1.3
+
+2.2.1.4
+
+2.2.2.
+
+2.2.2.1.
+
+2.2.2.2
+
+2.2.2.3
+
+2.2.3
+
+2.2.3.1
+
+, ye
+
+Take-off time was revised three times by Fax by PIC. Finally, aircraft
+took off at 0712 Z with Capt. Ghumman in command, Change of PIC was
+not intimated to ATC either in writing or on RT.
+
+Endurance was shown as 5 hours on flight plan, which is not correct.
+With the amount of fuel on board, aircraft would have 03:45 hrs. to
+maximum 04:00 hrs. of endurance.
+
+Giving correct information on flight plan needs no emphasis . ATC require
+precise information on flight plan to properly coordinate flight and to
+locate aircraft if any mishap takes place . Filing wrong PIC or incorrect
+number of passengers is not only misleading but illegal also. Wrong
+endurance on flight plan can lead to dangerous situation.
+
+FLIGHT UNDER IFR
+
+As per the flight plan aircraft was to fly on W 35 air-route to Kullu i.e.
+Delhi - Sarsawa - Chandigarh - Kullu. Aircraft was to fly at F 160 on
+Sarsawa - Kullu Sector. Kullu is an VFR airfield, thus there is no
+approved let-down for the same. Operator could not explain what
+procedure was to be adopted for descending from F 160 overhead Kullu
+for landing on runway which is at an elevation of 3556’.
+
+Operator has no SOP in this regard and nor has worked out aircraft
+capability for overhead descent to Kullu. Leaving everything to the
+discretion of Pilot who does not appear to be familiar with the procedure .
+It would have created dangerous and hazardous situation had aircraft
+reached overhead Kullu at F 160.
+
+It is on record that pilots were not aware of frequency of Chandigarh
+VOR, which is the main navigational aid on this route, this clearly points
+to the fact that neither ATC briefing was taken properly nor route charts
+were on board aircraft.
+
+LICENCES OF PILOTS
+
+Capt Ghumman's IR check was to be carried out before 16.12.99. No
+recoitls are available either with DGCA or the Operator , that this check
+was done. Only record submitted was entries of journey log book of
+20.01.2000. It is to be accepted with reservations only that he had valid
+Instrument Rating at the time of accident. But he flew IFR flights with
+
+expired IR for more than a month. .
+
+29
+
+
+2.2.3.2
+
+2.2.3.3
+
+2.2.4
+
+2.2.4.1
+
+2.2.4.2
+
+2.2.43
+
+2.2.4.4
+
+2.2.5
+
+2.2.5.1
+
+IR check of Capt. Selvam was to be carried out before 02.07.2000, which
+was not done. At the time of undertaking the accident flight he did not
+have valid Instrument Rating.
+
+It is surprising that pilots still insisted on flying IFR with expired IR in
+utter violations to the regulations, but it is also true that this has not in any
+way contributed to this accident.
+
+ROUTE FAMILIARISATION
+
+,
+
+Section 2, series ‘O', Part-I, Issue IV of CAR lays down minimum
+requirements to be complied by Operator engaged in scheduled, non-
+scheduled, aerial work, flying training and private flight Operations. Para
+6.4 of said section states " The first pilot shall have made two flights either
+as first pilot without passengers or as second pilot along the route over
+which he is required to fly in conditions permitting visual contact flying
+and shall himself have landed and taken off at each of the scheduled
+aerodromes on the route ".
+
+DGCA vide Operations' Circular 8 of 1995 has stipulated that pilots before
+being permitted to operate as P.I.C. to airports in hilly terrain should be
+given additional training. Pilots are to be specifically checked and cleared
+on the type of aircraft for each airfield for such operation. In addition
+pilots have to maintain recency of flying in hilly areas and should operate
+atleast once during the preceding twelve months to such airports.
+
+Records reveal that Capt. Ghumman had not undergone any special
+training nor was checked and cleared for operations to Kullu Airport.
+Thus regulatory requirements were violated in this regards.
+
+Capt. Ghumman flew three times to Kullu in last two years. Though he
+was very experienced pilot and had flown a variety of aircraft but
+appsrently was not familier with Delhi - Chandigarh - Kullu route. Pilots
+who regularly fly to Kullu follow recommended Chandigarh - Sunder
+
+Nagar - Pondo - Largi - Kullu route. Pilots are checked on this route only. |
+
+Whereas Capt. Ghumman decided to fly on W 35 route.
+
+PRE-FLIGHT BRIEFING
+
+As per the proviso of AIC Co-pilot or approved Flight Despatcher can take
+ATC and Weather Briefing for scheduled and non-scheduled operations;
+however, it is the responsibility of PIC to get properly briefed before
+undertaking flight. For private operations PIC himself is required to take
+Me And ATC briefing. For hilly region during the period‘when weather
+is usually bad, besides requirements , safety of operations demand that
+
+30
+
+*ae\
+a“
+
+wk
+
+Ne
+
+
+2.2.5.2
+
+2.2.5.3
+
+2.2.6
+
+2.2.6.1
+
+2.2.6.2
+
+2.2.6.3
+
+2.2.6.4
+
+2.2.6.5
+
+pilot himself get first hand information about enroute weather and
+avai'able facilities.
+
+It is established fact that neither pilot nor co-pilot took Met. Briefing.
+Records further reveal that it was office boy who reported for Met.
+briefing (and signed briefing register) that too four hours before departure
+of flight. Besides being illegal it is dangerous too. It reveals casual and
+careless attitude and utter disregard to the regulations.
+
+On Kullu route where weather conditions change so fast., taking Met.
+Briefing four hours in advance has no meaning. By the time aircraft took
+off from Delhi, validity of Met. Forecast had expired. At that time Kullu
+Weather had also become unsuitable for landing.
+
+WEIGHT & TRIM SHEET
+
+Weight and trim sheet was not prepared. Though as per operations
+Manual of the Operator same is to be prepared for each flight , weight and
+trim sheet has not been submitted to DAW for approval.
+
+As per the requirements if aircraft is in private category weight and trim
+sheet is not required to be prepared; however, it is the responsibility of the
+pilot to ensure that aircraft is properly loaded and its CG is within limits.
+
+In the present case there is no record of fuel carried on board. However,
+as per the statement of AME , 1659 liters of fuel was on board. If same is
+accepted, take-off weight of aircraft was slightly less than maximum
+permitted, but endurance given in flight plan was incorrect. There was no
+efforts on the part of pilots to ensure that take-off and CG was within
+limits.
+
+It is regulatory requirement that passenger manifest be prepared and
+notified to ATC. Operator did not follow the same. Afier accident bodies
+of three passengers were recovered but as per the records of Airport
+Authority of India four persons were issued passes to board this flight. It
+was also observed that passenger who actually traveled on aircraft were
+different and not person on whose name passes were issued. This could
+have: serious legal implications.
+
+Mott of the private/non-scheduled operators do not prepare or submit
+passenger manifest to ATC. While submitting flight plan invariably
+number of person on board is shown as "to be notified", which is never
+followed. This ambiguity needs to be removed.
+
+\
+/ .
+
+31
+
+— ad\
+ae
+
+”
+
+
+No
+
+2.2.7
+
+2.3
+
+2.3.1
+
+2.3.5
+
+2.3.6
+
+ho
+
+Itis »mply evident that Operator has not established any system to ensure
+
+proper flight planning . Operation was conducted in most haphazard way
+with very casual attitude.
+
+ENROUTE WEATHER
+
+As per the proviso of AIP Weather conditions required for flight under
+VFR are:-
+
+- Visibility : 5000 mtrs.
+- Distance from clouds : 1500 mtrs. horizontally
+: 1000ft. vertically
+
+Analysis of weather data clearly brings out that enroute weather was not
+suitavle for flights under VFR.
+
+The satellite imagery indicated broken low and medium clouds. As per
+the }METAR issued from Kullu, the sky was overcast at 8000 ft.
+State-nent of pilot who diverted back to Chandigarh almost at same time
+has corroborated these observations.
+
+Eye- vitnesses at the site of accident have reporfted that it was
+clou'y/raining and visibility was poor.
+
+it is itus evident that route between Sunder Nagar and Kullu was cloudy
+with cop of cloud being at 8000 ft - 10,000 ft. Clouds had enveloped and
+obscured hills.
+
+At ihe expected time of landing at Kullu, aircraft would have encountered
+more than 10 kts. of tail wind. As per the SOP maximum tail wind
+
+com onent for landing at Kullu is 10kts. Even 10 kts. tail wind would
+impose heavy weight penalty.
+
+Thus weather condition at Kullu airfield were not suitable for landing,
+
+
+AY
+
+2.4
+
+24.1
+
+24.4.1
+
+241.2
+
+2.4.1.3
+
+2.4.1.4
+
+2.4.2
+
+2.4.2.4
+
+FLIC AT PATH
+
+MISSING INPUT DATA
+
+Mosi of input data required to work out exact flight path was not available
+or was not accessible.
+
+CVR/FDR
+
+This was one accident in which CVR and FDR would have been
+invaluable tool in cause determination. Since there was none,
+investigation was greatly handicapped.
+
+The uccident has again brought out the urgent need to have FDR/CVR
+insta. led on all aircraft engaged in passenger flying. This would not only
+be helpful in investigation but would supplement prevention work.
+
+RADAR CONTROL
+
+In absence of CVR/FDR Radar data would have been of great help to
+work sut speed etc. by taking different time frames and position data from
+them.
+
+Tho zh aircraft was being monitored by Radar at ‘A’ Control almost upto
+the time of accident . Radar data/video recording could not be obtained
+frora Airforce.
+
+GPS DATA
+
+Data obtained from GPS could have been very useful in determining the
+last rortion of flight path and working out speed etc. However in spite of
+best wiforts GPS could not be retrieved from the wreckage.
+
+In vi-w of the same exact sequence of events/exact flight path perhaps can
+neve. be known. However, with available inputs/data it is still possible to
+reconstruct most probable sequence of the events.
+
+PROS3ABLE SEQUENCE OF EVENTS
+
+STANT UP
+
+At C557 Z aircraft asked for start up from Delhi Ground. Capt. Ghumman
+was -iformed of message from Kullu ATC about VUM diverting to
+
+Chandigarh due weather. Pitot did not start up. It is on record that pilot
+talkd to somebody on his mobile telephone and again asked for start up at
+
+33
+
+
+2.4.2.2
+
+2.4.2.3
+
+2.4.2.4
+
+2.4.2.5
+
+2.4.2.6
+
+24.2.7
+
+0704 stating there was an emergency evacuation and he would make an
+attempt.
+
+Person with whom pilot talked could not be traced and whether he exerted
+any pressure would never be known. But how could pilot with the
+experience of Captain Ghumman allowed himself to be pressurised. But
+chain of accident had started with pilots’ mental block set on " Mission
+mus! be completed.”
+
+Aircraft took off at 0712 Z and was changed over to SP (Sarsawa) at 0728
+when 36 miles from it at F 170 aircraft took deviation to Jeft and reported
+overhead SP at 0738 and set course directly to Kullu from ONOGI. Thus,
+pilot deviated from published ATS route to a track which probably he was
+not vsed to.
+
+DESCENT CLEARANCE
+
+Aircraft asked for descent from Chandigarh ATC firstly to F 105 and then
+to 90. At 0741 Z aircraft reported abeam Chandigarh 22 miles east at F
+105. Links of accident chain were completed when pilot descended below
+‘Minimum Sector Altitude’ in IMC and Chandigath ATC approved the
+same. Both violated established procedures and safety regulations.
+
+Onl; contact with Kullu was on HF at 0755 Z when aircraft was 42 miles
+and #90. ETA Kullu was given as 0808 Z . Correlating with available
+weather data, it is evident that aircraft must be flying in clouds from this
+pois. Aircraft further descended probably to avoid clouds and entered
+wroug valley. Eye-witnesses have reported aircraft flying very low, 6500"
+- 7500! near Jhuggi village in rain.
+
+Wit hills obscured with clouds, it is not possible to establish whether
+pilo: himself saw hills or got GPWS waming. Whatever may be the
+reason, he initiated steep climb to gain height for clearing hill top. Given
+the steepness of hill side and distance available it was not within
+performance capability of aircraft to clear hill top.
+
+At approx. 0802Z aircraft crashed into hill in climbing attitude.
+
+Aircraft was instalied with ELT. After accident it never got activated.
+ELT could not be retrieved from wreckage. In earlier accidents under
+similar conditions, same observation was made. On impact ELT itself
+gets damaged and does not transmit. Very purpose and utility of the same
+is d:feated. ELT mounting and location of installation needs to be
+revizwed.
+
+
+)
+wm
+tad
+
+2.6
+
+2.6.1
+
+PURPOSE OF FLIGHT
+
+Accident flight was shown as ambulance flight in the flight plan. it was
+meant to airlift a Belgium tourist from Kullu. Operator has stated that no
+money was taken by them for said flight.
+
+DGCA has issued non-scheduled permit No. 3/1992 to Mis. Aerial
+Services Pvt. Ltd., Bombay. Aircraft VT-EIE is not endorsed on this
+permit. There is utter confusion and contradiction in the documents about
+status of this aircraft. This aircraft is shown as operating under non-
+schi-duled permit in the Quality Control Manual approved by DAW ,
+serv.cing schedules also have accordingly been approved. It is not
+understood how this manual could be approved. Similarly, C of A of
+aircraft is issued and renewed under ' Passenger Category’. Unless aircraft
+4s endorsed on non-scheduled permit this C of A should have been in
+private category. Despite contradiction in documents, as aircraft is not
+endorsed on non-scheduled permit, it cannot operate under the proviso of
+the same.
+
+Aircraft operating under private category are not supposed to carry
+passengers for hire and reward. M/s. Thomas Cook engaged Dr. Shaw for
+this evacuation and rescue mission on behalf of Euro Insurance. Dr.Shaw
+wat paid consolidated amount for air-lifting, providing medical aid etc.
+This, it is hard to believe that when Dr. Shaw got hefty sum for this
+operation, M/s. Aerial Services have provided aircraft on humanitarian
+grounds.
+
+This aircraft was positioned at Delhi whereas Aerial Services have their
+headquarter at Bombay. Operator could not clarify for what corporate
+purpose these flights were being undertaken. Thus, beyond any
+
+tea: mnable doubts it can be concluded that aircraft was being flown for
+hire and reward in violation of the regulations.
+
+REJULATORY CONTROL
+
+Investigation has brought out very painful aspect of operator cutting
+corners everywhere and in the process violating rules and regulations, be it
+proviso of Operations Manual or statutory instructions. It may be due to
+inaitequate supervision/operations control or lack of safety culture or due
+ambiguity of responsibilities . It is also true that this is not the only
+op2rator who is in this situation, most of the private/non-scheduled
+operators are in same boat.
+
+35
+
+
+_ 2.6.2
+
+_ 2.6.3
+
+2.7
+
+2.7.1
+
+2.7.2.1
+
+2.7.3
+
+2.74
+
+we
+
+It is not understood why situation should come to this pass that such
+violztions are detected only after the accident. Before issuing/renewing,
+permit these glaring discrepancies could have easily been detected. This
+probably leads to inadequate supervisory control of regulatory authorities
+also.
+
+Whereas regulatory authority has issued comprehensive CARs/AIC and
+other statutory orders but agency responsible to monitor/implement these
+orders is neither identified nor defined. It is left to the better judgement of
+the operator to follow the same, which in quite a few cases is lacking. It
+is feit that every order/CAR must define person/office/directorate
+responsible for implementing/monitoring these orders and ways and
+mez:is to do so. Action to be taken for violations be also defined.
+
+FACILITIES AT KULLU AIRPORT AND EN-ROUTE
+
+Thorgh communication and navigational facilities did not contribute to
+the <:cident but proper navigational , communication and Meteorological
+facilities would probably have averted this accident.
+
+Range of VHF R/T at Kullu is very poor. Effective range is hardly 10 nm.
+There is virtually no communication zone between Sunder Nagar and
+
+Pondo when and aircraft is often not in contact with any ATC unit.
+
+Due “0 this inadequate communication facility aircraft taking off from
+Kullu will remain on Kullu QNH whereas reciprocal aircraft into Kullu,
+would remain on Chandigarh QNH. Therefore, adequate vertical
+separation cannot be ensured. Secondly, aircraft flying on Chandigarh
+QNIi and not on Kullu QNH, which can vary considerably, will have
+incorrect altimeter reading in hilly terrain. This is a flight safety hazard.
+
+Sar-e is the situation with only navigational aid at Kullu. Range of NDB
+is avout 10 nm which is of no use because by that time aircraft comes in
+visuat contact with airport.
+
+Trarsmitter/Receiver for NDB and VHF communication are installed at
+airp»rt which is surrounded by hills. This restricts the range. This point
+was deliberated by earlier Court of Inquiries also and it was recommended
+tha: VOR should be installed alongwith VHF Tx/Rx on hill top near
+airport. Action in this regard is yet to be taken. Once this *
+
+36
+
+
+we
+
+reco. imendation is implemented VHF range will increase considerably
+and navigation to Kullu will become accurate.
+
+2.7.5 There is no direct land line communication between Kullu ATC with
+Delhi FIC, Chandigarh ATC and Alpha Control.
+
+2.7.6 Char-digarh - Kullu route falls under the category of airspace where only
+flight information service is to be provided. However, Delhi FIS and
+aircraft have no two-way communication, thus no fli ight information
+service is being provided though required. Chandigarh ATC is handling
+these flights without coordinating with FIS. This situation can only be
+temedied if Extend Range VHF is installed on this route to have direct
+two-way communication with FIS Delhi.
+
+2.7.7 The METARs at Kullu are being issued at hourly intervals. Ag weather in
+
+this area changes fast, the weather information to the operator is not
+adeqately updated.
+
+It is common complaint that weather forecast given is normally much
+
+diffe -ent than actual weather en-route. All accidents on this route have
+been in bad weather conditions, which points to inadequacy of weather
+info1 mation provided on this route. There is an urgent need to upgrade
+
+Sunder Nagar observatory to aviation standards so as to provide latest
+weather to pilots on this route.
+
+2.7.9 Unless these safety measures are taken to provide communication,
+navigxtional and Meteorological facilities on this route, the operations on
+
+this route should be suspended from 1* April to 15" October being unsafe
+in ac verse weather conditions.
+
+2.8 DE* HI - CHANDIGARH - KULLU ROUTE
+
+2.8.1 Designated route from Delhi to Kullu is W 35 via Sarsawa - Chandigarh.
+Airc.aft is to fly to Sarsawa on track 011 which is 88 nm from Delhi.
+From Sarsawa aircraft follows track 333 for Narayangarh (ONOGI) which
+is 27 nm, then to Chandigarh on track 307 for 26 nm. Aircraft flies direct
+to Kullu from Chandigarh on track 013 for 75 nm. Width of air-route is
+20 n:1. Minimum sector altitude between Delhi - Sarsawa is 2400 ft,
+Sars.1wa ~ Narayangarh is 3700 ft., Narayangarh - Charidigarh is 3100 ft
+and Sor Chandigarh - Kullu sector is 12600 ft. Upper and lower limits for
+IFR fights on Dethi - Chandigarh sector is F 460 and F 75 but for
+Chardigarh - Kullu sector is F 460 and F 150.
+
+37
+
+
+2.8.2
+
+2.8.3
+
+2.9
+
+2.9.1
+
+2.9.1.4
+
+2.9.2
+
+No
+
+The only designated route to Kullu is seldom used by any civil flights
+beca:ise most of the aircraft operating on the route are unpressurised,
+which cannot climb to required minimum flight level of F 150. Secondly
+Kullu is designated only as VFR airfield. No procedure has been
+
+estal ‘lished, worked out or published for the aircraft to descend from
+overhead at F 150 to 3556 ft. for landing in a narrow valley of limited
+width. This is besides being time consuming is an hazardous maneouvere
+and may exceed performance capability of aircraft.
+
+After the earlier accidents, another route for unpressurised aircraft under
+VMC was worked out by the Operators and SOP was issued. As per the
+same aircraft follow W 35 upto Chandigarh thereafter fly on track of 006
+abea:n Bilaspur for 39 nm, then to Sunder Nagar 15 nm. Sunder Nagar -
+Pondo sector is flown on track 043 for 12 nm. From Pondo to abeam
+Largi track is 065 and distance of 6 nm. Aircraft then turns on track 340
+covering 10 nm for landing at Kullu. Aircraft is at height of 9000 fi. upto
+Sunder Nagar, 8000 ft. at Pondo and 6500 ft. at Largi. Entire route is to be
+flown in VMC with positive identification of Sunder Nagar - Pondo and
+Largi.
+
+Though most of aircraft fly this route but the same has never been
+published or incorporated as air route. Thus private and new operators as
+well as ATC is not aware of this route. Though this route is considered
+safe for VFR flights but is only known to the people by word of mouth
+and .,ithout any authenticated documents from ATC or regulatory
+authorities. In absence of the same casual operators devise their own route
+which may not be safe.
+
+ATC CONTROL
+
+Control Zone of Chandigarh ATC is upto 20 nm on north side. Thus,
+lege ly they can exercise air traffic control only upto this.
+
+Local flying area of Chandigarh extends almost upto Pondo. Controlling
+autuority for this area is Chandigarh ATC. However, jurisdiction of
+controlling authority of local flying area do not extend / apply on
+desi,snated air route.
+
+Airfzrce 'Alpha' control was established to monitor defence aircraft and to
+intercept enemy aircraft. As far as civil aircraft ate concerned ' Alpha’
+contzol is to only monitor these aircraft so that these do not deviate from
+desi, :nated route. As per established regulations Alpha control has no air
+traflc jurisdiction nor is to provide any air traffic services to civil aircraft.
+
+38
+
+7 AM
+4)
+
+
+2.9.3
+
+2.9.3.1
+
+2.9.4.1
+
+2.9.6.1
+
+Ne
+
+As per regulations, flight information service is to be provided to all
+aircraft on ATS route, outside controlled air space . The distance between
+Chandigarh and Kullu is 75 nm leaving aside 20 nm of Chandigarh control
+zone and 5 nm of Kullu controlled air space, flight information service is
+to be provided on remaining 50 nm of the route.
+
+Fligat Information Centre is located at Delhi. There is no two-way
+communication between aircraft and FIC on this route. Thus no Flight
+Information Services are being provided in this area,
+
+However in practice , Chandigarh ATC and Alfa control both are
+exercising Air Traffic Control on W 35. Descent etc. is being given by
+Chandigarh ATC without coordinating with Delhi FIC. It is not known
+how this practice of unauthorised jurisdiction started and how come Delhi
+ATC did not intervene or objected. Both ATC authorities were evasive on
+the issue. However, a wrong and unauthorised procedure followed for a
+long period does not legalise it .
+
+If at all Chandigarh ATC was exercising jurisdiction outside its control
+zone, they should have coordinated with FIC Delhi. Both the ATC
+authorities admit that no coordination procedure has been worked out or
+established. The same was adversely commented upon by earlier Court of
+Inquiries also but situation remains the same.
+
+In the present accident also Chandigarh ATC exercised Air Traffic Control
+outside its controlled zone. It cleared aircratt to descend to 9500 ft. which
+is much below published minimum sector altitude. The argument that
+pilot asked for descent and they agreed , is not acceptable. No ATCO is
+permitted to allow any IFR flight to descend below the minimum sector
+altit-de. Minimum published Flight level on this sector of W 35 is 150.
+Chandigarh ATC thus exercised illegal jurisdiction and gave incorrect
+descent to aircraft below minimum sector altitude which became a
+contributory cause to this accident.
+
+The gray areas of ATC jurisdiction and control between Civil and Airforce,
+ATC needs to be sorted out immediately. Coordination procedure be
+estal:lished, handing-over and taking-over points be worked out. A
+mortoring procedure be established to over see its implementation.
+
+Alicrnatively a sub-area control be established which should have
+Jurisdiction on northern region .
+
+39
+
+2.10
+
+2.10.1
+
+2.10.2
+
+2.10.3
+
+2.10.3.3
+
+2.10.3.2
+
+2.10.4
+
+2.10.5
+
+2.10.6
+
+‘COORDINATION WITH AIRF ‘ORCE
+
+Airforce and Civil Airports provide landing , navigational and ATC
+faciiities to each other. In unfortunate event of an accident, the
+Investigators require certain information/clarification from organisations
+on which he has no direct control or jurisdiction. Procedure to be
+followed in such events has not been documented, which causes delay and
+unnecessary obstruction to the investigation.
+
+In the present case aircraft was in RT contact with Chandigarh and Alfa
+control upto the time of accident. Search and Rescue was also undertaken
+by Airforce. Therefore, in the course of investigation it became necessary
+to ootain this vital evidence. In the absence of any existing procedure or
+con‘act officer, extreme difficulty was faced.
+
+Vat'ous Airforce Stations do not act on direct request from Civil Aviation
+Authorities, these have to be routed through Air Headquarters, Airforce
+was requested to arrange for tape replay of ATC tapes of Chandigarh, Alfa
+
+Control and Sarsawa., Necessary information/statement from ATCO's was
+also requested.
+
+After one month it was informed that Chandigarh tape has been erased;
+thus, most vital evidence was lost. Though tapes of Alfa Control and
+Sarsawa were handed over but Chandigarh did not agree for replay of
+these. Airforce uses tapes of 20 channels and considerable difficulty was
+experienced to find suitable replay unit.
+
+Chandigarh SATCO did not agree to replay certain queries regarding vital
+action taken by them - like giving descent to the aircraft. They were not
+prepared to put any thing in writing.
+
+Vice: Chief of Air Staff, when informed, agreed to take necessary action in
+the inatter. Transcript of Chandigarh ATC tape was provided. In absence
+of t::pe this can be taken as evidence with reservations only.
+
+Probably same difficulty is being faced by Airforce Court of Inquiries
+
+also. It is, therefore, imperative that procedure for exchange of documents
+and evidence in such cases be worked out, documented and circulated to
+all concerned. Nodal Officers to coordinate from both sides be
+desinated. .
+
+The tack of coordination between Civil Aviation and Airforce was
+adversely commented upon by earlier Court of Inquiry. Though it was
+recommended by the Court to form a committee to coordinate, same is
+not yet implemented.
+
+
+211
+
+2.111
+
+2.11.2
+
+2.11.3
+
+2.11.4
+
+Wwe
+
+ROLE OF POLICE
+
+It is the responsibility of Civil Aviation Department to investigate all civil
+air accidents and to take necessary preventive action. Rules 68 to 76 of
+Indian Aircraft Rules 1937 lays down the procedure to be adopted for such
+accicent investigation and defines powers of Inspector of Accidents >
+Committee of Inquiry and Court of Inquiry.
+
+As Police authorities were not aware of role they had to play in such
+accidents, air safety circular No. 3 of 1984 was issued and was circulated
+
+to Police authorities in all states through Home Ministry. Salient points of
+the same are:-
+
+- Inspector of Accidents/investigator-in-Charge shall be the final
+‘ authority in all matters;
+
+- Fe will have unrestricted control over the aircraft wreckage and
+accident site;
+
+- Police will carry out their functions in coordination with and without
+interfering with smooth functioning of Inspector of Accidents;
+
+- Police will initiate action to temove dead bodies, to arrange for
+medical aid and to arrange fire fighting;
+
+- Only Inspector of Accidents is authorised to issue instructions to
+release bodies of crew;
+
+- Jor offences under Indian Aircraft Rules, the prosecutions are
+normally launched with the approval of Government of India.
+
+It is our experience that most of Police officers neither have any
+knowledge of such circular nor are aware of actions expected out of them.
+Thus due to their actions , instead of being of assistance to investigation
+they become hindrance.
+
+In th: present accident though Police reached accident site and removed
+dead bodies but some of their actions caused considerable delay to
+investigation and resulted in loss of vital evidence. Few of these are:-
+
+- Police registered an FIR under Sections 304A and 336 of IPC, which
+deals with causing death by negligence and act endangering life or
+cersonal safety of others;
+
+\
+
+41
+
+
+2ALS
+
+2.11.6
+
+2.12
+
+2121
+
+- Police authorities insisted on having their own investigation and
+dealing with the case.
+
+- Bodies of crew were released and handed over without taking
+permission from Inspector of Accidents.
+
+- Police tried to stop Inspector of Accidents from taking over certain
+evidences like, Instruments, Propellers etc.
+
+- Police demanded charges for guarding wreckage.
+
+- Police guard was removed without any instructions from Inspector of
+Accidents.
+
+Before investigation team reached site of accident certain important
+documents ;like - Journey Log Book, Pilots' Licences and Log Books,
+Flight Plan, Fuel records etc. were removed and taken over by police. The
+Superintendent of Police, Mandi was apprised of existing rules and was
+requested a number of times to hand-over these documents, which were of
+vital evidence. Instead these were handed-over to brother-in-law of Capt.
+Ghumman on the pretext that these were his personal property. Thus, a
+vital evidence was lost. Bringing the matter to the notice of DGP was of
+no avail.
+
+Action of SP Mandi amounts to obstructions of proceedings as defined in
+Rule 76. Thus proviso of this rule as read with Annexure-VI be applied
+against SP, Mandi for obstructing the investigation.
+
+MA!NTENANCE PRACTICES
+
+Aircraft VT-EIE owned by M/s. Aerial Services Pvt. Ltd. was being
+maiatained by M/s. Indamer Company Pvt. Ltd., Bombay. Quality
+Cortrol was being exercised from Bombay where all the major checks
+
+were being carried out. Some of the significant observations from the
+docaments are:-
+
+Cerificate of Airworthiness of aircraft was wrongly obtained in
+"Passenger Category" instead of “Private Category". QCM took no action
+
+to rectify discrepancy and to get Quality Control Manual and C of A
+amended.
+
+o Saal
+
+2.12.2
+
+2.12.3
+
+2.12.4
+
+2.12.5
+
+2.13
+
+2.13.1
+
+2.13.2
+
+2.13.3
+
+2.13.4
+
+Ww
+
+Seruiny of records reveal that in last four months, prior to accident, only
+one snag was reported, which is not realistic. It appears defects/snags
+were not being reported/recorded, contrary to instructions on the subject.
+
+Tota! fuel on board aircraft during accident flight could not be verified
+from any document as same was not recorded. Fuel and Oil register as
+being maintained does not give total fuel on any flight. It needs to be
+amended.
+
+Average fuel consumption of this aircraft suddenly jumped to 240
+
+ltrs /nr/engine. Such abnormally high fuel consumption should have
+alerted QCM to investigate the same. It appears fuel/oil records were
+never scrutinised and were being maintained only to satisfy requirements
+of C.AR..
+
+M/s. tndamer Company is maintaining a number of aircraft in Delhi. They
+don't have any hangar space. Thus maintenance work is being carried out
+in op2n which is not considered in order.
+
+INVESTIGATION PROCESS
+
+Itis an admitted fact and there is no ambiguity in the rules that at the crash
+site Inspector of Accidents is the final authority in all matters , same was
+reiterated by Air Safety Circular . As he is responsible for rendering final
+investigation; therefore, it is imperative that investigation is carried out by
+him or under his supervision or with his coordination.
+
+For cuite sometimes it has become the practice that after accident Officers
+frore various organisations like, BCAS / AAT/ Police and Operator and
+also from different directorates of DGCA rush to accident site and start
+their own investigation. Inspector of Accidents has no control over the
+team which he is supposed to lead. He remains unaware of evidence
+collected, though he is still expected to render final investigation report.
+
+Obvivusly, this is not conducive to proper investigation. Inspector of
+Accidents has to be undisputed leader and coordinator of the investigation
+tea, Firstly, team members should be of his choice, secondly they
+
+shou id work under his control and guidance. Team members must render
+thei report on workdone/evidence collected by them to Inspector of
+Acc:dents. All documents/evidence collected must be placed under the
+control of Inspector of Accidents.
+
+In ths present accident team of Officers from DGCA worked in
+coordination of Inspector of Accidents. However, BCAS sent their
+
+43
+
+
+2.13.5
+
+2.13.6
+
+representative for Investigation without consent/coordination with
+Inspector of Accidents or DGCA, reasons of which are not understood. If
+it was to find out suspected sabotage then firstly person concerned was not
+qualified for the purpose , secondly he has not touched this aspect in his
+report , thirdly Inspector of Accidents are trained to identify if accident
+was caused due explosive detonation or due sabotage. In such cases
+assistance from experts group is always taken.
+
+In the present case certain evidence were collected, some of these very
+important one by various officers of DGCA. These were not passed on to
+Inspector of Accidents in time, thus vital information was withheld.
+
+There is an urgent need to issue the statutory orders on composition of
+investigation team, collection/control of evidence and conduct of
+investigation to be under the supervision , control and guidance of
+Inspector of Accidents.
+
+
+FINDINGS
+
+el
+
+Documents of aircraft were generally in order and aircraft was maintained in
+approved manner.
+
+Capt. Ghumman had neither undergone special training nor was cleared for
+operations to Kullu. Instrument Rating of co-pilot had expired.
+
+Enroute weather was not suitable for flight conducted under VFR. Cloud top being
+3000 - 10.900! and obscuring hills.
+
+Aircraft descended below minimum sector altitude in IMC and ATC Chandigarh
+permitted the same.
+
+Aircraft crashe i into hill in climbing attitude.
+Accident was s.ot survivable.
+
+There was no ¢vidence of bird hit, explosion or lightning strike. Power plant,
+Instrument or controls problem leading to crash were discounted.
+
+Quality Controi by Operator was lax -
+
+Operation was sonducted in haphazard way with casual attitude and no flight
+planning. The: 2 were number of discrepancies in ATC flight plan, number of
+passengers, aif sraft endurance and pre-flight briefing.
+
+Aircraft was being used for hire and reward in violation of the regulations.
+There is lack of operations control and inadequate supervision.
+
+Navigational fe cilities enroute and at Kullu airport are not adequate.
+
+Flight informaiton Service is not being provided on the route as required. There is
+confusion an¢ ambiguity about Air Traffic Control on this route.
+
+Coordination tctween Civil and Airforce is non-existent.
+
+Itis not practic.sble to follow W 35 route and land at Kullu. Other route being
+followed has 1i.t been published. -
+
+Police authorit. es are not aware of their role in air accidents. Instead of assisting they
+interfere with Cnctioning of Inspector of Accidents.
+
+45
+
+_.
+
+
+4. CAUSE OF ACCIDENT
+
+Accident was caused as pilot descended below minimum sector altitude in
+IMC in hilly area.
+
+ATC Chandigarh contributed to the accident by permitting IFR
+flight to descend below minimum sector altitude.
+
+Inadequate Supervision, lack of safety culture, poor pre-flight
+planning were the contributory causes to the accident.
+
+5. RECOMMENDATIONS
+5.1 GENERAL
+Action to be tal:en by concerned authorities on observations and points raised in
+
+analysis and findings .
+
+- Operator be subjected to special safety audit , and action as deemed fit to be taken
+based on the fir dings .
+
+Every CAR/Orer should mention agency responsible for its implementation and
+action proposed for violations.
+
+Supervisory coritrol on private and non-scheduled operators need to be made effective
+and meaningfui
+
+Coordination procedure, in case of accident, between Civil Aviation and Airforce be
+worked out anc documented. Nodal Officers be designated.
+
+Orders be issued on composition of investigation team and its working under
+supervision, control and guidance of Inspector of Accidents .
+
+5.2 PO!).ICE AUTHORITIES -
+
+A Chapter dealing with role of police in air accidents be got incorporated in police
+manual. .
+
+
+(
+
+- Penal action for obstruction of proceedings be initiated against Shri O.C. Thakur, SP,
+Mandi (HP)
+
+5.3 AIR TRAFFIC CONTROL
+
+- Area of jurisdiction and control between Civil and Airforce ATC should be sorted
+out, coordinaticn procedure between two be published.
+
+- Sub Area Control be established with jurisdiction on Northern Region .
+
+- VFR route Chandigarh - Pondo - Largi - Kullu be published in AIP.
+
+Airforce Authorities be informed of wrong and unsafe descent clearance given by
+Fit.Lt. ASahay , DATCO at Chandigarh, for taking necessary action .
+
+5.4 FACILITIES ENROUTE AND AT KULLU
+
+~ VOR be installed alongwith VHF Tx/Rx on hill top near Kullu.
+- Direct line be provided between Kullu and Delhi FIC/Chandigarh.
+
+Extended VHF be installed some where near Sunder Nagar to have effective two way
+communication between aircraft and FIC Delhi
+
+- .Meteorologica: department at Kullu should issue METARs at half an hour intervals.
+
+Sunder Nagar cbservatory be upgraded to Aviation standards or new observatory for
+aviation be esta lished in the area.
+
+- ATC/Communisation department at Kullu should have rational watch hours from
+early morning t:{l Sunset.
+
+5.5 Till safety ineasure of 5.4 are implemented Operations on this route should be
+
+suspended between 1* April to 15" October every year.
+
+47
+
+
+6.1
+
+6.2
+
+6.3
+
+Dated: 08.01.2001
+
+COMPLIANCE WITH REGULATIONS
+
+During conduct of investigation proviso of Rule 71 of Indian Aircraft Rules 1937
+were complied with.
+
+It was not considered appropriate to send notice to legal heir of pilot.
+
+Notice was issued to Shri Richard G. Kozarek , Director of M/s. Aerial Services
+Pvt. Ltd. Personal hearing was given on his request. Clarifications given by him
+were duly considered and acted upon before finalising report.
+
+Notice was issued to Fit. Lt. A. Sahay, DATCO at Chandigarh, who neither made
+
+written submission nor came for personal hearing which was granted on his
+Tequest.
+
+HINDI VERSION OF REPORT WILL FOLLOW.
+as
+(AK. CHOPRA)
+
+DIRECTOR OF AIR SAFETY
+
+INSPECTOR OF ACCIDENTS
+
+48
+
+
+77°0 o”
+
+30"
+
+Coins 2432)
+
+ay J) ajgraels
+. sale aN
+
+‘Govind ‘Sitgar’!
+
+S aHIuD CA wal
+© Samrata
+
+ONihyn,
+
+Spy
+82 /
+
+OGangoh
+i
+
+i: odast
+
+

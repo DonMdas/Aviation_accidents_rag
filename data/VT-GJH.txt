@@ -1,0 +1,894 @@
+FINAL INVESTIGATION REPORT OF
+ACCIDENT TO GOVERNMENT OF
+JHARKHAND IS-28M2/GR MOTOR GLIDER
+VT-GJH AT DEOGHAR AIRSTRIP,
+JHARKHAND ON 07/08/2013
+(A. X. Joseph) (K Ramachandran)
+Assistant Director-AAIB Air Safety Officer - AAIB
+
+Chairman, Committee of Inquiry VT-GJH Member, Committee of Inquiry VI-GJH
+
+
+Foreword
+
+This document has been prepared based upon the evidences collected during
+the investigation, opinion obtained from the experts and _ laboratory
+examination of various Components. The investigation has been carried out in
+accordance with Annex 13 to the convention on International Civil Aviation
+and under the Rule 11 of Aireraft (Investigation of Accidents and Incidents),
+Rules 2012 of India. The investigation is conducted not to apportion blame or
+to assess individual or collective responsibility. The sole objective is to draw
+lessons from this accident which may help to prevent such future accidents or
+
+incidents.
+
+INDEX
+
+“SLNO. CONTENTS _ PAGE NO.
+| | Synopsis |
+‘1 |FACTUALINFORMATION 3 |
+‘1 , History of flight 3
+1.2 “Injuries to persons 4
+1.3 Damage to aircraft 4 |
+1.4 | Other damage 4
+1.5 | Personnel information - 5
+1.6 | Aircraft Information 7
+1.7 Meteorological information 9
+1.8 ' Aids to navigation - 9
+1.9 Communications 9
+1.10 Aerodrome information 9
+1.11 | Flight recorders 10
+1.12 Wreckage and impact information 10
+1.13 Medical and pathological Information VW |
+1.14 | Fire 12 |
+1.15 Survival aspects 12 |
+1.16 Tests and research 12
+1.17 Organizational and management information 15
+1.18 Additional information 16 |
+1.19 Useful or effective investigation techniques 17 |
+2 ANALYSIS 7 |
+2.1 Serviceability of Aircraft 17 |
+22 Pilot Handling of the Aircraft 19 |
+; 2.3 Weather 20 |
+2.4 Circumstances leading to the accident 20 |
+3 ' CONCLUSIONS 71
+3.1. Findings 21
+3.2 Probable Cause of the accident 22
+4 SAFETY RECOMMENDATIONS 22
+
+
+Pr
+
+N
+
+10.
+
+11.
+
+12.
+
+13.
+
+FINAL INVESTIGATION REPORT OF ACCIDENT TO
+
+GOVERNMENT OF JHARKHAND IS-28M2/GR MOTOR
+GLIDER VT-GJH AT DEQGHAR AIRSTRIP,
+
+JHARKHAND ON 07/08/2013
+
+Aircraft Type
+Nationality
+Registration
+
+Owner/ Operator
+
+Pilot — in -Command
+Extent of injuries
+
+Co-pilot
+Extent of injuries
+
+Place of accident
+
+Date & Time of accident
+
+Last point of departure
+Point of intended landing
+
+Geographicat location of accident
+
+Type of operation
+Passengers on Board
+Phase of operation
+
+Type of accident
+
+: MOTOR GLIDER, IS-28M2/GR
+: INDIAN
+
+: VT -GJH
+
+: Govt. of Jharkhand
+
+: Indian Glider Pilot License (GPL) Holder
+: Nil
+
+: Indian Glider Pilot License (GPL) Holder
+: Serious
+
+: Deoghar Airstrip, Jharkhand
+
+: 07"August 2013
+
+0610 UTC (Approx.)
+
+: Deoghar Airstrip
+: Deoghar Airstrip
+
+: 09 Runway End
+
+Lat 24°27 N Long 86° 47'E
+
+: Test Flight
+> NIL
+: Landing
+
+: Crashed during forced landing
+
+(ALL TIMINGS IN THE REPORT ARE IN UTC)
+
+Synopsis:
+
+On 07" August 2013, Govt. of Jharkhand Motor glider, VT-GJH was involved in an
+accident during test flight at Deoghar uncontrolled Airstrip at around 0610UTC.
+
+The motor glider was under the command of the pilot who is a holder of a valid Glider
+Pilot License (GPL) endorsed on type. The co-pilot was a qualified instructor on type and
+was holding a valid GPL license. The accident flight was the first flight of the day. Prior to
+the flight, approved “Daily Inspection” and “Pre-flight Inspection” schedules of the motor
+
+glider was carried out by an AME having transit approval.
+
+The motor glider took off approximately at 0610 hrs UTC from runway 09, At
+approximately 25 feet after take-off, the pilots observed the engine RPM/power was
+dropping. At approximately 50 feet height from ground the propeller stopped rotating.
+The crew decided to turn back and land on the airstrip. However while executing the
+right turn at low height with no power the glider lost height very fast and in the process
+the right wing hit the airfield boundary wall. Thereafter the motor glider crash fanded
+short of runway 09 end. There was no injury to PIC, however the Instructor sustained
+serious injuries and was immediately rushed to the hospital. There was engine fire after
+impact. The fire fighting team arrived at the accident site and extinguished the fire. The
+motor glider sustained substantial damage.
+
+The Ministry of Civil Aviation had constituted a committee of Inquiry under Rule 11 of
+Aircraft (Investigation of Accidents & Incidents) Rules 2012 to investigate the
+accident.The Committee is headed by Sh. A X Joseph, Assistant Director, AAIB with Sh. K
+Ramachandran as member.
+
+ier
+
+1. FACTUAL INFORMATION.
+1.4 History of flight
+
+On 07.08.2013 Govt. of Jharkhand Motor Glider VT-GJH, was engaged in a test flight.
+The flight resulted into an accident while carrying out a force landing at Deoghar airstrip
+at around 0610 Hrs UTC.
+
+The motor glider was under the command of the pilot holder of a valid Glider Pilot
+License (GPL) endorsed on type. The co-pilot was a qualified instructor on type and was
+holding a valid GPL license.
+
+Approved “Daily Inspection” and “Pre-flight Inspection” schedules of the motor glider was
+duly carried out by an AME having transit approval (with no troubleshooting privilege)
+before the flight on 07.08.2013.
+
+On the last flight the instructor had reported orally that the cylinder head temperature
+was high and power loss was experienced. The AME at Deoghar was only a transit
+approval holder and during inspection observed the coolant level low. Since
+troubleshooting was not in his privilege he topped up the coolant and asked the pilot to
+carry out a ground run and assess the performance of the engine. Prior to the accident
+flight the ground run was carried out by the pilot in two intervals for approximately 12
+minutes and was reported to be satisfactory. However, prior to normal flying operation it
+was subjected to a test flight to assess the performance of the motor glider. The motor
+glider took off approximately at 0610 UTC with two pilots duly qualified on type. During
+take-off all the parameters were observed as normal. At approximately 25 feet after take-
+off the pilot observed the engine RPM/power was dropping. At around 50 feet height the
+propeller stopped rotating. The instructor took over controls and attempted a 180° turn to
+land back on the airstrip. However in the process of executing the right turn at low
+height with no power the glider lost height very fast and the right wing hit the airfield
+
+boundary wall, Thereafter the motor glider crash landed before the beginning of runway
+09 end.
+
+Since the runway strip had high backward slope from the point of impact causing
+rearward slide of motor glider. During landing the right wing of the motor glider hit the
+boundary wall, thereafter the motor glider became uncontrollable and impacted on its
+
+nose, where engine was mounted.
+
+The pilot immediately opened the seat belts and escaped out of the glider. He then
+assisted the Instructor to also escape from the glider as he sustained serious injuries.
+Due to engine impact the oil and fuel line had ruptured and caused fire. The fire fighting
+team arrived at the accident site and extinguished the fire. The Instructor was
+immediately rushed to the hospital.
+
+1.2 Injuries to persons.
+
+INJURIES | CREW PASSENGERS
+FATAL Nil Nil
+SERIOUS 1 ‘Nil
+MINOR/NONE | 1 Nil
+
+1.3 Damage to aircraft.
+
+The motor glider sustained substantial damage.
+
+1.4 Other damage: Nil
+
+1.5 Personnel information:
+
+1.5.1 Pilot — in — Command:
+
+Age/ Date of Birth
+License
+
+Date of Issue
+Valid up to
+Category
+
+Class
+
+Endorsements as PIC
+Date of Last Medical Exam
+Med. Exam Valid upto
+FRTO (R) License No.
+Date of issue
+
+Valid up to
+
+Total flying experience
+Experience on type
+
+Experience on type as PIC
+Total flying experience during last 90 days
+Total flying experience during last 30 days
+
+Total flying experience during last 07 Days
+Total flying experience during last 24 Hours
+
+: 43 Years
+
+» GPL Holder
+
+: 25/08/2011
+
+: 24/08/2021
+
+: Glider
+
+: Open rating upto 600 kg
+
+and Motor Glider
+
+: 1S28M2/GR
+: 12/06/2013
+: 11/12/2013
+: Valid
+
+: 06/07/2010
+: 05/07/2015
+
+; 200:30 Hrs
+: 85:30 Hrs
+: 50:50 Hrs
+: 05:30 Hrs
+» 04:25 Hrs
+: 01:30Hrs
+> NIL
+
+1.5.2 Co-Pilot (Instructor):
+
+Age/ Date of Birth
+License
+
+Date of Issue
+Valid up to
+Category
+
+Class
+
+Endorsements as PIC
+
+Date of Last Medical Exam
+Med. Exam Valid upto
+FRTO(R) License No.
+
+Date of issue
+
+Valid up to
+
+Total flying experience
+
+Experience on type
+
+Experience of type as PIC
+
+Total fiying experience during last 90 days
+Total flying experience during last 30 days
+Total flying experience during last 07 Days
+Total flying experience during last 24 Hours
+
+> 45 Years
+
+» GPL Holder
+
+: 15/04/1993
+
+: 07/12/2022
+
+: Glider
+
+: Open rating upto 600 kg
+
+and Motor Glider
+
+: Primortes, Kartik, L-23, Ardhra, ITG-3,
+
+Rohini, T21 B, 1S28B2, 1S28M2/GR,
+Stemme S6RT and Sinus 912
+
+: 02/06/2013
+: 01/06/2014
+: Valid
+
+: 03/02/2007
+: 02/02/2017
+
+: 4212:30 Hrs
+: 414:01 Hrs
+: 397:09 Hrs
+: 48:25 Hrs
+
+: 38:00 Hrs
+
+» 04:15 Hrs
+
+» NIL
+
+The certificate of Airworthiness Number 119/G under “Normal” category was issued
+by DGCA on 14 November, 2007. The specified minimum operating crew is O01 and
+the maximum all up weight is 780 kg. At the time of accident, the Certificate of
+Airworthiness was current and was valid upto 23" March, 2017, As on 07" August,
+2013 the aircraft had logged 588:20 Airframe Hours.
+
+Scrutiny of maintenance documents revealed that logbook entries for all previous
+schedules of the motor glider and its Engine were complete as per the maintenance
+program consisting of calendar period / flying Hours or Cycles. The maintenance
+
+program is approved by Regional Airworthiness Office.
+
+Accordingly, the last major inspection 100 hrs/01 years check was carried out at
+539:35 Hours on 06" April, 2013. The last lower inspection was 25 hrs/ 01 month was
+due on 29.07.2013. Though the entries for the inspection schedule were made, the
+
+same was not carried out.
+
+The motor glider was last weighed on ot" November 2008 at Ranchi and the weight
+schedule was prepared and duly approved by the office of Director of Airworthiness,
+DGCA. As per the approved weight schedule the Empty weight of the motor glider is
+582 kgs. Maximum fuel capacity is 40.15 kgs. Empty weight CG is 2.46 meter aft of
+datum. As there has not been any major modification affecting weight and balance
+since last weighing, hence the next weighing was not required. Prior to the accident
+
+flight the weight and balance of the aircraft was well within the operating limits.
+
+All the concerned Airworthiness Directive, Service Bulletins, DGCA Mandatory
+Modifications on this motor glider and its engine has been complied with as on date
+of event.
+
+Transit Inspections are carried out as per approved Transit Inspection schedules and
+
+all the higher inspection schedules include checks/ inspection as per the
+
+manufacturer's guidelines as specified in Maintenance Program and are approved by
+the Quality Manager.
+
+The motor glider is fitted with single Rotax 912 A3 engine manufactured by GMBH,
+Austria. The Engine S/N 4.410.713 had logged 588:20 Hours. Previous to the
+accident flight, on 06.08.2013 the pilot had reported that the cylinder head
+temperature was high and power loss was experienced. The AME had observed
+coolant level low, the same was replenished and the motor glider was cleared for
+flight. However the engine failed in the subsequent flight.
+
+Scrutiny of the snag register revealed that there was no written snag reported on the
+motor glider prior to the accident flight.
+
+1.7 Meteorological information:
+
+The airstrip at Deoghar is an uncontrolled airstrip, hence no Meteorological facility is
+available. The nearest MET facility available is at Ranchi which is at 110 Nm from
+Deoghar. The focal weather and trends were obtained telephonically from Ranchi to
+carry out the flying operations.
+
+1.8 Aids to navigation:
+
+Other than the wind sock there is no navigational facility available in the uncontrolled
+airstrip at Deoghar.
+
+1.9 Communications:
+The Deoghar airstrip is an Uncontrolled airstrip.
+
+1.10 Aerodrome Information.
+
+The airstrip at Deoghar is an uncontrolled airfield. There runway orientation is 09/27
+
+which is approximately 975 m (3200 feet) long and 45 m (148 feet) in width.
+
+Co-ordinates:
+
+ARP 24° 27'N 86° 47'E
+
+Elevation : 110m
+
+Runway Orientation and Dimension : 09/27 and 3200 feet long.
+
+Runway & Taxi Tracks Markings ‘ Non-Standard (not as per Annex. 14).
+Night landing facility : Not available.
+
+MET Services - Met Service not available.
+
+Navigation Aids : Not Available
+
+Airspace Information:
+
+Deoghar airstrip is located approximately at 110 Nm from Ranchi airport. The
+uncontrolled airspace allocated for flying motor glider is 1000 feet AGL. Any flying
+
+required to carry out above this level needs to be co-ordinated with ATC, Ranchi.
+
+1.11 Flight recorders: Neither fitted nor required.
+
+1.12 Wreckage and impact information.
+
+During examination of the wreckage at site, it was observed that the motor glider
+was lying with its nose resting on the ground and the empennage against the
+airfield boundary wall. The engine had dislodged from its mountings and moved
+upwards towards the windshield. The right wing had hit the boundary wall and was
+substantially damaged. The propeller had also dislodged after the impact with the
+ground.
+
+The wreckage was confined around the point of impact and there was no in-flight
+disintegration of any part of the motor glider.
+
+After the engine impacted the ground the fuel and oil line had ruptured and the
+motor glider caught fire. The fire was locafized around the engine area. The rudder
+
+and the elevator were also damaged due impact with the boundary wall.
+
+10
+
+In the cockpit the fuel levers were found in OFF position, flaps in 30° positions and
+
+the ignition was OFF. Since the motor glider had impacted the ground the
+windshield plexi had broken. The tail wheel has also sheared and dislocated from its
+
+position.
+
+The fuselage structure and the engine cowlings were found damaged at various
+
+places due to impact.The aircraft has suffered extensive structural damage.
+
+‘ Ignition Switch in OF position
+
+FTE Ts
+. - Ce Seige
+
+Cage é ‘ \, y- $
+
+Position of switches in cockpit
+
+1,13 Medical and pathological Information:
+
+After the accident, the instructor sustained serious injuries and was admitted to the
+local hospital, thereafter he was airlifted from Deoghar to Ranchi and was
+hospitalized at Ranchi for treatment. There was no injury to Pilot in command.
+
+However no PFMC was carried out after the accident.
+ul
+
+1.14 Fire:
+
+During accident the engine impacted the ground, the fuel and oil line had ruptured
+and the motor glider caught fire. However the fire was localized around the engine
+
+area, which was extinguished by the Government of Jharkhand personnel.
+
+1.15 Survival aspects:
+
+The accident was survivable.The PIC escaped unhurt and thereafter rescued the
+
+Instructor from the cockpit as he had suffered serious injuries.
+
+1.16 Tests and research:
+
+The engine was sent to M/s Varman Aviation, Bangalore which is the authorized
+center for Rotax -912 A3 engines for strip examination.
+
+Engine Type: Rotax 912 A3
+
+Engine SL No. : 4410713
+
+TSN: 588:20 hrs
+
+Physical Observations:
+
+1) Oil tank had sheared off.
+
+2) Muffler was damaged and distorted.
+
+3) Coolant radiator was dislocated and touching the muffler.
+
+4) Carburettor cables were cut.
+
+5) Exhaust connection at cylinder No. 1 was broken.
+
+6) Connection stainless steel pipe from suspension tank to the radiator was
+
+damaged as a result of abrasion having resulting a hole in the pipe.
+
+7) Compensating tube broken in RH Carburetor.
+
+8) Carburetor air filter bracket connection to carburettor was burned.
+
+9) Coolant was dipping from coolant tube from cylinder no. 3.
+
+10) — Ignition cover and trigger points was totally burned.
+
+11) RH carburetor to air filter connection was burned.
+
+12) Fuel connection from cam block to fuel tank was cut.
+
+12
+
+The strip examination revealed:
+
+I, ENGINE DISASSEMBLY AND OBSERVATION/DEFECTS NOTICED:
+
+1. During disassembly it was observed cylinder 2 spark plug was having traces of
+
+coolant.
+
+Heavy deposits were observed on the spark plugs
+
+Among the 8 spark plugs, 3 spark plugs (Cylinder No.2 bottom spark plug,
+Cylinder No. 4 bottom and top spark plug) found not functioning.
+
+2. Cylinder No. 1,2,3 had traces of oil in the combustion chamber and Cylinder no. 4
+was dry.
+
+Heavy carbon deposits observed on all pistons and valves
+
+13
+
+3. Piston in cylinder no. 2 & 4 found seized.
+
+|
+
+4. Coolant System
+
+COOLANT SYSTEM:
+
+—
+to ee,
+
+Block Diagram of Coolant system
+
+WE Be es
+
+Coolant holes punctured No sign of coolant in the impeller
+
+4
+
+5. Testing of Ignition Unit: SMD (Surface Mount Device) Electronic modules A&B
+
+found functioning satisfactory on the test rig.
+
+Following observations were made during the Strip Examination.
+
+1. Connection tube identified at No. 9 above from suspension tank to radiator was
+found punctured due to abrasion which had caused the coolant to be drained from
+the coolant system during flight. Hence engine was running dry of coolant
+resulting over heating of cylinder heads. This was also evident from the complaint
+
+impeller which was totally dry during disassembly of the engine.
+
+2. Cylinders No. 2 & 4 piston ring was seized due to heavy deposits caused by
+burning of lubricating oil inside the combustion chamber due to overheating,
+
+which might have caused engine seizure / stoppage.
+
+3. The engine failure was due to non-supply of coolant to the cylinder head because
+of the punctured coolant pipe resulting into overheating and subsequently
+
+seizure/stoppage of pistons of No. 2 & No. 4 cylinders and failure of engine.
+
+1.17 Organizational and management information:
+
+The Civil Aviation Department, Government of Jharkhand has a fleet of 07 aircrafts
+i.e. 03 Zlin aircrafts, 01 Beach Baron 55, 02 unpowered gliders and 01 powered
+glider which was involved in the accident at Deoghar. Out of these aircrafts 02
+aircrafts (01 Beach Baron 55 & 01 unpowered glider) are unserviceable and does
+not possess a valid Certificate of Airworthiness
+
+The Civil Aviation Department is headed by Special Secretary, assisted by Deputy
+Secretary and Director of Operations. The Director of Operations, Instructor on the
+motor glider was co-pilot on the accident flight. There are 04 assistant glider pilot
+
+instructors who are on contract basis with the Civil Aviation Department.
+
+15
+
+Government of Jharkhand does not have its own maintenance set up and
+maintenance is outsourced to M/s ACRS (Airborne Component Repairs & Services
+Pvt. Ltd.) based at New Delhi. Scrutiny of the Engineering Records revealed that
+previously the Government of Jharkhand did not had any approved CAM
+(Continuous Airworthiness! Manager) to oversee the maintenance work carried out
+by the outsourced company as per DGCA, Civil Aviation Requirements (CAR).
+Instead all the maintenance schedule/ scope of work were under the signature of
+M/s ACRS only.
+
+The Government of Jharkhand had appointed a person for the duties of CAM which
+was approved by DGCA jin April 2013. Prior to this there was no maintenance
+check/audit by Government of Jharkhand on the maintenance agency as required
+by CAR.
+
+1.18 Additional information:
+1.18.1 Emergency procedures for engine failure after take-off:
+
+As per the Pilot Operating Handbook in case of an Engine Failure following
+procedure is recommended:
+
+- Stick ! push slightly, until the level flight is reached
+- Air brakes extended
+
+- Fuel cock closed
+
+- Ignition switch * cut
+
+- After touch-down stick to limit aft position
+
+- Landing gear break , actuated
+
+- Propeller to horizontal
+
+- Feathering pitch handle up
+
+- Flaps 30°
+
+1.18.2 Incorrect entries made in Journey Log Book:
+
+Scrutiny of the records revealed that the 25 hrs/01 month schedule was due on
+29.07.2013. The AME at Deoghar was a transit approval holder and was not
+qualified to carry out the above schedule. As the licensed AME was based at Ranchi,
+the motor glider was scheduled to fly to Ranchi for maintenance. As per the entries
+made by the AME in the airframe and engine log book the maintenance was carried
+out at Ranchi. Scrutinizing the journey log book it was known that the instructor
+had also made entries in the journey lag book and in his personal log book for the
+above flight.
+
+As per records presented by Government of Jharkhand the 25 hrs/01 month
+schedule was carried out at Ranchi and the motor glider was flown back to Deoghar
+on 30.07.2013. Scrutinizing the documents with ATC Ranchi it was found that the
+motor glider VT-GJH had not operated any flight Deoghar-Ranchi on 29.07.2013
+and also there was no flight Ranchi - Deogahr for VT-GJH on 30.07.2013.
+
+1.19 Useful or effective investigation techniques: NIL
+
+2. ANALYSIS
+2.1 Serviceability of the aircraft
+
+Motor glider model VT-GJH (MSN. 081) had been manufactured on 14" March, 2007.
+The glider was registered with DGCA under the ownership of Govt. of Jharkhand,
+Civil Aviation Department, Ranchi on 14%. November 2007. The Motor Glider is
+registered under category ‘A’ and the Certificate of Registration No. G-304, (CFR).
+
+The certificate of Airworthiness Number 119/G under “Normal” category was issued
+by DGCA on 14 November, 2007. The specified minimum operating crew is 01 and
+the maximum all up weight is 780 kg. At the time of accident, the Certificate of
+Airworthiness was current and was valid upto 23 March, 2017. As on 07" August,
+2013 the aircraft had logged 588:20 Airframe Hours.
+
+The last major inspection 100 hrs/01 year check was carried out at 539:35 Hours on
+06 April, 2013. The last 25 hrs/O1 month inspection was not carried out, however
+
+the log book entries for the same were made.
+
+The maintenance program was approved by Regional Airworthiness Office consisting
+of calendar period / flying Hours or Cycles based on maintenance manual. However
+the motor glider Aircraft VT-GJH and its Engine were not being maintained as per the
+
+maintenance program by the maintenance agency M/s ACRS.
+
+Previous to the accident flight the pilot had reported orally to AME that the cylinder
+head temperature was high and power loss was experienced. The AME had observed
+coolant jevel low which was replenished and the motor glider was cleared for flight.
+However the engine failed in the subsequent flight. The engine was subjected to strip
+examination and it was known that the connection tube from suspension tank to
+radiator was found punctured due to abrasion which had caused the coolant to drain
+from the coolant system during flight. Hence engine was running dry of coolant
+resulting over heating of cylinder heads. This was also evident from the complaint
+impeller which was totally dry during disassembly of the engine. The puncturing of
+the tube had not occurred on the accident flight it had probably occurred over a long
+period of time which was not observed by the AME during maintenance check. This
+reflects the perfunctory inspections and poor maintenance from the maintenance
+agency. After the accident the spark plugs were examined and it was observed that
+out of 08 spark plugs, 04 spark plugs were completely unserviceable and 02 spark
+plugs were performing partially. Further cylinders No. 2 & 4 piston ring were seized
+due to heavy deposits caused by burning of lubricating oil inside the combustion
+chamber due to overheating, which might have caused engine seizure / stoppage.
+Scrutiny of the snag register revealed that there was no written snag reported on the
+
+motor glider prior to the accident flight.
+
+Further the 25 hrs/ 01 months schedule was due on 29.07.2013, however the
+schedule was physically not carried out on the Motor Glider VT-GJH and false entries
+were made in the airframe/engine log books.
+
+In view of the above, it can therefore be inferred that serviceability of the aircraft is a
+
+factor to the accident.
+
+2.2 Pilot handling of the aircraft:
+
+On 07.08.2013 Govt. of Jharkhand Motor Glider VT-GJH, was planned to carry out a
+test flight at Deoghar airstrip under the command of pilot holding a valid Glider Pilot
+License (GPL) endorsed on type with co-pilot who is a qualified instructor on type
+and was holding a valid GPL license.
+
+The instructor after the last flight had reported orally that the cylinder head
+temperature was high and power loss was felt. The AME had topped up the coolant
+and asked the pilot to carry out a ground run and assess the performance of the
+engine. The pilot had carried out ground run twice, first for a period of 07 minutes
+and after a gap of about 15 minutes another ground run was carried out for
+approximately 05 minutes. As per the pilot both the ground run were satisfactory.
+Thereafter the motor glider was subjected to test flight to assess the performance.
+The motor glider took off approximately at 0610 UTC. During take-off roll all the
+parameters were observed normal, however after getting airborne at approximately
+25 feet the pilots observed the engine RPM/power was dropping and at around 50
+feet height the RPM/power became zero. On observing this the Instructor took over
+the controls from the PIC and decided to land back the Motor Glider on the airstrip.
+The instructor took right turn of 180 degrees in order to land back on runway. As per
+the engine failure procedures, the fuel was cut off and the ignition was put to off
+position however as required the flaps remained in the take-off position. The
+instructor did not followed the Pilot Operating Handbook (POH) procedures of
+levelling off the motor glider and make a straight landing ahead, instead executed
+the right turn. While executing a right turn with no engine.power the motor glider
+
+lost height very quickly and in the process the right wing hit the boundary wall of the
+
+19
+
+airstrip. Thereafter the motor glider crash landed before the beginning of the runway
+09 end.
+
+Frorn the foregoing it is inferred that, the Instructor after taking over controls from
+PIC did not followed the emergency procedure laid down in POH and executed a 180°
+turn which eventually resulted into the accident. Hence pilot handling of the motor
+
+glider is a factor to the accident.
+
+2.3 Weather:
+
+The airstrip at Deoghar is an uncontrolled airstrip and no Meteorological facility is
+available. The nearest MET facility available is at Ranchi which is at 110 Nm from
+Deoghar. The loca! weather and trends were obtained telephonically from Ranchi to
+carry out the operations. The weather on the day of accident at Deoghar was
+
+reported as Temperature 34°C, visibility around 6 Kms with clear skies.
+
+From the foregoing it is evident that weather is not a contributory factor to the
+
+accident.
+
+2.4 Circumstances leading to the accident:
+
+On the Previous flight prior to the accident the instructor had reported orally that the
+cylinder head temperature was high and power loss was felt, The AME at Deoghar
+was only a transit approval holder during inspection observed the coolant level to be
+low. Since troubleshooting was not in his privilege, the AME without carrying out the
+detailed inspection on the engine released the motor glider for test flight after
+refuelling the coolant. The engine failed immediately after take-off at approximately
+50 feet AGL as the cylinder piston rings had seized, since the coolant in the engine
+drained from the hole in the return line of the system. The decision of the instructor
+to execute a right turn of 180 degrees with no engine power resulted into a sudden
+loss of height. The motor glider with large wing span in a bank condition hit the
+
+boundary wall, resulting into an accident.
+
+20
+
+3. CONCLUSIONS:
+3.1 Findings:
+
+1. The motor glider had valid certificate of Airworthiness.
+
+2. Both the pilots had valid Glider Pilot License to undertake the flight.
+
+3. The Daily Inspection schedule of the motor glider was carried out by the approval
+holder before the flight.
+
+4. Prior to the accident flight the ground run was carried out as the instructor had
+reported high cylinder head temperature with power loss on previous flight.
+
+5. The ground run was found satisfactory and thereafter the motor glider was
+released for performance check flight.
+
+6. Immediately after take-off power loss was experienced by the PIC.
+
+7. The instructor took over controls and attempted to land back on the airstrip by
+executing 180° turn with no engine power.
+
+8. Since the height was less with no engine power the glider lost height and in the
+process of turn the right wing hit the boundary wall of airstrip.
+
+9, The PIC escaped unhurt however the instructor received injuries and was taken to
+the hospital.
+
+10. There was fire however it was localized near the engine area.
+
+11. During strip examination of Engine it was inferred that the engine failed due non
+supply of coolant to the cylinder head because of punctured coolant pipe
+resulting into overheating, seizure/stoppage of the pistons of No. 2&4.
+
+12. False entries were made in the engine and airframe log book of motor glider VT-
+GJH for carrying out 25 hrs/01 month schedule at Ranchi as the motor glider had
+never flown to Ranchi from Deoghar on 29.07.2013 for maintenance.
+
+13. False entries were made in the Journey Log Book by the Instructor for motor
+glider VT-GJH flight to Ranchi on 29.07.2013 and back to Deoghar on 30.07,2013
+as records of ATC does not support the entries.
+
+14. Scrutiny of the record also revealed that the CAM was appointed to supervise the
+maintenance work from outsource agency in April 2013 only. Prior to that the
+maintenance work was supervised by the operations department of Government
+
+of Jharkhand.
+21
+
+15. The weather was fine and not a contributory factor to the accident.
+
+3.2 Probable cause of the accident:
+
+The instructor’s actions of initiating 180° right turn with no engine power at low
+height is non adherence to SOP for engine failure which resulted into sudden loss of
+height. Due which the right wing of the motor glider hit the boundary wall of the
+airfield resulting into the accident.
+
+Perfunctory inspection schedule carried out by the AME/Maintenance Agency reflects
+
+poor maintenance of Motor glider/engine is a contributory factor.
+
+4. SAFETY RECOMMENDATIONS:
+
+1, DGCA may take necessary action on AME/Maintenance Agency regarding incorrect
+maintenance logbook entries for 25hrs/01 month maintenance inspection schedule
+carried out at Ranchi on 29.07.2013. Perfunctory inspection schedules were carried
+
+out by the AME/Maintenance agency.
+
+2. DGCA may take necessary action regarding incorrect flying logged by Government
+of Jharkhand pilot for the sector Deoghar-Ranchi on 29.07.2013 & Ranchi-Deoghar
+on 30.07.2013 respectively to carry out maintenance at Ranchi.
+
+K, Rar _Lethandaan
+
+(K Ramachandran) (A. %. Joseph)
+Air Safety Officer (E) - AAIB Assistant Director - AAIB
+Member, Committee of Inquiry VT-GJH Chairman, Committee of Inquiry VT-GJH
+
+Date: i forloory
+
+Place: New Delhi
+
+22
+

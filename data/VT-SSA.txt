@@ -1,0 +1,1302 @@
+REPORT ON ACCIDENT
+TO
+ELBEE AIRLINES
+F-27 AIRCRAFT VT-SSA
+AT MUMBAI
+ON
+03.07.97
+
+Oo OID OH BP WwW NY
+
+BWW Ww NY NY NY DN
+
+INDEX
+
+Contents
+Summary
+
+Factual Information
+
+History of the flight
+
+Injuries to persons
+
+Damage to aircraft
+
+Other damage
+
+Personnel Information
+
+Aircraft Information
+Meteorological Information
+
+Aids to Navigation
+Communication
+
+Aerodrome Information
+
+Flight Recorders
+
+Wreckage and Impact Information
+Medical and pathological Infomration
+Fire
+
+Survival Aspects
+
+Tests and Research
+
+Additional Information
+
+Analysis
+
+Serviceability of the aircraft
+Weather
+
+Circumstances leading to the accident
+Conclusions
+
+Findings
+
+Probable cause of the accident
+
+Recommendations
+
+Page Number
+
+1
+
+Joo ® —F FF WN DY
+
+14
+
+19
+20
+24
+26
+26
+28
+28
+
+
+INVESTIGATION REPORT ON ACCIDENT TO ELBEE AIRLINES
+F-27 AIRCRAFT VT-SSA AT MUMBAI ON 03.07.97
+
+a) Aircraft
+Type F-27
+Model MK~200
+Engines RR DART 552-7R
+Nationality Indian
+Registration VT-SSA
+b) Owner & Operator Elbee Airlines.
+¢c) Pilot-in-Command Capt. Hitendra Majumdar
+Extent of injuries Fatal
+Co-pilot Capt. Paresh Bulsara.
+Extent of Injuries Fatal
+d) Number of passengers Nil
+Extent of Injuries N/A
+e) Place of accident Arabian Sea off Mumbai coast.
+£) Date & time 3.7.97; (22:19UTC of 2.7.97) Aprx
+
+Of accident
+
+(All timings in this report are in UTC)
+
+SUMMARY
+
+F-27 aircraft VT-SSA belonging to M/s Elbee Airlines
+
+was scheduled to operate cargo flight for the sector
+
+Mumbai~ Bangalore on 3.7.97. The aircraft was under the
+command of Capt. H. Majumdar with Capt. P. Bulsara as co-
+pilot. The aircraft took-off from RWY 27 of Mumbai airport
+at 2216 UTC of 2.7.97(0346 IST of 3.7.97). After take off
+the pilot reported to Tower, "VSA is
+
+thousand two hundred, we are entering weather otherwise",
+
+turning left Sir,
+
+to which tower acknowledged and asked VT-SSA to contact
+
+Radar. The aircraft contacted Radar and was asked to
+
+establish radial 146 and report passing FL-80, climb level
+170 for which aircraft
+
+acknowledged, "Roger, call you
+
+1
+
+
+establish 146 passing 70 and reaching 170 SA." This was
+the last transmission from the aircraft. The aircraft
+crashed into the Arabian Sea off Mumbai coast at about 2219
+uTC. The aircraft got destroyed after impact with sea and
+both occupants on board died in the accident. There was no
+
+evidence of fire.
+
+1. FACTUAL INFORMATION
+
+1.1 History of flight :
+
+On 3.7.97, F-27-200 aircraft, VT-SSA belonging to M/s
+Elbee Airlines arrived at Mumbai at 2055 UTC(of 2.7.97)
+after operating cargo flight Delhi-Ahmedabad-Mumbai . It
+was scheduled to operate Cargo flight for the sector
+Mumbai-Bangalore under the command of Capt. H. Majumdar
+with Capt. P. Bulsara as first officer. There was a cargo
+load of 4226 Kg on board. The aircraft took-off from R/W
+27 of Mumbai airport at 2216 UTC of 2.7.97 (0346 IST of
+3.7.97) with reported winds as 110/05 kts. After take-off
+the pilot reported to Tower at 221720 UTC (of 2.7.97), “VSA
+is turning left Sir, thousand two hundred, we are entering
+weather Otherwise” to which tower acknowledged and asked
+VT-SSA to contact Radar on 127.9 MHz. At 221755 the
+aircraft contacted the Radar on 127.9 MHz. and was asked to
+establish radial 146 and report passing flight level 80,
+climb level 170 for which aircraft acknowledged at 221809
+UTC “Roger, call you establish 146 passing 70, and reaching
+170 SA.” This was the last transmission from the aircraft
+and after this there was no contact with the aircraft.
+After about 3 minutes, Radar gave a call to VT-SSA, but
+there was no response. Between 222100 and 222208 UTC, radar
+called VT-SSA 4 times, still there was no response. At
+222230 UTC, radar called VT-SSC, which had airborne about 2
+minutes prior to VI-SSA to get the position of VT-SSA. vT-
+ssc after making several attempts to contact VT-SSA
+reported to Radar that there was no response from VT-SSA.
+
+2
+
+
+Further at 222709 UTC, Radar also requested another
+aircraft, CPA750 approaching Mumbai for getting the
+position of VT-SSA. At 222742 uTc vrT-ssc reported getting
+an ELT signal on 121.5 and the signal was weak. The
+aircraft CPA750 also reported at 222808 UTC that they were
+receiving weak beacon. However at 222840 wvuTc CPA750
+reported getting strong signal on 121.5. VT-SSC which was
+asked for search and rescue of VT-SSA reconfirmed at
+224140 UTC that the beacon was very strong at 18 miles NW
+of Bombay. However the trace of aircraft was not
+established. ATC issued an alert message and requested the
+Coast Guard and Navy to initiate search and rescue
+
+operations.
+
+At about 0600 UTC, Station commander of Airforce
+Station Madh island reported on land line that some debris
+of the aircraft was sighted on the coast of Madh island.
+The debris contained some portion of the floorboard along
+with some courier mail. In spite of extensive search
+carried out, the main portion of the wreckage has not been
+located so far. The aircraft had crashed into the Arabian
+Sea off Mumbai coast about 5-7 NM NW from R/W 27 of Mumbai
+airport and got destroyed. Bodies of Capt. Majumdar and
+Capt. Bulsara were not traceable. However, a piece of
+flesh having a portion of the chest and stomach had come
+ashore on Mudh Island, which could not be identified as
+either that of commander or of the First Officer. Both the
+crew members were presumed to be dead. There was no
+
+evidence of fire.
+
+1.2 Injuries to persons :
+
+Injuries Crew Passengers Others
+Fatal 2 - -
+Serious - - ~
+
+Minor/None - - -
+
+
+Damage to aircraft :
+
+The aircraft got destroyed in the accident.
+Other Damage:
+
+Nil.
+
+Personnel Information ;
+
+1.5.1. Pilot-in-command :
+
+Name : Capt. Hitendra Majumdar
+Age : 53 Years aprx.
+Licence No. : ALTP No. 1430
+
+Valid upto Aug'97
+restricted to R.T.R.
+
+Total flying experience : 9322:50 hrs.
+Experience on type >: 4585 hrs
+
+Experience during last 90 days : 215:25 hrs.
+Experience during last 30 days : 54:35 hrs.
+Experience during last 7 days : 17:25 hrs.
+Experience during last 24 hrs : 3:30 hrs.
+
+He was last medically examined on 12.5.97 and found
+fit.
+
+His last Route Check was carried out on 26.2.97.
+
+His last Instrument Rating Check was carried out on
+15.1.97.
+
+As per available records he was earlier involved in an
+incident in which engines of F-27 a/c flamed out in
+flight from Hyderabad to Delhi on 22.5.95. His license
+was suspended from 22.5.95 to 21.4.96.
+
+
+1.5.2 Co-Pilot
+
+Name : Capt. Paresh Bulsara.
+Age : 33 Years aprx.
+Licence No. : CPL NO. 2730
+
+Valid upto 21.11.97.
+
+Total flying experience : 812:57 Hrs.
+Experience on Type : 545:57 Hrs.
+Experience during last 90 days : 149:00 Hrs.
+Experience during last 30 days : 54:55 hrs.
+Experience during last 7 days : 17:25 hrs.
+Experience during last 24 hrs : 3:30 hrs.
+
+He was last medically examined on 25.10.96 and found
+fit.
+
+His last Route Check was carried out on 19.2.97.
+
+His last Instrument Check was carried out on 31.1.97.
+As per available records, he was not involved in any
+
+incident/accident earlier.
+1.6 Aircraft Information
+airerart snrormation
+
+F.27-200 aircraft VT-SSA bearing S/N 10670 was
+manufactured by M/s. Fokker Aircraft B.V.Amsterdam in the
+year 1984 as per the specification of Thai Government for
+Marine operation and was not taken for delivery. The
+
+aircraft was preserved by the manufacturer and later
+
+delivered to M/s. BUSY BEE on 11.3.86 with registration no.
+LN-AKA of Thailand. The aircraft was not operation for the
+period from 1.6.93 to 28.6.95 as it was undergoing 'C'
+check at AIR U.K.
+
+The Certificate of Airworthiness(C of A)no. 2171 was
+issued on 4.10.95 in the name of M/s.Elbee Services
+Limited/Elbee Airlines Limited, Mumbai under normal
+category subdivision goods aircraft. The maximum total
+Authorised AUW of the aircraft was 20412 Kgs. The aircraft
+
+was used for cargo operation after carrying out conversion
+
+5
+
+
+of aircraft cabin to 'Cat.E' class cargo compartment as per
+
+STC/ST/00260DE dated 7.11.96. The last certificate of
+
+Airworthiness was revalidated on 26.6.97, which was valid
+upto 28.6.98. The above cargo conversion was done by
+M/s.Bransons Aircraft, USA at HAL facilities Bangalore on
+20.1.97.
+
+The Certificate of Registration (C of R) no. 2683,
+Cat.A was issued on 4.10.95. The Aeromobile wireless
+station licence no. A-319/1 renewed on 18.12.96 was valid
+upto 31.12.97. The last Major check 2c(2000hrs) was done on
+27.1.97 at 9874:38 A/F hrs. Check B (500 hrs) was done on
+6.5.97 at 10341:29 A/F hrs. The AUW on last take-off prior
+to the accident was 18845 Kgs including 3170 Kgs of fuel.
+
+The aircraft was fitted with two ROLLS ROYCE DART 552-
+
+7R engines. Engine #1 was bearing S/N 14920 and engine #2
+was bearing S/N 14921. The engines were fitted with
+propellers manufactured by M/s. Dowty Rotol Limited
+
+GLOUCESTER. Port Propeller and starboard propeller were
+bearing serial nos. DRG/6570/87 and DRG/6314/86
+
+respectively.
+
+Hours done by the Aircraft as on date of accident are
+
+as follows
+
+Total hours flown since new : 10619.52 Hrs.
+Hours flown since last C of A : 24.57 Hrs.
+Hours flown during last 6 months : 746.51 Hrs.
+Hours flown during last 3 months : 421.19 Hrs.
+Hours flown during last 1 month : 145.22 Hrs.
+Hours flown during last 24 hours : 3.15 Hrs.
+Hours done by the engines and propellers as on the day
+
+of the accident are as follows
+
+
+Port Engine : TSN 8609.34
+TSO 2962.34,
+
+Stbd.Engine : TSN 7821.24
+TSO 3039.24,
+
+Port propeller : TSN 7018.20,
+TSO 2780.20.
+Stbd.Propeller : TSN 7665.20,
+TSO 3091.20.
+
+All the major Mandatory Modifications of DGCA were
+
+complied with on the Airframe and engines.
+
+Scrutiny of the snag register revealed that after
+issue of C of A on 26.6.97, the aircraft made a
+precautionary landing at Ahmedabad on 26.6.97 as after take
+off weather radar first showed distorted image and then
+went off. During final approach, the distorted image came
+on again. During rectification weather radar Tx/Rx unit
+plugs were cleaned and refitted and checked for operation
+and was found satisfactory. After this, there was no
+
+defect reported on the aircraft prior to the accident.
+1.7 Meteorological Information
+
+The Met. Observations recorded at 2210 uTC and
+2240 UTC are as follows
+
+2210 UTC 2240 UTC
+(SPECT)
+Wind 100/03 kts Calm
+Visibility 4000 meters 1000 meters
+RWY 27 RVR - Above 1500 meters
+Weather Haze MODRA
+Clouds SCT 2000’ SCT 1000’
+
+
+SCT 10000’ FEWTCU 2500'
+
+ove 8000°'
+_ Temperature 25°C 24°C
+Dew Point 23°C 24°C
+_ QNH 1000 HPa 1001 HPa
+Trend NOSIG TEMPO VIS 800M IN
+— MODSHRA
+
+In between the above two Met reports, a specie was
+also issued at 2233 UTC by Met Office indicating the latest
+
+visibility as 2000 meters in feeble rain.
+
+From the Met report of 2210 UTC, it is evident that
+surface wind prevailing at that time were 100/03 Kts. The
+surface wind communicated to the aircraft at the time of
+take off by ATC at 2215:38 UTC were 110/05 kts.
+
+The following local forecast issued for Mumbai and
+50NM area around at 2158 UTC, was valid from 2200 wtc
+(2.7.97) to 0600 UTC (3.7.97)
+
+Surface Wind 240/06 Kts, BECMG 0506 230/10 kts.
+Upper Wind 0600 M 260/20 Kts +25°
+_ 1500 M 260/15 Kts +20°
+2100 M 270/15 Kts +15°
+— 3100 M 280/10 Kts +11°
+_ Weather HZ TEMPO 22/06 SHRA
+_ Visibility 3000 Min HZ BEC 0505 5000 M in Hz
+
+TEMPO 2000 M in SHRA.
+
+Cloud SCT Sc 600 M BKN AC 3000 M
+
+TEMPO 22/06 SCT ST 240 M
+FEW CB 900 M - 9000 mM
+BEN AS 2400 M
+
+8
+
+
+Freezing Level 5300 M
+Additional Notes MOD/SEV TURB & ICING IN CB.
+
+The following flight forecast valid from 2100 UTC of
+2.7.97 to 0400 UTC of 3.7.97 for the flight of VT-SSA was
+obtained by the Flight Dispatcher of Elbee Airlines from
+the Met. Office
+
+VABB -- VOBG
+PRESSURE
+ALTITUDE
+FL-185 120/15 BEC 270/15 Kts M 03
+FL-140 290/10 BEC 270/30 Kts + 06
+FL-100 270/10 BEC 270/30 Kts + 11
+CLOUDS
+Lowest Layer SCT Sc TEMPO SCT sc FEW CB
+Amount & Type 015 21/04 010 030, 300
+Higher Layer BKN AC TEMPO BKN AS
+Amount & Type 100 21/04 080
+
+SURFACE VISIBILITY 3000M IN HZ TEMPO 2000M IN SHRA
+
+SIGNIFICANT WEATHER HZ TEMPO 22/04 SHRA
+
+REMARKS MOD TO SEV TURB & ICING IN CB.
+Alongwith the above Flight Forecast, a composite TAF
+
+list issued at 1700 UTC, for aerodromes including Mumbai
+
+and Bangalore were also provided, which are indicated
+
+below
+
+VABB 021803 24006KT 3000 HZ scT 015 ScT 025
+BKN 100 TEMPO 1803 1500 SHRA BKNOO8 FEW 030CB
+
+
+Ovc 080.
+
+VOBG 021803 25010G20KT 9999 ScTO10 ScTO15
+TEMPO 0003 BKN 007 SCT 015.
+
+The Satellite picture of 2100 uTC was provided by
+IMD, Delhi for the weather over Mumbai. The cloud coverage
+
+over Mumbai airport and neighbouring areas was reported as:
+
+"Broken low/medium clouds embedded with moderate to
+intense convective clouds. Cold cloud tops with temperature
+
+ranging between -36°C to -50°C present over the area."
+
+The Radar scope polar observations taken from weather
+Radar at Mumbai airport at 2100 UTC indicated two cloud
+patches with 4 Kms height at a distance of about 70 kms
+towards West and west-south-west of Mumbai. Observations
+at 2200 UTC indicate that the patches observed at 2100 UTC
+have apparently moved towards east and more cloud patches
+were also observed; with a height of 4 Kms at a distance of
+70 Kms towards North, with a height of 5 Kms at a distance
+of 40 Kms towards north-west, with a height of 5 Kms at a
+distance of 35 Kms towards West-South-West, with a height
+of 3 Kms at a distance of 40 Kms towards South West.
+
+The observations at 2300 UTC indicated that the cloud
+patches have moved nearer to the station and height of 5-6
+
+Kms were observed.
+
+These clouds reported are usually interpreted as low
+and medium and the range of 4-6 xXms heights may be
+interpreted as cumuliform type of clouds(as per Radar
+
+picture).
+
+
+1.8 Aids to Navigation
+= avigation
+
+The accident occurred about three minutes after the
+aircraft had taken off from Mumbai airport. The following
+
+navigational aids were available at the time of accident
+
+DVOR/DME (116.6 MHZ), NDB (265 KHz).
+
+Above navigational facilities were working normal
+during the period of accident and entries to this effect
+were found made in the log books. The aircraft informed ATC
+of taking a left turn to avoid weather and thereafter was
+to proceed on VOR radial 146 for its destination Bangalore.
+There was no transmission from the aircraft any time after
+
+take off indicating non-availability of the nav-aids.
+1.9 Communication
+communication
+
+Prior to the accident, the aircraft was in contact
+with Mumbai Tower (118.1 MHz) and mumbai Approach (127.9
+MHz). During contact with these units the communication to
+and from aircraft was normal and there was no report
+whatsoever from aircraft about any kind of communication
+problem experienced at Mumbai airport. The aircraft was in
+contact with Mumbai Approach from time 221755 uTC to 221809
+
+UTC and the transmission from/to the aircraft was normal.
+1.10 Aerodrome Information
+Senne Anformation
+
+During take off from Mumbai, RWY 27 was used by the
+aircraft. The said RWY has a total length of 11,455 ft and
+is equipped with ILS ana CAT II lighting system. The runway
+lighting were reported to be operating normal during take
+off. DVOR and NDB are available as navigational aids at
+
+Mumbai airport.
+
+The airport is managed by AAI (IAD) and has Category
+IX fire services to meet the aircraft emergencies
+within/vicinity of the aerodrome. After the aircraft had
+lost contact with ATC, the safety services were put on
+
+alert by declaring full emergency.
+
+1.11 Flight Recorders
+8
+
+The aircraft was fitted with a Fairchild 100 Cockpit
+Voice Recorder S/N 51021. It was also fitted with DFDR S/N
+2851. These recorders were fitted with under water locator
+beacons (ULB) . ULB when immersed in water keeps emitting
+acoustic signals for a period of about one month, which can
+be picked up by acoustic locator system. Extensive search
+was carried in the Arabian Sea off Mumbai coast using
+Dukane Underwater Locator System with the help of divers of
+coastguard. Due to adverse weather conditions, the
+recorders could not be located. Services of National Remote
+Sensing Agency were also engaged for probable locations of
+the aircraft and its recorders in the sea. Services of
+M/s. Sea Swift, a professional company employing divers
+were also engaged for location of the recorders as well as
+aircraft wreckage. But due to deteriorating weather
+conditions during monsoon period, there was no success.
+Search was continued for over a month without any success.
+So far so the recorders have not been located. The data
+from these recorders will be analysed, when the recorders
+are retrieved. The details of the search carried out have
+
+been explained in para 1.17.1.
+1.12 Wreckage and impact information
+— ee pact inrormation
+
+Some pieces of floor board and algo some debris of the
+cargo was collected from the Mudh-island beach, which was
+washed off after the aircraft crashed into the sea. The
+floating debris included one Halon fire extinguisher in a
+
+deformed condition, wing root top rear panel near flap
+
+12
+
+
+track ('No Step' printed on this), a small piece of de-
+icing boot, out flow valve, air filter and a page of
+Airplane Flight Manual ete, BCAS office, Mumbai was
+requested to depute experts from BDDS for inspecting/
+examining the floating wreckage recovered from the
+explosion point of view. The wreckage was examined by
+BDDS. The Controller of Explosives, BCAg has intimated that
+wreckage was inspected from explosive angle. No traces of
+explosives were found, thus ruling out the possibility of
+
+air crash because of explosives, They further intimated
+
+due to inclement weather and rough sea, it could not be
+
+concluded finally as to the reason of crash.
+
+Examination of the recovered wreckage revealed that
+the aircraft got destroyed after impact with sea. The main
+wreckage has not been located so far inspite of extensive
+search carried out by various agencies, the details of
+which have been explained in Para 1.17.1. The examination
+of the main wreckage shall be carried out as soon as the
+
+Same is located ang recovered.
+
+1.13 Medical and Pathological information
+ren ogical information
+
+Both the flight crew were subjected to preflight
+medical examination prior to undertaking the flight on
+3.7.97 and nothing adverse was detected. Bodies of both
+the crew members were not traceable, However, a piece of
+flesh, having a portion of chest and stomach had come
+ashore on Mudh Island, which could not be identified ag
+
+either that of Commander or of the co-pilot.
+1.14 Fire
+
+There was no evidence of fire.
+
+1.15 Survival Aspects
+
+eo Spects
+
+The accident was not survivable.
+1.16 Tests and Research
+
+oe earch
+
+Nil.
+
+1.17 Additional Information
+——ntormation
+1.17.1 Search ¢ Rescue Operations
+
+eS OP Orations
+
+The Navy and Coast Guard authorities continued their search
+from 3.7.97 to 5.7.97 but there was no Success. On 6th July
+97 Dukane Underwater Acoustic Locator System received from
+DGCA (HQ), which could pick up acoustic signals from CVR &
+DFDR was used by the divers of the Coast Guard. They were
+given demonstration on this equipment before it was used. A
+boat was sent out to the sea on 6th and 7° July, 1997 to
+the accident area in search of the aircraft. ‘The boat
+returned without any success. Since there appeared no
+chance of pilots survival in the accident by that time, the
+
+Search and rescue Operation was given up by them and the
+
+take images of the aircraft from the seq bed so as to
+recover the aircraft along with cvrR and DFDR. NRSA had
+flown their aircraft over the Arabian Sea off Mumbai coast
+and carried out Data Interpretation of Aeromagnetic data
+and Scanner Data Survey of the accident area for about 10
+hrs. It had given probable locations of the aircraft in the
+sea with the following co-ordinates in the order of
+
+priority
+
+1. 19deg 05.2405'N and 72deg 47.565’R,
+
+2. 19deg 06.00’ wn and 72deg 46.240'R
+3. 19deg 01.500'N ana 72deg 47. .565'R
+4. 19deg 00.4557'N and 72deg 48.24’R
+
+Meanwhile negotiations were held by M/s Elbee with M/s
+Sea Swift, a professional company employing divers to start
+search and to locate the aircraft wreckage from the sea.
+M/s Sea Swift started their operation on 8.7.97. The divers
+of the company were demonstrated for handling and Operating
+the Dukane Underwater Acoustic Locator System. The boat
+left Madh Jetty at o0goo IST and was out to sea for
+conducting search operation for 8 to 10 hrs but there was
+no success. The condition of the sea was extremely bad.
+With the monsoon ‘on’, the sea was very rough and the waves
+were as high as 20°. Special permission was obtained by
+Elbee airlines from the Maritime authorities to send the
+boat since from 7t June’97 the fishermen were forbidden by
+the Govt. to go to the seq because of the element of risk
+
+involved.
+
+On 9.7.97, Search was carried out on the path of the
+aircraft with the help of GPS, the boat left at 0800 Ist
+for conducting the Search and returned at 1800 hrs. The sea
+was very rough and visibility was very poor and it was
+raining very heavily. The areas scanned were from 19°-03°_
+612"N, 72°-43'-410"R to 19°-06'-667", 72°-49'-029"R, some
+
+and shallow water accompanied by muddy atmosphere
+underneath eluded the success. During the Search strong
+signals were reported at full gain at 19°-05'-618°N, 72°-
+49’-029”’E and 19°-05’-~660"N, 72°-48'-884¢R.
+
+On 10.7.97, the boat left with divers along with Gps,
+the sea was rough, undercurrents were very strong and it
+was raining heavily. Some Signals were received and there
+
+were adverse under water conditions. The divers made 6
+
+15
+
+eee
+
+dives but could not locate the wreckage, Strong signals
+
+were received at 19°-05'-a4q-y, 72°~-49¢-179"]
+
+Gy
+
+During the
+dives it was observed that the visibility under water
+(below 2-3 feet) was very poor due to black dirty water.
+
+On 11°® anda qgth July also the operations were carried out
+
+the search because of these unstable conditions. The area
+scanned were from 19°-047-939¢n, 72°-48'-920"R to 19°-95°~-
+696’N, 72°-48'-729¢R. No signals could be picked up.
+
+On 14.7.97, since the sea was slightly calm early in
+the morning, the boat left at that time along with Gps and
+Dukane Underwater Acoustic Locator system. The search of
+some areas resulted in Picking up signals and some buoys
+were installed to mark the places, The divers went down 10
+times but the reported underwater currents hampered the
+search operations. Dukane Underwater Acoustic Locator
+System was checked with beacon before each dive. At 19°-
+05’~584°N, 72°-49'-096"E, ang 19°-05'-486-n, 72°-49'-139"R
+floats were installed as signals were received at these
+locations. at 19°-05'-225-n, 72°-48'-333¢R location which
+was between the parallel line of rock about 50 ft apart,
+
+strong signals were received and float was installed,
+
+On 15.7.97, the boat left early in the Morning. The
+conditions at sea were similar to the previous day and
+divers were continuously Giving into the sea but no signals
+could be picked up. On 16.7.97, M/s Elbee Airlines, decided
+to further augment the operation with the help of another
+agency M/s Duke Offshore. on 17.7.97, the divers of the
+company were given demonstration of Dukane Underwater
+Acoustic Locator System and a boat was sent out into the
+
+sea. The areas were searched from 19°-02'-g06n, 72°-467-
+
+16
+
+eee
+
+_ 007"R to 19°-05'-241-N, 72°-47'-550¢p but no Signals were
+
+received.
+
+From 18.7.97 to 20.7.97, search was continued at
+
+_ Association on the path of aircraft was also carried out
+
+but there was no success. On 22.7.97, the weather was quite
+_ inclement and sea was rough. The search and dredging was
+again carried out at different locations but there was no
+success. On 23.7.97, search and dredging was Carried out
+
+but there was no success,
+
+On 24.7.97, during dredging Operation, net got neatly
+Sliced in two parts at 19°-07'~324-N, 72°-46'-294"R but no
+signals were reported from this location. Dredging
+operation continued at some more locations but there was no
+success. On 25/26.7.97 due to extremely bad weather
+operation could not be conducted. On 27.7.97 also boats
+were sent out but the operation was abandoned due to bad
+weather after some time. On 28.7.97, boat was sent and
+during dredging Operation one arm vest of the seat came in
+the net from underneath the sea at location 19°-08'-011°N,
+72°-46'-999"B5 but operation was abandoned due bad weather
+
+after some time. On 29.7.97, a boat was sent out in the
+
+morning but the weather deteriorated and the boat returned
+in the afternoon, search was carried out at fifteen
+different locations. From 30.7.97 to 6.8.97, due to
+
+extremely bad weather no operation could be carried out.
+
+On 7.8.97, the condition improved and a thorough
+
+17
+
+eee
+
+inspite of the efforts made as explained above, the
+wreckage has not been located so far. M/s. Elbee Airlines
+have been in touch with Fishermen Association and have
+offered a reward if any one of them could locate the
+wreckage. Further the matter was also taken up with
+National Institute of Oceanography, Goa for locating the
+wreckage. The evaluation is being done for the capabilities
+of National Institute of Oceanography, Goa to make search
+for the wreckage on the coastlines near Mudh Island, where
+water depth is less. AS and when the wreckage of the
+aircraft is located, further investigation would be
+
+conducted.
+
+1.17.2. During investigation it was revealed that Flight
+dispatcher approval of Sh. Sunil Khatri had expired on
+3.12.96 and thereafter M/s Elbee Airlines failed to obtain
+further extension of approval from DGCA Haqrs. The matter
+was taken up with M/s Elbee Airlines and they intimated
+that since Sh. sunil Khatri was on leave for certain
+periods between Dec.'96 to March'97, they forgot to request
+DGCA Hqrs. for extension of his approval and they regretted
+for their lapse. It is therefore felt that all scheduled
+operators while submitting the list of their approved
+flight dispatchers to Met. offices at airports, should also
+include the validity of their approval so that Met. offices
+give the Met. briefing to the authorised flight
+dispatchers. All scheduled operators are therefore required
+to ensure that their flight dispatchers have valid approval
+during performance of their duties. Met. offices should
+also ensure that the Met. briefing is given to the
+
+authorised flight dispatchers.
+
+1.17.3 Use of weather radar to assess weather in take off
+path
+
+The aircraft is fitted with Bendix Weather Radar.
+
+The primary use of this radar is to aid the pilot in the
+
+avoidance of, rather than the penetration, of
+
+thunderstorms. The Weather radar has got tilt control which
+
+antenna relative to the horizon. The range of antenna
+position effected by this control is between -15 and +15
+degrees. Just prior to take-off, scanning of the areas of
+
+intended flight by adjusting the tilt control to a tilt-up
+position to provide beam clearance of Surrounding
+
+obstructions is possible. In case of any abnormal weather
+
+the most important considerations in the operations of
+weather radar. An improper tilt control setting can result
+
+in valuable information not being displayed properly.
+
+It is therefore desirable that in the interest of
+
+Possibility of aircraft entering into severe weather
+
+conditions immediately after take off.
+
+2. ANALYSIS
+
+2.1 Serviceability of the aircraft
+ey OF the aircraft
+
+The aircraft held valid c of A and was registered
+under Normal category, subdivision "Goods Aircraft". It was
+maintained by M/s Elbee Airlines ag per the approved
+schedules. All the relevant mandatory modifications on the
+
+airframe and engines were complied with. There was no major
+
+its departure for Bangalore. Scrutiny of the aircraft
+documents/records revealed that no snag was carried forward
+
+as on the date of accident.
+
+After the aircraft crashed into the sea, a small
+portion of floating wreckage which included Some pieces of
+the floor board, some debris of the cargo, a Halon fire
+extinguisher in a deformed condition, wing root top rear
+Panel near flap track, a small piece of de-icing boot, one
+flow valve etc. was recovered from the Mudh-islang beach.
+The above recovered wreckage was examined from explosive
+angle by BDDS, Mumbai and no trace of explosives were
+found, thus ruling out the possibility of the accident
+because of explosion from the available evidence of
+
+wreckage,
+
+The main wreckage has not been located so for in spite
+of extensive search carried out as explained in para
+1.17.1. The examination of main wreckage will be carried
+cut as soon ag the same is located. However, the
+examination of engineering documentation/records and of
+
+available portion of wreckage does not indicate any
+
+the accident.
+
+2.2 Weather
+
+2.2.1 The aircraft had taken off from R/W 27 at 2216
+UTC (of 2.7.97). After one minute and twenty seconds of
+take-off, the pilot reported to Tower that "VSA is turning
+left Sir, thousand two hundred, we are entering weather
+otherwise". The accident had Occurred at about 2219 UTC
+(i.e. about three minutes after take-off). The Salient Met.
+Observations recorded at 2210 utc and 2240 utc reveals the
+
+following:
+2210 UTC 2240 UTC (Specie)
+Visibility 4000 mts. 1000 Mts.
+Weather Haze MODRA
+20
+
+Clouds SCT 2000' SCT 1000:
+
+SCT 10000" FEWTCU 2500!
+Ove 8000:
+Trend NOSIG TEMPO VIS 800 m IN
+MODSHRA
+
+In between the above two Met reports, a specie was
+also issued at 2233 UTC by Met office indicating the latest
+visibility as 2000 meters in feeble rain.
+
+From the above trend it igs evident that between the
+above period, the weather was setting around the airport
+with visibility reducing from 4000 Mts. to 2000 meters at
+2233 UTC in feeble rain. tt had further reduced to 1000
+meters at 2240 UTC. There was also a trend in temporary
+reduction in visibility to 800 Mts. in moderate shear and
+
+rain.
+
+The local forecast issued for Mumbai and 50 nu around,
+which was valid from 2200 UTC(of 2.7.97) to 0600 UTC (of
+3.7.97) indicated moderate to severe turbulence and lieing
+in CB. The flight forecast, which was valid from 2109 UTC
+(OF 2.7.97) to 0400 UTC (of 3.7.97) also, indicated
+moderate to severe turbulence and icing in CB. The
+Satellite picture of 2100 utc indicates bresence of broken
+low/medium clouds embedded with moderate to intense
+convective clouds, cold cloud tops with temperature ranging
+
+between -36 deg. to ~-50 deg. present over the area.
+
+The Radar polar diagram of 2100 ute issued by Met.
+Office indicates that the weather development had started
+with the formation of two cloud patches at about 70 Kms
+towards West and west-south-west of Mumbai. These patches
+had apparently moved towards east and more cloud patches
+were also observed in 2200 UTC polar diagram. At 2300 UTC,
+
+the cloud patches had moved nearer to the station.
+
+21
+
+Capt. ALK. Malhotra, Flight Inspector paca Hgqrs. who
+associated with operational aspects of the case has opined
+that correlating between Mumbai Radar and Satellite
+picture, the weather was obviously in the development
+Stage. The top of clouds temperature being -36 deg. to -50
+deg., the clouds top could be 25000 ft. to 32000 ft. ang
+these clouds were obviously cB clouds which could have had
+Severe rains visible moisture and Severe turbulence. He
+further opined that it could be Presumed that the weather
+developed at its peak in the region as the clouds had
+shifted from east to west direction and had accumulated
+
+over Mumbai.
+
+In the log entry made subsequent to the accident, the
+Radar Controller, Mumbai ATC had stated the aircraft vVSA
+was not identified on Radar neither on airborne nor later
+due to presence of clutters all around, specially within 10
+NM West to Southeast.
+
+The above evidences indicate that the weather was fast
+changing and had started setting over Mumbai from 2200 UTC
+onwards with presence of cloud patches in and around the
+airport. The weather was prevalent in west and Southwest
+
+direction. Another Elbee Airlines aircraft VT-SSC, which
+
+aircraft and had taken a right turn towards North (for
+Delhi), was identified on the Radar. Capt. Malhotra has
+opined that it could be assumed that the pilot (VT-SSA) had
+
+observed severe CB development on the left and in order to
+
+He further opined that the aircraft should have climbed
+another 800 ft. or so under normal climb speed and the
+height of the aircraft at the time of its last contact with
+Radar should not have been more than 2000 ft. AS per the
+Standard Instrument Departure procedure, the aircraft in
+
+normal circumstances would have initiated a left turn at
+
+22
+
+_ 1700 ft. However, the aircraft was not identified on Radar
+after take off due to presence of clutters.
+
+_ By scanning the areas of intended flight path with the
+Proper use of tilt control of weather radar, the
+
+~ Possibility of weather being detected just prior to
+departure after lining up on the runway can not be totally
+
+_ ruled out. However the Proper use of tilt control by the
+
+2.2.2 The flight dispatcher of Elbee Airlines (Sh.
+Sunil Khatri) had obtained the Met Briefing at 1903 UTC of
+2.7.97 for VI-SSA, which Was expected to depart at 2200 UTC
+(about three hours later) for Mumbai-Bangalore-Chennai
+sector against a normal procedure of 1 to 1% hrs. Enroute
+weather briefing was ISO/CB/TS, Metars/ Specie and RAREPS
+
+were not available at the time of briefing.
+
+Sh. Khatri has stated that on the night of 2.7.97, he
+was required to file flight plans for 3 flights (VT-SSA,
+VT-SSB, VT-SSC) departing from Mumbai. vT-ssp was scheduled
+to depart at 2000 UTC, VT-SSC at 2200 UTC and VT-SSA at
+2200 UTC. He went to Met Office for Met briefing after
+_ obtaining apc number from MLU and collected the folders
+
+including that of VT~SSA, which was ready. He has also
+- Stated that Met folder was valid from 2100 utc to 0400 UTC
+
+and TAFS had validity from 1800 UTC (2.7.97) to
+_ 0300(3.7.97). He has further stated that he obtained 2140
+UTC Bombay Metar from Met Office on telephone prior to
+departure and orally briefed the crew of flights viT-ssa &
+VT-SSC and handed over the Met folder, NAV Logs, NOTAMS.
+
+From the above, it is therefore evident that even
+though the estimated time of departure of VT-SSA was
+indicated ag 2200 UTC, the briefing was taken at 1903 uTC,
+i.e. about 3 hours prior to departure of VT-SSA. Though
+the flight dispatcher has stated that the Met folders was
+
+23
+
+eee
+
+1800 UTC(2.7.97) to 0300 (3.7.97) and he obtained 2140 uUTc
+_ Bombay Metar from Met office on telephone prior to
+departure and Orally briefed the crew, yet the weather at
+_ Mumbai and its Surroundings at the time of departure
+required frequent updating and informing the concerned
+
+_ flight crew by the flight Operation officer. The records
+crew having received the latest weather. It is, therefore,
+
+take Met. briefing as per laid dow procedures. Met.
+department should also ensure compliance of the same.
+Further, during active monsoon period, the Pilots Operating
+flights in the interest of safety should visit the Met.
+office at the airports wherever feasible to see the weather
+Radar picture which can alert them of the development of
+the weather, if any, in the vicinity of the aerodrome and
+
+enroute.
+
+From the foregoing, it therefore appears that the
+
+2.3 Circumstances leading to the accident
+
+The aircraft took-off from R/W 27 of Mumbai airport
+
+_ for Bangalore at 2216 UTC of 2.7.97 (0346 IST of 3.7.97)
+under the command of Capt. 4. Majumdar with Capt. Pp,
+
+_ Bulsara as Co-Pilot. After take-off the pilot reported
+Tower at 221720 UTC of 2.7.97, “VSA is turning left Sir,
+thousand two hundred, we are entering weather Otherwise” to
+which tower acknowledged and asked VT-SSA to contact Radar
+on 127.9 MHz. at 221755 UTC the aircraft contacted the
+Radar on 127.9 and was asked to establish radial 146 and
+report passing flight level 80, climb level 170 for which
+aircraft acknowledged at 221809 utc “Roger, call you
+
+24
+
+ee
+
+establish 146 passing 70, and reaching 170 SA.” This was
+the last transmission from the aircraft and after this
+
+there was no contact with the aircraft.
+
+The aircraft had crashed into the Arabian Sea off
+Mumbai coast about 5-7 NM from R/W 27 of Mumbai airport.
+The main wreckage of the aircraft including flight
+recorders has not been located so for in spite of extensive
+search carried out. However a portion of floating wreckage
+which consisted mainly of floor board pieces and courier
+mail was recovered which had been sighted on coast of Mudh
+
+Island.
+
+It is evident that to avoid weather the aircraft had
+taken a left turn at 1200' instead of 1700' as per the
+standard Instrument departure procedures. Various
+possibilities of the aircraft crashing into the sea under
+the above circumstances could be considered. It could have
+been that the pilot in the process of trying to avoid the
+weather has over-banked the aircraft, which at low speed
+(after take-off) has resulted in the stalling and due to
+insufficient height was unable to recover and crashed into
+the sea. However, in the absence of main wreckage and the
+recorders the same can not be substantiated. Another
+possibility is that the pilot can get disoriented after
+take-off from a well lit-up area, to go over the sea where
+there are no lights. This is referred to as flying into a
+black hole, which has the effect of disorienting the pilot.
+However, considering the experience of the pilot in this
+case, the above possibility appears to be remote. According
+to Capt. Malhotra, there could be a great possibility that
+due to severe gravitational load due to turbulence, the
+aircraft lashing could have given way and there could be an
+apparent shift in the CG and in the process pilot trying to
+control the aircraft must have applied push or pull on the
+control which could have further aggravated the
+
+configuration of the aircraft resulted in helping the
+
+25
+
+
+m™
+
+structured failure of the aircraft. A portion of the
+courier mail was also collected which was washed ashore the
+Mudh Island. However, since the entire wreckage including
+the mail could not be recovered, the possibility of loss of
+control due to giving away of the lashing can not be
+
+conclusively proved.
+
+Capt. Malhotra has opined that the weather could have
+had severe turbulence/updrafts/downdrafts in which the
+aircraft could have lost stability and the pilot could have
+got totally disoriented and due to the severe downdrafts,
+less of aircraft control could not be ruled out. From the
+foregoing, the most probable scenario under the
+circumstances appears that there is a possibility of the
+aircraft, after taking a left turn, getting into intense
+weather and the pilot losing controls at low height while
+
+negotiating the weather.
+
+Absence of any emergency call from the aircraft was
+possibly due to both crew remaining occupied to regain the
+
+aircraft control till last moment.
+
+3. CONCLUSIONS:
+
+3.1 Findings
+
+i) The aircraft held valid c of A. and was being maintained
+as per approved schedules.
+
+ii) The crew held appropriate licences while undertaking
+the flight.
+
+iii) The aircraft arrived at Mumbai at 2055 UTC (of 2.7.97)
+after operating cargo flight Delhi-Ahmedabad-Mumbai that
+was uneventful and there was no snag reported on these
+sectors.
+
+iv) The aircraft was scheduled to depart for Bangalore at
+
+2200 UTC (of 2.7.97). Met. briefing was obtained by Flight
+
+26
+
+
+dispatcher of Elbee Airlines about 3 hours prior to its
+departure for Bangalore.
+
+v) Enroute weather briefing was ISO/CB/TS. Metars/Specie
+and Rareps were not available at the time of briefing.
+
+vi) The Flight Dispatcher reportedly obtained, the Metar of
+2140 UTC on telephone and orally briefed the crew and
+handed over the Met folder, Nav. Logs, Notams etc. before
+departure of the aircraft.
+
+vil) Radarscope observations revealed that there was
+weather development around Mumbai airport from 2100 UTC
+onwards with formation of low and medium cumuliform type of
+clouds with height varying from 3-6 Kms height.
+
+viii) After crew change at Mumbai, the aircraft took-off
+from RWY 27 at 2216 UTC (of 2.7.97) for operating cargo
+flights Mumbai-Bangalore-Chennai.
+
+ix} After one minute and twenty seconds after take-off, the
+pilot reported to Tower, "VSA is turning left Sir, thousand
+two hundred, we are entering weather otherwise", to which
+Tower acknowledged and asked VT-SSA to contact Radar.
+
+x) Twenty five seconds thereafter at 221755 UTC, the
+aircraft contacted Radar and was asked to establish radial
+146 and report passing flight level 80, climb level 170.
+
+xi) At 221809 UTC, the aircraft acknowledged "Radar, call
+you establish 146 passing 70, and reaching 170 SA." This
+was the last transmission from the aircraft and after this
+there was no contact with the aircraft.
+
+xii) The pilot had possibly lost controls just after take
+off while negotiating weather by taking left turn at 1200
+ft before reaching the required altitude of 1700 ft for
+taking the left turn.
+
+xiii) Finding no response after repeated calls to VT-SSA,
+Radar requested vVT-SSC (which had airborne for Delhi two
+minutes prior to VT-SSA) and CPA 750, which was approaching
+Mumbai for getting the position of VT-SSA, but VT-SSA was
+not traceable.
+
+xiv) ATC issued alert message and initiated search and
+
+rescue operation through Coast Guard and Navy.
+
+27
+
+
+xv) At about 0600 uTC of 3.7.97, some debris of the
+aircraft, which consists mainly of floorboard pieces and
+courier mail, was sighted and recovered on the coast of
+Mudh Island.
+
+xvi) The examination of the available portion of wreckage
+did not indicate any possibility of explosion.
+
+xvii) Search of the main wreckage of aircraft, the CVR and
+DFDR with the help of Underwater Acoustic locator system,
+continued for over a month but there was no success due to
+roughness of the sea and adverse weather conditions during
+monsoon.
+
+xix) Efforts to locate the wreckage afterwards also did not
+yield any results. Further investigation will be carried
+
+out after the wreckage is located.
+
+3.2 Probable Cause of the Accident
+———_ Ee eee Or he Accident
+
+The pilot possibly lost control when encountered
+severe weather conditions soon after take off and crashed
+into the sea.
+
+Non-availability of latest weather to the pilot was
+
+the contributory factor.
+4. RECOMMENDATIONS
+
+1. All operators to ensure that their flight dispatchers /
+flight crew obtain latest Met. briefing prior to departure
+
+of flight as per laid down procedures.
+
+2. All operators may advise their pilots to assess the
+weather before take off to avoid the possibility of
+
+entering into severe weather conditions.
+
+See
+Mumbai (Subhash Chander)
+Date : 25.6.98 Inspector of Accidents
+28
+
+CABIN FIRE EXINGUISHER
+
+PORTION OF WING SURFACE SHOWING 'NO STEP’
+
+PIECES OF FLOOR BOARD AND A PORTION OF
+
+AVIONICS BAY PANEL
+
+PIECES OF FLOOR BOARDS AND SOUND PROOFING
+MATERIAL
+
+SEAT CUSHION AND SOUND PROOFING MATERIAL
+
+PORTION OF COURIER MAIL
+
