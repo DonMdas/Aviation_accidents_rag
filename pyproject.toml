@@ -9,6 +9,7 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.13",
+    "langchain-google-genai>=4.2.0",
     "langchain-text-splitters>=1.1.0",
     "pymupdf>=1.27.1",
     "python-dotenv>=1.2.1",
