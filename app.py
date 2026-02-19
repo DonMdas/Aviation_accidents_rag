@@ -336,12 +336,10 @@ def initialize_resources():
     return vectorstore, bm25, bm25_docs, cross_encoder, embedding_model
 
 
-@st.cache_resource(show_spinner=False)
 def initialize_llm(provider: str, model_name: str, num_predict: int, num_ctx: int):
     """
-    Cached per (provider, model, num_predict, num_ctx).
-    Re-creates only the LLM when generation settings change — no need to
-    reload vectorstore, BM25, or cross-encoder.
+    Creates a new LLM instance. Not cached — these are lightweight API client
+    objects (no model download), so re-creation on param change is cheap.
     """
     from langchain_community.llms import Ollama
     from langchain_google_genai import ChatGoogleGenerativeAI
