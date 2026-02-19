@@ -26,6 +26,7 @@ from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.llms import Ollama
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
@@ -62,28 +63,40 @@ DATA_DIR = "./data"
 PERSIST_DIR = "./vector_db"
 REGISTRY_FILE = "./doc_registry.json"
 EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "BAAI/bge-base-en-v1.5")
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "ollama").strip().lower()
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "phi4-mini:latest")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+GOOGLE_MODEL = os.getenv("GOOGLE_MODEL", "gemma-3-27b-it")
 
 RERANK_TOP_K = int(os.getenv("RERANK_TOP_K", "4"))
 DENSE_K = int(os.getenv("DENSE_K", "15"))
 BM25_K = int(os.getenv("BM25_K", "15"))
+LLM_NUM_PREDICT = int(os.getenv("LLM_NUM_PREDICT", "512"))
+LLM_NUM_CTX = int(os.getenv("LLM_NUM_CTX", "8192"))
+
+# Chunking
+CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "800"))
+CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", "100"))
+EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "500"))
 
 # Minimum extractable characters per page to consider a PDF "digital"
-MIN_CHARS_PER_PAGE = 50
-
-
+MIN_CHARS_PER_PAGE = int(os.getenv("MIN_CHARS_PER_PAGE", "50"))
 
 # Approximate token budget for context (leave room for prompt + answer).
-# Mistral context window ~8k tokens; reserve ~3k for prompt + answer.
 MAX_CONTEXT_TOKENS = int(os.getenv("MAX_CONTEXT_TOKENS", "5000"))
-
 AVG_CHARS_PER_TOKEN = 4  # rough estimate
 
-# Cross-encoder confidence threshold: below this, consider the doc irrelevant.
+# Cross-encoder
+CROSS_ENCODER_MODEL = os.getenv("CROSS_ENCODER_MODEL", "cross-encoder/ms-marco-MiniLM-L-6-v2")
 CONFIDENCE_THRESHOLD = float(os.getenv("CONFIDENCE_THRESHOLD", "-5.0"))
-  # ms-marco scores; tune to your use case
 
-# HyDE toggle — reads "true"/"false" from env, defaults to True 
+# Source-weighted context assembly
+# Ratio above which a single source is considered "dominant"
+DOMINANCE_THRESHOLD = float(os.getenv("DOMINANCE_THRESHOLD", "0.5"))
+# Minimum slots always reserved for non-dominant sources (diversity guarantee)
+MIN_SECONDARY_SLOTS = int(os.getenv("MIN_SECONDARY_SLOTS", "1"))
+
+# HyDE toggle — reads "true"/"false" from env, defaults to True
 HYDE_ENABLED = os.getenv("HYDE_ENABLED", "true").strip().lower() == "true"
 
 # BM25 stopwords (simple English set — extend as needed)
@@ -365,16 +378,14 @@ new_docs = get_new_documents()
 
 if new_docs:
     logger.info(f"Embedding {len(new_docs)} new/changed documents...")
-    splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
     splits = splitter.split_documents(new_docs)
 
     try:
-        BATCH_SIZE = 500  # safe number
-
-        for i in range(0, len(splits), BATCH_SIZE):
-            batch = splits[i:i+BATCH_SIZE]
+        for i in range(0, len(splits), EMBED_BATCH_SIZE):
+            batch = splits[i:i+EMBED_BATCH_SIZE]
             vectorstore.add_documents(batch)
-            logger.info(f"Added batch {i//BATCH_SIZE + 1}")
+            logger.info(f"Added batch {i//EMBED_BATCH_SIZE + 1}")
         # NOTE: No vectorstore.persist() — Chroma auto-persists in v0.4+  (Fix #2)
         logger.info("Vector DB updated.")
         build_bm25_index()
@@ -422,8 +433,8 @@ def bm25_retrieve(query: str, k: int = BM25_K) -> List[Document]:
 # ==========================================================
 
 try:
-    cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
-    logger.info("Cross-encoder loaded.")
+    cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL)
+    logger.info(f"Cross-encoder loaded: {CROSS_ENCODER_MODEL}")
 except Exception as e:
     logger.warning(f"Cross-encoder load failed: {e}")
     cross_encoder = None
@@ -431,10 +442,19 @@ except Exception as e:
 
 def source_weighted_context(reranked_docs: List[Document], scores: List[float], top_k: int = RERANK_TOP_K) -> List[Document]:
     """
-    If one source dominates the top results, allocate more slots to it.
-    Single-appearance sources are used only as last resort fallback.
+    Allocate context slots with source-diversity awareness.
+    Docs within each tier stay in rerank-score order (already sorted by rerank()).
+
+    Logic:
+      - If one source exceeds DOMINANCE_THRESHOLD of the pool → give it most
+        slots but always reserve MIN_SECONDARY_SLOTS for other sources.
+      - Otherwise → split slots roughly evenly (slight edge to top source).
+      - If either tier is underfilled, remaining slots spill to the other.
     """
     from collections import Counter
+
+    if not reranked_docs:
+        return []
 
     source_counts = Counter(doc.metadata.get("source", "unknown") for doc in reranked_docs)
     total = len(reranked_docs)
@@ -443,36 +463,35 @@ def source_weighted_context(reranked_docs: List[Document], scores: List[float], 
 
     logger.info(f"Dominant source: {dominant_source} ({dominant_count}/{total} chunks, ratio={dominance_ratio:.2f})")
 
-    if dominance_ratio > 0.5:
-        primary_slots = top_k - 1
-        secondary_slots = 1
+    if dominance_ratio > DOMINANCE_THRESHOLD:
+        secondary_slots = max(MIN_SECONDARY_SLOTS, 1)
+        primary_slots = top_k - secondary_slots
     else:
-        primary_slots = top_k // 2
-        secondary_slots = top_k // 2
+        primary_slots = (top_k + 1) // 2   # slight edge to dominant
+        secondary_slots = top_k - primary_slots
 
-    # Split into three tiers
+    # Docs are already in rerank-score order from rerank()
     primary_docs = [doc for doc in reranked_docs
                     if doc.metadata.get("source") == dominant_source]
+    other_docs = [doc for doc in reranked_docs
+                  if doc.metadata.get("source") != dominant_source]
 
-    secondary_docs = [doc for doc in reranked_docs
-                      if doc.metadata.get("source") != dominant_source
-                      and source_counts[doc.metadata.get("source")] > 1]  # multi-chunk sources only
+    selected_primary = primary_docs[:primary_slots]
+    selected_secondary = other_docs[:secondary_slots]
 
-    fallback_docs = [doc for doc in reranked_docs
-                     if doc.metadata.get("source") != dominant_source
-                     and source_counts[doc.metadata.get("source")] == 1]  # single-appearance sources
+    # Spillover: if either tier is underfilled, give leftover slots to the other
+    remaining = top_k - len(selected_primary) - len(selected_secondary)
+    if remaining > 0:
+        unused_primary = primary_docs[len(selected_primary):]
+        unused_secondary = other_docs[len(selected_secondary):]
+        extras = (unused_secondary + unused_primary)[:remaining]
+        selected_secondary += extras
+        logger.info(f"Spillover: filled {len(extras)} extra slot(s) from remaining pool.")
 
-    # Fill secondary slots — prefer multi-chunk sources, fall back to single-appearance
-    secondary_selected = secondary_docs[:secondary_slots]
-    if len(secondary_selected) < secondary_slots:
-        remaining = secondary_slots - len(secondary_selected)
-        secondary_selected += fallback_docs[:remaining]
-        logger.info(f"Used {remaining} fallback (single-appearance) chunk(s) to fill secondary slots.")
+    selected = selected_primary + selected_secondary
 
-    selected = primary_docs[:primary_slots] + secondary_selected
-
-    logger.info(f"Context assembly: {len(primary_docs[:primary_slots])} chunks from dominant source + "
-                f"{len(secondary_selected)} from others.")
+    logger.info(f"Context assembly: {len(selected_primary)} dominant + "
+                f"{len(selected_secondary)} other = {len(selected)} chunks.")
 
     return selected
 
@@ -546,15 +565,49 @@ def build_context(docs: List[Document], max_tokens: int = MAX_CONTEXT_TOKENS) ->
     return "\n\n".join(parts)
 
 # ==========================================================
-# OLLAMA MODEL
+# LLM INITIALISATION  (supports ollama | google)
 # ==========================================================
 
-try:
-    llm = Ollama(model=OLLAMA_MODEL)
-    logger.info(f"LLM loaded: {OLLAMA_MODEL}")
-except Exception as e:
-    logger.critical(f"Ollama load failed: {e}")
-    raise SystemExit("LLM failed to initialize.")
+def _build_llm():
+    """Return a LangChain-compatible LLM based on LLM_PROVIDER."""
+    if LLM_PROVIDER == "ollama":
+        try:
+            _llm = Ollama(
+                model=OLLAMA_MODEL,
+                num_predict=LLM_NUM_PREDICT,
+                num_ctx=LLM_NUM_CTX,
+            )
+            logger.info(f"LLM loaded (Ollama): {OLLAMA_MODEL}")
+            return _llm
+        except Exception as e:
+            logger.critical(f"Ollama load failed: {e}")
+            raise SystemExit("LLM failed to initialize.")
+
+    elif LLM_PROVIDER == "google":
+        if not GOOGLE_API_KEY:
+            raise SystemExit(
+                "GOOGLE_API_KEY is not set. "
+                "Add it to your .env file to use the Google provider."
+            )
+        try:
+            _llm = ChatGoogleGenerativeAI(
+                model=GOOGLE_MODEL,
+                google_api_key=GOOGLE_API_KEY,
+                max_output_tokens=LLM_NUM_PREDICT,
+            )
+            logger.info(f"LLM loaded (Google): {GOOGLE_MODEL}")
+            return _llm
+        except Exception as e:
+            logger.critical(f"Google GenAI load failed: {e}")
+            raise SystemExit("LLM failed to initialize.")
+
+    else:
+        raise SystemExit(
+            f"Unknown LLM_PROVIDER='{LLM_PROVIDER}'. "
+            f"Supported values: ollama, google"
+        )
+
+llm = _build_llm()
 
 # ==========================================================
 # HyDE MODULE  (Fix #1 — triggered by should_use_hyde)
@@ -660,7 +713,7 @@ def production_rag(question: str) -> str:
 # ==========================================================
 
 if __name__ == "__main__":
-    question = "what info was retrieved from the cockpit recordings in the mangalore crash"
+    question = "Exactly how far from the runway axis was the tree that the left wing collided with 2014 Air India VT-ESH accident in Jaipur "
     answer = production_rag(question)
     print("\nFINAL ANSWER:\n")
     print(answer)
