@@ -428,6 +428,56 @@ except Exception as e:
     logger.warning(f"Cross-encoder load failed: {e}")
     cross_encoder = None
 
+
+def source_weighted_context(reranked_docs: List[Document], scores: List[float], top_k: int = RERANK_TOP_K) -> List[Document]:
+    """
+    If one source dominates the top results, allocate more slots to it.
+    Single-appearance sources are used only as last resort fallback.
+    """
+    from collections import Counter
+
+    source_counts = Counter(doc.metadata.get("source", "unknown") for doc in reranked_docs)
+    total = len(reranked_docs)
+    dominant_source, dominant_count = source_counts.most_common(1)[0]
+    dominance_ratio = dominant_count / total
+
+    logger.info(f"Dominant source: {dominant_source} ({dominant_count}/{total} chunks, ratio={dominance_ratio:.2f})")
+
+    if dominance_ratio > 0.5:
+        primary_slots = top_k - 1
+        secondary_slots = 1
+    else:
+        primary_slots = top_k // 2
+        secondary_slots = top_k // 2
+
+    # Split into three tiers
+    primary_docs = [doc for doc in reranked_docs
+                    if doc.metadata.get("source") == dominant_source]
+
+    secondary_docs = [doc for doc in reranked_docs
+                      if doc.metadata.get("source") != dominant_source
+                      and source_counts[doc.metadata.get("source")] > 1]  # multi-chunk sources only
+
+    fallback_docs = [doc for doc in reranked_docs
+                     if doc.metadata.get("source") != dominant_source
+                     and source_counts[doc.metadata.get("source")] == 1]  # single-appearance sources
+
+    # Fill secondary slots — prefer multi-chunk sources, fall back to single-appearance
+    secondary_selected = secondary_docs[:secondary_slots]
+    if len(secondary_selected) < secondary_slots:
+        remaining = secondary_slots - len(secondary_selected)
+        secondary_selected += fallback_docs[:remaining]
+        logger.info(f"Used {remaining} fallback (single-appearance) chunk(s) to fill secondary slots.")
+
+    selected = primary_docs[:primary_slots] + secondary_selected
+
+    logger.info(f"Context assembly: {len(primary_docs[:primary_slots])} chunks from dominant source + "
+                f"{len(secondary_selected)} from others.")
+
+    return selected
+
+
+
 def rerank(question: str, docs: List[Document], top_k: int = RERANK_TOP_K):
     """
     Returns (reranked_docs, scores) for the top_k results.
@@ -586,28 +636,24 @@ def production_rag(question: str) -> str:
 
     use_hyde = should_use_hyde(question)
     retrieved = hybrid_retrieve(question, use_hyde=use_hyde)
-
     reranked, scores = rerank(question, retrieved)
 
-    # Fix #8: bail out if confidence threshold filtered everything
     if not reranked:
         return "I don't have enough information to answer that."
 
-    # Fix #6: respect context window budget
-    context = build_context(reranked)
+    # Use source-weighted context instead of raw reranked
+    weighted = source_weighted_context(reranked, scores, top_k=RERANK_TOP_K)
+    context = build_context(weighted)
 
-    top_score_str = f"{scores[0]:.3f}" if scores and scores[0] is not None else "N/A"
-
-    logger.info(
-    f"Sending {len(reranked)} chunks to LLM (top score: {top_score_str})."
-)
-
+    top_score_str = f"{scores[0]:.3f}" if scores[0] is not None else "N/A"
+    logger.info(f"Sending {len(weighted)} chunks to LLM (top score: {top_score_str}).")
 
     try:
         return rag_chain.invoke({"context": context, "question": question})
     except Exception as e:
         logger.error(f"LLM generation failed: {e}")
         return "Model failed to generate a response."
+    
 
 # ==========================================================
 # RUN
