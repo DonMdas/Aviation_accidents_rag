@@ -1,0 +1,12 @@
+# Model Settings
+OLLAMA_MODEL=llama3.1:latest
+EMBEDDING_MODEL_NAME=BAAI/bge-base-en-v1.5
+
+# HyDE Settings
+HYDE_ENABLED=false
+
+# Retrieval Settings
+DENSE_K=25
+BM25_K=25   
+RERANK_TOP_K=6
+CONFIDENCE_THRESHOLD=-5.0
